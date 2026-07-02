@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kerala PSC Pharmacist Quiz</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#1e3a8a">
+</head>
+<body>
+
+    <header class="app-header">
+        <div class="header-main">
+            <button id="global-back-btn" class="icon-btn hidden" onclick="app.navigateBack()">⬅</button>
+            <h1 id="app-title">KPSC Pharmacist Quiz</h1>
+            <button id="theme-toggle" class="icon-btn" onclick="app.toggleTheme()">🌙</button>
+        </div>
+    </header>
+
+    <main class="container">
+        
+        <section id="view-home" class="view">
+            <div class="dashboard-banner">
+                <h2>Welcome Back, Aspirant!</h2>
+                <p>Boost your preparation with offline practice sets.</p>
+            </div>
+            
+            <div class="quick-actions">
+                <button class="action-card" onclick="app.switchView('view-favorites')">⭐ <span>Favorites</span></button>
+                <button class="action-card" onclick="app.switchView('view-search')">🔍 <span>Search</span></button>
+                <button class="action-card" onclick="app.switchView('view-progress')">📊 <span>Progress</span></button>
+            </div>
+
+            <h3 class="section-title">📚 Study & Practice Parts</h3>
+            <div id="parts-grid" class="grid-layout"></div>
+        </section>
+
+        <section id="view-modes" class="view hidden">
+            <div class="card card-hero">
+                <h2 id="selected-part-title">Part X Options</h2>
+                <p>Select a learning pattern to start your session.</p>
+            </div>
+            <div class="modes-stack">
+                <button class="mode-btn" onclick="app.startQuiz('practice_all')">📝 Practice All Questions</button>
+                <button class="mode-btn" onclick="app.startQuiz('quick')">⚡ Quick Test (10 Qs)</button>
+                <button class="mode-btn" onclick="app.startQuiz('standard')">🎯 Practice Test (25 Qs)</button>
+                <button class="mode-btn" onclick="app.startQuiz('mock')">🏆 Mock Test (50 Qs)</button>
+            </div>
+        </section>
+
+        <section id="view-quiz" class="view hidden">
+            <div class="quiz-progress-container">
+                <div class="progress-meta">
+                    <span id="quiz-q-counter">Question 1 / 10</span>
+                    <button id="fav-toggle-btn" class="fav-star-btn">☆ Bookmark</button>
+                </div>
+                <div class="progress-bar-bg">
+                    <div id="quiz-progress-fill" class="progress-bar-fill"></div>
+                </div>
+            </div>
+
+            <div class="card question-card">
+                <p id="quiz-question-text" class="question-text">Question content goes here?</p>
+                <div id="quiz-options-container" class="options-grid"></div>
+            </div>
+
+            <div id="quiz-feedback-box" class="card feedback-card hidden">
+                <h4 id="feedback-title">Correct!</h4>
+                <p id="quiz-explanation-text">Explanation goes here...</p>
+            </div>
+
+            <div class="quiz-nav-controls">
+                <button id="quiz-prev-btn" class="nav-btn secondary" onclick="app.prevQuestion()">Previous</button>
+                <button id="quiz-next-btn" class="nav-btn primary" onclick="app.nextQuestion()">Next</button>
+            </div>
+        </section>
+
+        <section id="view-results" class="view hidden">
+            <div class="card result-card">
+                <h2>Quiz Summary</h2>
+                <div class="radial-score-box">
+                    <span id="res-percentage">0%</span>
+                    <p id="res-score-ratio">Score: 0 / 0</p>
+                </div>
+                <div class="stat-breakdown">
+                    <div class="stat-item correct">✔️ Correct: <span id="res-correct-count">0</span></div>
+                    <div class="stat-item wrong">❌ Wrong: <span id="res-wrong-count">0</span></div>
+                </div>
+            </div>
+            <div class="modes-stack">
+                <button class="mode-btn primary" onclick="app.retryCurrentQuiz()">🔄 Retry Quiz</button>
+                <button id="review-errors-btn" class="mode-btn secondary" onclick="app.startErrorReview()">🧐 Review Wrong Answers</button>
+                <button class="mode-btn link" onclick="app.switchView('view-home')">🏠 Return Home</button>
+            </div>
+        </section>
+
+        <section id="view-favorites" class="view hidden">
+            <h3>⭐ Your Bookmarked Questions</h3>
+            <div id="favorites-list" class="questions-list-wrapper"></div>
+        </section>
+
+        <section id="view-search" class="view hidden">
+            <div class="search-bar-container">
+                <input type="text" id="search-input" placeholder="Search key pharma concepts or questions..." oninput="app.executeSearch()">
+            </div>
+            <div id="search-results-output" class="questions-list-wrapper"></div>
+        </section>
+
+        <section id="view-progress" class="view hidden">
+            <h3>📊 Your Preparation Metrics</h3>
+            <div class="card metrics-card">
+                <div class="metric-row">Overall Topics Touched: <strong id="metrics-parts-touched">0 / 20</strong></div>
+                <div class="metric-row">Highest Recorded Score: <strong id="metrics-max-score">0%</strong></div>
+            </div>
+            <div id="progress-parts-breakdown" class="progress-breakdown-list"></div>
+        </section>
+
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
