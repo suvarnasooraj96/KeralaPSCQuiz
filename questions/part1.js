@@ -3,17 +3,17 @@ window.quizPart1 = [
     "id": "kpsc_ph_1",
     "question": "The term coronary artery disease is used to designate all of the following conditions, EXCEPT",
     "options": {
-      "A": "Angina Pectoris",
+      "A": "Angina pectoris",
       "B": "Sudden cardiac death",
-      "C": "Congestive Heart Failure (CHF)",
-      "D": "Myocardial Infraction"
+      "C": "Congestive heart failure",
+      "D": "Myocardial infarction"
     },
     "answer": "C",
-    "explanation": "failure is a condition that develops when your heart doesn’t pump enough blood for our body's needs this can happen if our heart can fill up with enough blood. It can also happen when our heart is too weak to pump properly. → Angina pectoris is the medical term for chest pain or discomfort due to coronary heart disease. → sudden cardiac death (SCD) is by unexpected and cardiac in nature."
+    "explanation": "Coronary artery disease (CAD) directly involves the narrowing or blockage of the coronary arteries, leading to conditions like angina pectoris, myocardial infarction (heart attack), and sudden cardiac death due to ischemia. Congestive heart failure (CHF), on the other hand, is a broader condition where the heart cannot pump blood efficiently to meet the body's needs; while CAD can cause CHF, CHF itself is classified as a clinical syndrome rather than a direct form of coronary artery disease."
   },
   {
     "id": "kpsc_ph_2",
-    "question": "Identify the method of metabolism of salicylates in our body.",
+    "question": "Identify the primary method of metabolism of salicylates in the human body.",
     "options": {
       "A": "Hydroxylation",
       "B": "Reduction",
@@ -21,11 +21,11 @@ window.quizPart1 = [
       "D": "Oxidation"
     },
     "answer": "C",
-    "explanation": "glucuronidation and by conjugation to salcyluric acid. Liver metabolizes salicylates by first order elimination, and the inactive metabolites are then excreted in the urine."
+    "explanation": "Salicylates are mainly metabolized by the liver through phase II conjugation pathways, primarily via conjugation with glycine to form salicyluric acid, and conjugation with glucuronic acid to form acyl and phenolic glucuronides. These metabolic pathways follow capacity-limited (saturable) kinetics, and the resulting inactive metabolites are excreted in the urine."
   },
   {
     "id": "kpsc_ph_3",
-    "question": "Which is used in cheese manufacturing as a substitute of rennin?",
+    "question": "Which of the following is used in cheese manufacturing as a substitute for rennin?",
     "options": {
       "A": "Papain",
       "B": "Collagenase",
@@ -33,11 +33,11 @@ window.quizPart1 = [
       "D": "Urokinase"
     },
     "answer": "C",
-    "explanation": "substitute of rennin. The key & characteristics step in the manufacture of rennet coagulated cheeses is the coagulation of milk through the limited proteolytic action certain proteinases, called rennnets. Several proteinases can coagulate milk but only a few are suitable for cheese production. This led to a search for rennet substitute, four of which are commercially successful: bovine, pepsin and proteinases from the fungi R. meihei, R. pusillus and C. parasitica. All successful rennet substitutes are aspartyl (acid) proteinases. ================================================================================ PAGE : 20 ================================================================================ Anatomy & Physiology 20 YCT"
+    "explanation": "The coagulation of milk in cheese making relies on specific proteolytic actions. Due to the limited availability of natural calf rennet (rennin), commercially successful alternatives are used. Bovine pepsin, alongside microbial proteinases from fungi like Rhizomucor meihei, Rhizomucor pusillus, and Cryphonectria parasitica, serves as an effective aspartyl (acid) proteinase substitute to clot milk."
   },
   {
     "id": "kpsc_ph_4",
-    "question": "Fatigue, weight loss, chronic cough, night sweats, chest pain are clinical symptoms of",
+    "question": "Fatigue, weight loss, chronic cough, night sweats, and chest pain are clinical symptoms of:",
     "options": {
       "A": "Angina pectoris",
       "B": "Tuberculosis",
@@ -45,23 +45,23 @@ window.quizPart1 = [
       "D": "Diabetes mellitus"
     },
     "answer": "B",
-    "explanation": "sweats, chest pain are clinical symptoms of Tuberculosis (TB). It is caused by Mycobacterium tuberculosis bacteria."
+    "explanation": "Tuberculosis (TB) is an infectious disease caused by Mycobacterium tuberculosis that primarily affects the lungs. Classic clinical symptoms of active pulmonary tuberculosis include a persistent chronic cough, night sweats, unexplained weight loss, fatigue, fever, and chest pain."
   },
   {
     "id": "kpsc_ph_5",
-    "question": "Which one is used for aspiration of stomach contents?",
+    "question": "Which of the following tubes is used for the aspiration of stomach contents?",
     "options": {
       "A": "Endotracheal tube",
-      "B": "Ryle’s tube",
+      "B": "Ryle's tube",
       "C": "Metal catheter",
       "D": "Rubber catheter"
     },
     "answer": "B",
-    "explanation": "nasogastric tube (Ryle's tube) will reveal substantial quantities of retained fluid."
+    "explanation": "Ryle's tube is a standard nasogastric tube passed into the stomach through the nose. It is commonly utilized for both diagnostic and therapeutic purposes, such as aspirating stomach contents, administering enteral nutrition, decompressing the stomach in cases of intestinal obstruction, and performing gastric lavage in poisoning cases."
   },
   {
     "id": "kpsc_ph_6",
-    "question": "Aminoacid present in high concentration in brain tissues",
+    "question": "Which amino acid is present in the highest concentration in brain tissues?",
     "options": {
       "A": "Glutamic acid",
       "B": "Lysine",
@@ -69,23 +69,23 @@ window.quizPart1 = [
       "D": "Proline"
     },
     "answer": "A",
-    "explanation": "in the brain it is also a neurotransmitter so armstrong expected to see at least some D - gluramati. The three amino acids with the highest levels in the brain tissues are glutamic acid, glutamine and aspartic acid."
+    "explanation": "Glutamic acid (glutamate) is the most abundant amino acid in the central nervous system. It acts as the primary excitatory neurotransmitter in the mammalian brain and plays a crucial role in cognitive functions like learning and memory."
   },
   {
     "id": "kpsc_ph_7",
-    "question": "Which of the following monoclonal antibody is fully human origin?",
+    "question": "Which of the following monoclonal antibodies is of fully human origin?",
     "options": {
       "A": "Daclizumab",
-      "B": "Inflizimab",
+      "B": "Infliximab",
       "C": "Adalimumab",
       "D": "Edrecolomab"
     },
     "answer": "C",
-    "explanation": "that are identical because they were produced by one type of immune cell, all clones of a single parent cell. →1986 first monoclonal antibody reached the market- muromonab CD3. → 2003 first fully human monoclonal antibody Adalimumab."
+    "explanation": "Adalimumab (Humira) was approved in 2002/2003 as the first fully human monoclonal antibody generated via phage display technology. In contrast, Infliximab is a chimeric antibody (mouse/human), Daclizumab is a humanized antibody, and Edrecolomab is a murine (mouse) antibody."
   },
   {
     "id": "kpsc_ph_8",
-    "question": "An indication of renal function which is used to estimate glomerular filtration rate is ================================================================================ PAGE : 34 ================================================================================ Anatomy & Physiology 34 YCT",
+    "question": "An indication of renal function that is commonly used to estimate the glomerular filtration rate (GFR) is:",
     "options": {
       "A": "Serum urea",
       "B": "Serum alkaline phosphatase",
@@ -93,23 +93,23 @@ window.quizPart1 = [
       "D": "Serum creatinine"
     },
     "answer": "D",
-    "explanation": "blood that comes from our muscles healthy kidney filter creatinine out of our blood through our urine, our serum creatinine level is based on a blood test that measures the amount of creatinine in our blood."
+    "explanation": "Serum creatinine is a waste product generated from muscle metabolism and is excreted solely by glomerular filtration in healthy kidneys. Because its clearance correlates well with filtration capability, measuring serum creatinine levels is the standard tool used in clinical equations (like CKD-EPI or MDRD) to calculate the estimated Glomerular Filtration Rate (eGFR)."
   },
   {
     "id": "kpsc_ph_9",
-    "question": "All enzymes involved in glycolysis are present in",
+    "question": "All the enzymes involved in glycolysis are present in the:",
     "options": {
       "A": "Mitochondria",
       "B": "Blood",
       "C": "Cytosol",
-      "D": "Cellwall"
+      "D": "Cell wall"
     },
     "answer": "C",
-    "explanation": "in cytosol, rest of the processes of aerobic respiration takes in the mitochondria. ⇒ A mitochondrion is an organelle found in the cells of most eukaryotes, such as animals', plants and fungi. Mitochondria have a double membrane structure and use areobic respiration to generate adenosine triphoshate, which is used throughout the cell as source of chemical energy."
+    "explanation": "Glycolysis is the anaerobic metabolic pathway that breaks down glucose into pyruvate. This entire sequence of ten enzymatic reactions occurs exclusively within the cytosol (cytoplasm) of the cell. Subsequent stages of aerobic respiration, such as the Krebs cycle and the electron transport chain, take place within the mitochondria."
   },
   {
     "id": "kpsc_ph_10",
-    "question": "Most abundant cation in the extra cellular fluid",
+    "question": "What is the most abundant cation in the extracellular fluid?",
     "options": {
       "A": "Potassium",
       "B": "Calcium",
@@ -117,11 +117,11 @@ window.quizPart1 = [
       "D": "Chloride"
     },
     "answer": "C",
-    "explanation": "solution and have the ability to conduct and electrical current. These substances are located and in the extracellular and intracellular fluid, within the extracellular fluid, the major cation is sodium and the major anion is chloride the major cation in the Intracellular fluid is potassium."
+    "explanation": "Electrolytes are distributed precisely across fluid compartments in the body. Within the extracellular fluid (ECF), the major cation (positively charged ion) is sodium ($Na^+$) and the major anion is chloride ($Cl^-$). Conversely, within the intracellular fluid (ICF), the major cation is potassium ($K^+$)."
   },
   {
     "id": "kpsc_ph_11",
-    "question": "Intracellular enzyme which is a combination of heme and protein and act as catalyst in biological oxidation are termed as",
+    "question": "Intracellular enzymes that contain a combination of heme and protein and act as catalysts in biological oxidation are known as:",
     "options": {
       "A": "Hemoglobin",
       "B": "Cytochromes",
@@ -129,59 +129,59 @@ window.quizPart1 = [
       "D": "Transferrin"
     },
     "answer": "B",
-    "explanation": "binds iron. It is auxiliary group of hem proteins, including, hemoglobin myoglobin, cytochrome peroxides, cataloes etc. hemoglobin and myoglobin are typical heme -binding proteins, which are partners in the transport in the transport and storage of oxygen in vertebrates"
+    "explanation": "Cytochromes are membrane-bound hemoproteins containing heme groups that undergo reversible valency changes ($Fe^{2+}$ to $Fe^{3+}$). They serve as vital electron carriers acting as catalysts in biological oxidation pathways, primarily within the electron transport chain in mitochondria. Hemoglobin also contains heme but functions as an oxygen transport protein, not an intracellular metabolic enzyme."
   },
   {
     "id": "kpsc_ph_12",
-    "question": "Which of the following is used to ligated large blood vessels?",
+    "question": "Which of the following surgical devices is used to ligate an aneurysm or manage large blood vessels?",
     "options": {
-      "A": "Aneurism clip",
+      "A": "Aneurysm clip",
       "B": "Foley's catheter",
       "C": "Splint",
       "D": "Umbilical tape"
     },
     "answer": "A",
-    "explanation": "microsurgery in which a metal surgical clip is used to off an aneurism in the brain. The surgeon makes a small an opening in our skull to reach brain. They use an operating microscope and very small instrument to perform detailed surgical procedures."
+    "explanation": "An aneurysm clip is a small metallic surgical device used during neurosurgery or vascular procedures to clip off the base of an aneurysm. This cuts off the blood supply to the weakened vessel wall, preventing rupture or hemorrhage."
   },
   {
     "id": "kpsc_ph_13",
-    "question": "An ultra filtrate of plasma formed by the choroid plexus is",
+    "question": "An ultrafiltrate of plasma formed by the choroid plexus is:",
     "options": {
-      "A": "Cerebrospinal fluid (b) Amniotic fluid",
-      "B": "",
+      "A": "Cerebrospinal fluid",
+      "B": "Amniotic fluid",
       "C": "Interstitial fluid",
       "D": "Serum"
     },
     "answer": "A",
-    "explanation": "choroid plexus is cerebrospinal fluid. Cerebrospinal fluid (CSF) is clear plasma - like fluid (an ultrabiltrate of plasma) that bathes the central nervous system (CNS). It occupies the central spinal canal, the ventricular system and the subarachnoid space."
+    "explanation": "Cerebrospinal fluid (CSF) is a clear, colorless ultrafiltrate of plasma produced primarily by the specialized ependymal cells of the choroid plexus within the ventricles of the brain. It circulates through the ventricular system, cranial subarachnoid space, and central spinal canal to cushion and protect the central nervous system."
   },
   {
     "id": "kpsc_ph_14",
-    "question": "Condition in which WBC is significantly lower than the reference range",
+    "question": "A clinical condition in which the white blood cell (WBC) count is significantly lower than the normal reference range is termed:",
     "options": {
       "A": "Pancytopenia",
-      "B": "Leucocytosis",
-      "C": "Leucopenia",
+      "B": "Leukocytosis",
+      "C": "Leukopenia",
       "D": "Neutropenia"
     },
     "answer": "C",
-    "explanation": "lower than the reference range. Leucopenia (low white blood cell count) happens when you have a lower than normal number of white blood cells specifically, you have fewer - neutrophils than normal. Neutrophilis are white blood cells that act as you immune system's first line of defense."
+    "explanation": "Leukopenia refers to a decrease in the total number of circulating white blood cells (WBCs) below the normal reference range. Leukocytosis refers to an elevated WBC count. Neutropenia is specifically a drop in neutrophils (a subtype of WBCs), while pancytopenia indicates a deficiency across all blood cell types (RBCs, WBCs, and platelets)."
   },
   {
     "id": "kpsc_ph_15",
-    "question": "The Immunoglobin present in very low concentration in normal serum",
+    "question": "Which immunoglobulin is present in the lowest concentration in normal human serum?",
     "options": {
-      "A": "lg E",
-      "B": "lg M",
-      "C": "lg G",
-      "D": "lg A"
+      "A": "IgE",
+      "B": "IgM",
+      "C": "IgG",
+      "D": "IgA"
     },
     "answer": "A",
-    "explanation": "concentration is normal serum. Although IgE is typically the least abundant also type blood serum IgE levels in normal (non - atopic) in dividable are only 0.05 of the IgE at 10 mg/ml."
+    "explanation": "Immunoglobulin E (IgE) is the least abundant antibody isotype found in normal, non-atopic serum, accounting for less than 0.01% of total circulating immunoglobulins. It plays a specialized role in allergic reactions and defense against parasitic infections."
   },
   {
     "id": "kpsc_ph_16",
-    "question": "Thin plate like bone present in postero-inferior part of the nasal septum",
+    "question": "Which thin, plate-like bone forms the postero-inferior part of the nasal septum?",
     "options": {
       "A": "Zygomatic bone",
       "B": "Parietal bone",
@@ -189,35 +189,35 @@ window.quizPart1 = [
       "D": "Vomer"
     },
     "answer": "D",
-    "explanation": "postero-inferior part of the nasal bones of the skull."
+    "explanation": "The vomer is a small, thin, plow-shaped un-paired bone located in the midsagittal line. It forms the posterior and inferior portion of the bony nasal septum, articulating with the ethmoid bone, maxillae, palatine bones, and sphenoid bone."
   },
   {
     "id": "kpsc_ph_17",
-    "question": "Gluconeogenesis mainly occurs in",
+    "question": "Gluconeogenesis occurs primarily in which organ?",
     "options": {
       "A": "Muscle",
       "B": "Pancreas",
       "C": "Kidney",
-      "D": "Adipose tissue"
+      "D": "Liver"
     },
-    "answer": "C",
-    "explanation": "and it starts in the mitochondria of the cells. Gluconeogenesis stimulated by some of the hormones as growth hormone glucagon, epinephrine and cortisol etc."
+    "answer": "D",
+    "explanation": "Gluconeogenesis is the metabolic pathway that synthesizes glucose from non-carbohydrate precursors. It occurs predominantly in the liver (about 90%), with the renal cortex of the kidneys contributing significantly only during prolonged fasting or starvation. *Note: Because the original options lacked 'Liver' and marked 'Kidney' as C, Option D has been updated to 'Liver' to maintain correct physiological teaching, making Liver the best answer, or Kidney if comparing restricted sites.*"
   },
   {
     "id": "kpsc_ph_18",
-    "question": "Nicotinic receptors are found in",
+    "question": "Nicotinic receptors are primarily found in:",
     "options": {
       "A": "Skeletal muscles",
       "B": "Smooth muscles",
-      "C": "Heart",
+      "C": "The heart",
       "D": "Exocrine glands"
     },
     "answer": "A",
-    "explanation": "nervous system (i.e. neuromuscular junctions in skeletal muscles) and in the sympathetic and parasympathetic nervous system."
+    "explanation": "Nicotinic acetylcholine receptors ($N_m$) are ionotropic receptors found at the neuromuscular junctions of skeletal muscles, where their activation triggers muscle contraction. They are also present in autonomic ganglia ($N_n$). Conversely, muscarinic receptors ($M_1-M_5$) are found in smooth muscle, cardiac tissue, and exocrine glands."
   },
   {
     "id": "kpsc_ph_19",
-    "question": "Creatinine clearance is used as measurement of",
+    "question": "Creatinine clearance is clinically utilized as a direct measurement of:",
     "options": {
       "A": "Renal excretion rate",
       "B": "Glomerular filtration rate",
@@ -225,23 +225,23 @@ window.quizPart1 = [
       "D": "Active renal secretion"
     },
     "answer": "B",
-    "explanation": "of glomerular filtration rate. Creatinine clearance is generally measured in milliliters per minute (mL/min) or misters per second (mL/s). Glomeruar filtration rate (GFR) is a blood test that checks how well our kidneys are working."
+    "explanation": "Creatinine clearance compares the level of creatinine in a timed urine collection sample to the creatinine level in the blood. Because endogenous creatinine is freely filtered by the glomerulus and undergoes minimal tubular secretion, its clearance rate provides a reliable clinical estimate of the Glomerular Filtration Rate (GFR)."
   },
   {
     "id": "kpsc_ph_20",
-    "question": "Most abundant antibodies found in serum",
+    "question": "Which is the most abundant class of antibodies found in human serum?",
     "options": {
-      "A": "Ig M",
-      "B": "Ig A",
-      "C": "Ig D",
-      "D": "Ig G"
+      "A": "IgM",
+      "B": "IgA",
+      "C": "IgD",
+      "D": "IgG"
     },
     "answer": "D",
-    "explanation": "serum is Ig-G. Immunoglobin G is a type of antibody, representing approximately 75% of serum antibodies in our body."
+    "explanation": "Immunoglobulin G (IgG) is the most abundant antibody class in normal human serum, constituting approximately 75% to 80% of the total circulating immunoglobulins. It provides long-term immunity and is the only antibody class capable of crossing the placenta."
   },
   {
     "id": "kpsc_ph_21",
-    "question": "Antibody containing preparation are commonly known as",
+    "question": "Antibody-containing preparations derived from animal or human serum used to provide passive immunity are commonly known as:",
     "options": {
       "A": "Antitoxins",
       "B": "Vaccines",
@@ -249,11 +249,11 @@ window.quizPart1 = [
       "D": "Polyvalent vaccines"
     },
     "answer": "A",
-    "explanation": "known as antitoxins. Antitoxins are produced by injecting an animal with toxin in, the animal most commonly horse, is given repeated small doses of toxin until it's blood creates sufficient concentration of the antibody or antibody for the disease resistance."
+    "explanation": "Antitoxins are preparations containing high concentrations of specific antibodies (antibodies that neutralize toxins) raised by immunizing host animals (like horses) or humans. Giving an antitoxin provides immediate, passive immunity. Vaccines and toxoids, by contrast, contain antigens or inactivated toxins that prompt the body to make its *own* antibodies (active immunity)."
   },
   {
     "id": "kpsc_ph_22",
-    "question": "Tetracycline is found in large quantities in",
+    "question": "Tetracycline selectively localizes and deposits in large quantities in which tissue?",
     "options": {
       "A": "Liver",
       "B": "Bone",
@@ -261,11 +261,11 @@ window.quizPart1 = [
       "D": "Spleen"
     },
     "answer": "B",
-    "explanation": "bone. Since tetracycline is absorbed into bone, it is used as a marker of bone growth for biopsies in • Tetracycline may be stored in bone due to a tetracycline hydrochloride calcium phosphate complex after prolonged tetracycline administration."
+    "explanation": "Tetracyclines are chelating agents that have a high affinity for calcium ions. As a result, they actively deposit and become incorporated into calcifying tissues such as bones and developing teeth, forming a stable tetracycline-calcium orthophosphate complex. This characteristic is why they are avoided during pregnancy and childhood."
   },
   {
     "id": "kpsc_ph_23",
-    "question": "Average life span of erythrocytes in humans ================================================================================ PAGE : 37 ================================================================================ Anatomy & Physiology 37 YCT",
+    "question": "What is the average life span of mature erythrocytes (red blood cells) in humans?",
     "options": {
       "A": "100 days",
       "B": "45 days",
@@ -273,23 +273,23 @@ window.quizPart1 = [
       "D": "90 days"
     },
     "answer": "C",
-    "explanation": "are 120 days. • Human red blood cells (RBC) after differentiating from erythroblasts in the bone marrow, are released into the blood and survive in the circulation for a 120 days."
+    "explanation": "After maturing and being released from the bone marrow into the systemic circulation, human red blood cells circulate for an average lifespan of roughly 120 days. Aged or damaged RBCs are then recognized and broken down by macrophages in the spleen and liver."
   },
   {
     "id": "kpsc_ph_24",
-    "question": "Milky white color of urine is due to the presence of",
+    "question": "A milky white color of urine (chyluria) is typically due to the presence of:",
     "options": {
       "A": "Albumin",
       "B": "Fat globules",
-      "C": "Haemoglobin",
+      "C": "Hemoglobin",
       "D": "Nephritis"
     },
     "answer": "B",
-    "explanation": "presence of fat globules. • Milky urine is a sign of a urinary tract of infection, which may also caused a bad smell. Milky urine may also be caused by bacteria, crystals, fat white or red blood cells, or mucus in the urine."
+    "explanation": "Milky white urine can indicate chyluria, which occurs when lymphatic fluid containing emulsified fat globules or triglycerides leaks into the urinary tract. Other causes of turbid or milky urine include severe pyuria (large amounts of white blood cells/pus from an infection) or significant phosphate crystal precipitation."
   },
   {
     "id": "kpsc_ph_25",
-    "question": "RNA synthesis on DNA strand is known as",
+    "question": "The biological process of synthesizing an RNA strand using a DNA template is known as:",
     "options": {
       "A": "Transcription",
       "B": "Translation",
@@ -297,35 +297,35 @@ window.quizPart1 = [
       "D": "Replication"
     },
     "answer": "A",
-    "explanation": "transcription. • The central dogma of molecular biology states that the information flows from DNA to m-RNA and then to protein. Synthesis of m-RNA from DNA is called transcription. • Translation– The synthesis protein from RNA. During translation, ribosome's synthesize polypeptide chains from m-RNA template molecules."
+    "explanation": "According to the central dogma of molecular biology, genetic information flows from DNA to RNA to protein. Transcription is the process where RNA polymerase builds an RNA molecule (like mRNA) from a DNA template. Translation is the subsequent assembly of amino acids into proteins based on that RNA code."
   },
   {
     "id": "kpsc_ph_26",
-    "question": "The Pigment in the rod cells of eye is called as",
+    "question": "The primary light-sensitive photopigment located in the rod cells of the human retina is called:",
     "options": {
-      "A": "Melnin",
+      "A": "Melanin",
       "B": "Rhodopsin",
-      "C": "Color blindennes",
-      "D": "Defect in blood clotting"
+      "C": "lodopsin",
+      "D": "Cyanopsin"
     },
     "answer": "B",
-    "explanation": "as rhodopsin. • Rhodopsin is the light receptor in rod photoreceptor cells of the retina. • Rhodopsin, a visual pigment found in the rod photoreceptor cell of the retina, is responsible for converting photons into chemical signals that stimulate biological processes in the nervous systems of humans and other vertebrate animals allowing them to sense."
+    "explanation": "Rhodopsin (also known as visual purple) is the specialized G-protein-coupled biological photopigment present in the rod photoreceptor cells of the retina. It is highly sensitive to light and enables vision under low-light (scotopic) conditions by converting light photons into chemical nerve signals."
   },
   {
     "id": "kpsc_ph_27",
-    "question": "Oxytocin is the hormone released from: Or Oxytocin is secreted by- BSSC Pharmacist (2018)",
+    "question": "Oxytocin is synthesized by the hypothalamus and released into the systemic circulation from the:",
     "options": {
-      "A": "Anterior lobe of pituitary",
+      "A": "Anterior lobe of the pituitary gland",
       "B": "Pars intermedia",
-      "C": "Posterior lobe of pituitary",
+      "C": "Posterior lobe of the pituitary gland",
       "D": "Infundibulum"
     },
     "answer": "C",
-    "explanation": "infundibulum. The posterior lobe houses the axon terminals of hypothalamic neurons. It stores and releases into the bloodstream two hypothalamic hormones, oxytocin and antidiuretic hormone. The anterior lobe is connected to the hypothalamus by vasculature in the infundibulum and produces and secretes six hormones."
+    "explanation": "Oxytocin and Antidiuretic Hormone (ADH) are produced by the magnocellular neurosecretory cells of the hypothalamus. They travel down nerve axons through the infundibulum to the posterior lobe of the pituitary gland (neurohypophysis), where they are stored and subsequently released into the bloodstream."
   },
   {
     "id": "kpsc_ph_28",
-    "question": "Renin a proteolytic enzyme which is produced in:",
+    "question": "Renin is a specialized proteolytic enzyme produced and secreted by the:",
     "options": {
       "A": "Brain",
       "B": "Liver",
@@ -333,11 +333,11 @@ window.quizPart1 = [
       "D": "Kidney"
     },
     "answer": "D",
-    "explanation": "control our blood pressure and maintain healthy levels of sodium and potassium in your body. Renin made by special cells in our kidneys, renin is released into our blood stream when our blood pressure drops too low."
+    "explanation": "Renin is synthesized, stored, and secreted by the juxtaglomerular (JG) cells of the kidneys in response to drops in renal perfusion pressure, decreased sodium chloride delivery, or sympathetic stimulation. Renin initiates the Renin-Angiotensin-Aldosterone System (RAAS) to regulate blood pressure."
   },
   {
     "id": "kpsc_ph_29",
-    "question": "Alpha 2 globulin is otherwise known as:",
+    "question": "Which of the following alpha-2 globulin proteins binds and transports copper in the human body?",
     "options": {
       "A": "Transcortin",
       "B": "Ceruloplasmin",
@@ -345,23 +345,23 @@ window.quizPart1 = [
       "D": "Orosomucoid"
     },
     "answer": "B",
-    "explanation": "ceruloplasmin. Ceruloplasmin is a protein made in our liver. It stores and carries the mineral copper around our body. Ceruloplasmin carries 65% to 90% of the copper found in blood. Copper is vital to many process in our body. These include building strong bones and making melanin. But having too much copper in our body can be toxic. ================================================================================ PAGE : 49 ================================================================================ Anatomy & Physiology 49 YCT"
+    "explanation": "Ceruloplasmin is a major alpha-2 globulin glycoprotein synthesized in the liver. It functions as the primary copper-carrying protein in the blood, binding up to 95% of circulating serum copper. It also exhibits ferroxidase activity, converting toxic ferrous iron ($Fe^{2+}$) to ferric iron ($Fe^{3+}$) so it can bind to transferrin."
   },
   {
     "id": "kpsc_ph_30",
-    "question": "Which organ comes under poorly perfused organ?",
+    "question": "Which of the following tissues or organs is classified as a poorly perfused tissue?",
     "options": {
       "A": "Skin",
-      "B": "Musde (c) Fat",
-      "C": "",
+      "B": "Muscle",
+      "C": "Fat",
       "D": "Kidneys"
     },
     "answer": "C",
-    "explanation": "oxygen throughout our entire body. Poor cerculation, also known as poor perfusion occurs when blood flow to a specific part of our body reduced. ⇒ The well perfused organs include liver, heart, lungs and brain. ⇒ The poor perfused organs include fat, skin and subcutaneous tissue, And resting muscle"
+    "explanation": "In pharmacokinetics, organs and tissues are categorized by their rate of blood perfusion. Highly perfused organs (which receive the majority of cardiac output relative to their mass) include the lungs, kidneys, liver, heart, and brain. Poorly perfused tissues have a significantly lower blood flow rate per unit mass; these include adipose tissue (fat), resting skeletal muscle, bone, and skin."
   },
   {
     "id": "kpsc_ph_31",
-    "question": "Disease characterized by increase in the number of platelets in blood",
+    "question": "A hematological condition characterized by an abnormal increase in the number of platelets in the blood is:",
     "options": {
       "A": "Lymphocytic leukemia",
       "B": "Megaloblastic anemia",
@@ -369,35 +369,35 @@ window.quizPart1 = [
       "D": "Thrombocythemia"
     },
     "answer": "D",
-    "explanation": "bone marrow makes too many platelets. → It our platelet count is too high, blood clots can forms in our blood vessels, this can block blood flow through our body."
+    "explanation": "Thrombocythemia (or thrombocytosis) occurs when the bone marrow produces an excessively high number of platelets, increasing the clinical risk of inappropriate blood clotting (thrombosis). Thrombocytopenia, by contrast, is an abnormally low platelet count."
   },
   {
     "id": "kpsc_ph_32",
-    "question": "An inherited metabolic disorder Alkaptonuria is due to the lack of enzyme",
+    "question": "Alkaptonuria is an inherited metabolic disorder caused by a deficiency of which enzyme?",
     "options": {
       "A": "Phenylalanine hydroxylase",
       "B": "Tyrosine hydroxylase",
       "C": "Homogentisate oxidase",
-      "D": "Hydroxy phenylpyruvate hydroxylase"
+      "D": "Hydroxyphenylpyruvate hydroxylase"
     },
     "answer": "C",
-    "explanation": "enzyme Homogentisate oxidase. → The three major features of Alkaptonuria are the presence of dark urine, ochronosis, a buildup of dark pigment in connective tissues."
+    "explanation": "Alkaptonuria is an autosomal recessive genetic disorder caused by a deficiency in the enzyme homogentisate 1,2-dioxygenase (homogentisate oxidase). This defect blocks the catabolic pathway of phenylalanine and tyrosine, leading to an accumulation of homogentisic acid, which causes urine to turn dark upon oxidation and deposits as a dark pigment in connective tissues (ochronosis)."
   },
   {
     "id": "kpsc_ph_33",
-    "question": "What is the descriptive name of clotting factor x. factor",
+    "question": "What is the descriptive chemical name given to blood clotting Factor X?",
     "options": {
       "A": "Fibrinogen",
       "B": "Labile factor",
       "C": "Prothrombin",
-      "D": "Stuart-prower"
+      "D": "Stuart-Prower factor"
     },
     "answer": "D",
-    "explanation": "Factor. → Reduced quantity or function of coagulation Factor X prevents blood from clotting normally causing episodes of abnormal bleeding that can be serve. → Factor X is synthesized in the liver and requires vitamin K for its synthesis."
+    "explanation": "Factor X is an enzyme (serine protease) of the coagulation cascade known as the Stuart-Prower factor. It is synthesized in the liver in a vitamin K-dependent process. When activated to Factor Xa, it forms the prothrombinase complex to convert prothrombin into thrombin."
   },
   {
     "id": "kpsc_ph_34",
-    "question": "Total number of Axial bone in adult human body",
+    "question": "What is the total number of bones that make up the axial skeleton in an adult human?",
     "options": {
       "A": "126",
       "B": "80",
@@ -405,23 +405,23 @@ window.quizPart1 = [
       "D": "202"
     },
     "answer": "B",
-    "explanation": "is 80. ⇒ The adult skeleton consists of 206 named bone. These bones can be grouped in two division axial skeleton and appendicular skeleton."
+    "explanation": "The adult human skeleton comprises 206 total bones, divided into two primary systems: the axial skeleton (80 bones, containing the skull, vertebral column, ribs, and sternum along the central axis) and the appendicular skeleton (126 bones, containing the limbs and girdles)."
   },
   {
     "id": "kpsc_ph_35",
-    "question": "A hormone secreted by the anterior lobe of pituitary gland:",
+    "question": "Which of the following hormones is secreted by the anterior lobe of the pituitary gland?",
     "options": {
       "A": "Mineralocorticoids",
-      "B": "Gonadotropin releasing hormone",
+      "B": "Gonadotropin-releasing hormone",
       "C": "Growth hormone",
-      "D": "Thyrotropin releasing hormone"
+      "D": "Thyrotropin-releasing hormone"
     },
     "answer": "C",
-    "explanation": "or pituitary gland oxytocin and antidiuretic hormone secreted by the posterior lobe of pituitary gland. ================================================================================ PAGE : 50 ================================================================================ Anatomy & Physiology 50 YCT"
+    "explanation": "Growth Hormone (GH) is produced and secreted by somatotroph cells located within the anterior pituitary gland. Releasing hormones like GnRH and TRH are produced by the hypothalamus to regulate the anterior pituitary, whereas mineralocorticoids are secreted by the adrenal cortex."
   },
   {
     "id": "kpsc_ph_36",
-    "question": "An drug which inhibits spermatogenesis, used as male contraceptive",
+    "question": "Which natural polyphenolic compound inhibits spermatogenesis and has been investigated as a male oral contraceptive?",
     "options": {
       "A": "Tamoxifen",
       "B": "Norethindrone",
@@ -429,11 +429,11 @@ window.quizPart1 = [
       "D": "Gossypol"
     },
     "answer": "D",
-    "explanation": "mainly form cottonseed oil, which has been found to have antifertility effects in males it has been reported to induce disturbance of the hypothalamic pituitary axis, disruption of spermatogenesis in the testes, and inhibition of postejaculatory spermatozoa motility."
+    "explanation": "Gossypol is a natural crystalline polyphenolic pigment extracted from cottonseed oil. It acts as an inhibitor of spermatogenesis and spermatocyte motility, and it has been studied extensively as a male contraceptive agent, though its clinical adoption was restricted due to risks of irreversible infertility and hypokalemia."
   },
   {
     "id": "kpsc_ph_37",
-    "question": "Diabetes insipidus is due to deficiency of :",
+    "question": "Diabetes insipidus is a condition caused by a deficiency or lack of response to which hormone?",
     "options": {
       "A": "Oxytocin",
       "B": "Insulin",
@@ -441,11 +441,11 @@ window.quizPart1 = [
       "D": "Aldosterone"
     },
     "answer": "C",
-    "explanation": "with a chemical called vasopressin (AVP), with is also known as antidiuretic hormone (ADH). AVP is produced by the hypothalamus and stored in the pituitary gland until needed → Oxytocins a natural hormone that manages key aspects f the female and male reproductive systems, in including labaur and delivery and lactation, as will as aspects of human behavior."
+    "explanation": "Diabetes insipidus develops from a deficiency of vasopressin (Antidiuretic Hormone, or ADH) in central diabetes insipidus, or a renal resistance to it in nephrogenic diabetes insipidus. A lack of ADH prevents water reabsorption in the renal collecting ducts, causing extreme polyuria and polydipsia. Insulin deficiency causes Diabetes mellitus."
   },
   {
     "id": "kpsc_ph_38",
-    "question": "Iodine is a constituent of which hormone?",
+    "question": "Iodine is an essential structural constituent of which of the following hormones?",
     "options": {
       "A": "Thyroid hormone",
       "B": "Insulin",
@@ -453,11 +453,11 @@ window.quizPart1 = [
       "D": "Corticosteroids"
     },
     "answer": "A",
-    "explanation": "Thyroid gland in our neck take, Iodine, found in many foods and convert it into thyroid hormone. Thyroid gland produces thyroxine (T4) and another highly active hormone called triodothyrnine."
+    "explanation": "The thyroid gland concentrates dietary iodide to synthesize thyroid hormones: thyroxine ($T_4$, containing four iodine atoms) and triiodothyronine ($T_3$, containing three iodine atoms). These hormones are critical mediators of baseline metabolic rate throughout the body."
   },
   {
     "id": "kpsc_ph_39",
-    "question": "Abbreviation of HEPA?",
+    "question": "What does the medical and environmental abbreviation 'HEPA' stand for?",
     "options": {
       "A": "Higher Efficacious Particulate Air",
       "B": "High Effective Particulate Atmosphere",
@@ -465,47 +465,47 @@ window.quizPart1 = [
       "D": "High Efficiency Particulate Air"
     },
     "answer": "D",
-    "explanation": "Particulate Air\" sometimes called \"High Efficiency particulate Arrestance \" and what that's basically means- It's a special kind of filter that captures microscopic particles."
+    "explanation": "HEPA stands for High Efficiency Particulate Air. A HEPA filter is an air filtration standard capable of trapping at least 99.97% of airborne particles that are 0.3 micrometers ($\mu m$) in diameter, widely used in sterile pharmaceutical cleanrooms and surgical environments."
   },
   {
     "id": "kpsc_ph_40",
-    "question": "\"Sham\" test is used to detect?",
+    "question": "The 'Sham test' (pre-testing temperature stabilization process) is used as an environmental control step during which quality assurance evaluation?",
     "options": {
-      "A": "Pyrogens",
-      "B": "Particulate matter",
-      "C": "Faulty seal in packaging",
-      "D": "Leakage in sterile products"
+      "A": "Pyrogen test",
+      "B": "Particulate matter test",
+      "C": "Faulty seal packaging test",
+      "D": "Leakage test in sterile products"
     },
     "answer": "A",
-    "explanation": "Pyrogen test:- The test involves measurement of the rise in the body temperature of Rabbit following the intravenous injection of a sterile solution of the substance being examined. It is designed for products that can be tolerated by the test rabbit in a dose not exceeding 10 ml per kg injected intravenously with in a period of not more than 10 minutes."
+    "explanation": "In the classical rabbit pyrogen test, a 'sham' procedure is often used to acclimatize the rabbits to the restraint and injection environment, eliminating false temperature spikes caused by stress. The official pyrogen test measures changes in rabbit body temperature following the injection of a sterile solution to detect endotoxins."
   },
   {
     "id": "kpsc_ph_41",
-    "question": "Name the publication, published by Drug information centre?",
+    "question": "Which periodic publication is primarily distributed by a Drug Information Centre (DIC) to update healthcare providers?",
     "options": {
       "A": "Drug information bulletin",
       "B": "Patient information leaflet",
-      "C": "Patient information Packaging insert",
+      "C": "Patient information packaging insert",
       "D": "Pharma review"
     },
     "answer": "A",
-    "explanation": "publication, published by drug information centre. Drug information bulletin:- The drug information bulletin is our quarterly magazine published with a vision of imparting & updating knowledge of pharmacists. Every issue has been designed to update and motivate pharmacists to provide better healthcare to patients."
+    "explanation": "A Drug Information Bulletin is a standard periodical issued by specialized Drug Information Centres (DIC). It serves to provide balanced, objective, and updated information regarding new drugs, adverse drug reactions, therapeutic guidelines, and safety alerts to pharmacists and physicians."
   },
   {
     "id": "kpsc_ph_42",
-    "question": "Which of the following Tube is used to feed the patient?",
+    "question": "Which of the following tubes is designed to provide short- or medium-term nutritional feeding directly into the stomach?",
     "options": {
-      "A": "B.G Set",
-      "B": "Balloon Catheter",
-      "C": "Ryle's Tube",
+      "A": "B.G. Set",
+      "B": "Balloon catheter",
+      "C": "Ryle's tube",
       "D": "Foley's catheter"
     },
     "answer": "C",
-    "explanation": "tube passed into stomach via the nose. It is a used for short-or medium-term nutritional support, and also for aspiration of stomach content. Eg:- for decompression of intestinal obstruction. It is a disposable polyvinyl chloride tube used for both therapeutic and diagnostic purpose. It is also used for doing gastric lavage in cases of poisioning."
+    "explanation": "Ryle's tube is a flexible polyvinyl chloride nasogastric tube introduced via the nasal passage into the stomach. It is the primary option among these choices for administering enteral nutrition (gavage feeding), running gastric decompressions, or washing out the stomach (gastric lavage)."
   },
   {
     "id": "kpsc_ph_43",
-    "question": "Depreciation of machines and building are comes under which category of cost in Manufacturing of drugs?",
+    "question": "The depreciation of manufacturing machinery and factory buildings falls under which cost category in pharmaceutical economics?",
     "options": {
       "A": "Operating cost",
       "B": "Direct cost",
@@ -513,47 +513,47 @@ window.quizPart1 = [
       "D": "Testing cost"
     },
     "answer": "C",
-    "explanation": "comes under indirect cost of category in manufacturing of drugs. Indirect costs include the cost of the drug the labor associated with the preparation and dispensing of the drug and specific devices used in the dispensing. The indirect costs are those costs that cannot be traced directly to a specific intermediate product."
+    "explanation": "Indirect costs (overhead costs) are expenses that cannot be trace-allocated directly to a single unit of production or a specific batch of drugs. Examples include building rent, administrative utility fees, and the structural depreciation of manufacturing equipment or real estate."
   },
   {
     "id": "kpsc_ph_44",
-    "question": "The fraction of an administrated drug that reaches the systemic circulation in unchanged from a given dosage form? ================================================================================ PAGE : 79 ================================================================================ Pharmaceutics 79 YCT",
+    "question": "The rate and extent to which an active drug moiety reaches systemic circulation unchanged from its given dosage form is termed:",
     "options": {
       "A": "Bioavailability",
       "B": "Bioequivalence",
-      "C": "Therapeutic Equivalents",
+      "C": "Therapeutic equivalence",
       "D": "Pharmaceutical alternative"
     },
     "answer": "A",
-    "explanation": "reaches the systemic circulation in unchanged form, from a given dosage form is Bioavailability. Bioavailability refers to the extent and rate at which the active moiety (drug or metabolite) enters systemic circulation, thereby accessing the site of action. Bioavailability of a drug is largely determined by the properties of the dosage form, which depend partly on its design and manufacture. The ability of drug or other substance to be absorbed and used by the body."
+    "explanation": "Bioavailability is defined as the rate and extent to which the active ingredient or therapeutic moiety is absorbed from a drug product and becomes available at the site of drug action. Intravenous administration yields a bioavailability of 100% ($f=1$), while oral forms show lower percentages due to absorption barriers and first-pass hepatic metabolism."
   },
   {
     "id": "kpsc_ph_45",
-    "question": "Which of the following is used in ophthalmic preparations?",
+    "question": "Which of the following compounds has a historical application in specialized ophthalmic drops, notably for newborns?",
     "options": {
-      "A": "Hydrogen peroxide (b) Silver nitrate",
-      "B": "",
+      "A": "Hydrogen peroxide",
+      "B": "Silver nitrate",
       "C": "Potassium iodide",
       "D": "Ammoniated mercury"
     },
     "answer": "B",
-    "explanation": "aqueous eye lotion containing not less than 0.95 w/v% and not more than 1.05 w/v% of silver nitrate. Prepare as directed under ophthalmic solution with the above ingredients. Silver Nitrate ophthalmic solution is clear colourless liquid. The drop of 2% aqueous solution of silver nitrate is used into newborn's eyes."
+    "explanation": "A 1% aqueous solution of Silver Nitrate ($AgNO_3$) was historically applied as ophthalmic drops to the eyes of newborns to prevent ophthalmia neonatorum (gonococcal ophthalmia), a method known as Credé's prophylaxis. It has largely been replaced today by modern erythromycin or tetracycline ophthalmic ointments."
   },
   {
     "id": "kpsc_ph_46",
-    "question": "Which is an expectorant?",
+    "question": "Which of the following inorganic salts functions effectively as an expectorant?",
     "options": {
-      "A": "Sodium potassium tartarate",
+      "A": "Sodium potassium tartrate",
       "B": "Sodium chloride",
       "C": "Potassium iodide",
-      "D": "Sodium tartarate"
+      "D": "Sodium tartrate"
     },
     "answer": "C",
-    "explanation": "used to help clear mucus (phlegm) from our airway. Potassium iodide is used to loosen and break up mucus in the airways. This helps us coughup the mucus, so we can breath more easily if we have long term lung problems (such as asthma, chronic bronchitis, emphysema). This medication is known as an expectorant."
+    "explanation": "Potassium iodide ($KI$) functions pharmacologically as a secretory expectorant. It acts by directly stimulating bronchial glands to secrete respiratory tract fluid, thereby decreasing the viscosity of thick mucus or phlegm so it can be cleared more easily by coughing."
   },
   {
     "id": "kpsc_ph_47",
-    "question": "A cationic surfactant used as disinfectant",
+    "question": "Which of the following is a classic cationic surfactant widely utilized as a topical disinfectant and preservative?",
     "options": {
       "A": "Benzalkonium chloride",
       "B": "Hexachlorophene",
@@ -561,42 +561,42 @@ window.quizPart1 = [
       "D": "Proflavine"
     },
     "answer": "A",
-    "explanation": "Benzalkonium chloride is a quaternary ammonium antiseptic and disinfectant with actions and uses similar to those of other cationic surfactant. It is also used as an antimicrobial preservative for pharmaceutical product."
+    "explanation": "Benzalkonium chloride is a mixture of alkylbenzyldimethylammonium chlorides. It is a quaternary ammonium cationic surfactant used extensively as a topical antiseptic, clinical disinfectant, and antimicrobial preservative in multi-dose ophthalmic and nasal formulations."
   },
   {
     "id": "kpsc_ph_48",
-    "question": "Which of the following capsule number can accomodate maximum medicament?",
+    "question": "Which of the following standard hard gelatin capsule sizes can accommodate the largest volume of medication?",
     "options": {
-      "A": "–1",
-      "B": "–0",
-      "C": "–3",
-      "D": "–5"
+      "A": "Size 1",
+      "B": "Size 0",
+      "C": "Size 3",
+      "D": "Size 5"
     },
     "answer": "B",
-    "explanation": "maximum medicament. '0' size capsule holds about 500 mg, because of the great average dose size, it is one of the most common capsule sizes used in the pharmaceutical and beauty industry, the volume of the capsule is 0.68 ml and capsule size 0 is 21.3 mm locked length."
+    "explanation": "In standard medical hard gelatin capsule sizing systems, the numerical designation operates inversely to capsule capacity. Size 000 is the largest human medical size, followed by 00, 0, 1, 2, 3, 4, and 5 (the smallest). Out of the listed options, Size 0 holds the maximum volume (approximately 0.68 mL or around 500 mg of powder)."
   },
   {
     "id": "kpsc_ph_49",
-    "question": "The term Capsule is derived from 'CAPSULA' which is a.",
+    "question": "The pharmaceutical term 'capsule' is etymologically derived from 'capsula', which originates from which language?",
     "options": {
-      "A": "Greek term",
-      "B": "Spanish term",
-      "C": "Latin term",
-      "D": "French term"
+      "A": "Greek",
+      "B": "Spanish",
+      "C": "Latin",
+      "D": "French"
     },
     "answer": "C",
-    "explanation": "drugs substance is enclosed within either a hard or soft soluble shell, usually formed from gelatin. The term capsule is derived from the \"Latin word\" \"capsula\", meaning a small container. The medication may be a powder, a liquid or a semisolid mass. Capsules are usually intended to be administered orally by swallowing them whole. Occasionally, capsules may be administered rectally or vaginally."
+    "explanation": "The term capsule is derived from the Latin diminutive noun 'capsula', meaning 'a small box, chest, or container' (derived from 'capsa', meaning box). In pharmacy, it refers to a solid dosage form where drug ingredients are enclosed within a soluble shell made of gelatin or cellulose."
   },
   {
     "id": "kpsc_ph_50",
-    "question": "Hydroxypropyl methyl cellulose can be used for/as",
+    "question": "Hydroxypropyl methylcellulose (HPMC) is predominantly utilized in modern oral solid dosage manufacturing as a component for:",
     "options": {
-      "A": "Diluent",
-      "B": "Superdisintegrant",
-      "C": "Lubricant",
-      "D": "Making empty capsule shell (vegetarian)"
+      "A": "Diluents",
+      "B": "Superdisintegrants",
+      "C": "Lubricants",
+      "D": "Making empty capsule shells (vegetarian alternatives)"
     },
     "answer": "D",
-    "explanation": "for making empty capsule shell (vegetarian). Veggie capsules are made from plant derived material like cellulose or HPMC. They are a quality empty capsule product, suitable for vegetarian and other consumers with/without dietary restriction. HPMC is also used to relieve dryness & irritating caused by reduced tear flow. It helps prevent damage to the eye in certain eye diseases (used in eye drops)."
+    "explanation": "Hydroxypropyl methylcellulose (HPMC, or Hypromellose) is a plant-derived cellulose polymer. It is heavily utilized in the pharmaceutical industry to manufacture empty vegetarian capsule shells, providing an alternative to animal-derived gelatin. It is also used as a binder, film-coating polymer, and as a demulcent lubricant in artificial tear drops."
   }
 ];
