@@ -1,19 +1,19 @@
 window.quizPart14 = [
   {
     "id": "kpsc_ph_651",
-    "question": "Example of narcotic drug",
+    "question": "Which of the following is legally classified as an example of a narcotic drug?",
     "options": {
       "A": "Cannabis leaves without tops",
       "B": "Coca leaf without ecgonine",
-      "C": "Popy seed",
+      "C": "Poppy seed",
       "D": "None of the above"
     },
     "answer": "D",
-    "explanation": "which may be morphine, codeine, natural alkaloids of opium. Other narcotic agents also include methamphetamine, cocaine etc. Therefore given options in the question are not the examples of narcotic drug."
+    "explanation": "Official narcotic drugs under standard drug regulations include substances like morphine, codeine, and heroin. Raw poppy seeds, isolated leaves without flowering tops, or decocainized coca leaves are exempt from strict statutory narcotic definitions."
   },
   {
     "id": "kpsc_ph_652",
-    "question": "Drug used in the diagnosis of Myasthenia gravis",
+    "question": "Which drug is primarily used in the diagnostic Tensilon test for Myasthenia gravis?",
     "options": {
       "A": "Edrophonium",
       "B": "Physostigmine",
@@ -21,23 +21,23 @@ window.quizPart14 = [
       "D": "None of the above"
     },
     "answer": "A",
-    "explanation": "cholinesterase inhibitor. It is used to help diagnose myasthenia gravis. myasthenia gravis is the condition of severe muscle weakness."
+    "explanation": "Edrophonium is a very short-acting acetylcholinesterase inhibitor. Because its effects appear quickly and fade within minutes, it is used diagnostic tool to rapidly assess muscle tone improvement in suspected myasthenia gravis patients."
   },
   {
     "id": "kpsc_ph_653",
-    "question": "Non-aqueous oily vehicle used in parenteral depot formulations ?",
+    "question": "Which non-aqueous oily vehicle is commonly used to prepare long-acting parenteral depot formulations?",
     "options": {
       "A": "Arachis oil",
       "B": "Ethyl alcohol",
       "C": "Propylene glycol",
-      "D": "Glycerine"
+      "D": "Glycerin"
     },
     "answer": "A",
-    "explanation": "arachis oil is a vegetable oil. Arachis oils are generally used a non-aqueous oily vehicle used in parenteral depot formulation."
+    "explanation": "Arachis oil (peanut oil) is a stable vegetable oil used as a non-aqueous oily vehicle in intramuscular depot injections to slow down drug absorption and prolong its action."
   },
   {
     "id": "kpsc_ph_654",
-    "question": "The water soluble chemical constituent of ergot is",
+    "question": "The water-soluble chemical alkaloid constituent isolated from Ergot is:",
     "options": {
       "A": "Ergotamine",
       "B": "Ergotoxine",
@@ -45,23 +45,23 @@ window.quizPart14 = [
       "D": "Ergosine"
     },
     "answer": "C",
-    "explanation": "a crystalline, water- soluble base obtained from ergot. Ergometrine is a ergot alkaloid used for the treatment of postpartum hemorrhage and post abortion hemorrhage in patients with uterine atony."
+    "explanation": "Ergometrine (ergonovine) is a water-soluble ergot alkaloid. Unlike water-insoluble ergotamine, it is highly polar and is clinically used to manage postpartum hemorrhage due to its quick oxytocic action."
   },
   {
     "id": "kpsc_ph_655",
-    "question": "Irregular lumps in which modular masses are embedded is the microscopic character of",
+    "question": "Irregular lumps in which small nodular masses are embedded is the diagnostic macroscopic character of:",
     "options": {
-      "A": "Curaco Aloe",
+      "A": "Curacao Aloe",
       "B": "Cape Aloe",
       "C": "Socotrine Aloe",
       "D": "Zanzibar Aloe"
     },
     "answer": "D",
-    "explanation": "attractive succulent with long stems. At microscopic level it appears in it the irregular lumps, in which modular masses are embedded."
+    "explanation": "Zanzibar aloe typically appears in commerce as irregular, liver-brown masses or lumps containing distinct embedded nodular fragments."
   },
   {
     "id": "kpsc_ph_656",
-    "question": "Purgative action of aloe is due to",
+    "question": "The primary anthraquinone component responsible for the stimulant purgative action of Aloe is:",
     "options": {
       "A": "Barbaloin",
       "B": "Aloesin",
@@ -69,11 +69,11 @@ window.quizPart14 = [
       "D": "Aloe-emodin"
     },
     "answer": "D",
-    "explanation": "compound aloe- emoidin. It is formed by the aloin, which metabolized by the colonic flora present in the intestine. Aloe- emodin is the main component responsible for the purgative activity of aloe- Vera. Note- The Commission has accepted answer (b) is correct."
+    "explanation": "Aloin/Barbaloin is cleaved and metabolized by human colonic microflora to yield free aloe-emodin anthrones, which stimulate intestinal peristalsis. Note: Some competitive examinations list B as the official key due to source misprints."
   },
   {
     "id": "kpsc_ph_657",
-    "question": "Legal test is the identification test for",
+    "question": "The Legal test is an identity confirmation reaction used for which class of crude drugs?",
     "options": {
       "A": "Digitalis",
       "B": "Senna",
@@ -81,23 +81,23 @@ window.quizPart14 = [
       "D": "Dioscorea"
     },
     "answer": "A",
-    "explanation": "digitalis. Digitalis, drug is obtained from the dried leaves of the common foxglove (Digitalis purpurea) and used in medicine to treat certain heart conditions. Digitalis toxicity can be a side effect of digitalis therapy."
+    "explanation": "The Legal test uses sodium nitroprusside in alkaline media to identify the presence of the active 5-membered cardenolide lactone ring present in cardiotonic digitalis glycosides."
   },
   {
     "id": "kpsc_ph_658",
-    "question": "Saffrole is the chemical constituent present in",
+    "question": "Safrole is an aromatic volatile chemical constituent notably present in:",
     "options": {
       "A": "Saffron",
       "B": "Nutmeg",
-      "C": "Boswella",
+      "C": "Boswellia",
       "D": "Senna"
     },
     "answer": "B",
-    "explanation": "several plants including black pepper. cinnamon and nutmeg."
+    "explanation": "Safrole is a volatile phenylpropene compound found naturally within the essential oil fractions of nutmeg, sassafras, and black pepper."
   },
   {
     "id": "kpsc_ph_659",
-    "question": "Chemical constituent of Nuxvomica which is a dog poison",
+    "question": "Which highly toxic principal alkaloid constituent of Nux vomica is historically known as a classic canine poison?",
     "options": {
       "A": "Strychnine",
       "B": "Vomicine",
@@ -105,11 +105,11 @@ window.quizPart14 = [
       "D": "Colubrine"
     },
     "answer": "A",
-    "explanation": "Nuxvomica which is a dog poison. Dogs, who ingest nux vomica can experience strychnine poisoning, which results in painful muscle spasms, vomiting, stiffness, seizures and asphyxiation. Note- The Commission has accepted answer (c) is correct. ================================================================================ PAGE : 602 ================================================================================ Pharmacognosy 602 YCT"
+    "explanation": "Strychnine is a powerful central nervous system stimulant isolated from Strychnos nux-vomica. It acts as a glycine receptor antagonist, causing severe spinal convulsions. Note: Certain exam boards incorrectly list C as the answer key."
   },
   {
     "id": "kpsc_ph_660",
-    "question": "Hydnocarpus oil is the synonym of",
+    "question": "Hydnocarpus oil is the recognized pharmaceutical synonym for:",
     "options": {
       "A": "Chaulmoogra oil",
       "B": "Linseed oil",
@@ -117,23 +117,23 @@ window.quizPart14 = [
       "D": "Arachis oil"
     },
     "answer": "A",
-    "explanation": "chaulmoogra oil. Hydoncarpus wightianus or chaulmoogra is a tree in the Achariaceae family. Hydnocarpus seed oil has been widely used in traditional Indian medicine for the treatment of leprosy."
+    "explanation": "Chaulmoogra oil is expressed from the seeds of Hydnocarpus wightianus and contains cyclic fatty acids like chaulmoogric acid, historically used to treat leprosy."
   },
   {
     "id": "kpsc_ph_661",
-    "question": "The following compounds are used as binders and adhesives except :",
+    "question": "The following pharmaceutical excipients are used as tablet binders and adhesives EXCEPT:",
     "options": {
       "A": "Acacia",
       "B": "Starch",
       "C": "Stearic acid",
-      "D": "Cellulose derivative"
+      "D": "Cellulose derivatives"
     },
     "answer": "C",
-    "explanation": "used or binders and adhesives except the stearic acid. It is used as lubricant and it is also an emulsifier by itself, because the stearic acid emulsifies by breaking the surface tension of the item."
+    "explanation": "Acacia, starch, and cellulose derivatives are binders that hold a tablet together. Stearic acid is a hydrophobic lubricant used to reduce friction between the tablet punch and the die wall."
   },
   {
     "id": "kpsc_ph_662",
-    "question": "Rhubarb belongs to the family",
+    "question": "Rhubarb consists of the dried rhizomes of Rheum officinale, belonging to the family:",
     "options": {
       "A": "Rhamnaceae",
       "B": "Polygonaceae",
@@ -141,11 +141,11 @@ window.quizPart14 = [
       "D": "Combretaceae"
     },
     "answer": "B",
-    "explanation": "buckwheat family (polygonaceae). There are many species of plant called rhubarb (and not all are botanically related to the edible type). The edible garden rhubarb, Rheum rhabarbarum, is also sometimes referred to as R xhybridum or R."
+    "explanation": "Rheum species belong to the Polygonaceae family (commonly known as the smartweed or buckwheat family), which is characterized by nodes surrounded by an ocrea."
   },
   {
     "id": "kpsc_ph_663",
-    "question": "The substitute position of chlorine in chlorthiazide diuretic is",
+    "question": "The required ring substitution position of the chlorine atom in a classic chlorothiazide diuretic is position:",
     "options": {
       "A": "6",
       "B": "5",
@@ -153,11 +153,11 @@ window.quizPart14 = [
       "D": "3"
     },
     "answer": "A",
-    "explanation": "chlorthiazide diuretic is 6. Chlorthiazide is used to treat fluid retention (edema) that is coused by congestive heart failure, severe liver diseases (cirrhosis), kidney disease, or from treatment with a steroid or hormone medicine. It's also used in the treat high blood pressure. ================================================================================ PAGE : 606 ================================================================================ Pharmacognosy 606 YCT"
+    "explanation": "In thiazide diuretic structure-activity relationships (SAR), an electron-withdrawing substitution like a chlorine atom at the C-6 position is essential for high diuretic activity."
   },
   {
     "id": "kpsc_ph_664",
-    "question": "Withdrawal symptoms of opioids can be managed with",
+    "question": "The acute physical withdrawal symptoms of severe opioid dependence are best managed long-term with:",
     "options": {
       "A": "Oxycodone",
       "B": "Meperidine",
@@ -165,11 +165,11 @@ window.quizPart14 = [
       "D": "Heroin"
     },
     "answer": "C",
-    "explanation": "be managed with methadone. Opioid withdrawal management using clonidine. It can provide relief of many of the physical symptom of opioid withdrawal including sweating diarrhoea, vomiting, abdominal cramp chills anxiety insomnia, and tremor. It can also cause drowsiness, dizziness and low blood pressure. The treatment with opioid agonists (methadone or buprenorphine) is the first- line treatment for opioid use disorder."
+    "explanation": "Methadone is a long-acting synthetic mu-opioid agonist used in detoxification and maintenance therapy to suppress intense withdrawal symptoms and cravings."
   },
   {
     "id": "kpsc_ph_665",
-    "question": "Test for water holding capacity is stated in Indian Pharmacopoeia for",
+    "question": "A standardized test for evaluating 'water holding capacity' is explicitly enforced by the Indian Pharmacopoeia for:",
     "options": {
       "A": "Adhesive tape",
       "B": "Elastic bandage",
@@ -177,35 +177,35 @@ window.quizPart14 = [
       "D": "Absorbent cotton wool"
     },
     "answer": "D",
-    "explanation": "Indian pharmacopoeia for Absorbent cotton wool. Absorbent cotton wool is free from impurities such as seeds, leaf residues dust and other foreign particles. It serves multiple purposes, such as for medical & cosmetic uses. It is made up of 100% cotton and conforms to the highest standards. Cotton fibers are natural hollow fibers, they are soft, cool, known a breathable fibers and absorbent Cotton fibers can hold water 24 - 27 times their own weight."
+    "explanation": "Absorbent cotton wool must meet strict quality standards for absorbency. The IP water-holding capacity test ensures the processed fibers can hold at least 23-24 times their own weight in water."
   },
   {
     "id": "kpsc_ph_666",
-    "question": "Steroid found in the flowers and leaves of Digitalis purpurea",
+    "question": "Which component is a characteristic deoxy-sugar molecule derived from the cardiac glycosides found in Digitalis purpurea?",
     "options": {
       "A": "Digoxigenin",
       "B": "Digitoxose",
       "C": "Digitalose",
       "D": "None of the above"
     },
-    "answer": "D",
-    "explanation": "flowers and leaves of Digitalis species, and is extracted from Digitalis lanata. → Digitoxose steroid found in Digitalis canariensis → Digitalose is a deoxy sugar that is component of various cardiac glycosides including thevetin and emicymarin. → Digitalis purpurea P5 beta R2 enncoding steroid 5 beta- reductase is a novel defense - related gene involved in cardenolide biosynthesis. ================================================================================ PAGE : 607 ================================================================================ Pharmacognosy 607 YCT"
+    "answer": "B",
+    "explanation": "Digitoxose is a 2,6-dideoxyhexose sugar that forms the glycone carbohydrate chain in major digitalis cardenolides like digitoxin and purpurea glycoside A."
   },
   {
     "id": "kpsc_ph_667",
-    "question": "Which of the following is the substitute of cinchona bark ?",
+    "question": "Which of the following barks serves as a common commercial substitute or adulterant for genuine Cinchona bark?",
     "options": {
       "A": "Cuprea bark",
       "B": "Peruvian bark",
-      "C": "Jesuits bark",
+      "C": "Jesuit's bark",
       "D": "Countess bark"
     },
     "answer": "A",
-    "explanation": "bark. Cupreabark :- The coppery - red bark of either of two south American trees (Remijia pedunculata and R. puridieana) that yields quinine and used as antimalarial. →Peruvian bark & Jesuits bark are synonyms of the cinchona bark. → Countess bark is said to have been cured of malaria by taking an extract from the bark of a peruvian tree."
+    "explanation": "Cuprea bark is collected from Remijia pedunculata. It contains quinine alkaloids and looks similar to Cinchona, making it a common substitute. Peruvian bark and Jesuit's bark are synonyms for true Cinchona."
   },
   {
     "id": "kpsc_ph_668",
-    "question": "Gum resin derived from incision given on the stem of Commiphora mukul is",
+    "question": "The medicinal oleo-gum-resin derived by incising the stem of Commiphora mukul is:",
     "options": {
       "A": "Myrrh",
       "B": "Benzoin",
@@ -213,23 +213,23 @@ window.quizPart14 = [
       "D": "Guggul"
     },
     "answer": "D",
-    "explanation": "of commiphora mukul is Guggul. Guggul is the gum resin obtained from a variety of plants native to India, Bangladesh and Pakistan. Some of the major species include Commiphora wightii, C. gileadensis, C. mukul, Boswellia serrata & B. sacra. All species are a part of the Burseraceae family, also known as the incense family. Guggul is widely used in cholesterol - lowering agent."
+    "explanation": "Guggul (Guggulu) is an oleo-gum-resin exuded by Commiphora mukul (Burseraceae). It contains guggulsterones, which are used to treat hyperlipidemia."
   },
   {
     "id": "kpsc_ph_669",
-    "question": "Which of the following is the purest form of Asafoetida ? i) Paste ii) Mass iii) Tear",
+    "question": "Asafoetida is marketed in three commercial forms. Which of these represents the purest grade?",
     "options": {
-      "A": "Only ii and iii",
-      "B": "Only i and ii",
-      "C": "Only i and iii",
-      "D": "All of the above i, ii and iii"
+      "A": "Only Mass and Paste",
+      "B": "Only Paste and Mass",
+      "C": "Only Tears",
+      "D": "All of the above"
     },
-    "answer": "A",
-    "explanation": "commercial trade: tears, mass and paste. The tears make the purest form of resin, it is bitter and acrid in taste and emit a strong and peculiar odor- Asafoetida contains mainly resin (40 - 64%), gum (25%) and volatile oil (10 –17%) on a dry weight basis."
+    "answer": "C",
+    "explanation": "Asafoetida is traded as tears, mass, or paste. 'Tears' are separate rounded internal exudates that contain the lowest amount of added materials and impurities, making them the purest form."
   },
   {
     "id": "kpsc_ph_670",
-    "question": "Raw opium that has been treated to render it for smoking and that contains about eight percent of morphine is known as",
+    "question": "Raw opium that has been processed to make it suitable for smoking and contains roughly 8% morphine is officially termed:",
     "options": {
       "A": "Poppy straw",
       "B": "Hemp",
@@ -237,11 +237,11 @@ window.quizPart14 = [
       "D": "Prepared opium"
     },
     "answer": "D",
-    "explanation": "fit for smoking and that contains about 8% of morphine, called prepared opium, chandu, smoking opium. Opium preparation sometimes called \"opium tincture\" is an opioid medication that is used to treat diarrhea. This medicine is not for use as an opioid pain medicine."
+    "explanation": "Under international laws and the NDPS Act, 'prepared opium' refers to any product made by boiling, refining, or manipulating raw opium to adapt it for smoking purposes."
   },
   {
     "id": "kpsc_ph_671",
-    "question": "Cupraloin test is used for the identification of",
+    "question": "The Cupraloin test (Klunge's test) is used to identify the presence of which specific compound in Aloes?",
     "options": {
       "A": "Aloe emodin",
       "B": "Arabinose",
@@ -249,11 +249,11 @@ window.quizPart14 = [
       "D": "Isobarbaloin"
     },
     "answer": "D",
-    "explanation": "isobarbaloin. Cupraloin test(klunge's Isobarbaloin test)- To very dilute aqueous solution of aloes, a drop of saturated copper sulphate solution is added, followed by little quantity of sodium chloride and excess of 90% alcohal. • Curacao aloe :- Wine red colour persisting 4 hrs • Cape aloe - faint colouration rapidly changing to yellow socotrine and zanzibar aloe- no colour."
+    "explanation": "The Cupraloin test uses copper sulfate and sodium chloride to detect isobarbaloin. Curacao aloe yields a sharp, stable wine-red color, whereas Cape aloe gives a faint color change."
   },
   {
     "id": "kpsc_ph_672",
-    "question": "Give an example of Antidiabetic drug.",
+    "question": "Which of the following traditional crude drugs is widely classified as an antidiabetic agent?",
     "options": {
       "A": "Picrorhiza",
       "B": "Pterocarpus",
@@ -261,35 +261,35 @@ window.quizPart14 = [
       "D": "Ipecac"
     },
     "answer": "B",
-    "explanation": "petrocarpus. In ayurveda an Indian system of traditional medicine, it is mentioned that the heartwood of the plant is used as external application. for treating inflammation, diabetes, headache skin diseases, and jaundice and in wound- healing."
+    "explanation": "Pterocarpus marsupium (Vijayasar) heartwood infusions have been used in Ayurveda to help manage blood glucose levels in diabetic patients."
   },
   {
     "id": "kpsc_ph_673",
-    "question": "Reagent used in Ergotoxine test acid and ferric chloride and ferric chloride acid and ferric chloride and ferric chloride",
+    "question": "What are the chemical components that make up the Van Urk's color reagent used to test for Ergot alkaloids?",
     "options": {
-      "A": "Paramethyl amino benzaldehyde, sulphuric",
-      "B": "Amino ethyl benzaldehyde, sulphuric acid",
-      "C": "Paradimethyl amino benzaldehyde, sulphuric",
-      "D": "Diethyl amino benzaldehyde, sulphuric acid"
+      "A": "p-Dimethylaminobenzaldehyde, sulfuric acid, and ferric chloride",
+      "B": "p-Aminoethylbenzaldehyde and sulfuric acid",
+      "C": "p-Diethylaminobenzaldehyde and hydrochloric acid",
+      "D": "p-Dimethylaminobenzaldehyde and nitric acid"
     },
     "answer": "A",
-    "explanation": "amino benzaldehyde, sulphuric acid and Ferric chloride. Ergot under UV light shows a red-coloured fluorescence. Ergot powder is extracted with a mixture of CHCl3 and sodium carbonate. The CHCl3 layer is separated and mixture of paradimethy aminobenzaldehyde, H2SO4 & 5% ferric chloride is added. A deep blue colour is produced. ================================================================================ PAGE : 633 ================================================================================ Pharmacognosy 633 YCT test with caffeine. Caffeine bongs to xanthines which in turn belong to alkaloids. When the Dragendroff's reagent is used, the presence of an alkaloid is indicated by formation of red brown precipitate. Pure caffeine is white ,while crude caffeine is nearly pale yellow. Alkloid, if present in the solution of sample, will react with Dragendroff's reagent and produce an orange or orange - red precipitate morphine, codeine emetine give orange red ppt."
+    "explanation": "Van Urk's reagent consists of para-dimethylaminobenzaldehyde dissolved in a sulfuric acid solution containing trace ferric chloride. It reacts with the indole nucleus of ergot alkaloids to form a deep blue color."
   },
   {
     "id": "kpsc_ph_674",
-    "question": "Glycoside present in Nux vomica",
+    "question": "Which iridoid glycoside molecule is natively present alongside alkaloids within Strychnos nux-vomica seeds?",
     "options": {
-      "A": "Strichnine",
-      "B": "Loganine",
+      "A": "Strychnine",
+      "B": "Loganin",
       "C": "Ecgonine",
-      "D": "Quinovine"
+      "D": "Quinovin"
     },
     "answer": "B",
-    "explanation": "iridoid glycosides. It is named for loganiaceal having first been isolated from the seed of a number of that palnt family mameyl those of member. strychnos nux-vomica. It also occurs in A lstonia boonci a medicinal tree of west Africa and medicinal (entheogines)."
+    "explanation": "Loganin is a classic iridoid glycoside found in the Loganiaceae family. It serves as a key biosynthetic precursor intermediate leading toward complex indole alkaloids."
   },
   {
     "id": "kpsc_ph_675",
-    "question": "Which of the following is an oleo gum resin?",
+    "question": "Which of the following natural crude drug materials is classified as an oleo-gum-resin?",
     "options": {
       "A": "Myrrh",
       "B": "Storax",
@@ -297,11 +297,11 @@ window.quizPart14 = [
       "D": "Colophony"
     },
     "answer": "A",
-    "explanation": "commipnara myrrha, a low growing decent tree that exudes a viscous yellow gum, which hardens in to a reddish - brown resin , myrrh recipes incense bleds, and macerated as extract."
+    "explanation": "Myrrh is a natural oleo-gum-resin obtained from Commiphora myrrha. It is composed of volatile oil fractions, water-soluble gum mucilages, and alcohol-soluble resin structures."
   },
   {
     "id": "kpsc_ph_676",
-    "question": "Coriander leaves are rich source of",
+    "question": "Fresh coriander leaves (Coriandrum sativum) are recognized as an exceptionally rich nutritional source of:",
     "options": {
       "A": "Vitamin A",
       "B": "Volatile oil",
@@ -309,23 +309,23 @@ window.quizPart14 = [
       "D": "Pinene"
     },
     "answer": "A",
-    "explanation": "which help feed your retinas, keep your eyes moist and generally helps protect your vision. Coriander is also of vitamin C, which is important to immune ststerm."
+    "explanation": "While coriander fruits are harvested for their volatile oils, the green culinary leaves are packed with fat-soluble vitamins, particularly Vitamin A carotenoid precursors."
   },
   {
     "id": "kpsc_ph_677",
-    "question": "Citral is the major constituent of",
+    "question": "Citral is a key aliphatic monoterpene aldehyde that serves as the major constituent of:",
     "options": {
       "A": "Turpentine oil",
-      "B": "Lemon grass oil",
+      "B": "Lemongrass oil",
       "C": "Peppermint oil",
-      "D": "Cardomom oil"
+      "D": "Cardamom oil"
     },
     "answer": "B",
-    "explanation": "oil. metabolism of citral the major constituent of lemongrass oil in the cabbage looper. Trichoplusia , and effects of enzyme inhibitors on toxicity and metabolism."
+    "explanation": "Lemongrass oil obtained from Cymbopogon flexuosus contains roughly 75-85% citral, an isomeric aldehyde mixture composed of geranial and neral."
   },
   {
     "id": "kpsc_ph_678",
-    "question": "Lanoline is also known as",
+    "question": "Lanolin is chemically and regulatory defined as:",
     "options": {
       "A": "Carnauba wax",
       "B": "Anhydrous wool fat",
@@ -333,47 +333,47 @@ window.quizPart14 = [
       "D": "Spermaceti"
     },
     "answer": "C",
-    "explanation": "The greasy substance obtained from the wool of the sheep ovis aries (family bovidae). Used as an emollient bases far creams and ointments. Hydrous wool fat lanolin wool wox"
+    "explanation": "Lanolin refers specifically to hydrous wool fat, which contains 25-30% water incorporated into a purified sebaceous wax matrix obtained from sheep wool."
   },
   {
     "id": "kpsc_ph_679",
-    "question": "Which of the following is deficient in Vitamin D?",
+    "question": "Which of the following marine or animal-derived lipid supplements is relatively deficient in Vitamin D?",
     "options": {
-      "A": "Cod liver Oil",
-      "B": "Halibut Oil",
-      "C": "Eggs",
-      "D": "Shark liver Oil"
+      "A": "Cod liver oil",
+      "B": "Halibut liver oil",
+      "C": "Egg yolk lipids",
+      "D": "Shark liver oil"
     },
     "answer": "D",
-    "explanation": "⇒ Cod liver oil is dietary supplement derived from liver of cod fish. As with most fish oils it contains the omega fatty acids eicosapentlanoic acid and docosahexaendc acid and also vitamin A and vitamin D historically. It was given to children because vitamin D had been shown to prevent richets a consequences of vitamin D deficiency"
+    "explanation": "Cod and halibut liver oils are packed with both vitamins A and D. Shark liver oil, however, is rich in Vitamin A and squalene but contains very little Vitamin D."
   },
   {
     "id": "kpsc_ph_680",
-    "question": "Which of the following is mainly used as a diuretic?",
+    "question": "Which of the following traditional crude drugs is used primarily as a natural diuretic?",
     "options": {
       "A": "Ginseng",
       "B": "Mustard",
-      "C": "Ginko",
+      "C": "Ginkgo",
       "D": "Gokhru"
     },
     "answer": "D",
-    "explanation": "maintain blood pressure by increasing urine output and helping to drain the excess fluid from the body that coves high blood pressure. This beneficial property of gokhru need further studies to understand its potential use in humans."
+    "explanation": "Gokhru (Tribulus terrestris) fruits contain saponins and potassium salts. It is widely used in Ayurveda as a diuretic to treat urinary disorders and kidney stones."
   },
   {
     "id": "kpsc_ph_681",
-    "question": "Tissue amine widely distributed in plants animals and in the venom of bees and wasps",
+    "question": "Which biogenic tissue amine is found in plants and animals, and is a major painful component in wasp and bee venoms?",
     "options": {
-      "A": "Serotonine",
+      "A": "Serotonin",
       "B": "Tyramine",
       "C": "Histamine",
       "D": "Adrenaline"
     },
     "answer": "C",
-    "explanation": "aminals and in the venom of bees and wasps histamine. Histamine work with neves to and produce itching. In food allergies it cause vomiting and diarrhea. And it constricts mucus in the lungs."
+    "explanation": "Histamine is an inflammatory mediator found across biological systems. When injected via hymenoptera stings, it causes acute localized pain, vasodilation, hyperpermeability, and itching."
   },
   {
     "id": "kpsc_ph_682",
-    "question": "Synthetic Cannabinoid",
+    "question": "Which of the following molecules is classified as a synthetic cannabinoid analog used to treat chemotherapy-induced nausea?",
     "options": {
       "A": "Methadone",
       "B": "Tramadol",
@@ -381,35 +381,35 @@ window.quizPart14 = [
       "D": "Nabilone"
     },
     "answer": "D",
-    "explanation": "used to treat nausea and vomiting caused by cancer chemotherapy in people who have already taken other medications to treat this type of nausea and vomiting without good results Nabilone is class of medications called cannabinoids. ================================================================================ PAGE : 634 ================================================================================ Pharmacognosy 634 YCT"
+    "explanation": "Nabilone is a synthetic cannabinoid that mimics tetrahydrocannabinol (THC). It acts on CB1 receptors to reduce severe nausea and vomiting caused by cancer treatments."
   },
   {
     "id": "kpsc_ph_683",
-    "question": "Drug containing saponin glycoside as major constituent",
+    "question": "Which of the following central nervous system active herbs contains saponin glycosides as its major chemical constituent?",
     "options": {
       "A": "Cascara",
-      "B": "Ginko",
+      "B": "Ginkgo",
       "C": "Brahmi",
       "D": "Quassia"
     },
     "answer": "C",
-    "explanation": "constituent Brahmi. ⇒ Saponins decrease blood lipids, lower cancer risks and lower blood glucose response. A high saponin diet can be used in the inhibition of dental caries and platelet aggregation in the treatment of hypercalciuria in humans, and as an antidote against acute lead poisonig."
+    "explanation": "Brahmi (Bacopa monnieri) contains dammarane-type triterpenoid saponins known as bacosides, which are responsible for its memory-enhancing and neuroprotective qualities."
   },
   {
     "id": "kpsc_ph_684",
-    "question": "Aminophylline is a stable mixtur.e of theophylline with Which of the following ?",
+    "question": "Aminophylline is a stable pharmaceutical combination composed of theophylline combined with:",
     "options": {
-      "A": "Aminocaproic acid (b) Amiloride",
-      "B": "",
+      "A": "Aminocaproic acid",
+      "B": "Amiloride",
       "C": "Ethyl oleate",
-      "D": "Ethylene diamine"
+      "D": "Ethylenediamine"
     },
     "answer": "D",
-    "explanation": "contains theophylline and ethylendiamine, in a 2:1 once in the body, theophylline is released acts as a phosphodiesterase inhibitor, adenosine , blocker and histone deacetylase activator."
+    "explanation": "Aminophylline is a 2:1 complex of theophylline and ethylenediamine. Adding ethylenediamine increases the drug's water solubility, making it easier to formulate as an injection."
   },
   {
     "id": "kpsc_ph_685",
-    "question": "According to NDPS Act, 1985 cultivating coca plant or gathering any portion coca plant is termed as",
+    "question": "According to the NDPS Act of 1985, unauthorized cultivation or harvesting of the coca plant falls under the definition of:",
     "options": {
       "A": "Production",
       "B": "Illicit traffic",
@@ -417,11 +417,11 @@ window.quizPart14 = [
       "D": "Manufacture"
     },
     "answer": "B",
-    "explanation": "duration of action procaine is mixed with adrenaline. Duration of action is also influenced by constriction of the nearby vasculature. For this reason, vasoconstrictors are added to anesthetics to delay absorption and prolong the anesthetic effect."
+    "explanation": "Under Section 2 of the Narcotic Drugs and Psychotropic Substances (NDPS) Act, cultivating or gathering any part of a cannabis, coca, or opium poppy plant without authorization is legally defined as 'illicit traffic'."
   },
   {
     "id": "kpsc_ph_686",
-    "question": "Water soluble portion of tragacanth",
+    "question": "The chemical fraction of Gum Tragacanth that dissolves in water to form a smooth mucilage is:",
     "options": {
       "A": "Bassorin",
       "B": "Tragacanthin",
@@ -429,11 +429,11 @@ window.quizPart14 = [
       "D": "Agaropectin"
     },
     "answer": "B",
-    "explanation": "fraction known as tragacanthin and a water-insoluble fraction known as bassorin they have molecular weights of the order of 840000. Both are insoluble in alcohol."
+    "explanation": "Tragacanth contains two distinct polysaccharide fractions: tragacanthin, which is water-soluble, and bassorin, which is water-insoluble but swells to form a thick gel."
   },
   {
     "id": "kpsc_ph_687",
-    "question": "Which among the followings do not have an active metabolite?",
+    "question": "Which of the following pharmaceutical agents does NOT form an active drug metabolite during in vivo metabolic degradation?",
     "options": {
       "A": "Morphine",
       "B": "Neostigmine",
@@ -441,23 +441,23 @@ window.quizPart14 = [
       "D": "Digitoxin"
     },
     "answer": "B",
-    "explanation": "compound, probably due to very reactive thiol function that exhibit in the biological activities of clopidogrel observed ex vivo. Neostigmine injection is used to treat a muscles disease called myasthenia gravis. Neostigmene injection is also used to prevent or treat certain kidney or intestinal problems. This medicine is also given after surgery to help reverse the effects of certain types of medicines that have been used to relax the muscles."
+    "explanation": "Neostigmine is quickly broken down by esterases into an inactive quaternary ammonium metabolite, meaning it lacks long-acting active metabolites unlike morphine, diazepam, or digitoxin."
   },
   {
     "id": "kpsc_ph_688",
-    "question": "Viscous liquid preparations used orally for the relief of cough",
+    "question": "Which term describes a sweet, viscous oral liquid preparation formulated to coat the throat and relieve cough symptoms?",
     "options": {
-      "A": "Gargles",
-      "B": "Drops",
-      "C": "Elixirs",
-      "D": "Linctuses"
+      "A": "Gargle",
+      "B": "Drop",
+      "C": "Elixir",
+      "D": "Linctus"
     },
     "answer": "D",
-    "explanation": "that are usually prescribed for the relief of cough they usually contain a high proportion of syrup and glycerol which have a demulcent effect on the membranes of the throat. The dose volume is small (5ml) and to prolong the demulcent action they should be taken undiluted."
+    "explanation": "Linctuses are viscous liquid oral formulations containing high concentrations of syrups or glycerin. They provide a soothing demulcent effect on inflamed throat linings and should be swallowed slowly without adding water."
   },
   {
     "id": "kpsc_ph_689",
-    "question": "Chief constituent of Beal fruit is",
+    "question": "The primary therapeutic chemical compound isolated from Bael fruit (Aegle marmelos) is:",
     "options": {
       "A": "Marmelosin",
       "B": "Marmesin",
@@ -465,23 +465,23 @@ window.quizPart14 = [
       "D": "Mannoglycan"
     },
     "answer": "A",
-    "explanation": "The fruits, bioactive compounds such coumarin xanthotoxol, imperatorin, aegeline and marmeline . \"These compounds can provide antidiabetic anticancerous, antifertility, antimicrobial, immunogenic and insecticidal activities."
+    "explanation": "Marmelosin is a principal active furanocoumarin compound found in Bael fruit pulp, giving the plant its traditional anti-dysenteric and stomachic properties."
   },
   {
     "id": "kpsc_ph_690",
-    "question": "Culture media used in test for sterility",
+    "question": "Which official culture media options are used when carrying out compendial tests for sterility?",
     "options": {
-      "A": "Fluid thiogly collate medium",
-      "B": "Soya-bean casein digest medium",
-      "C": "Alterative thioglycollate medium",
+      "A": "Fluid thioglycollate medium",
+      "B": "Soybean-casein digest medium",
+      "C": "Alternative thioglycollate medium",
       "D": "All of the above"
     },
     "answer": "D",
-    "explanation": "all life forms. Fluid thiogycollate medium soyabean casein digest medium and alterative thioglycollate mediums are also used for sterility testing of certain biological products."
+    "explanation": "Fluid thioglycollate medium is primarily used to grow anaerobic bacteria, while soybean-casein digest medium is selected to detect aerobic bacteria and fungi during regulatory sterility testing."
   },
   {
     "id": "kpsc_ph_691",
-    "question": "Drug of choice for morphine poisoning",
+    "question": "What is the primary drug of choice used to treat acute respiratory depression in morphine poisoning?",
     "options": {
       "A": "Nalorphine",
       "B": "Naloxone",
@@ -489,23 +489,23 @@ window.quizPart14 = [
       "D": "Pethidine"
     },
     "answer": "B",
-    "explanation": "Naloxone. Naluxone is a medicine that rapidly reverses an opiod overdose, it works as opioid (morphine) antagonist."
+    "explanation": "Naloxone is a pure, fast-acting competitive opioid receptor antagonist. It quickly displaces morphine from mu-receptors to reverse life-threatening opioid-induced respiratory depression."
   },
   {
     "id": "kpsc_ph_692",
-    "question": "Example for a stimulant laxative",
+    "question": "Which of the following compounds is classified as a classic stimulant laxative?",
     "options": {
-      "A": "Sodium Potassium tartrate",
+      "A": "Sodium potassium tartrate",
       "B": "Liquid paraffin",
-      "C": "milk of magnesia",
+      "C": "Milk of magnesia",
       "D": "Phenolphthalein"
     },
     "answer": "D",
-    "explanation": "laxative as it directly stimulate colonic smooth muscle and able to interfere with water and sodium reabsorption. It cause stool evacuation by enhancing fluid and electrolyte accumulation in the intestines."
+    "explanation": "Phenolphthalein is a triphenylmethane derivative that directly stimulates the smooth muscle walls of the colon, promoting bowel movements by increasing peristalsis."
   },
   {
     "id": "kpsc_ph_693",
-    "question": "Which of the following alkaloids is water soluble?",
+    "question": "Which of the following isolated ergot alkaloids is water-soluble?",
     "options": {
       "A": "Ergosine",
       "B": "Ergocryptine",
@@ -513,23 +513,23 @@ window.quizPart14 = [
       "D": "Ergometrine"
     },
     "answer": "D",
-    "explanation": "soluble base obtained from ergot. It is used for the treatment of post abortion hemorrhage and post abortion hemorrhage in patients with uterine atony. Ergot is a kind of fungi, which grows on rye and related plants and it produces alkaloids."
+    "explanation": "Ergometrine stands out from the water-insoluble ergotoxine and ergotamine alkaloid groups due to its water solubility, allowing for rapid oral and parenteral absorption."
   },
   {
     "id": "kpsc_ph_694",
-    "question": "Volatile oil can be distinguished from fixed oil as they",
+    "question": "Volatile oils can be clearly distinguished from fixed vegetable oils because they:",
     "options": {
-      "A": "Capable of Volatilisation",
-      "B": "Do not contain glyceryl esters",
-      "C": "Do not leave any spot on the paper",
+      "A": "Evaporate completely when exposed to air",
+      "B": "Do not consist of glyceryl esters of fatty acids",
+      "C": "Leave no permanent translucent greasy stain on paper",
       "D": "All of the above"
     },
     "answer": "D",
-    "explanation": "to the air, they do not contain glycerol esters and not leave any spot on the paper. Clove oil lavender oil, peppermint oil etc are the volatile oils as all these oils start evaporating fast in open air."
+    "explanation": "Unlike fixed oils, volatile essential oils are mixtures of terpenes that evaporate without leaving a greasy stain on paper. They also lack glyceryl esters (triglycerides)."
   },
   {
     "id": "kpsc_ph_695",
-    "question": "Products of opium manipulated to make it suitable for smoking and the residue left afar opium has been smoked means",
+    "question": "Under legal frameworks, an extract processed to make raw opium suitable for smoking, or the residue left after it has been smoked, is called:",
     "options": {
       "A": "Poppy straw",
       "B": "Poppy straw concentrate",
@@ -537,23 +537,23 @@ window.quizPart14 = [
       "D": "Opium residue"
     },
     "answer": "C",
-    "explanation": "form, therefore prepared opium is created by depriving of its much of narcotine Prepared optimum is obtained by performing various steps designed to transform opium into an extract suitable for smoking."
+    "explanation": "Prepared opium includes any refined extract designed for smoking, as well as the dross or residue remaining after opium consumption."
   },
   {
     "id": "kpsc_ph_696",
-    "question": "Example for an artificial colour ================================================================================ PAGE : 639 ================================================================================ Pharmacognosy 639 YCT",
+    "question": "Which of the following options is an example of an artificial or chemically modified coloring agent?",
     "options": {
       "A": "Caramel",
-      "B": "Chloprophyll",
+      "B": "Chlorophyll",
       "C": "Cochineal",
       "D": "Annatto"
     },
     "answer": "A",
-    "explanation": "compound and often it is mixed together with ammonium compounds, acids or alkalis to change it into artificial colors."
+    "explanation": "Chlorophyll, cochineal, and annatto are natural colors extracted directly from biological sources. Caramel coloring is produced artificially by heating carbohydrates with food-grade acids or alkalis."
   },
   {
     "id": "kpsc_ph_697",
-    "question": "An example for drying oil",
+    "question": "Which of the following fixed oils is classified as a classic drying oil due to its high unsaturated fatty acid content?",
     "options": {
       "A": "Olive oil",
       "B": "Sesame oil",
@@ -561,23 +561,23 @@ window.quizPart14 = [
       "D": "Linseed oil"
     },
     "answer": "D",
-    "explanation": "on exposure to air, Examples of drying oils are - linseed oil, Tung oil, walnut oil, poppy seed oil etc. Drying oils are a key component of oil paint and some varnishes."
+    "explanation": "Linseed oil is rich in linolenic acid. It absorbs oxygen when exposed to air, forming a hard, dry polymer film that makes it a useful drying oil for paints and varnishes."
   },
   {
     "id": "kpsc_ph_698",
-    "question": "Which among the following is the chemical test used to identify C glycosides?",
+    "question": "Which chemical test is used to identify C-glycosides by using ferric chloride to cause oxidative cleavage?",
     "options": {
       "A": "Modified Borntrager's test",
-      "B": "Kellekilliani test",
-      "C": "Borntrager's test",
+      "B": "Keller-Kiliani test",
+      "C": "Standard Borntrager's test",
       "D": "Murexide test"
     },
     "answer": "A",
-    "explanation": "Modified Borntrager's test employs ferric chlooride (Fecl3) with dilute hydrochloric acid (HCL) to bring about oxidative. Modified borntrager's test is carried out for the detection of C-glycoside because these are resistant to simple acid hydrolysis. Cardiac glycosides (C glycosides) are medicines for treating heart failure and certain irregular heartbeats."
+    "explanation": "C-glycosides are resistant to standard acid hydrolysis. The Modified Borntrager's test uses ferric chloride ($FeCl_3$) to split the carbon-carbon glycosidic bond, allowing the anthraquinones to be extracted."
   },
   {
     "id": "kpsc_ph_699",
-    "question": "Eugenol is present in",
+    "question": "Eugenol is a primary chemical component found in the volatile oil of:",
     "options": {
       "A": "Ginger",
       "B": "Cardamom",
@@ -585,18 +585,18 @@ window.quizPart14 = [
       "D": "Fennel"
     },
     "answer": "C",
-    "explanation": "aromatic oily liquid extracted from certain essential oils especially from clove, nutmeg, cinnamon, and basil (Tulsi)."
+    "explanation": "Eugenol is an aromatic phenylpropanoid that makes up a large part of the essential oils in cloves and Holy Basil (Tulsi)."
   },
   {
     "id": "kpsc_ph_700",
-    "question": "The colouring matter capsicum",
+    "question": "The primary red carotenoid molecule that provides the distinct color to Capsicum annuum fruits is:",
     "options": {
-      "A": "Capsaicim",
+      "A": "Capsaicin",
       "B": "Capsicin",
       "C": "Capsanthin",
       "D": "Capsacutin"
     },
     "answer": "C",
-    "explanation": "capsanthin. It is a red carotenoid found in red pepper capsicum annuum."
+    "explanation": "Capsanthin is the main oil-soluble carotenoid pigment responsible for the bright red color of ripe red peppers and paprika. Capsaicin provides the spicy heat rather than the color."
   }
 ];
