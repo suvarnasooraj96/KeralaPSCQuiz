@@ -1,7 +1,7 @@
 window.quizPart16 = [
   {
     "id": "kpsc_ph_751",
-    "question": "Siam benzoin differs from Sumatra variety due to the insufficient content of",
+    "question": "Siam benzoin differs from the Sumatra variety due to its low or insufficient content of:",
     "options": {
       "A": "Benzoic acid",
       "B": "Cinnamic acid",
@@ -9,23 +9,23 @@ window.quizPart16 = [
       "D": "Coniferyl benzoate"
     },
     "answer": "B",
-    "explanation": "due to the insufficient content of cinnamic acid. → In Siam benzoin the chief constituents are benzoin acid & its esters while in Sumatra benzoin the major constituents are cinnamic acid & its esters."
+    "explanation": "Siam benzoin contains primarily benzoic acid and its esters, with little to no cinnamic acid. In contrast, Sumatra benzoin contains a significant amount of both free cinnamic acid and its corresponding esters."
   },
   {
     "id": "kpsc_ph_752",
-    "question": "Glycoside present in the cinchona bark",
+    "question": "Which of the following is a glycosidal constituent present in Cinchona bark?",
     "options": {
       "A": "Quinine",
       "B": "Cinchonidine",
-      "C": "Cinchonin",
+      "C": "Cinchonine",
       "D": "Quinovin"
     },
     "answer": "D",
-    "explanation": "Quinovin."
+    "explanation": "Quinovin is a triterpenoid saponin glycoside found in Cinchona bark. Quinine, cinchonidine, and cinchonine are alkaloids, not glycosides."
   },
   {
     "id": "kpsc_ph_753",
-    "question": "Vitamin Present in the shark liver oil",
+    "question": "Which vitamin is predominantly present in high amounts in Shark liver oil?",
     "options": {
       "A": "Vitamin A",
       "B": "Vitamin D",
@@ -33,11 +33,11 @@ window.quizPart16 = [
       "D": "Vitamin E"
     },
     "answer": "A",
-    "explanation": "→ The oil extracted from deep sea sharks contains a towering level of PUFA. → Shark liver oil is used along with usual cancer drugs to treat leukemia and other cancers."
+    "explanation": "Shark liver oil serves as an excellent natural source of Vitamin A. Unlike cod liver oil, which contains significant therapeutic amounts of both Vitamins A and D, shark liver oil contains negligible levels of Vitamin D."
   },
   {
     "id": "kpsc_ph_754",
-    "question": "Which among the following is liquid alkaloid",
+    "question": "Which of the following alkaloids exists naturally in a liquid state at room temperature?",
     "options": {
       "A": "Nicotine",
       "B": "Strychnine",
@@ -45,59 +45,59 @@ window.quizPart16 = [
       "D": "Colchicine"
     },
     "answer": "A",
-    "explanation": "tobacco plant, and addictive central nervous system (CNS) stimulant. -Nicotine is liquid alkaloid. Strychnine :- It is crystalline alkaloid used as a pesticides, particularly for killing small vertebrates , such as birds etc,"
+    "explanation": "Nicotine is a volatile liquid alkaloid because its structure lacks oxygen atoms. Most other alkaloids, such as strychnine and quinine, contain oxygen and exist as crystalline solids."
   },
   {
     "id": "kpsc_ph_755",
-    "question": "Indian senna obtained from the plant.",
+    "question": "Indian Senna is obtained from the plant leaves of:",
     "options": {
-      "A": "Cassia angustifolia (b) Cassia acutifolia",
-      "B": "",
-      "C": "Cassia Obovata",
+      "A": "Cassia angustifolia",
+      "B": "Cassia acutifolia",
+      "C": "Cassia obovata",
       "D": "Cassia auriculata"
     },
     "answer": "A",
-    "explanation": "fruits of cassia senna. The senna plants are small shrubs of Leguminosae cultivated either in Somalia the Arabian peninsula and near the Nill river. → India, Senna is cultivated in Gujrat, Rajasthan, Tamil Nadu and Karnataka,. → It is used as treat constipation and clear the bowel before procedures such as colonoscopy."
+    "explanation": "Indian Senna is derived from Cassia angustifolia (Family: Leguminosae), primarily cultivated in Gujarat, Rajasthan, and Tamil Nadu. Alexandrian Senna is derived from Cassia acutifolia."
   },
   {
     "id": "kpsc_ph_756",
-    "question": "Toxic principle present in the castor seed",
+    "question": "The extremely toxic protein (lectin) present in castor seeds is:",
     "options": {
-      "A": "Agarose",
-      "B": "Cellulose",
-      "C": "Agaropectine",
-      "D": "cellobiose"
+      "A": "Ricinoleic acid",
+      "B": "Ricin",
+      "C": "Agaropectin",
+      "D": "Cellobiose"
     },
-    "answer": "C",
-    "explanation": "(seeds) is ricin, may cause an a cute and potentially fatal gastroenteritis. → The toxicity is does related and depends on the amount of castor beans ingested. Hydrous wool fat is known as :- Lanolin , purified form of wool greases or wool wax, used either alone or with soft paraffin or lard or other fat as a base for ointments, soaps etc. Macro goal :- It is used as a medication to treat constipation in children and adults. Cholesterol :- It is a waxy, fat like substance that found in all the cell in our body. Lecithin :- It is a mixture of fats that that are essential to cells in the human body. Viscosity of Agar solution is due to the presence of presence of Agaropectine. Agarose:- Agarose is non-toxic and has several properties and specifications that make it useful as a gelling agent."
+    "answer": "B",
+    "explanation": "Ricin is a highly poisonous ribosome-inactivating protein (lectin) found in the seeds of Ricinus communis. Cold pressing expresses the castor oil while leaving the water-soluble ricin behind in the seed cake."
   },
   {
     "id": "kpsc_ph_757",
-    "question": "Which part of the plant \"Opium poppy\" is used for obtaining the active principles:",
+    "question": "Which part of the Opium poppy plant is incised to obtain the active alkaloidal latex?",
     "options": {
-      "A": "dried latex from stem",
-      "B": "dried latex from capsules",
-      "C": "dried latex from root",
-      "D": "dried latex from shoots"
+      "A": "Dried latex from the stem",
+      "B": "Unripe capsule walls",
+      "C": "Dried latex from the roots",
+      "D": "Dried latex from the shoots"
     },
     "answer": "B",
-    "explanation": "active principles: dried latex from capsules latex from capsules → The pharmacologically active principles of opium reside in its alkaloids."
+    "explanation": "Opium is the dried latex obtained by making shallow vertical or longitudinal incisions on the unripe capsules of Papaver somniferum."
   },
   {
     "id": "kpsc_ph_758",
-    "question": "An antidiabetic plant drug: ================================================================================ PAGE : 655 ================================================================================ Pharmacognosy 655 YCT",
+    "question": "Which of the following crude plant drugs is clinically used for its antidiabetic properties?",
     "options": {
-      "A": "Withania somnifera (b) Saraca indica",
-      "B": "",
+      "A": "Withania somnifera",
+      "B": "Saraca asoca",
       "C": "Urginea maritima",
       "D": "Gymnema sylvestre"
     },
     "answer": "D",
-    "explanation": "plants with patent antidiabetic properties. This plant is also used for contrallin obesity in the from gymnema tea, the active compound of the plant is a group of acids termed as gymnemic acids."
+    "explanation": "Gymnema sylvestre (Gurmar) contains gymnemic acids, which temporarily block sweet taste buds and reduce intestinal sugar absorption, making it an effective antidiabetic agent."
   },
   {
     "id": "kpsc_ph_759",
-    "question": "A tropane alkaloid:",
+    "question": "Which of the following molecules is classified as a tropane alkaloid?",
     "options": {
       "A": "Atropine",
       "B": "Reserpine",
@@ -105,59 +105,59 @@ window.quizPart16 = [
       "D": "Diosgenin"
     },
     "answer": "A",
-    "explanation": "hyoscyamine are highly anticholinergic compounds found in a number of plants. Alkaloids are plant metabolites that have a nitrogen containing chemical ring structure, alkali chemical reactivity and pharmacologic activity."
+    "explanation": "Atropine is a tropane alkaloid ester found in Solanaceous plants like Atropa belladonna and Datura stramonium. Reserpine and ergometrine are indole-derived alkaloids."
   },
   {
     "id": "kpsc_ph_760",
-    "question": "Plantago ovata is used as",
+    "question": "Plantago ovata (Isapgol) seeds and husks are primarily used in therapeutics as a:",
     "options": {
       "A": "Expectorant",
       "B": "Sweetening agent",
       "C": "Analgesic",
-      "D": "Laxative"
+      "D": "Bulk-forming laxative"
     },
     "answer": "D",
-    "explanation": "Its seed husk is used as a laxative and stool softener and it help reduce cholesterol. psyllium seed husk absorb water in the stomach and form a large mass, this mass stimulates the bowel in people with constipation → Expeatorants are used to treat the symptoms of respiratory tract infections → deliquescent salts include calcium chloride and potassium oxide. These salts can be used as desiccants, or drying agents."
+    "explanation": "The seed husk of Plantago ovata contains highly hydrophilic mucilage that expands upon absorbing water, functioning as a bulk-forming laxative to relieve constipation."
   },
   {
     "id": "kpsc_ph_761",
-    "question": "Which one among the following has a phenanthrene nucleus:",
+    "question": "Which of the following analgesic compounds contains a phenanthrene nucleus core?",
     "options": {
       "A": "Pentazocine",
-      "B": "Trifluperazine",
+      "B": "Trifluoperazine",
       "C": "Promethazine",
       "D": "Morphine"
     },
     "answer": "D",
-    "explanation": "derivative is the protalypical opioid against which all other opioids are compared for equianalgesic potency, Because of its hydrophilic nature, it exhibit delayed delaying its onset of action. → Pentazosine injection is used to relieve moderate to severe pain. it may also be used before surgery or with a general anesthetic (medicine that puts you to sleep)."
+    "explanation": "Morphine, codeine, and thebaine contain a fused phenanthrene ring system core structure, distinguishing them from benzylisoquinoline alkaloids like papaverine."
   },
   {
     "id": "kpsc_ph_762",
-    "question": "Ratio of oil:water:gum for preparing an emulsion using volatile oil:",
+    "question": "What is the standard primary emulsion ratio (Oil : Water : Gum) required for volatile oils?",
     "options": {
-      "A": "02:02:01",
-      "B": "04:02:01",
-      "C": "03:02:01",
-      "D": "01:01:02"
+      "A": "2 : 2 : 1",
+      "B": "4 : 2 : 1",
+      "C": "3 : 2 : 1",
+      "D": "1 : 1 : 2"
     },
     "answer": "A",
-    "explanation": "an emulsion using volatile oil is 2 : 2 : 1."
+    "explanation": "Formulating stable primary emulsions requires specific ratios of oil, water, and gum acacia. Fixed oils use 4:2:1, volatile oils use 2:2:1, and mineral/liquid paraffin oils use 3:2:1 or 4:2:1 depending on the compendial standard."
   },
   {
     "id": "kpsc_ph_763",
-    "question": "Lanolin is",
+    "question": "Lanolin is officially defined as:",
     "options": {
       "A": "Beeswax",
-      "B": "Woolfat",
+      "B": "Hydrous wool fat",
       "C": "Paraffin wax",
-      "D": "Borax"
+      "D": "Purified borax"
     },
     "answer": "B",
-    "explanation": "wool wax (sometimes erroneously called wood fat). Used either alone or soft paraffin or lard or other fat as a base for ointments, emollients, skin foods, salves, superfatted soaps and for dressing. • Beeswax has been used since prehistory as the first plastic, as a lubricant and water proofing agent."
+    "explanation": "Lanolin is the purified, anhydrous or hydrous fat-like substance obtained from the wool of sheep (Ovis aries) and is commonly used as a water-absorbable ointment base."
   },
   {
     "id": "kpsc_ph_764",
-    "question": "An example for a drug with anti-hypertensive action",
+    "question": "Which of the following crude plant drugs exhibits potent antihypertensive action?",
     "options": {
       "A": "Rhubarb",
       "B": "Vasaka",
@@ -165,35 +165,35 @@ window.quizPart16 = [
       "D": "Rauwolfia"
     },
     "answer": "D",
-    "explanation": "action. Rauwolfia serpentina possesses the alkaloid reserpine that is useful agent to treat the blood pressure and other neurological diseases. Reserpine produces its antihyper tensive effect by binding to the catecholamine in the nerve cells."
+    "explanation": "Rauwolfia serpentina contains reserpine, an alkaloid that depletes vesicular monoamines in sympathetic nerve endings, leading to vasodilation and reduced blood pressure."
   },
   {
     "id": "kpsc_ph_765",
-    "question": "Which among the following is used as a diuretic:",
+    "question": "Which of the following plant sources is traditionally used as a diuretic agent?",
     "options": {
       "A": "Tribulus terrestris",
       "B": "Claviceps purpurea",
       "C": "Cyamopsis tetragonolobus",
-      "D": "Commiphora molmol"
+      "D": "Commiphora myrrha"
     },
     "answer": "A",
-    "explanation": "Claviceps purpurea :  Dihydroergotamine and ergotamine belong to the group of medicines known a ergot alkaloids, they are used to treat severe throbbing headaches, such as migraine and cluster headaches. Cyamopsis tetragonolobus : - Cyamopsis tetragonolobus is used to thicken foods and is also used as a dietary supplement."
+    "explanation": "Tribulus terrestris (Gokhru) contains steroidal saponins and potassium salts that promote urine excretion, establishing its use as a natural diuretic."
   },
   {
     "id": "kpsc_ph_766",
-    "question": "Which one of the following is used as an antimicrobial preservative:",
+    "question": "Which of the following compounds is widely used as an antimicrobial preservative in pharmaceutical formulations?",
     "options": {
       "A": "Propylene glycol",
       "B": "Procaine hydrochloride",
-      "C": "Propyl hydroxy benzoate",
-      "D": "Sodium hydrogen carbonate"
+      "C": "Propyl paraben (Propyl hydroxybenzoate)",
+      "D": "Sodium bicarbonate"
     },
     "answer": "C",
-    "explanation": "by condensation of benzoic acid and propanol. It has a balsamic odor reminescent of nuts with a sweet, fruity, nut-like taste. it has a role as a flavouring agent a plant metabolite and an antimicrobial food preservative."
+    "explanation": "Propyl paraben (propyl hydroxybenzoate) is an ester of p-hydroxybenzoic acid used to prevent mold and bacterial growth in liquid and semi-solid pharmaceuticals."
   },
   {
     "id": "kpsc_ph_767",
-    "question": "The toxic protein present in castor oil is",
+    "question": "The toxic protein component found within the seeds of the castor oil plant is:",
     "options": {
       "A": "Ricinoleic acid",
       "B": "Ricin",
@@ -201,11 +201,11 @@ window.quizPart16 = [
       "D": "Linoleic acid"
     },
     "answer": "B",
-    "explanation": "Ricin. The costor oil plant (Ricinus communis communsil.) belonging to the plant family of Euphordiaceae, is highly toxic because of the presence of recin a water - soluble glycoprotein concent rated in the seed endosperm but present in lower amounts in the rest of the plant and reputed to be one of the most poisonus of the naturally."
+    "explanation": "Ricin is the toxic phytotoxin protein component found in castor seeds. Ricinoleic acid is the primary laxative-inducing fatty acid component of the processed oil."
   },
   {
     "id": "kpsc_ph_768",
-    "question": "Presence of lignified trichomes is the characteristic microscopic feature of ================================================================================ PAGE : 656 ================================================================================ Pharmacognosy 656 YCT",
+    "question": "The presence of long, structural lignified trichomes is a distinctive diagnostic microscopic feature of:",
     "options": {
       "A": "Nux-vomica",
       "B": "Digitalis",
@@ -213,35 +213,35 @@ window.quizPart16 = [
       "D": "Cinchona"
     },
     "answer": "A",
-    "explanation": "characteristic microscopic feature of NUX - vomica. Homeopathic NUX vomica is prepared in a safe microdosed form and continues to be a useful medicine for gastrointestinal issues, it relievers nausea and cramps from indigestion, especially after excessive eating of spicy food or drinking coffee or alcohal"
+    "explanation": "Nux-vomica seeds are characterized by a dense covering of closely appressed, thick-walled, lignified epidermal trichomes that give the seed coat its silken appearance."
   },
   {
     "id": "kpsc_ph_769",
-    "question": "An example for an anthracene glycoside",
+    "question": "Which of the following represents an example of an anthracene (anthraquinone) glycoside?",
     "options": {
-      "A": "Purpurea glycoside (b) Diosgenin",
-      "B": "",
+      "A": "Purpurea glycoside A",
+      "B": "Diosgenin",
       "C": "Cantharidin",
       "D": "Sennoside"
     },
     "answer": "D",
-    "explanation": "glycosides, for example the sennosides from senna (cassia species) are o - glycosides and the aloins from aloe are c =- glycosides."
+    "explanation": "Sennosides present in Senna leaves and pods are dimeric anthraquinone (anthracene) glycosides that induce rhythmic contractions in the colon."
   },
   {
     "id": "kpsc_ph_770",
-    "question": "Who among the following is not an Ex-officio member of central council of Pharmacy Council of India",
+    "question": "Who among the following is NOT an Ex-officio member of the Central Council of the Pharmacy Council of India (PCI)?",
     "options": {
-      "A": "Director General, Health Services",
-      "B": "Drugs Controller of India",
-      "C": "Director, Central Drugs Laboratory",
-      "D": "Health Secretary, Govt. of India"
+      "A": "Director General of Health Services",
+      "B": "Drugs Controller General of India",
+      "C": "Director of the Central Drugs Laboratory",
+      "D": "Health Secretary, Government of India"
     },
     "answer": "D",
-    "explanation": "- officio member of central council of pharmacy council of India. Three members of central council of Pharmacy council of India are Director General, Health services, Drug controller of India, Director, central Drugs Laboratory."
+    "explanation": "The three Ex-officio members of the PCI are the Director General of Health Services, the Drugs Controller General of India, and the Director of the Central Drugs Laboratory. The Health Secretary is not a member."
   },
   {
     "id": "kpsc_ph_771",
-    "question": "Eugenia caryophyllus is the botanical name of",
+    "question": "Eugenia caryophyllus (Syzygium aromaticum) is the official botanical name of:",
     "options": {
       "A": "Clove",
       "B": "Eucalyptus",
@@ -249,23 +249,23 @@ window.quizPart16 = [
       "D": "Cardamom"
     },
     "answer": "A",
-    "explanation": "of clove . Syzigium aromaticum (Myrtaceae) formaerly known as Eugenia caryophyllata, and commonly known as \"clove\", is one of the most widely used African medicinal plant. Coriander, ⇒ The botanical name of coriander is coriandrum sativum. Cardamom :  The batanical name of cardamom is Elettaria cardamomum"
+    "explanation": "Clove consists of the dried flower buds of Eugenia caryophyllus (synonym: Syzygium aromaticum), belonging to the family Myrtaceae."
   },
   {
     "id": "kpsc_ph_772",
-    "question": "Which one is the best emulsifying agent for oral emulsion?",
+    "question": "Which of the following natural hydrocolloids is considered the best and most widely used emulsifying agent for oral emulsions?",
     "options": {
       "A": "Acacia",
       "B": "Tragacanth",
       "C": "Beeswax",
-      "D": "Woolfat"
+      "D": "Wool fat"
     },
     "answer": "A",
-    "explanation": "emulsion. Gum Arabic (GA), which is also known as acacia gum is a branched, neutral, or slightly acidic,. It is widely used is food and pharmaceutical applications."
+    "explanation": "Acacia (Gum Arabic) is highly soluble in water and forms a low-viscosity molecular film around oil droplets, making it the premier choice for stabilizing oral O/W emulsions."
   },
   {
     "id": "kpsc_ph_773",
-    "question": "Which one of the following is an emulsifying agent in Turpentine Liniment B.P.?",
+    "question": "Which component acts as the primary emulsifying agent in the preparation of Turpentine Liniment?",
     "options": {
       "A": "Turpentine oil",
       "B": "Camphor",
@@ -273,11 +273,11 @@ window.quizPart16 = [
       "D": "Soft soap"
     },
     "answer": "D",
-    "explanation": "Turpentine Liniment B.P.A thick creamy emulsion is formed when camphor is dissolved in turpentine oil and then soap solution is mixed gradually to get and emulsion."
+    "explanation": "Turpentine Liniment is an oil-in-water emulsion stabilized by ammonium or potassium oleate generated in situ via the addition of soft soap."
   },
   {
     "id": "kpsc_ph_774",
-    "question": "Which one of the crude drug has blood cholesterol lowering property ?",
+    "question": "Which of the following crude drugs possesses well-documented blood cholesterol-lowering properties?",
     "options": {
       "A": "Garlic",
       "B": "Gymnema",
@@ -285,11 +285,11 @@ window.quizPart16 = [
       "D": "Shankhpushpi"
     },
     "answer": "A",
-    "explanation": "perenial plant and produces edible bulbs. Allicin is a organosulfur compound obtained from garlic has been used also as for medical or healthcare purposes some researches have found that garlic has the ability to control cholesterol level in our body. Garlic has cardiovascular, antineoplastic and antimicrobial properties."
+    "explanation": "Garlic (Allium sativum) contains organosulfur compounds like allicin, which inhibit HMG-CoA reductase and help lower serum cholesterol levels."
   },
   {
     "id": "kpsc_ph_775",
-    "question": "Among the crude drug which one has antioxytocic property ?",
+    "question": "Which of the following crude plant drugs exhibits antioxytocic property?",
     "options": {
       "A": "Vasaka",
       "B": "Nutmeg",
@@ -297,35 +297,35 @@ window.quizPart16 = [
       "D": "Ergot"
     },
     "answer": "C",
-    "explanation": "family and also known as Asparagus racemosus, The dried roots of the plant are used has drug. Shatavari root extract has antiulcer antioxidant and antidiabetic activities."
+    "explanation": "Shatavari (Asparagus racemosus) root extracts show specific blocks against oxytocin-induced uterine contractions, revealing antioxytocic/uterine relaxant properties."
   },
   {
     "id": "kpsc_ph_776",
-    "question": "Among the following which one is adulterant of Digitalis ?",
+    "question": "Which of the following plants is a common commercial leaf adulterant of Digitalis purpurea?",
     "options": {
       "A": "Digitalis lanata",
       "B": "Verbascum thapsus",
       "C": "Phytolacca decandra",
-      "D": "Ailanthusglandulosa"
+      "D": "Ailanthus glandulosa"
     },
     "answer": "B",
-    "explanation": "medicinal plant used to treat pulmonary problems, asthma, diarrhea and migrane headaches etc. verbascum Thapsus is also commonly cited as an adulterant of digitalis (a herbal medicine)."
+    "explanation": "Verbascum thapsus (Mullein leaves) is a common adulterant mixed with digitalis leaves. They can be distinguished microscopically by their branched, candle-like (verbascum) trichomes."
   },
   {
     "id": "kpsc_ph_777",
-    "question": "Which is the source of Ergot? purpurea",
+    "question": "What is the biological source of the crude drug Ergot?",
     "options": {
-      "A": "Dried Sclerotium of the fungus Claviceps",
-      "B": "Gelidium amansi",
-      "C": "Aegle marmelose",
-      "D": "Ferula foetida"
+      "A": "Dried sclerotium of the fungus Claviceps purpurea",
+      "B": "Dried thallus of Gelidium amansii",
+      "C": "Dried pulp of Aegle marmelos",
+      "D": "Oleogum resin of Ferula foetida"
     },
     "answer": "A",
-    "explanation": "fungus Claviceps purpurea. Ergot is used for excessive bleeding during menstrual periods to expel placenta after childbirth. Ergot is unsafe when take by mouth as there is high risk of poisoning and toxic effect."
+    "explanation": "Ergot is the dried sclerotium of the Ascomycete fungus Claviceps purpurea, which develops within the ovary of rye plants (Secale cereale)."
   },
   {
     "id": "kpsc_ph_778",
-    "question": "Morphine is obtained from which crude drug? ================================================================================ PAGE : 657 ================================================================================ Pharmacognosy 657 YCT",
+    "question": "Morphine is isolated directly from which of the following raw crude drugs?",
     "options": {
       "A": "Cannabis",
       "B": "Opium",
@@ -333,23 +333,23 @@ window.quizPart16 = [
       "D": "Liquorice"
     },
     "answer": "B",
-    "explanation": "from the poppy plant (papaver- somniferum). Opium is key source of many narcotics, including morphine, codeine and heroin ."
+    "explanation": "Morphine is the primary alkaloid found in opium, the air-dried milky exudate of Papaver somniferum."
   },
   {
     "id": "kpsc_ph_779",
-    "question": "Which one of the following is adulterant of acacia?",
+    "question": "Which of the following gums is a common adulterant or substitute for Acacia?",
     "options": {
       "A": "Ghatti gum",
-      "B": "Daraya gum",
+      "B": "Sterculia gum",
       "C": "Chitral gum",
-      "D": "Katria gum"
+      "D": "Karaya gum"
     },
     "answer": "A",
-    "explanation": "species Agnogeissus latifalia which is native of India. Ghatti gum is also mixed with acacia gum, i,e Indian gum Ghatti can be used as substitute of acacia s both are polysaccharides. Gum acacia is used as a food stabilizer, emulsifier or thickener and as in medicines ."
+    "explanation": "Gum Ghatti (obtained from Anogeissus latifolia) is commonly used to substitute or adulterate Acacia gum due to its similar polysaccharide structural properties."
   },
   {
     "id": "kpsc_ph_780",
-    "question": "Which one of the following is a fruit drug from Umbelliferae family?",
+    "question": "Which of the following is a fruit-derived crude drug belonging to the family Umbelliferae (Apiaceae)?",
     "options": {
       "A": "Cardamom",
       "B": "Coriander",
@@ -357,11 +357,11 @@ window.quizPart16 = [
       "D": "Pepper"
     },
     "answer": "B",
-    "explanation": "family herb. Coriander seeds, extract and oil may all help lower blood sugar. coriander provides several antioxidants which prevent cellular damage caused by free radicals."
+    "explanation": "Coriander consists of the dried ripe fruits of Coriandrum sativum, which belongs to the family Umbelliferae."
   },
   {
     "id": "kpsc_ph_781",
-    "question": "Which Bark drugs had antimalarial activity ?",
+    "question": "Which bark-derived crude drug contains alkaloids that possess antimalarial activity?",
     "options": {
       "A": "Cassia bark",
       "B": "Cinnamon bark",
@@ -369,47 +369,47 @@ window.quizPart16 = [
       "D": "Quillaia bark"
     },
     "answer": "C",
-    "explanation": "medicine used to treat malaria. Bark of cinchona tree also contains quinidine a medicine used in the treatment of heart palpitation (arrhythmias)."
+    "explanation": "Cinchona bark contains quinoline alkaloids—primarily quinine—which act as a blood schizonticide to treat malaria."
   },
   {
     "id": "kpsc_ph_782",
-    "question": "Which alkaloid gives emerald green colour in Thalleoquin test?",
+    "question": "Which class of alkaloids yields a characteristic emerald green color when subjected to the Thalleioquin test?",
     "options": {
-      "A": "Quinazoline alkaloid (b) Quinoline alkaloid",
-      "B": "",
-      "C": "Indole alkaloid",
-      "D": "Tropane alkaloid"
+      "A": "Quinazoline alkaloids",
+      "B": "Quinoline alkaloids",
+      "C": "Indole alkaloids",
+      "D": "Tropane alkaloids"
     },
     "answer": "B",
-    "explanation": "color in thalleoquin test. Quinoline alkaloids are naturally occurring chemical compounds from the group of alkaloids which are chemically derived from quinoline."
+    "explanation": "The Thalleioquin test is a specific identification test for quinoline alkaloids that contain a methoxy group (like quinine and quinidine). Treating them with bromine water and ammonia produces an emerald green color."
   },
   {
     "id": "kpsc_ph_783",
-    "question": "Which drug contain Reserpine ?",
+    "question": "Which crude drug contains the sympatholytic antihypertensive alkaloid Reserpine?",
     "options": {
-      "A": "Rauwolfia bark",
-      "B": "pyrethrum",
-      "C": "Neem",
-      "D": "Asoka"
+      "A": "Rauwolfia root",
+      "B": "Pyrethrum flower",
+      "C": "Neem leaves",
+      "D": "Asoka bark"
     },
     "answer": "A",
-    "explanation": "Rauwolfia vomitoria plants found as traditional herbal medicine. Root of this plant was brewed as a tea and also used to treat hypertension, insanity snakebite, and cholera."
+    "explanation": "Reserpine is isolated from the dried roots of Rauwolfia serpentina (Family: Apocynaceae)."
   },
   {
     "id": "kpsc_ph_784",
-    "question": "Which one of the following crude drug contains cardiac glycoside?",
+    "question": "Which of the following crude drugs contains anthraquinone glycosides as its primary active components?",
     "options": {
       "A": "Aloe",
-      "B": "Senna",
-      "C": "Cascara",
-      "D": "Asafoetide"
+      "B": "Digitalis",
+      "C": "Strophanthus",
+      "D": "Squill"
     },
     "answer": "A",
-    "explanation": "glycosides that enhance myocardial contractility by increasing levels of myocardial cytosolic calcium due to inhibition of sodium potassium ATpase The digitalis glycoside are potent cardiovascular drugs used in the treatment of mild to moderate heart failure. 692 . Which one of the following is an unorganised drug containing Anthraquinone glycoside? components i,e anthraquinone glycosides and these are present in exudate of Aloe species and usually occur as o-glycosides or c-glycosides several anthraquinone containing herbs are used a laxative agents."
+    "explanation": "Aloe contains anthraquinone glycosides (such as aloin/barbaloin) that exert a stimulant laxative effect on the large intestine."
   },
   {
     "id": "kpsc_ph_785",
-    "question": "Which crude drug used as dental analgesic ?",
+    "question": "Which crude drug is widely used as a local dental analgesic to soothe toothaches?",
     "options": {
       "A": "Clove",
       "B": "Colchicum",
@@ -417,11 +417,11 @@ window.quizPart16 = [
       "D": "Brahmi"
     },
     "answer": "A",
-    "explanation": "dental pain. Clove oil contains the active ingredient eugenol which is a natural anesthetic. It helps numb and reduce pain to ease toothache."
+    "explanation": "Clove oil contains high amounts of eugenol, which blocks nerve conduction to provide local anesthetic and analgesic relief during dental pain."
   },
   {
     "id": "kpsc_ph_786",
-    "question": "Among the following alkaloids which one is identifed by Vitali-Morin reaction?",
+    "question": "Which of the following alkaloids is identified by the Vitali-Morin chemical reaction?",
     "options": {
       "A": "Atropine",
       "B": "Caffeine",
@@ -429,23 +429,23 @@ window.quizPart16 = [
       "D": "Brucine"
     },
     "answer": "A",
-    "explanation": "Atropine. Tropic acid esters e.g atropine , scopolamine etc give and intense atropine, scopolamine etc, give an intense purple colour in the vitali - morin reaction ."
+    "explanation": "The Vitali-Morin test specifically identifies tropane alkaloids like atropine and scopolamine by producing a deep violet/purple color solution."
   },
   {
     "id": "kpsc_ph_787",
-    "question": "Which crude drug contain Sympathomimetric alkaloid?",
+    "question": "Which crude drug contains an active alkaloid that possesses direct cholinomimetic/sympathomimetic actions?",
     "options": {
-      "A": "Nuxvomica",
+      "A": "Nux-vomica",
       "B": "Ergot",
-      "C": "Belladona",
+      "C": "Belladonna",
       "D": "Ephedra"
     },
     "answer": "D",
-    "explanation": "properties as it contains various kinds of active alkaloid s and ephedrine is one among them. Ephedrine has the Sympathomimetric property. sympathomimetric drugs directly activate adrenergic receptors or indirectly activate them by increasing nor epinephrine and epinephrine levels."
+    "explanation": "Ephedra contains ephedrine, an alkaloid that mimics adrenaline by acting directly and indirectly on alpha and beta-adrenergic receptors."
   },
   {
     "id": "kpsc_ph_788",
-    "question": "What is the use of Ergometrine?",
+    "question": "What is the primary clinical pharmacological use of Ergometrine?",
     "options": {
       "A": "Emetic",
       "B": "Antineoplastic agent",
@@ -453,71 +453,71 @@ window.quizPart16 = [
       "D": "Expectorant"
     },
     "answer": "C",
-    "explanation": "medicines known as ergot alkaloids these medicines are usually given to stop excessive bleeding that sometimes occurs after abortion or a baby is delivered. It is used for the treatment of postpartum hemorrhage and post abortion hemorrhage in patients with uterine atony. ================================================================================ PAGE : 658 ================================================================================ Pharmacognosy 658 YCT Ergometrine - oxytocin (syntometrine) is more effective than oxytocin ins reducing blood loss during the delivery of the placentas, but has more side -effects • Oxytocic : A drug that stimulates contraction of the myometrium oxytocice are used to induce labor obstetrium oxytocics are used to induce labor obstetric at term, to prevent or control postpartum or post abortion hemorrhage, and t as total status in high risk pregnancies."
+    "explanation": "Ergometrine (ergonovine) is an oxytocic drug that stimulates uterine contractions, making it highly effective for preventing and treating postpartum hemorrhage."
   },
   {
     "id": "kpsc_ph_789",
-    "question": "Which one of the following is an unorganized drug form umbelliferae family?",
+    "question": "Which of the following is an unorganized crude drug belonging to the family Umbelliferae (Apiaceae)?",
     "options": {
       "A": "Aloe",
       "B": "Benzoin",
-      "C": "Asafoetide",
+      "C": "Asafoetida",
       "D": "Catechu"
     },
     "answer": "C",
-    "explanation": "plant of the umbelliferae family. Asafoetida is used as flavoring spice as well as traditionally also used for the treatment of various disease such as asthma, epilepsy, stomach-ach weak digestion and influenza"
+    "explanation": "Asafoetida is an oleo-gum-resin obtained by incising the living rhizomes and roots of Ferula foetida, an unorganized drug from the Umbelliferae family."
   },
   {
     "id": "kpsc_ph_790",
-    "question": "What is the synonym for Lanolin?",
+    "question": "What is the official pharmaceutical synonym for Lanolin?",
     "options": {
       "A": "Hydrous wool fat",
       "B": "Purified balsam",
-      "C": "Oleo gum resin",
-      "D": "Anhydrous woolfat"
+      "C": "Oleo-gum-resin",
+      "D": "Anhydrous wool fat"
     },
     "answer": "A",
-    "explanation": "obtained in oily form, from sheep. It is very useful in various kinds of cosmeceuticals and in pharmaceuticals since it gives good care to dry- skin and scalp."
+    "explanation": "Lanolin containing 25-30% water is officially termed Hydrous Wool Fat, whereas pure wool fat without water is Anhydrous Wool Fat."
   },
   {
     "id": "kpsc_ph_791",
-    "question": "Which is the source of Emetine?",
+    "question": "What is the biological source of the amoebicidal alkaloid Emetine?",
     "options": {
-      "A": "Strychnos nuxvomics",
-      "B": "plantago ovata",
+      "A": "Strychnos nux-vomica",
+      "B": "Plantago ovata",
       "C": "Cephaelis ipecacuanha",
       "D": "Adhatoda vasica"
     },
     "answer": "C",
-    "explanation": "compound. It is obtained from the roots of a south- American plant cephacelis inpecacuanha."
+    "explanation": "Emetine is an isoquinoline alkaloid extracted from the dried roots and rhizomes of Cephaelis ipecacuanha (Family: Rubiaceae)."
   },
   {
     "id": "kpsc_ph_792",
-    "question": "Which one of the following drug has immunomodulatory activity?",
+    "question": "Which of the following crude drugs is recognized as an adaptogen with potent immunomodulatory activity?",
     "options": {
-      "A": "Aswagandha",
+      "A": "Ashwagandha",
       "B": "Punarnava",
       "C": "Coriander",
       "D": "Arjuna"
     },
     "answer": "A",
-    "explanation": "somnifera is a nontoxic herb and it is used in ayurvedic formulation and well known for its immunomodulatory activity. It releases stress fatigue and pain."
+    "explanation": "Withania somnifera (Ashwagandha) contains steroidal lactones (withanolides) that exert immunomodulatory, anti-stress, and adaptogenic effects."
   },
   {
     "id": "kpsc_ph_793",
-    "question": "Select most suitable category for Tramadol?",
+    "question": "Select the most suitable pharmacological category for Tramadol:",
     "options": {
       "A": "Opioid analgesic",
       "B": "Antiarrhythmic drug",
-      "C": "Non-narcotic analgesic",
+      "C": "Non-narcotic NSAID",
       "D": "Antiepileptic drug"
     },
     "answer": "A",
-    "explanation": "called opioid analgesic. It is approved for the management of moderate to severe pain in adults. Recent research has show that tramadol in effective in treating premature ejaculation (PE) humans."
+    "explanation": "Tramadol is a synthetic, centrally acting opioid analgesic that binds to mu-opioid receptors and inhibits the reuptake of norepinephrine and serotonin."
   },
   {
     "id": "kpsc_ph_794",
-    "question": "Which drugs is used in treating acute gout?",
+    "question": "Which plant-derived alkaloid is used specifically to manage acute flares of gout?",
     "options": {
       "A": "Reserpine",
       "B": "Ergotamine",
@@ -525,59 +525,59 @@ window.quizPart16 = [
       "D": "Cocaine"
     },
     "answer": "C",
-    "explanation": "treatment of acute gout. Colchicine is an anti- inflammatory drug and used for is one of the gout prophylaxis and treatment of acute gouty flares. Colchcine is one of the oldest remedies and still in use in modern times. It is derived from the - bulb like corms of colchicum autumnale plant of known as autumn crocus."
+    "explanation": "Colchicine is an alkaloid isolated from Colchicum autumnale. It stops neutrophil migration by disrupting microtubules, effectively arresting the inflammatory cascade during acute gouty arthritis attacks."
   },
   {
     "id": "kpsc_ph_795",
-    "question": "Shark liver oil contains: RUSH Pharmacist (16.06.2012)",
+    "question": "Shark liver oil is primarily used as a therapeutic supplement for its high concentration of:",
     "options": {
       "A": "Vitamin D",
       "B": "Vitamin A",
-      "C": "Vitamin A & D",
+      "C": "Vitamin A and D balanced equally",
       "D": "Vitamin E"
     },
     "answer": "B",
-    "explanation": "livers of sharks. • Shark liver oil contains vitamin A. It is used in the deficiency of vitamin A. • Vitamin obtained from natural sources: Cod liver oil (vitamin A and d), carrots (Vitamin. A) Amla (vitamin C) and shark liver oil (vitamin A), and yeast (vitamin B complex). • Free vitamin D is also present. • It also contains glycosides of saturated & unsaturated fatty acids."
+    "explanation": "Shark liver oil serves as a rich commercial source of Vitamin A, making it highly effective for treating dry eyes and nyctalopia (night blindness) caused by Vitamin A deficiency."
   },
   {
     "id": "kpsc_ph_796",
-    "question": "The validity period for medium term finance is up to _______",
+    "question": "Under standard commercial banking and agriculture practices, the validity duration for a medium-term finance loan spans:",
     "options": {
       "A": "Below 3 years",
       "B": "Above 10 years",
-      "C": "3-5 years",
-      "D": "3-10 years"
+      "C": "Under 1 year",
+      "D": "3 to 10 years"
     },
     "answer": "D",
-    "explanation": "is up to 3-10 years. Medium term is a holding period or investment horizon that is intermediate in nature. The exact period of the time that is considered medium term depends on the investor's personal preferences. as well as on the asset class under consideration. In the fixed-income market, bonds that have a maturity period of 2 to 10 years are considered to be medium- term bonds"
+    "explanation": "Financial structures generally classify loans into three categories: short-term (under 1-3 years), medium-term (3 to 10 years), and long-term (exceeding 10 years)."
   },
   {
     "id": "kpsc_ph_797",
-    "question": "The second step in selling process is",
+    "question": "In the standard seven-step structured personal selling framework, the step that directly follows Prospecting is:",
     "options": {
-      "A": "Pre-scale preparation (b)Prospecting",
-      "B": "",
-      "C": "Approaching",
-      "D": "Presentation"
+      "A": "Pre-approach (Preparation)",
+      "B": "The Approach",
+      "C": "Product Presentation",
+      "D": "Overcoming Objections"
     },
     "answer": "A",
-    "explanation": "a seller and a potential buyer or Client. It's generally a method businesses can replicate for consistent performance among salespeople. Businesses use the common seven steps of selling process to complete sales and ensure continued profits. The seven steps in selling process are as follows prospecting → Preparation → Approach → Presentation → Objection → Closing → Follow-up According to commission, correct answer is option (b)."
+    "explanation": "The standard sequence of the personal selling process follows this timeline: Prospecting -> Pre-approach (Preparation) -> Approach -> Presentation -> Handling Objections -> Closing the Sale -> Follow-up."
   },
   {
     "id": "kpsc_ph_798",
-    "question": "The colours have attention value in following order for window display is",
+    "question": "Which of the following color sequences reflects the correct descending order of human attention-grabbing value for window displays?",
     "options": {
-      "A": "Red>Orange>Yellow>Green>Blue",
-      "B": "Orange>Red>Yellow>Green>Blue",
-      "C": "Blue>Red>Yellow>Green>Orange",
-      "D": "Yellow>Red>Blue>Green>Orange"
+      "A": "Red > Orange > Yellow > Green > Blue",
+      "B": "Orange > Red > Yellow > Green > Blue",
+      "C": "Blue > Red > Yellow > Green > Orange",
+      "D": "Yellow > Red > Blue > Green > Orange"
     },
     "answer": "A",
-    "explanation": "for window display is Red > Orange > Yellow > Green > Blue one of the most important roles of color in visual merchandising is attracting, attention to a business or product. Bright colors such as red and orange tend of stand out and draw the eye, while cool colors such as blue and green do not."
+    "explanation": "High-wavelength warm colors draw the human eye first. Red holds the maximum attention-grabbing value, followed in order by orange, yellow, green, and blue."
   },
   {
     "id": "kpsc_ph_799",
-    "question": "The label schedule X drugs contain the symbol in left hand top corner is",
+    "question": "According to the Indian Drugs and Cosmetics Rules, the labels of Schedule X drugs must display which specific symbol on the top-left corner?",
     "options": {
       "A": "XRx",
       "B": "NRx",
@@ -585,11 +585,11 @@ window.quizPart16 = [
       "D": "XXRx"
     },
     "answer": "A",
-    "explanation": "maintain the copy of prescription for two years and the drugs should be labelled with the symbol 'XRx' and conspicuously displayed on the left top corner of the label. Schedule X includes narcotic and psychotropic substance based drugs, reads the draft rules."
+    "explanation": "Schedule X drugs (which include high-dependency narcotics and psychotropic substances) are legally required to bear the symbol 'XRx' printed conspicuously in red ink on the top-left corner of the label."
   },
   {
     "id": "kpsc_ph_800",
-    "question": "The schedule which describes the life period of drugs is",
+    "question": "Which schedule under the Indian Drugs and Cosmetics Rules prescribes the official life period (expiry dates) and storage conditions for drugs?",
     "options": {
       "A": "Schedule P",
       "B": "Schedule P1",
@@ -597,6 +597,6 @@ window.quizPart16 = [
       "D": "Schedule L1"
     },
     "answer": "A",
-    "explanation": "in months (unless otherwise specified) between date of manufacture and date of expiry which the labelled potency period of the drug shall not exceed, under the conditions of storage specified in column no- 4 of schedule P."
+    "explanation": "Schedule P details the official life period (in months) and explicit storage guidelines for various pharmaceutical substances, while Schedule P1 controls pack sizes."
   }
 ];
