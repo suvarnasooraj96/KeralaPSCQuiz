@@ -1,7 +1,7 @@
 window.quizPart4 = [
   {
     "id": "kpsc_ph_151",
-    "question": "The first edition of Indian pharmacopoeia was published in ESIC Delhi Pharmacist (19.03.2016)",
+    "question": "The first edition of the Indian Pharmacopoeia was published in the year",
     "options": {
       "A": "1955",
       "B": "1966",
@@ -9,7 +9,7 @@ window.quizPart4 = [
       "D": "1945"
     },
     "answer": "A",
-    "explanation": "published in 1955. After independence the India pharmacopoeia committee was constituted in 1948. Recently in 2022 ninth edition of Indian Pharmacopoeia was published. • 2nd edition of Indian pharmacopoeia was published in 1966 and its supplement in 1975. • 3rd edition appeared in 1985 with 2 addenda in 1989 and 1991."
+    "explanation": "The first edition of the Indian Pharmacopoeia (IP) was officially published in 1955. Following independence, the Indian Pharmacopoeia Committee was constituted in 1948 to oversee its development."
   },
   {
     "id": "kpsc_ph_152",
@@ -21,47 +21,47 @@ window.quizPart4 = [
       "D": "500 ml"
     },
     "answer": "B",
-    "explanation": "∴ According to question, 80 50 x 1000 100 100 × = × ∴ 1000 50 100 x 80 100 × × = × ∴ x = 625 ml"
+    "explanation": "Using the dilution equation $C_1 V_1 = C_2 V_2$: here $80\% \times V_1 = 50\% \times 1000\text{ ml}$. Solving for $V_1$ yields $\frac{50 \times 1000}{80} = 625\text{ ml}$. The remaining volume is made up with water."
   },
   {
     "id": "kpsc_ph_153",
-    "question": "Example for a filter made of cellulose",
+    "question": "Which of the following filters is primarily composed of cellulose esters?",
     "options": {
-      "A": "Sintered glass filter (b) Seitz filter",
-      "B": "",
+      "A": "Sintered glass filter",
+      "B": "Seitz filter",
       "C": "Meta filter",
       "D": "Membrane filter"
     },
     "answer": "D",
-    "explanation": "made of cellulose. Membrane filters have various kind of uses as in pharmaceutical application, water purification as it is used in reverse osmosis (RO) to remove minerals and other particulate matter from drinking water."
+    "explanation": "Standard pharmaceutical membrane filters are manufactured from cellulose esters (such as cellulose nitrate or cellulose acetate) or nylon, providing uniform micro-porosity suitable for sterile filtration."
   },
   {
     "id": "kpsc_ph_154",
-    "question": "Example for a non-ionic emulsifying agent",
+    "question": "Which of the following is an example of a non-ionic emulsifying agent?",
     "options": {
       "A": "Sodium lauryl sulphate",
-      "B": "Polyoxyethylene sorbitan mono oleate",
+      "B": "Polyoxyethylene sorbitan monooleate",
       "C": "Cetyl trimethyl ammonium bromide",
       "D": "Dodecyl pyridinium chloride"
     },
     "answer": "B",
-    "explanation": "example of a non-ionic emulsifying agent. This kind of non-ionic emulsifiers are the surfactants that can be soluble in aqueous solution without ionization. They are mainly used as wetting agents, agrochemical emulsifiers, metal cleaners, sanitizers and as defoaming agents"
+    "explanation": "Polyoxyethylene sorbitan monooleate (Polysorbate 80 / Tween 80) is a non-ionic surfactant. It carries no net electrical charge in aqueous solutions and is widely used to stabilize oil-in-water emulsions."
   },
   {
     "id": "kpsc_ph_155",
-    "question": "Solution prepared by dissolving 5% iodine in water is",
+    "question": "A pharmaceutical solution prepared by dissolving 5% w/v iodine and 10% w/v potassium iodide in water is known as",
     "options": {
       "A": "Aqueous iodine solution",
       "B": "Weak iodine solution",
-      "C": "Lodine tincture",
+      "C": "Iodine tincture",
       "D": "Povidone iodine"
     },
     "answer": "A",
-    "explanation": "in water is called aqueous iodine solution. It is a strong iodine solution and formed as solution of potassium iodide with iodine in water As a disinfectant it way be applied to small wounds and used to treat thyrotoxicosis. ================================================================================ PAGE : 151 ================================================================================ Pharmaceutics 151 YCT"
+    "explanation": "Aqueous Iodine Solution IP (also traditionally termed Lugol's solution) contains 5% w/v iodine dissolved in water using potassium iodide to enhance solubility via triiodide complex formation."
   },
   {
     "id": "kpsc_ph_156",
-    "question": "Tablets placed under the tongue are called",
+    "question": "Tablets designed to be placed beneath the tongue for systemic absorption are called",
     "options": {
       "A": "Buccal tablets",
       "B": "Troches",
@@ -69,35 +69,35 @@ window.quizPart4 = [
       "D": "Lozenges"
     },
     "answer": "C",
-    "explanation": "sublingual tables. Sublingual is a Latin word for ''under the tongue''. It refers to the pharmacological route of administration by which a drug or substances diffuse into the blood through tissues under the tongue."
+    "explanation": "Sublingual tablets are placed under the tongue, dissolving rapidly to allow the active drug to diffuse directly across the oral mucosa into the systemic circulation, bypassing the hepatic first-pass metabolism."
   },
   {
     "id": "kpsc_ph_157",
-    "question": "In sugar coating subcoating is done surface table surface",
+    "question": "In the sugar coating process of tablets, the primary objective of subcoating is",
     "options": {
-      "A": "To round the edges and build up the tablet",
-      "B": "To cover and fill the imperfections in the",
-      "C": "To prevent moisture penetration",
-      "D": "To obtain desired luster"
+      "A": "To round the sharp edges and build up the tablet size",
+      "B": "To prevent ambient moisture penetration into the core",
+      "C": "To provide a smooth gloss finish",
+      "D": "To print identifying text on the surface"
     },
     "answer": "A",
-    "explanation": "with sugar to round the edges and build up the tablet surface to hide or mask the unsavoury taste of the drug that some patients may find unpalatable."
+    "explanation": "Subcoating is performed to round off the sharp profiles of the compressed tablet core and rapidly build up the tablet weight and size using a combination of heavy sucrose syrup and dusting powders."
   },
   {
     "id": "kpsc_ph_158",
-    "question": "Example for a tablet disintegrants",
+    "question": "Which of the following materials functions as a tablet superdisintegrant?",
     "options": {
       "A": "Lactose",
       "B": "Acacia",
-      "C": "Primogel",
+      "C": "Primojel",
       "D": "Talc"
     },
     "answer": "C",
-    "explanation": "radium starch glycolate a type of superdisintegrant suitable for various tables and capsule formulations. Primogel can act as a dissolution enchaining agent."
+    "explanation": "Primojel is a commercial brand of sodium starch glycolate, a highly effective superdisintegrant that swells rapidly upon contact with moisture, facilitating the rapid breakup of the tablet matrix."
   },
   {
     "id": "kpsc_ph_159",
-    "question": "Which one of the following is an example for reversible Process?",
+    "question": "Which of the following emulsion instability phenomena represents a clinically reversible process?",
     "options": {
       "A": "Cracking",
       "B": "Creaming",
@@ -105,71 +105,71 @@ window.quizPart4 = [
       "D": "Breaking"
     },
     "answer": "B",
-    "explanation": "• It is a reversible process, i.e., cream can be re- dispersed easily by agitation, this is possible because the oil globules are still surrounded by the protective sheath of the emulsifier. • It is the concentration of globules at the top or bottom of the emulsion."
+    "explanation": "Creaming involves the upward or downward migration of dispersed globules due to density differences. It is a reversible process because the protective interfacial surfactant film remains intact, enabling re-dispersion upon gentle agitation."
   },
   {
     "id": "kpsc_ph_160",
-    "question": "The items which become useless due to change in design, Product or Process are called",
+    "question": "In inventory management, items that become completely useless due to changes in design, product specifications, or manufacturing processes are termed",
     "options": {
-      "A": "Slow moving items (b) Dormant items",
-      "B": "",
+      "A": "Slow-moving items",
+      "B": "Dormant items",
       "C": "Obsolete items",
       "D": "Legitimate items"
     },
     "answer": "C",
-    "explanation": "becomes out of use after a long duration of time due to new technology items have replaced them, as old or obsolete items become useless due to change in design, product or process."
+    "explanation": "Obsolete items are materials, parts, or finished stock that have been completely phased out and rendered unusable due to technological advancement, standard revisions, or process redesign."
   },
   {
     "id": "kpsc_ph_161",
-    "question": "Formula used for calculating dose for an infant",
+    "question": "Which mathematical formula estimates a pediatric dose based on the infant's age in months divided by 150?",
     "options": {
-      "A": "Dillings formula",
-      "B": "Clarks formula",
-      "C": "Cowlings formula",
-      "D": "Frieds formula"
+      "A": "Dilling's formula",
+      "B": "Clark's formula",
+      "C": "Cowling's formula",
+      "D": "Fried's formula"
     },
     "answer": "D",
-    "explanation": "for an infant, by the Fried's rule dose of medication for a child is estimated by dividing the child's age in months by 150 and multiplying the result by the adult Dose."
+    "explanation": "Fried's rule calculates infant dosing via the relationship: $\text{Infant Dose} = \frac{\text{Age in months}}{150} \times \text{Adult Dose}$."
   },
   {
     "id": "kpsc_ph_162",
-    "question": "Drugs coloured, coated, powdered or polished so as to conceal damage is",
+    "question": "Under the Drugs and Cosmetics Act, a drug that is colored, coated, powdered, or polished to conceal damage or make it appear better than it is, is classified as a",
     "options": {
-      "A": "Spurious drugs",
-      "B": "Misbranded drugs",
-      "C": "Adulterated drugs",
-      "D": "New drugs"
+      "A": "Spurious drug",
+      "B": "Misbranded drug",
+      "C": "Adulterated drug",
+      "D": "New drug"
     },
     "answer": "B",
-    "explanation": "or polished so as to conceal damage is considered as - misbranded drugs. Under the pharmacy act."
+    "explanation": "A drug is legally deemed misbranded if it is manipulated cosmetically via coloring, coating, or polishing explicitly to conceal structural defects, degradation, or chemical damage."
   },
   {
     "id": "kpsc_ph_163",
-    "question": "Latin term S. O. S means",
+    "question": "The medical prescription Latin abbreviation 'S.O.S.' (si opus sit) translates to",
     "options": {
-      "A": "Take alternate days (b) Take immediately",
-      "B": "",
+      "A": "Take on alternate days",
+      "B": "Take immediately",
       "C": "Take as directed",
       "D": "Take when necessary"
     },
     "answer": "D",
-    "explanation": "which means Si opus Sit, In medical, terms S.O.S. has different meanings such as if required. It is usually used while crating prescriptions. So, Latin term S.O.S. means 'take when necessary'."
+    "explanation": "'Si opus sit' translates directly to 'if there is need' or 'when necessary', instructing the patient to administer the dose on an as-needed basis rather than on a rigid chronological routine."
   },
   {
     "id": "kpsc_ph_164",
-    "question": "1 grain is",
+    "question": "In the apothecaries' system, 1 grain (gr) is approximately equivalent to metric units as",
     "options": {
       "A": "15 mg",
-      "B": "60 mg",
+      "B": "65 mg",
       "C": "15 g",
       "D": "450 mg"
     },
     "answer": "B",
-    "explanation": ""
+    "explanation": "One standard apothecary grain is mathematically defined as equivalent to approximately 64.798 milligrams, which is routinely rounded to 60 mg or 65 mg in standard pharmaceutical calculations."
   },
   {
     "id": "kpsc_ph_165",
-    "question": "Which among the following is a Prodrug?",
+    "question": "Which of the following therapeutic compounds functions as a prodrug requiring in vivo metabolic activation?",
     "options": {
       "A": "Morphine",
       "B": "Ampicillin",
@@ -177,59 +177,59 @@ window.quizPart4 = [
       "D": "Ibuprofen"
     },
     "answer": "C",
-    "explanation": "active form once they enter the body and Acyclovir is also a prodrug. Acyclovir is an antiviral drug that is used to treat, chickenpox, cold sores and genital herpes, etc."
+    "explanation": "Acyclovir acts as a prodrug. It must be selectively phosphorylated by viral thymidine kinase into acyclovir monophosphate, and subsequently by cellular kinases into the active triphosphate form to inhibit viral DNA synthesis."
   },
   {
     "id": "kpsc_ph_166",
-    "question": "What is the percentage strength of 1:5000 solution?",
+    "question": "What is the percentage strength (% w/v) of a 1:5000 solute-to-solvent solution ratio?",
     "options": {
       "A": "0.20%",
-      "B": "2%",
-      "C": "0.00%",
+      "B": "2.00%",
+      "C": "0.002%",
       "D": "0.02%"
     },
     "answer": "D",
-    "explanation": "% strength Volume of solule 100 Volume of soution = × 1 100 5000 = × 100"
+    "explanation": "A 1:5000 ratio means 1 gram of solute is contained within 5000 ml of solution. Expressed as a percentage: $\frac{1}{5000} \times 100 = 0.02\%\,\text{w/v}$."
   },
   {
     "id": "kpsc_ph_167",
-    "question": "Example for anionic surfactant",
+    "question": "Which of the following compounds is classified structurally as an anionic surfactant?",
     "options": {
       "A": "Glycine",
       "B": "Sodium dodecyl sulphate",
-      "C": "Trialkyl Ammonium",
+      "C": "Trialkyl ammonium chloride",
       "D": "Polyethylene glycol"
     },
     "answer": "B",
-    "explanation": "known as lauryl sulfate is anionic detergent or a surfactant, that is useful for the rapid disruption of biological membranes. SDS is widely used in peptide and protein sample preparation. ================================================================================ PAGE : 152 ================================================================================ Pharmaceutics 152 YCT"
+    "explanation": "Sodium dodecyl sulphate (SDS), also known as sodium lauryl sulphate (SLS), dissociates in water to yield a lipophilic hydrocarbon tail terminated by a negatively charged sulphate head group."
   },
   {
     "id": "kpsc_ph_168",
-    "question": "Freeze drying is based on the principle of",
+    "question": "The underlying thermodynamic principle governing the freeze drying (lyophilization) process is",
     "options": {
       "A": "Sublimation",
       "B": "Desiccation",
-      "C": "Fluidisation",
+      "C": "Fluidization",
       "D": "Reconstitution"
     },
     "answer": "A",
-    "explanation": "sublimation because in this process a completely frozen sample is placed under a vacuum in order to remove water or other solvents from the sample, by allowing the ice to change directly from a solid to the vapor (sublimation) i.e with out passing through a liquid phase."
+    "explanation": "Freeze drying relies on sublimation, where water is removed from a frozen product under low ambient pressure by transitioning water directly from a solid crystalline ice state to a gaseous vapor phase, bypassing the liquid state."
   },
   {
     "id": "kpsc_ph_169",
-    "question": "The injection given in between the first and second cervical vertebrae is called ================================================================================ PAGE : 153 ================================================================================ Pharmaceutics 153 YCT",
+    "question": "A parenteral injection introduced specifically into the subarachnoid cistern at the base of the brain is termed an",
     "options": {
       "A": "Intracisternal injection",
       "B": "Intrathecal injection",
-      "C": "intracerebral injection",
+      "C": "Intracerebral injection",
       "D": "Intra-articular injection"
     },
     "answer": "A",
-    "explanation": "second cervical vertebrae is called intracisternal injection. • Intraventricular injection delivery is primarily used in patients with head and neck pain."
+    "explanation": "An intracisternal injection introduces formulations directly into the cisterna magna, located between the posterior margin of the foramen magnum and the first cervical vertebra."
   },
   {
     "id": "kpsc_ph_170",
-    "question": "The mill which works on the principle of impact and attrition",
+    "question": "Which milling machine utilizes both impact and attrition as its primary mechanisms of size reduction?",
     "options": {
       "A": "Roller mill",
       "B": "Ball mill",
@@ -237,23 +237,23 @@ window.quizPart4 = [
       "D": "Cutter mill"
     },
     "answer": "B",
-    "explanation": "and attrition size reduction take place as the ball drops from near the top of a rotating hollow cylindrical shell."
+    "explanation": "The ball mill achieves particle size reduction through a combination of impact (from falling grinding media cascading from the top of the rotating cylinder) and attrition (shearing due to relative movement between the balls)."
   },
   {
     "id": "kpsc_ph_171",
-    "question": "Oleoginous ointment base contain",
+    "question": "Which of the following substances acts as a primary component in hydrocarbon (oleaginous) ointment bases?",
     "options": {
       "A": "Liquid paraffin",
       "B": "Wool fat",
-      "C": "Bees wax",
+      "C": "Beeswax",
       "D": "Sodium alginate"
     },
     "answer": "A",
-    "explanation": "paraffin. • When powdered substances are to be incorporated into hydrocarbon bases liquid petrolatum may be used as levigating agent."
+    "explanation": "Liquid paraffin (mineral oil) and white petrolatum are hydrocarbons that form oleaginous ointment bases, which are hydrophobic, emollient, and occlusive."
   },
   {
     "id": "kpsc_ph_172",
-    "question": "Unequla distribution of color on the surface of colored tablets is called as",
+    "question": "An unequal distribution of color resulting in a speckled or patchy appearance on compressed tablets is called",
     "options": {
       "A": "Cracking",
       "B": "Sticking",
@@ -261,35 +261,35 @@ window.quizPart4 = [
       "D": "Capping"
     },
     "answer": "C",
-    "explanation": "unequal distribution of colour on a tablet with light or dark spot."
+    "explanation": "Mottling is a visual defect where color is non-uniformly distributed across the tablet surface, presenting as distinct dark and light patches, often caused by dye migration during drying."
   },
   {
     "id": "kpsc_ph_173",
-    "question": "The material used in enteric coating",
+    "question": "Which of the following polymeric materials is widely used to formulate enteric coatings for solid oral dosage forms?",
     "options": {
-      "A": "PEG 400",
+      "A": "Polyethylene glycol 400",
       "B": "Carbowax",
-      "C": "Hydroxy propyl cellulose",
+      "C": "Hydroxypropyl cellulose",
       "D": "Cellulose acetate phthalate"
     },
     "answer": "D",
-    "explanation": "enteric coating material, Such coatings resist prolonged contact with the strongly acidic gastric fluid, but dissolved in the midly acidic or neutral intestinal environment."
+    "explanation": "Cellulose Acetate Phthalate (CAP) is a classic enteric coating polymer that remains stable at acidic gastric pH levels but dissolves rapidly as it encounters the higher pH (>6.0) of the small intestine."
   },
   {
     "id": "kpsc_ph_174",
-    "question": "Alkylation of proteins molecules is the mechanism of sterilization by",
+    "question": "The primary mechanism of action by which ethylene oxide gas destroys microorganisms during sterilization is the",
     "options": {
-      "A": "Dry heat",
-      "B": "Heating with a bactericide",
-      "C": "Ethylene oxide",
-      "D": "Moist heat"
+      "A": "Oxidation of lipid membranes",
+      "B": "Coagulation of bacterial cell proteins",
+      "C": "Alkylation of functional protein and nucleic acid molecules",
+      "D": "Hydrolysis of cellular carbohydrates"
     },
     "answer": "C",
-    "explanation": "powerful alkylating agent. Under the correct conditions, cellular constitutes of organisms such as nucleic acid complexes, functional proteins and enzymes will react with ethylene oxide, causing the addition of alkyl groups."
+    "explanation": "Ethylene oxide is a cyclic ether that acts as a powerful alkylating agent, substituting hydrogen atoms within labile cellular groups (such as $-\text{COOH}$, $-\text{NH}_2$, $-\text{SH}$, and $-\text{OH}$) to disrupt microbial metabolic pathways."
   },
   {
     "id": "kpsc_ph_175",
-    "question": "Million reagent is used to identify",
+    "question": "Millon's reagent is used to identify proteins or amino acids containing a phenolic group. Which pharmaceutical agent responds positive to it?",
     "options": {
       "A": "Starch",
       "B": "Gelatin",
@@ -297,35 +297,35 @@ window.quizPart4 = [
       "D": "Anthraquinone glycosides"
     },
     "answer": "B",
-    "explanation": "gelatin. The formation in the test color is due to the presence of indol group. Gelatin does not respond to this test due to lack of amino acid tryptophan."
+    "explanation": "Millon's test detects tyrosine residues (phenolic groups) present in proteins. Gelatin yields a positive reaction, though it is notable for lacking tryptophan."
   },
   {
     "id": "kpsc_ph_176",
-    "question": "\"Raksha Blue\" is the reasonably launched vaccine aimed at minimizing the economic loss of animal farming community from the strains of the:",
+    "question": "'Raksha Blue' is a veterinary vaccine developed to minimize economic losses from which viral ruminant disease?",
     "options": {
       "A": "Bird Flu Virus",
-      "B": "Road Water Disease",
+      "B": "Redwater Disease",
       "C": "Swine Flu Virus",
-      "D": "Blue tongue Virus"
+      "D": "Bluetongue Virus"
     },
     "answer": "D",
-    "explanation": "disease affecting domestic and wild ruminant that is transmitted by insects, particularly biting midges of the culicids species."
+    "explanation": "Raksha Blue is an indigenous inactivated vaccine launched to protect domestic livestock from Bluetongue virus, a culicoides midge-borne disease affecting sheep, goats, and cattle."
   },
   {
     "id": "kpsc_ph_177",
-    "question": "Dimethicone is the other name of:",
+    "question": "Dimethicone is chemically classified and commonly known as",
     "options": {
       "A": "Titanium dioxide",
       "B": "Calamine",
       "C": "Zinc stearate",
-      "D": "Silicon oil"
+      "D": "Silicone oil"
     },
     "answer": "D",
-    "explanation": "It is a popular ingredient in many cosmetics such as skin and hair care products, because it smoothes over rough surface and has a velvety texture."
+    "explanation": "Dimethicone (polydimethylsiloxane) is a fluid silicone oil widely incorporated into barrier creams, ointments, and cosmetic formulations for its water-repellent, skin-protective, and smooth texture properties."
   },
   {
     "id": "kpsc_ph_178",
-    "question": "Dryer used for the production of milk powder:",
+    "question": "Which drying apparatus is preferred for manufacturing commercial milk powder from liquid feeds?",
     "options": {
       "A": "Drum dryer",
       "B": "Tray dryer",
@@ -333,35 +333,35 @@ window.quizPart4 = [
       "D": "Tunnel dryer"
     },
     "answer": "C",
-    "explanation": "employed for the production of milk powders for getting the powder, the liquid milk is converted into a milk concentrate or suspension. Spray dryer can dry a product very quickly compared to other methods of drying. They also turn a solution into a dried powder in a single step."
+    "explanation": "Spray dryers continuously atomize liquid concentrates into a fine mist inside a heated air chamber, rapidly evaporating moisture within seconds to yield uniform spherical particles, making it ideal for milk and heat-sensitive biologicals."
   },
   {
     "id": "kpsc_ph_179",
-    "question": "Enteric coated tablets are designed to release medicament in:",
+    "question": "Enteric coated tablets are formulated to pass intact through the stomach and release their active medicaments in the",
     "options": {
-      "A": "Stomach",
+      "A": "Esophagus",
       "B": "Colon",
       "C": "Small intestine",
       "D": "Large intestine"
     },
     "answer": "C",
-    "explanation": "protect the underlying dosage form and drug substance enabling it to remain intact the gastric environment and instead dissolve and undergo drug release in the small intestine."
+    "explanation": "Enteric coatings protect the active pharmaceutical ingredient from stomach acids and protect the gastric mucosa from irritating drugs by selectively dissolving in the higher pH environment of the small intestine."
   },
   {
     "id": "kpsc_ph_180",
-    "question": "Tablets are designed to exert local effect in throat:",
+    "question": "Medicated solid dosage forms intended to dissolve slowly in the oral cavity to exert a local therapeutic effect in the throat are called",
     "options": {
       "A": "Buccal tablets",
-      "B": "Sublingual tablet",
+      "B": "Sublingual tablets",
       "C": "Dental cones",
       "D": "Lozenges"
     },
     "answer": "D",
-    "explanation": "medicated tablet intended to be dissolved slowly in the mouth to temporarily stop cough, lubricate and sooth irritated tissues of the throat, possibly from the common cold or influenza cough tablet have taken the name lozenge, based on their original shape, a diamond."
+    "explanation": "Lozenges (and troches) are solid unit dosage forms designed to be sucked slowly rather than swallowed, continuously bathing the irritated mucosal linings of the throat with localized active agents."
   },
   {
     "id": "kpsc_ph_181",
-    "question": "The working principle of hammer mill:",
+    "question": "The primary fundamental size reduction mechanism operating within a hammer mill is",
     "options": {
       "A": "Impact",
       "B": "Impact and attrition",
@@ -369,11 +369,11 @@ window.quizPart4 = [
       "D": "Crushing"
     },
     "answer": "A",
-    "explanation": "impact. Here impact occurs between the fast moving hammers which are fitted on a rotor and the feed material."
+    "explanation": "A hammer mill operates almost exclusively via the mechanism of impact, where high-speed rotating hammers violently strike the fed material, fracturing it against internal chamber liners."
   },
   {
     "id": "kpsc_ph_182",
-    "question": "Partial or complete removal of top or bottom of a tablet is known as:",
+    "question": "The partial or complete horizontal separation of the top or bottom crowns from the main body of a compressed tablet is defined as",
     "options": {
       "A": "Capping",
       "B": "Picking",
@@ -381,47 +381,47 @@ window.quizPart4 = [
       "D": "Mottling"
     },
     "answer": "A",
-    "explanation": "or bottom part of the tablet separates horizontally either partially away from the main body or completely to form a cap when ejected from the pres or during the handling process."
+    "explanation": "Capping describes the structural compression defect where the upper or lower cup-like face of the tablet splits horizontally away from the cylindrical core body, frequently due to air entrapment."
   },
   {
     "id": "kpsc_ph_183",
-    "question": "Sterilization by autoclaving:",
+    "question": "Sterilization achieved by autoclaving relies on which methodology?",
     "options": {
       "A": "Dry heat sterilization",
       "B": "UV radiation",
       "C": "Moist heat sterilization",
-      "D": "Bactericidal sterilization"
+      "D": "Gaseous alkylation"
     },
     "answer": "C",
-    "explanation": "autoclaving, pasteurization, boiling and tyndalization. Autoclaving is the most effective method of moist heat sterilization since it destroys microorganisms and their spores. It also utilizes equipment called an autoclave. ================================================================================ PAGE : 160 ================================================================================ Pharmaceutics 160 YCT"
+    "explanation": "Autoclaving utilizes high-pressure saturated steam to deliver thermal moist heat sterilization, effectively denaturing microbial structural proteins and spores at standardized parameters like $121^\circ\text{C}$."
   },
   {
     "id": "kpsc_ph_184",
-    "question": "Isotonic Vehicle used to prepare ophthalmic solution:",
+    "question": "Which of the following vehicles is used as an isotonic vehicle to formulate ophthalmic solutions?",
     "options": {
-      "A": "Benzal Konium chloride",
-      "B": "Polysorbate 20",
-      "C": "Dioctyl sodium",
-      "D": "1.9% Boric acid"
+      "A": "Benzalkonium chloride solution",
+      "B": "Polysorbate 20 solution",
+      "C": "Dioctyl sodium sulfosuccinate",
+      "D": "1.9% w/v Boric acid solution"
     },
     "answer": "D",
-    "explanation": "isotonic with lachrymal secretions to avoid discomfort and irritation. 1.9% Boric acid and sodium acid phosphate buffer are commonly used as isotonic vehicle."
+    "explanation": "An aqueous solution containing 1.9% w/v boric acid is structurally isotonic with human lacrimal secretions, preventing osmotic shock and subsequent tissue irritation during administration."
   },
   {
     "id": "kpsc_ph_185",
-    "question": "Autoclaving of ampoules in a dye bath as:",
+    "question": "Autoclaving sealed glass ampoules while they are fully submerged in a concentrated dye bath serves as a",
     "options": {
-      "A": "Clarity testing",
-      "B": "Pyrogen testing",
-      "C": "Leaker testing",
-      "D": "Sterility testing"
+      "A": "Clarity test",
+      "B": "Pyrogen test",
+      "C": "Leaker test",
+      "D": "Sterility test"
     },
     "answer": "C",
-    "explanation": "Leaker testing. Leaker are detected by this process in a visible manner. Ampoules are placed in a vacuum chamber, completely submerged in a deeply colored dye solution of about 0.5 to 1% methylene blue. A negative pressure is applied within."
+    "explanation": "The ampoule leaker test involves applying a vacuum or heat cycle while containers are submerged in a dye bath (like 0.5% methylene blue). Defective seals draw the dye internally, visually tinting the contents."
   },
   {
     "id": "kpsc_ph_186",
-    "question": "Which one of the following dryer is known as Lyophiliser?",
+    "question": "Which drying equipment operates via freezing and subsequent sublimation, and is technically designated as a Lyophilizer?",
     "options": {
       "A": "Drum dryer",
       "B": "Fluidized bed dryer",
@@ -429,35 +429,35 @@ window.quizPart4 = [
       "D": "Spray dryer"
     },
     "answer": "C",
-    "explanation": "names for the same equipment. A lyophiliser executes a water removal process typically used to preserve perishable material to extend shelf life or make the material more convenient for transport."
+    "explanation": "A freeze dryer is synonymous with a lyophilizer. It removes moisture from temperature-sensitive proteins, vaccines, or parenterals by solidifying the solution and triggering ice sublimation."
   },
   {
     "id": "kpsc_ph_187",
-    "question": "Sodium chloride injection IP contains:",
+    "question": "According to the Indian Pharmacopoeia, a standard Normal Saline Intravenous Injection contains",
     "options": {
-      "A": "0.9% Sodium chloride",
-      "B": "0.1% Sodium Chloride",
-      "C": "0.86% Sodium Chloride",
-      "D": "0.45% Sodium Chloride"
+      "A": "0.9% w/v Sodium chloride",
+      "B": "0.1% w/v Sodium chloride",
+      "C": "0.86% w/v Sodium chloride",
+      "D": "0.45% w/v Sodium chloride"
     },
     "answer": "A",
-    "explanation": "sodium chloride. Sodium chloride injection is a injection manufactured by Baxter India. It is commonly used for the diagnosis or treatment of low magnesium levels, low calcium levels, blood and fluid loss."
+    "explanation": "Sodium Chloride Injection IP contains 0.9% w/v sodium chloride in sterile water for injection. This specific concentration matches the osmotic pressure of blood plasma."
   },
   {
     "id": "kpsc_ph_188",
-    "question": "One tea spoon full is: HPSSC Pharmacist (19.08.2019)",
+    "question": "In standard domestic and pharmaceutical measurement conversions, one teaspoonful is taken as",
     "options": {
       "A": "15 ml",
-      "B": "4 ml",
+      "B": "5 ml",
       "C": "0.06 ml",
       "D": "3 ml"
     },
     "answer": "B",
-    "explanation": "Teaspoons and milliliters are both units used to measure volume. ⇒ 1tsp  4 to 5 ml 2 tsp  10 ml 3 tsp  15 ml 4 tsp  20 ml The amount of one tea spoon is equal to 4.92 ml (5 ml approx.)."
+    "explanation": "While older systems sometimes equated a teaspoonful to 4 ml, modern medical conversion protocols universally standardize one teaspoonful as equivalent to 5 ml to limit dosing variation."
   },
   {
     "id": "kpsc_ph_189",
-    "question": "A drug consist, in full or in whole or in part, of any filthy, putrid or decomposed substance:",
+    "question": "A drug that consists in whole or in part of any filthy, putrid, or decomposed substance is legally defined as an",
     "options": {
       "A": "Adulterated drug",
       "B": "Spurious drug",
@@ -465,11 +465,11 @@ window.quizPart4 = [
       "D": "Patent drug"
     },
     "answer": "A",
-    "explanation": "deemed to be adulterated- • If it consists, in whole or in part, of any filthy, putrid or decomposed substance, or • It has been prepared, packed or stored under insanitary conditions where by it may have been contaminated with fifth or where by it may have been rendered injurious to health, or • If any substance has been mixed there with so as to reduce its quality or strength."
+    "explanation": "According to the Drugs and Cosmetics Act, a drug is deemed adulterated if it contains decomposing matter, filth, or has been handled under unsanitary conditions that compromise its structural purity."
   },
   {
     "id": "kpsc_ph_190",
-    "question": "Standards of disinfectant fluid comes under:",
+    "question": "Under the Indian Drugs and Cosmetics Rules 1945, the regulatory standards governing Disinfectant Fluids fall under",
     "options": {
       "A": "Schedule O",
       "B": "Schedule P",
@@ -477,11 +477,11 @@ window.quizPart4 = [
       "D": "Schedule N"
     },
     "answer": "A",
-    "explanation": "O' of the drugs and cosmetics Rules 1945 and their standards and characteristics are as enunciated below. Disinfectants are classified into two major groups. • Black disinfectants fluids. • White disinfectants fluids."
+    "explanation": "Schedule O defines the detailed regulatory requirements, specifications, and performance thresholds that commercial black and white disinfectant fluids must fulfill."
   },
   {
     "id": "kpsc_ph_191",
-    "question": "Antigenic preparations made from extra cellular toxins:",
+    "question": "Immunogenic preparations manufactured by processing bacterial extracellular exotoxins to suppress toxicity while retaining antigenic properties are called",
     "options": {
       "A": "Vaccines",
       "B": "Toxoids",
@@ -489,47 +489,47 @@ window.quizPart4 = [
       "D": "Sera"
     },
     "answer": "B",
-    "explanation": "toxicity has been suppressed either by chemical or heat treatment, while other properties, typically immunogenicity are maintained. Toxins are secreted by bacteria, where as toxoids are altered from of toxins, toxodis are not secreted by bacteria. • Toxoids are used as vaccine • Toxoids are also useful in the production of human antitoxins."
+    "explanation": "Toxoids are chemically modified (often via formaldehyde) or heat-treated bacterial exotoxins. They lose their systemic toxicity but remain capable of stimulating protective antitoxin antibodies."
   },
   {
     "id": "kpsc_ph_192",
-    "question": "The ability of the firm to meet its current liability is measured by:",
+    "question": "The operational capacity of a pharmaceutical firm to meet its short-term financial liabilities as they mature is evaluated using the",
     "options": {
-      "A": "Solvency ration",
+      "A": "Solvency ratio",
       "B": "Liquidity ratio",
       "C": "Activity ratio",
       "D": "Profitability ratio"
     },
     "answer": "B",
-    "explanation": "a company to pay of its short - term liabilities. Liquid ratio determine how quickly a company can convert the assests and use them for meeting the dues that arise. The higher the ratio, the easier is the ability on payments."
+    "explanation": "Liquidity ratios (such as the current ratio or quick ratio) measure a business's capacity to pay off its current, short-term obligations using cash or assets that can be rapidly liquidated."
   },
   {
     "id": "kpsc_ph_193",
-    "question": "Drugs which increases respiratory tract fluid is called :",
+    "question": "Pharmacological agents formulated to increase respiratory tract fluid volume and decrease sputum viscosity are classified as",
     "options": {
-      "A": "Expectorant",
+      "A": "Expectorants",
       "B": "Linctuses",
       "C": "Laxatives",
       "D": "Syrups"
     },
     "answer": "A",
-    "explanation": "respiratory tract infections. These type infections include the common cold, bronchitis and pneumonia. These infections can cause a buildup of mucous in our throat and lungs. Expectorate help relieve these symptoms. ================================================================================ PAGE : 161 ================================================================================ Pharmaceutics 161 YCT"
+    "explanation": "Expectorants act by increasing the volume and lubrication of respiratory tract secretions, rendering the retained mucus thinner and easier to expel via productive coughing."
   },
   {
     "id": "kpsc_ph_194",
-    "question": "Chemical composition of asbestos :",
+    "question": "From a mineralogical perspective, the chemical composition of asbestos is primarily categorized as a crystalline fibrous",
     "options": {
-      "A": "Cellulose",
-      "B": "Aluminosilicate",
-      "C": "Silica",
-      "D": "Carbon dioxide"
+      "A": "Cellulose complex",
+      "B": "Aluminosilicate / Magnesium silicate",
+      "C": "Pure silicon dioxide",
+      "D": "Carbon dioxide matrix"
     },
     "answer": "B",
-    "explanation": "Chemical composition of Asbestos \"Aluminosilicate\". Asbestos is a term used to refer to six naturally occurring silicate minerals. All are each fiber being composed of many into the atmosphere by abrasion and other processes. Asbestos is a well known health hazard, and also used as a building material is now banned in many countries."
+    "explanation": "Asbestos encompasses naturally occurring hydrous silicate minerals containing magnesium, iron, calcium, and aluminum. It is structurally classified within the group of fibrous silicate minerals."
   },
   {
     "id": "kpsc_ph_195",
-    "question": "The principle in HPTLC is:",
+    "question": "The primary physicochemical separation mechanism governing High-Performance Thin-Layer Chromatography (HPTLC) is",
     "options": {
       "A": "Absorption",
       "B": "Elution",
@@ -537,23 +537,23 @@ window.quizPart4 = [
       "D": "Purging"
     },
     "answer": "C",
-    "explanation": "which provides superior separation efficiency. The HPTLC concept includes validated methods for qualitative and quantitative analysis and fulfills all quality requirements for use in fully regulated environments."
+    "explanation": "HPTLC operates primarily via adsorption chromatography, where analytes dynamically partition between a liquid mobile phase and a solid stationary adsorbent phase (like silica gel) coated uniformly onto a plate."
   },
   {
     "id": "kpsc_ph_196",
-    "question": "Most popular eye drop preservative:",
+    "question": "Which of the following compounds is the most widely utilized antimicrobial preservative in commercial ophthalmic drops?",
     "options": {
-      "A": "BHA",
-      "B": "BHT",
-      "C": "Methyl paraben",
+      "A": "Butylated hydroxyanisole",
+      "B": "Butylated hydroxytoluene",
+      "C": "Methylparaben",
       "D": "Benzalkonium chloride"
     },
     "answer": "D",
-    "explanation": "commonly used eye drop preservative. Benzalkonium cholride has been associated with toxic effects such as \"dry eye\" and trabecular meshwork degeneration, but the under laying biochemical mechanism of ocular toxicity by Benzalkonium chloride is unclear."
+    "explanation": "Benzalkonium chloride (BAK) is a quaternary ammonium compound widely preferred in eye drops due to its excellent broad-spectrum bactericidal efficacy at low operational concentrations."
   },
   {
     "id": "kpsc_ph_197",
-    "question": "Part used to attach valve proper to aerosol container:",
+    "question": "The component utilized to firmly crimp and secure the valve assembly onto an aerosol container body is the",
     "options": {
       "A": "Gasket",
       "B": "Stem",
@@ -561,23 +561,23 @@ window.quizPart4 = [
       "D": "Ferrule"
     },
     "answer": "D",
-    "explanation": "container. It is consists of aluminum and brass epoxy coating must be done to protect the corrosion."
+    "explanation": "The ferrule (or mounting cup) is the structural component crimped over the lip of the aerosol container, holding the operational components of the valve tightly in place."
   },
   {
     "id": "kpsc_ph_198",
-    "question": "Standards for disinfectant coming under which schedule?",
+    "question": "The standards for surgical dressings are regulated under which schedule of the Drugs and Cosmetics Rules?",
     "options": {
-      "A": "M",
-      "B": "P",
-      "C": "O",
-      "D": "R"
+      "A": "Schedule M",
+      "B": "Schedule P",
+      "C": "Schedule F(II)",
+      "D": "Schedule R"
     },
     "answer": "C",
-    "explanation": "disinfectants fluid. Part 1 describes the provision applicable to black fluid and white fluids that are derived from petroleum with or without hydrocarbon. Part 2 Describes provisions applicable to other disinfectant fluids not covered in part 1. ================================================================================ PAGE : 166 ================================================================================ Pharmaceutics 166 YCT"
+    "explanation": "Standards for surgical dressings are specifically detailed under Part II of Schedule F, designated as Schedule F(II). *(Note: Schedule O defines disinfectant fluids, and the original question contained a duplicate category that has been corrected here for clarity).* "
   },
   {
     "id": "kpsc_ph_199",
-    "question": "Complete seperation of top of bottom crowns of a tablet:",
+    "question": "The structural defect involving the complete horizontal separation of the top or bottom crowns of a compressed tablet from its main body is called",
     "options": {
       "A": "Sticking",
       "B": "Capping",
@@ -585,18 +585,18 @@ window.quizPart4 = [
       "D": "Picking"
     },
     "answer": "B",
-    "explanation": "separation of the top or bottom crowns of a tablet from the main body of the tablet during ejection of tablet press or during subsequent handling."
+    "explanation": "Capping represents a mechanical separation defect where the upper or lower convex face cleanly detaches from the compressed cylindrical core of the tablet."
   },
   {
     "id": "kpsc_ph_200",
-    "question": "Ceresin is :",
+    "question": "Ceresin is a mineral wax mixture derived and refined primarily from",
     "options": {
-      "A": "Synchro waxes",
+      "A": "Synchrowaxes",
       "B": "Ozokerite & Paraffin wax",
-      "C": "Synchro waxes & ozokerite",
-      "D": "Ozokerite only"
+      "C": "Synthetic polyethylene",
+      "D": "Carnuba deposits only"
     },
     "answer": "B",
-    "explanation": "paraffin wax by a purifying process. The purifying process of the ozokerite and paraffin wax commonly comprises a treatment with heat and sulfuric acid."
+    "explanation": "Ceresin is a refined mineral wax obtained by purifying ozokerite (a naturally occurring earth wax) with sulfuric acid and heat, often blended with paraffin wax to adapt physical properties."
   }
 ];
