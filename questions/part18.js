@@ -9,19 +9,19 @@ window.quizPart18 = [
       "D": "Counterfeit drugs"
     },
     "answer": "B",
-    "explanation": "drugs. Automatics top order encourage reassessment of the duration of therapy based on the patient's response to treatment and prescriber review of laboratory , micro biology and diagnostic imaging results after the specified length of time."
+    "explanation": "Automatic stop orders encourage reassessment of the duration of therapy based on the patient's response to treatment and prescriber review of laboratory, microbiology, and diagnostic imaging results after the specified length of time."
   },
   {
     "id": "kpsc_ph_852",
     "question": "Absorbable suture is",
     "options": {
-      "A": "Nylon suture 2/0 (revere cutting)",
+      "A": "Nylon suture 2/0 (reverse cutting)",
       "B": "Silk suture braided 2/0",
       "C": "Cotton",
       "D": "Catgut chromic 2/0"
     },
     "answer": "D",
-    "explanation": "Absorbable sutures are stitches made from materials that the body can naturally absorb over time. They are made of materials such as the fibres that line animal intestines or artificially created polymers that easily dissolve in to the body. Chromic catgut absorable suture is indicated in general closure, ophthalmic surgery, orthopedics, obstetrics, gyneology, episiotomy, general surgery, urology, gastrointestinal tract surgery, cuticles and ligatures."
+    "explanation": "Absorbable sutures are stitches made from materials that the body can naturally absorb over time. They are made of materials such as the fibers that line animal intestines or artificially created polymers that easily dissolve into the body. Chromic catgut absorbable suture is indicated in general closure, ophthalmic surgery, orthopedics, obstetrics, gynecology, episiotomy, general surgery, urology, gastrointestinal tract surgery, cuticles, and ligatures."
   },
   {
     "id": "kpsc_ph_853",
@@ -33,7 +33,7 @@ window.quizPart18 = [
       "D": "All the above"
     },
     "answer": "D",
-    "explanation": "giving clear, concise and logical instruction in familiar language, adapting drug regimens to daily routines eliciting patient participation through self - monitering and improving educational materials that promote overall good health in connection with medical treatment."
+    "explanation": "Methods include giving clear, concise, and logical instructions in familiar language, adapting drug regimens to daily routines, eliciting patient participation through self-monitoring, and improving educational materials that promote overall good health in connection with medical treatment."
   },
   {
     "id": "kpsc_ph_854",
@@ -45,11 +45,11 @@ window.quizPart18 = [
       "D": "110 – 120 mmol/L"
     },
     "answer": "C",
-    "explanation": "136 and 145 milli moles per liter(m mol/L). Blood sodium levels below 136 m mol/L may mean we have low blood sodium (hyponatremia).Blood sodium levels greater than 145 mmol /L may means we have blood sodium lavel that are too high (hypernatremia)."
+    "explanation": "Normal blood sodium levels range between 135 and 145 millimoles per liter (mmol/L). Blood sodium levels below 135 mmol/L indicate low blood sodium (hyponatremia), while levels greater than 145 mmol/L indicate blood sodium levels that are too high (hypernatremia)."
   },
   {
     "id": "kpsc_ph_855",
-    "question": "Common adverse effect of thrombolytics ================================================================================ PAGE : 695 ================================================================================ Hospital & Clinical Pharmacy 695 YCT",
+    "question": "Common adverse effect of thrombolytics",
     "options": {
       "A": "Bleeding",
       "B": "Unstable angina",
@@ -57,7 +57,7 @@ window.quizPart18 = [
       "D": "Myocardial infarction"
     },
     "answer": "A",
-    "explanation": "bleeding and low blood pressure while this treatment most often dissolver blood clots we may need another surgery to treat the underlying cause."
+    "explanation": "Common adverse effects include bleeding and low blood pressure. While this treatment most often dissolves blood clots, another surgery may be needed to treat the underlying cause."
   },
   {
     "id": "kpsc_ph_856",
@@ -69,7 +69,7 @@ window.quizPart18 = [
       "D": "Tyramine + MAO inhibitors"
     },
     "answer": "A",
-    "explanation": "medicines, amlodipine and atenolol which lowers blood pressure effectively, Amlodipine is a calcium channel blocker which works by relaxing blood vessels while atenolol is a beta blocker which works specifically on the heart to slow down the heart rate. Together, they make the heart more efficient at blood through the body."
+    "explanation": "The combination of amlodipine and atenolol lowers blood pressure effectively. Amlodipine is a calcium channel blocker which works by relaxing blood vessels, while atenolol is a beta blocker which works specifically on the heart to slow down the heart rate. Together, they make the heart more efficient at pumping blood through the body."
   },
   {
     "id": "kpsc_ph_857",
@@ -81,7 +81,7 @@ window.quizPart18 = [
       "D": "Trial balance"
     },
     "answer": "D",
-    "explanation": "accuracy of the book keeping entries are called trial balance. A trial balance is a list of credit entries and debit entries that organizations of business use to audit internally their double entry in accountings."
+    "explanation": "Statements prepared to check the arithmetical accuracy of bookkeeping entries are called a trial balance. A trial balance is a list of credit entries and debit entries that organizations or businesses use to internally audit their double-entry accounting."
   },
   {
     "id": "kpsc_ph_858",
@@ -93,7 +93,7 @@ window.quizPart18 = [
       "D": "Amikacin"
     },
     "answer": "C",
-    "explanation": "chloramphenical that is characterized by abdominal distention, hemodynamic collapse and ashen - gray skin discoloration in neonates. → Gray baby syndrome can usually be avoided when chloramphenical is administered in low doses and when blood levels are monitored."
+    "explanation": "Chloramphenicol toxicity is characterized by abdominal distention, hemodynamic collapse, and ashen-gray skin discoloration in neonates. Gray baby syndrome can usually be avoided when chloramphenicol is administered in low doses and when blood levels are monitored."
   },
   {
     "id": "kpsc_ph_859",
@@ -105,7 +105,7 @@ window.quizPart18 = [
       "D": "Respiratory depression"
     },
     "answer": "A",
-    "explanation": "agranulocytosis. unfortunately, clozapine is also associated with a number of adverse effects, with agranulocytosis being one of the chief concerns,. Interestingly, occasionally experience elevations in their total white blood cell count (WBC) . → Nephrotoxicity is defining as rapid deterioration in the kidney function due to toxic effect to medications and chemicals."
+    "explanation": "Clozapine is associated with a number of adverse effects, with agranulocytosis being one of the chief concerns. Interestingly, patients occasionally experience elevations in their total white blood cell count (WBC). Nephrotoxicity is defined as rapid deterioration in kidney function due to the toxic effect of medications and chemicals."
   },
   {
     "id": "kpsc_ph_860",
@@ -117,7 +117,7 @@ window.quizPart18 = [
       "D": "Methacholine"
     },
     "answer": "B",
-    "explanation": "phate posisoning is atropine , which competes with acetylcholine at the muscarinic receptors. Acetylcholine is the neurotransmitter at neuromuscular junctions, at synapsis in the ganglia of the visceral motor system, Pentazocine, sold under the brand name talwin among others is a painkiller used to treat moderate to severe pain."
+    "explanation": "The antidote for organophosphate poisoning is atropine, which competes with acetylcholine at the muscarinic receptors. Acetylcholine is the neurotransmitter at neuromuscular junctions and at synapses in the ganglia of the visceral motor system. Pentazocine, sold under the brand name Talwin among others, is an opioid analgesic used to treat moderate to severe pain."
   },
   {
     "id": "kpsc_ph_861",
@@ -129,7 +129,7 @@ window.quizPart18 = [
       "D": "Physician"
     },
     "answer": "D",
-    "explanation": "committee (PTC) is an advisory group of the medical staff and serves as the organizational line of communication between the medical staff and the pharmacy department. The committee is composed of physicians, the pharmacist and the other health professionals selected with guidance of medical staff. The committee assits in the formulation of broad professional policies regarding the evaluation, selection, procurement, distribution, use, safety, procedure and other matters relating to drugs used in the hospital. • The physician may be appointed as the \"Chairman\" of P.T.C. • The pharmacist is designated as the \"secretary\" of committee."
+    "explanation": "The Pharmacy and Therapeutics Committee (PTC) is an advisory group of the medical staff and serves as the organizational line of communication between the medical staff and the pharmacy department. The committee is composed of physicians, the pharmacist, and other health professionals selected with the guidance of the medical staff. The committee assists in the formulation of broad professional policies regarding the evaluation, selection, procurement, distribution, use, safety, and other matters relating to drugs used in the hospital. A physician is typically appointed as the Chairman of the PTC, while the pharmacist is designated as the secretary of the committee."
   },
   {
     "id": "kpsc_ph_862",
@@ -141,7 +141,7 @@ window.quizPart18 = [
       "D": "Elected by the members of the Council"
     },
     "answer": "B",
-    "explanation": "director of central Drug Laboratory should be Ex- officio."
+    "explanation": "The Director of the Central Drugs Laboratory serves as an Ex-Officio member of the Pharmacy Council of India (PCI)."
   },
   {
     "id": "kpsc_ph_863",
@@ -153,7 +153,7 @@ window.quizPart18 = [
       "D": "None of the above"
     },
     "answer": "A",
-    "explanation": "council five copies of the register for the state as soon as may be after the first day of April of each year, and the Registrar, of each state council, shall inform the central council, without delay, all addition to, and other amendments in, the Register for the state mode from time to time."
+    "explanation": "The State Council must supply five copies of the register for the state to the Central Pharmacy Council as soon as possible after the first day of April each year. The Registrar of each state council must inform the central council without delay of all additions and amendments made to the register over time."
   },
   {
     "id": "kpsc_ph_864",
@@ -165,11 +165,11 @@ window.quizPart18 = [
       "D": "24"
     },
     "answer": "C",
-    "explanation": "into 18 parts each dealing with a particular subject. There are 2 schedules to Act and 26 schedules to Rules."
+    "explanation": "The Drugs and Cosmetics Rules are divided into 18 parts, each dealing with a particular subject. There are 2 schedules to the Act and 26 schedules to the Rules."
   },
   {
     "id": "kpsc_ph_865",
-    "question": "Keeping false accounts or making false statement under Narcotic Drugs and Psychotropic Substance Act, 1985 is punishable with ================================================================================ PAGE : 701 ================================================================================ Pharmaceutical Jurisprudence 701 YCT",
+    "question": "Keeping false accounts or making false statement under Narcotic Drugs and Psychotropic Substance Act, 1985 is punishable with",
     "options": {
       "A": "Imprisonment with 1 year or fine or both",
       "B": "Imprisonment with 2 year or fine or both",
@@ -177,7 +177,7 @@ window.quizPart18 = [
       "D": "Imprisonment with 5 year or fine or both"
     },
     "answer": "D",
-    "explanation": "relation to which proceedings have been taken, under this chapter- Any person who knowingly acquired, by any mode what's ever, any property in relation to which proceedings are pending under this chapter shall be punishable with imprisonment for a term which may extend to five years and with fine which may extend to fifty thousand rupees. Sec27. punishment for consumption of any narcotic drug or psychotropic substance → Imprisonment with one year or fine are both (the extend to 20 thousand rupees.) Sec58. Punishment for vexatious entry search, seizure or arrest → punishable with imprisonment for a term which may extend to two years or with fine or with both. Sec26. Punishment for certain acts by license or his servants → Punishable with imprisonment for a term which may extend to three years or with fine or with both."
+    "explanation": "Any person who knowingly acquires, by any mode whatsoever, any property in relation to which proceedings are pending under this chapter shall be punishable with imprisonment for a term which may extend to five years and with a fine which may extend to fifty thousand rupees. Section 27 outlines punishment for consumption of any narcotic drug or psychotropic substance (imprisonment up to 1 year or fine up to 20,000 rupees, or both). Section 58 covers punishment for vexatious entry, search, seizure, or arrest (imprisonment up to 2 years, or fine, or both). Section 26 addresses punishment for certain acts by a licensee or their servants (imprisonment up to 3 years, or fine, or both)."
   },
   {
     "id": "kpsc_ph_866",
@@ -189,7 +189,7 @@ window.quizPart18 = [
       "D": "Formulary"
     },
     "answer": "A",
-    "explanation": "reviewed Journals such as the New England Journal of medicine."
+    "explanation": "Primary sources consist of original research published in peer-reviewed medical journals, such as the New England Journal of Medicine."
   },
   {
     "id": "kpsc_ph_867",
@@ -201,7 +201,7 @@ window.quizPart18 = [
       "D": "1985"
     },
     "answer": "B",
-    "explanation": "business organization. The registration of co-operative societies Act 1912."
+    "explanation": "A co-operative society is a form of business organization. Its registration is mandatory under the Co-operative Societies Act, 1912."
   },
   {
     "id": "kpsc_ph_868",
@@ -213,7 +213,7 @@ window.quizPart18 = [
       "D": "Schedule C"
     },
     "answer": "B",
-    "explanation": "india appearing as an appendix to the Drugs and cosmetics Rules introduced in 1945. These are drugs which cannot be purchased, over the counter without the prescription of a qualified doctor. Also, the retailer has to preserve the prescription for a period of two years."
+    "explanation": "Schedule X includes habit-forming, narcotic, and psychotropic drugs appearing as an appendix to the Drugs and Cosmetics Rules, 1945. These drugs cannot be purchased over the counter without a prescription from a registered medical practitioner, and the retailer must preserve a copy of the prescription for a period of two years."
   },
   {
     "id": "kpsc_ph_869",
@@ -225,7 +225,7 @@ window.quizPart18 = [
       "D": "31st December 2015"
     },
     "answer": "C",
-    "explanation": "Act 1940, and Rules 1945 is upto 31st December 2016, the Drugs and cosmetics act, 1940 is an act of the parliament of India which regulates the import manufacture and distribution of drugs in India."
+    "explanation": "The text refers to an official publication updated up to 31st December 2016. The Drugs and Cosmetics Act, 1940 is an Act of the Parliament of India that regulates the import, manufacture, distribution, and sale of drugs in India."
   },
   {
     "id": "kpsc_ph_870",
@@ -237,7 +237,7 @@ window.quizPart18 = [
       "D": "Schedule M-1"
     },
     "answer": "C",
-    "explanation": "Drugs and cosmetics (Third Amendment) rules. 2008, Government of India, schedule M : Good manufacturing Practices and requirements of premises, plant and equipment for pharmaceutical products, Government of India."
+    "explanation": "Under the Drugs and Cosmetics (Third Amendment) Rules, 2008: Schedule L-1 details Good Laboratory Practices (GLP) and requirements of premises and equipment. Schedule M details Good Manufacturing Practices (GMP) and requirements of premises, plant, and equipment for pharmaceutical products."
   },
   {
     "id": "kpsc_ph_871",
@@ -249,11 +249,11 @@ window.quizPart18 = [
       "D": "All of the above"
     },
     "answer": "D",
-    "explanation": ""
+    "explanation": "The Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954 prohibits advertisements claiming the cure or treatment of specified diseases and disorders listed in its schedule, which includes conditions like Goiter, Gangrene, and Glaucoma."
   },
   {
     "id": "kpsc_ph_872",
-    "question": "The register of pharmacists also known as the Central Register as per the Pharmacy Act-1948 contains entered in the register for a State ================================================================================ PAGE : 704 ================================================================================ Pharmaceutical Jurisprudence 704 YCT",
+    "question": "The register of pharmacists also known as the Central Register as per the Pharmacy Act-1948 contains entered in the register for a State",
     "options": {
       "A": "Names of all persons for the time being",
       "B": "Public document",
@@ -261,7 +261,7 @@ window.quizPart18 = [
       "D": "Both A and B"
     },
     "answer": "D",
-    "explanation": "central Register as per the pharmacy Act 1948 contains is Names of all persons of the time being entered the register for a state. A person whose name is for the time being entered in the register of the state in which he or she is for the time being residing or carrying on his profession or business of pharmacy. The Central Register shall be deemed to be a public document within the meaning of Indian evidence Act 1872 and may be proved by the production of a copy of the Register as published in the Gazette of India."
+    "explanation": "The Central Register contains the names of all persons currently entered in the register for a state. A person whose name is entered is permitted to carry on the profession of pharmacy in that state. The Central Register is deemed to be a public document within the meaning of the Indian Evidence Act, 1872, and may be proved by producing a copy as published in the Gazette of India."
   },
   {
     "id": "kpsc_ph_873",
@@ -273,7 +273,7 @@ window.quizPart18 = [
       "D": "Schedule-T"
     },
     "answer": "B",
-    "explanation": "requirements for manufacture of Ayurvedic Siddha and Unani products. → Schedule S lists various cosmetics and toiletries and directs the manufacturers of cosmetics to conform to the latest Bureau of Indian standards requirements."
+    "explanation": "Schedule S lists various cosmetics and toiletries and directs manufacturers to conform to the latest Bureau of Indian Standards (BIS) requirements. Schedule T details the requirements for the manufacture of Ayurvedic, Siddha, and Unani products."
   },
   {
     "id": "kpsc_ph_874",
@@ -285,7 +285,7 @@ window.quizPart18 = [
       "D": "1980"
     },
     "answer": "C",
-    "explanation": "substances Act 1985, commonly referred to as the NDPS act, is an Act of the parliament of India that Prohibits a person the production/manufacturing/cultivation posse-ssion, sale purchasing, transport, storage and or consumption of any narcotic drug or Psychotropic substance."
+    "explanation": "The Narcotic Drugs and Psychotropic Substances Act, 1985 (commonly referred to as the NDPS Act) is an Act of the Parliament of India that prohibits a person from the production, manufacturing, cultivation, possession, sale, purchase, transport, storage, and/or consumption of any narcotic drug or psychotropic substance."
   },
   {
     "id": "kpsc_ph_875",
@@ -297,7 +297,7 @@ window.quizPart18 = [
       "D": "8"
     },
     "answer": "B",
-    "explanation": "government. The Executive committee of state pharmacy council (SPC) comprises of members elected from amongst its members. The SPC appoints a Registrar who shall be the secretary of the council and he she may also be the Treasurer."
+    "explanation": "Five members are nominated by the respective State Government to the State Pharmacy Council (SPC). The executive committee of the council comprises members elected from amongst its members. The SPC also appoints a Registrar who serves as the secretary and potentially the treasurer of the council."
   },
   {
     "id": "kpsc_ph_876",
@@ -309,7 +309,7 @@ window.quizPart18 = [
       "D": "Three years"
     },
     "answer": "A",
-    "explanation": "the Drugs and magic Remedies (objectionable Advertisements) Act 1954 is punishable up to the maximum one year imprisonment."
+    "explanation": "Any person contravening the provisions of the Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954 is punishable on a first conviction with imprisonment which may extend to six months, or with a fine, or both. For a subsequent conviction, the maximum imprisonment may extend to one year."
   },
   {
     "id": "kpsc_ph_877",
@@ -321,7 +321,7 @@ window.quizPart18 = [
       "D": "The representative from nursing staff"
     },
     "answer": "B",
-    "explanation": "(P.T.C.) is a policy forming and recommending body to the medical staff. secretary of the PTC is the chief pharmacist."
+    "explanation": "The Pharmacy and Therapeutics Committee (PTC) is a policy-forming and recommending body to the medical staff. The Chief Pharmacist is designated as the secretary of the PTC, while a physician typically serves as the Chairman."
   },
   {
     "id": "kpsc_ph_878",
@@ -333,7 +333,7 @@ window.quizPart18 = [
       "D": "700 hours"
     },
     "answer": "A",
-    "explanation": "Regulations (ER), 1991 also prescribes the minimum qualification required for registration as pharmacist. The ER 1991 also prescribes practical training of 500 hours spread over a period of not less then 3 months of registration of pharmacist."
+    "explanation": "The Education Regulations (ER), 1991 prescribes the minimum qualifications required for registration as a pharmacist, which includes a practical training requirement of not less than 500 hours spread over a period of not less than 3 months."
   },
   {
     "id": "kpsc_ph_879",
@@ -345,7 +345,7 @@ window.quizPart18 = [
       "D": "District Medical Officer"
     },
     "answer": "B",
-    "explanation": "state pharmacy council."
+    "explanation": "Pharmacy inspectors are appointed by the State Pharmacy Council to ensure provisions of the Pharmacy Act are followed."
   },
   {
     "id": "kpsc_ph_880",
@@ -357,7 +357,7 @@ window.quizPart18 = [
       "D": "Drugs Controller of India"
     },
     "answer": "C",
-    "explanation": "Institute) not the common member of PCI and DTAB. The Drugs Technical Advisory Board (DTAB), is formed by the central government in 1940 is the highest statutory decision making body on technical matters related to drugs in the country."
+    "explanation": "The Director of the Central Drug Research Institute (CDRI) is not a common ex-officio member of both the PCI and DTAB. The Drugs Technical Advisory Board (DTAB), formed by the central government, is the highest statutory decision-making body on technical matters related to drugs in India."
   },
   {
     "id": "kpsc_ph_881",
@@ -369,7 +369,7 @@ window.quizPart18 = [
       "D": "All of the above"
     },
     "answer": "D",
-    "explanation": "Act 1954 includes Dropsy, Diabetes and bright diseases. The drugs and magic Remedies (Objectionable Advertisement) Act, 1954 is an act of the parliament of India. It prohibits advertisements of drugs and remedies that claim to have magical properties, and makes doing so a cognizable offence."
+    "explanation": "The schedule of the Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954 includes conditions like Dropsy, Diabetes, and Bright's disease. The Act prohibits advertisements of drugs and remedies that claim to have magical properties for these conditions, making it a cognizable offence."
   },
   {
     "id": "kpsc_ph_882",
@@ -381,7 +381,7 @@ window.quizPart18 = [
       "D": "X"
     },
     "answer": "C",
-    "explanation": "H1 provides for the check of the indiscriminate use of antibiotics, anti T.B. and some other drugs in the country. The drug Clofazimine is used together with other medicines to treat a form of leprosy."
+    "explanation": "Schedule H1 provides regulatory checks against the indiscriminate use of select antibiotics, anti-TB medications, and habit-forming drugs. Clofazimine is an antimicrobial drug primarily used in combination therapy to treat leprosy."
   },
   {
     "id": "kpsc_ph_883",
@@ -393,7 +393,7 @@ window.quizPart18 = [
       "D": "Unani drugs"
     },
     "answer": "B",
-    "explanation": "factory premises for the manufacturing of homeopathic products . It specify GMP requirements for premises such as buildings ventilation, waste management, quality control etc for homeopathic medicines."
+    "explanation": "Schedule M1 specifies the Good Manufacturing Practice (GMP) requirements for factory premises, buildings, ventilation, waste management, and quality control systems involved in manufacturing homeopathic preparations."
   },
   {
     "id": "kpsc_ph_884",
@@ -405,7 +405,7 @@ window.quizPart18 = [
       "D": "19"
     },
     "answer": "B",
-    "explanation": "and special products, and a license to sell stock and exhibit or offer for sale or distribute drugs specified in schedule C1 shall be issued in form 21A."
+    "explanation": "Schedules C and C1 cover biological and special products. A restricted license to sell, stock, exhibit, or distribute drugs specified in Schedule C1 (excluding those specified in Schedule X) by retail is issued in Form 21A."
   },
   {
     "id": "kpsc_ph_885",
@@ -417,7 +417,7 @@ window.quizPart18 = [
       "D": "Schedule S"
     },
     "answer": "B",
-    "explanation": "minimum requirements as specified in schedule N of the Drugs and cosmetics Act, 1940 and Rules 1945. Schedule N include the list of minimum equipment for the efficient running of pharmacy Schedule N (Rule 64(1)) - → Entrace. The front of a pharmacy shall bear an inscription \"Pharmacy\" in from. → Premises. The premises of a pharmacy shall be separated from rooms from private use. → Furniture and apparatus. → General provisions."
+    "explanation": "Schedule N details the minimum requirements, equipment, and structural layout for the efficient running of a pharmacy. This includes Rule 64(1) provisions regarding the storefront inscription ('Pharmacy'), separating the premises from private living quarters, furniture, and required apparatus."
   },
   {
     "id": "kpsc_ph_886",
@@ -429,7 +429,7 @@ window.quizPart18 = [
       "D": "1 year of imprisonment or fine or both"
     },
     "answer": "C",
-    "explanation": "this Act [or the rules made there under] shall, on conviction, be punishable - a) in the case of a first conviction, with imprisonment which may extend to six months, or with fine or with both; b in the case of a subsequent conviction, with imprisonment which may extend."
+    "explanation": "Under this Act, any person who contravenes the rules shall, on a first conviction, be punishable with imprisonment which may extend to six months, or with a fine, or with both."
   },
   {
     "id": "kpsc_ph_887",
@@ -441,7 +441,7 @@ window.quizPart18 = [
       "D": "More than 1 year"
     },
     "answer": "B",
-    "explanation": "all offences under the Act which are punishable with imprisonment for a term of more than three years shall be triable only by the special court. ================================================================================ PAGE : 708 ================================================================================ Pharmaceutical Jurisprudence 708 YCT"
+    "explanation": "All offences under the Narcotic Drugs and Psychotropic Substances (NDPS) Act that are punishable with imprisonment for a term of more than three years are triable exclusively by a designated Special Court."
   },
   {
     "id": "kpsc_ph_888",
@@ -453,7 +453,7 @@ window.quizPart18 = [
       "D": "Indian"
     },
     "answer": "B",
-    "explanation": "drugs Testing Laboratory, Thane."
+    "explanation": "Intra-uterine devices and mechanical contraceptives are officially sent for testing and analysis at the Central Drugs Testing Laboratory, Thane."
   },
   {
     "id": "kpsc_ph_889",
@@ -465,7 +465,7 @@ window.quizPart18 = [
       "D": "All of the above"
     },
     "answer": "C",
-    "explanation": "cosmetics Act for the manufacture of drugs other than those specified in schedule X (form 20G)"
+    "explanation": "A loan license can be granted for the manufacture of drugs other than those specified in Schedule C, C1, and X. For drugs other than these, applications use Form 24A, whereas manufacturing licenses for Schedule X drugs carry strict standalone facilities mandates and cannot utilize basic loan licensing frameworks."
   },
   {
     "id": "kpsc_ph_890",
@@ -477,7 +477,7 @@ window.quizPart18 = [
       "D": "Form 18"
     },
     "answer": "C",
-    "explanation": "person. The purpose of taking the sample in form 17& divide the sample to four parts in his presence. Each portion is then sealed & suitably marked. The person from whom the sample is taken must also be allowed to add his mark of seal on the packet."
+    "explanation": "When a Drug Inspector takes a sample of a drug for the purpose of test or analysis, they must intimate their purpose in Form 17 to the person from whom the sample is taken, dividing the sample into four parts in their presence. Each portion is sealed and marked appropriately."
   },
   {
     "id": "kpsc_ph_891",
@@ -489,7 +489,7 @@ window.quizPart18 = [
       "D": "1950"
     },
     "answer": "C",
-    "explanation": "central government in 1949. It is reconstituted every five years."
+    "explanation": "The first Central Pharmacy Council (Pharmacy Council of India) was constituted by the Central Government in 1949 under the Pharmacy Act, 1948. It is reconstituted every five years."
   },
   {
     "id": "kpsc_ph_892",
@@ -501,7 +501,7 @@ window.quizPart18 = [
       "D": "1995"
     },
     "answer": "B",
-    "explanation": "substance order came into force in 1985."
+    "explanation": "The statutory framework under the Narcotic Drugs and Psychotropic Substances Act and relevant regulatory control orders came into force in 1985."
   },
   {
     "id": "kpsc_ph_893",
@@ -513,7 +513,7 @@ window.quizPart18 = [
       "D": "6"
     },
     "answer": "C",
-    "explanation": "which at least 3 should be degree or diploma holders in pharmacy or pharmaceutical chemistry. → Six members elected by registered pharmacists of the particular state. → 2 - 4 members nominated from each participating state of which more than 50% shall be the persons with degree of diploma qualification in pharmacy or pharmaceutical chemistry."
+    "explanation": "Five members are nominated by the State Government, of whom at least 3 must be degree or diploma holders in pharmacy or pharmaceutical chemistry. Separately, six members are elected by registered pharmacists of the particular state."
   },
   {
     "id": "kpsc_ph_894",
@@ -525,7 +525,7 @@ window.quizPart18 = [
       "D": "Form 20 G"
     },
     "answer": "D",
-    "explanation": "in schedule X is issued in form 20 G. Rule 61(3) License [to sell, stock, exhibit or offer for sale or distribute] by whole sale drugs specified in schedule X."
+    "explanation": "Under Rule 61(3) of the Drugs and Cosmetics Rules, a license to sell, stock, exhibit, or offer for sale or distribute by wholesale drugs specified in Schedule X is issued in Form 20G."
   },
   {
     "id": "kpsc_ph_895",
@@ -537,7 +537,7 @@ window.quizPart18 = [
       "D": "Drugs Consultative Committee"
     },
     "answer": "A",
-    "explanation": "advisory committee to be called the drugs. Consultation committee \"to advise the central Government the state Government and the drugs technical Advisory board on any matter tending secure uniformity throughout in the administration of this act."
+    "explanation": "The Central Drugs Laboratory (CDL) is the analytical laboratory established by the Central Government to carry out analysis of drug samples. In contrast, the Drugs Consultative Committee (DCC) and DTAB function as advisory bodies."
   },
   {
     "id": "kpsc_ph_896",
@@ -549,7 +549,7 @@ window.quizPart18 = [
       "D": "Medical devices"
     },
     "answer": "C",
-    "explanation": "clinical trial. Schedule Y defines the clinical trials as the requirements and guidelines for import and manufacture of new drugs for sale or for clinical trials. Responsibilities of the sponsor, investigators and the Independent Ethics committee."
+    "explanation": "Schedule Y details the guidelines, requirements, and data permissions needed for the import and manufacture of new drugs for sale or clinical trials. It governs the responsibilities of sponsors, investigators, and Ethics Committees."
   },
   {
     "id": "kpsc_ph_897",
@@ -561,7 +561,7 @@ window.quizPart18 = [
       "D": "Regulation and standards for running a blood"
     },
     "answer": "D",
-    "explanation": "standards for running a blood bank. Schedule F - 1 contains regulations and standards for vaccines, Schedule F-II contains regulations and standards for surgical dressing Schedule F - III contains regulations and standards for umbilical topes."
+    "explanation": "Schedule F establishes the regulations, special provisions, and operational standards for running a blood bank. Comparatively, Schedule F-I covers vaccines, Schedule F-II covers surgical dressings, and Schedule F-III details standards for umbilical tapes."
   },
   {
     "id": "kpsc_ph_898",
@@ -573,7 +573,7 @@ window.quizPart18 = [
       "D": "Schedule Z drugs"
     },
     "answer": "A",
-    "explanation": "drugs other than those specified in the schedule X of drugs and cosmetics act 1945, because drugs under listed in the schedule X cannot be purchased over the counter with out the prescription of a qualified doctor. Schedule X describes about the habit forming narcotics drugs list. ================================================================================ PAGE : 715 ================================================================================ Pharmaceutical Jurisprudence 715 YCT"
+    "explanation": "Loan licenses are issued for manufacturing facilities sharing arrangements but are prohibited for highly regulated habit-forming substances listed under Schedule X. Schedule X drugs require distinct, stringent oversight and individual accountability that cannot be fulfilled under a general loan license."
   },
   {
     "id": "kpsc_ph_899",
@@ -585,18 +585,18 @@ window.quizPart18 = [
       "D": "CSS"
     },
     "answer": "A",
-    "explanation": "hospital is prepared by pharmacy and Therapeutic committee (PTC). PTC is a group of medical staff and the perform advisory function for the safety of patient's health. The PTC has the power to decide the entry of the new drug into the hospital formulary."
+    "explanation": "The specialized list of drugs required to be purchased, utilized, or allowed into the hospital formulary is managed and prepared by the Pharmacy and Therapeutics Committee (PTC)."
   },
   {
     "id": "kpsc_ph_900",
     "question": "Application for grant or renewal of a license to sell , stock or exhibit for sale or distribute drugs is given in form number",
     "options": {
-      "A": "–21",
+      "A": "21",
       "B": "19",
       "C": "20",
       "D": "20A"
     },
     "answer": "B",
-    "explanation": "to sell stock or exhibit for sole or to sell stock or exhibit for sale or distribute drugs is given in the form 19 of drugs and Cosmetics, Rules 1945."
+    "explanation": "Applications for the grant or renewal of a license to sell, stock, exhibit for sale, or distribute drugs (other than those specified in Schedule X) are submitted using Form 19 under the Drugs and Cosmetics Rules, 1945."
   }
 ];
