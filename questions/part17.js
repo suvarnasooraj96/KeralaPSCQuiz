@@ -9,7 +9,7 @@ window.quizPart17 = [
       "D": "Adulterated drug"
     },
     "answer": "C",
-    "explanation": "manner then it is deemed to be misbranded drug. Section 17(C) - A drug shall be deemed to be misbranded if its label or container or anything accompanying the drug bears any statement design or device which makes any false claim for the drug or which is false or misleading in any particular."
+    "explanation": "A drug is deemed to be a misbranded drug if it is not labeled in the prescribed manner. Section 17(C) - A drug shall be deemed to be misbranded if its label or container or anything accompanying the drug bears any statement, design or device which makes any false claim for the drug or which is false or misleading in any particular."
   },
   {
     "id": "kpsc_ph_802",
@@ -21,7 +21,7 @@ window.quizPart17 = [
       "D": "Exempted"
     },
     "answer": "A",
-    "explanation": "schedule J is prohibited. The schedule J of the Drugs cosmetics Rules, 1945 of India contains a list of diseases and ailments which a drugs may not claim to prevent or cure under Rule 106 of the drugs and cosmetics Act, a drug cannot make claims to treat or prevent any of the diseases or reform the conditions listed."
+    "explanation": "The advertisement of drugs mentioned in Schedule J is prohibited. Schedule J of the Drugs and Cosmetics Rules, 1945 of India contains a list of diseases and ailments which a drug may not claim to prevent or cure. Under Rule 106, a drug cannot make claims to treat or prevent any of the diseases or conditions listed."
   },
   {
     "id": "kpsc_ph_803",
@@ -33,7 +33,7 @@ window.quizPart17 = [
       "D": "25 Square meters"
     },
     "answer": "A",
-    "explanation": "retail drug store is as per drug & cosmetics Act & Rules is 10 square meters."
+    "explanation": "The minimum area required to open a retail drug store as per the Drug & Cosmetics Act & Rules is 10 square meters."
   },
   {
     "id": "kpsc_ph_804",
@@ -41,11 +41,11 @@ window.quizPart17 = [
     "options": {
       "A": "First in First Out",
       "B": "Free in First Out",
-      "C": "First in Figure Out (d) Free in Figure Out",
-      "D": ""
+      "C": "First in Figure Out",
+      "D": "Free in Figure Out"
     },
     "answer": "A",
-    "explanation": "inventory accounting method used to track the cost of goods sold. This method assumes that the first items purchased (or produced) are the first items sold and that the cost of those items are the cost of goods sold • This method is used to ensure that the costs associated with inventory are accurately reflected in a company's financial statements. FEFO → First expire First out LIFO → Last In First out."
+    "explanation": "FIFO stands for First In, First Out. It is an inventory accounting method assuming that the first items purchased or produced are the first items sold. This ensures that inventory costs are accurately reflected. FEFO stands for First Expired, First Out, and LIFO stands for Last In, First Out."
   },
   {
     "id": "kpsc_ph_805",
@@ -57,7 +57,7 @@ window.quizPart17 = [
       "D": "Credits"
     },
     "answer": "B",
-    "explanation": "contracts between the buyer and the seller and it gives specific information like product or services to be delivered, delivery date, and any other terms and conditions including the price."
+    "explanation": "Purchase orders or supply orders serve as legal contracts between the buyer and the seller. It provides specific information like products or services to be delivered, delivery dates, and other terms and conditions including price."
   },
   {
     "id": "kpsc_ph_806",
@@ -69,7 +69,7 @@ window.quizPart17 = [
       "D": "Spare parts"
     },
     "answer": "D",
-    "explanation": "This analysis relates the classification of maintenance spare parts and denotes the essentiality of stocking spares. The spares are split into three categories in order of importance ."
+    "explanation": "VED (Vital, Essential, Desirable) analysis relates to the classification of maintenance spare parts and denotes the essentiality of stocking spares. The spares are split into three categories in order of importance."
   },
   {
     "id": "kpsc_ph_807",
@@ -81,7 +81,7 @@ window.quizPart17 = [
       "D": "Carrying time"
     },
     "answer": "A",
-    "explanation": "and receipt in stock is known as lead time. A lead time is the latency between the initiation and completion of a process. For example- The lead time between the placement of an order and delivery of new cars by a given manufacturer might be between 2 weeks and 6 month depending on various particularities."
+    "explanation": "The time period between placing an order and its receipt in stock is known as lead time. Lead time is the latency between the initiation and completion of a process."
   },
   {
     "id": "kpsc_ph_808",
@@ -93,7 +93,7 @@ window.quizPart17 = [
       "D": "LAL test"
     },
     "answer": "B",
-    "explanation": "parenteral products in visual method. The most common instruments for measuring particulate matter measure either its concentration or size distribution."
+    "explanation": "Particulate matter in parenteral products is commonly monitored using the visual method. Instruments used for this measure either particle concentration or size distribution."
   },
   {
     "id": "kpsc_ph_809",
@@ -105,7 +105,7 @@ window.quizPart17 = [
       "D": "Petty"
     },
     "answer": "B",
-    "explanation": "receive or allow cash in discount in a business transactions, the double-column cash book also known as a two column cash book has two columns to both debit and credit sides-one to record cash transactions. → Three column cash book A cash book with three columns for discounts received and paid cash transaction."
+    "explanation": "To receive or allow a cash discount in business transactions, a double-column (two-column) cash book is used. It features two columns on both debit and credit sides—one for recording cash transactions and one for discounts. A three-column cash book includes columns for cash, bank, and discount."
   },
   {
     "id": "kpsc_ph_810",
@@ -117,7 +117,7 @@ window.quizPart17 = [
       "D": "Drawings"
     },
     "answer": "D",
-    "explanation": "use reduces the inventory of the business. Hence it is placed on a temporary drawings account, it reduces the owner temporary drawings account, it reduces the owner equity account, it is not an expense of the business."
+    "explanation": "Goods or money withdrawn by the proprietor for personal use reduces the inventory/capital of the business. It is placed in a temporary drawings account, which reduces owner's equity and is not considered a business expense."
   },
   {
     "id": "kpsc_ph_811",
@@ -129,7 +129,7 @@ window.quizPart17 = [
       "D": "Fixed capital"
     },
     "answer": "A",
-    "explanation": "property of the company is called mortgage loan against security is a loan advance to a customer against a pledge of security. It can be loan against insurance policy mutual funds national savings certificate and other securities. → Trade credit is an agreement between the supplier and customer to purchase good on credit, → Advance from customer is a liability account in which is stored all payments from customers for good or services that have not yet been delivered."
+    "explanation": "A loan secured against immovable property is called a mortgage. Trade credit is an agreement to purchase goods on credit from a supplier. Advance from a customer is a liability account recording payments received for goods/services not yet delivered."
   },
   {
     "id": "kpsc_ph_812",
@@ -141,7 +141,7 @@ window.quizPart17 = [
       "D": "Annual usage"
     },
     "answer": "B",
-    "explanation": "carrying cost. An ABC analysis is an inventory technique that helps merchants find their most (and least) valuable products. → Inventory planners can leverage the ABC analysis to forecast the sales of various products and accordingly manage those inventories. → This can help reduce the holding cost for dead stock or obsolete stock enhancing your supply chain management."
+    "explanation": "ABC analysis is an inventory technique that helps classify products based on value to optimize stock levels and reduce holding/carrying costs for dead or obsolete stock, enhancing supply chain management."
   },
   {
     "id": "kpsc_ph_813",
@@ -153,7 +153,7 @@ window.quizPart17 = [
       "D": "Bond"
     },
     "answer": "B",
-    "explanation": "continue withdrawing money even when the account has no funds in or has insufficient funds to cover the amount of the withdrawal. Basically an overdraft means that the bank allows customers to barrow a set amount of money ================================================================================ PAGE : 675 ================================================================================ Drug Storage & Business Management 675 YCT"
+    "explanation": "An overdraft allows a customer to continue withdrawing money or writing cheques even when the account has zero or insufficient funds, essentially functioning as an extension of a short-term bank credit line."
   },
   {
     "id": "kpsc_ph_814",
@@ -165,7 +165,7 @@ window.quizPart17 = [
       "D": "2 to 8 degrees"
     },
     "answer": "D",
-    "explanation": "standard of storage, condition for \"store in refrigerator mean to store at the temperature in the range of 2 to 8º C."
+    "explanation": "According to the Indian Pharmacopoeia standards, the storage condition 'Store in a refrigerator' signifies maintaining a temperature within the range of 2°C to 8°C."
   },
   {
     "id": "kpsc_ph_815",
@@ -177,7 +177,7 @@ window.quizPart17 = [
       "D": "60-70%"
     },
     "answer": "B",
-    "explanation": "inventory items based on the items consumption values. B category items represents the item of money value 15 to 20%. The items in category is have a moderate contribution to quantity and inventory value. ================================================================================ PAGE : 676 ================================================================================ Drug Storage & Business Management 676 YCT"
+    "explanation": "In ABC inventory management, Class B items represent a moderate contribution to inventory value, typically accounting for 15% to 20% of the total money value."
   },
   {
     "id": "kpsc_ph_816",
@@ -189,7 +189,7 @@ window.quizPart17 = [
       "D": "EOQ"
     },
     "answer": "C",
-    "explanation": "accounting practice that records inventory changes in real time, without need for of recording store balance after every receipt and issue to facilitate regular checking."
+    "explanation": "Perpetual inventory control is an accounting practice that records inventory changes in real-time following every receipt and issue, facilitating continuous checking without requiring business closure for stock-taking."
   },
   {
     "id": "kpsc_ph_817",
@@ -201,7 +201,7 @@ window.quizPart17 = [
       "D": "All of the above"
     },
     "answer": "D",
-    "explanation": "things especially directly of shops or other businesses on behalf of a company. A good salesman should be mentally alert and have intelligence with imagination, he should be vocational i,e must he is working. He should be moral in telling true qualities the product which is going to sell. ================================================================================ PAGE : 677 ================================================================================ Drug Storage & Business Management 677 YCT"
+    "explanation": "A good salesman requires an array of attributes: mental alertness and intelligence (Mental), clear domain knowledge of what they are selling (Vocational), and transparency/honesty regarding product claims (Moral)."
   },
   {
     "id": "kpsc_ph_818",
@@ -213,7 +213,7 @@ window.quizPart17 = [
       "D": "Commercial and Exchange Bank"
     },
     "answer": "B",
-    "explanation": "industrial banking by being able to provides substantial aid to industries, then it is known as mixed bank."
+    "explanation": "A mixed bank combines the features of commercial banking (short-term deposits/loans) and industrial banking (providing long-term capital and substantial financial aid to industries)."
   },
   {
     "id": "kpsc_ph_819",
@@ -225,7 +225,7 @@ window.quizPart17 = [
       "D": "Dealers"
     },
     "answer": "A",
-    "explanation": "through original research. a marketer can originally obtain primary data from salesman, consumers and dealers but the trade associations have nothing to do with keeping such data instead they work on macro problems associated with the businesses"
+    "explanation": "Primary data is gathered firsthand via direct research. Marketers collect primary data directly from salesmen, consumers, and dealers. Trade associations offer secondary data focused on macroeconomic metrics."
   },
   {
     "id": "kpsc_ph_820",
@@ -237,7 +237,7 @@ window.quizPart17 = [
       "D": "120 sq.ft."
     },
     "answer": "B",
-    "explanation": "pharmacy medical shop or wholesale outlet is 10 square meter (about 108 sq ft) and for wholesale + . Retail minimum 15 sq meter (161 sq ft) area is required."
+    "explanation": "The minimum area required for a wholesale outlet under regulations is 10 square meters, which translates roughly to 108 square feet. A combined wholesale and retail setup demands a minimum of 15 square meters (161 sq ft)."
   },
   {
     "id": "kpsc_ph_821",
@@ -249,7 +249,7 @@ window.quizPart17 = [
       "D": "Open tender"
     },
     "answer": "C",
-    "explanation": "where an item of proprietary nature or where repetitive order is to be issued in short period."
+    "explanation": "A single tender is issued in scenarios involving proprietary machinery/items controlled by a single manufacturer, or where repetitive orders must be processed rapidly within short intervals."
   },
   {
     "id": "kpsc_ph_822",
@@ -261,7 +261,7 @@ window.quizPart17 = [
       "D": "Equity shares"
     },
     "answer": "A",
-    "explanation": "word 'debere ' which means to borrow or take a loan. It is a debt instrument that may or may not be secured by any collateral."
+    "explanation": "Derived from the Latin 'debere' (to borrow), debentures represent creditorship securities. They act as long-term debt instruments providing companies with loan capital instead of core ownership share capital."
   },
   {
     "id": "kpsc_ph_823",
@@ -273,7 +273,7 @@ window.quizPart17 = [
       "D": "All of the above"
     },
     "answer": "D",
-    "explanation": "attract, the customers e,g given them coupon in advance to purchase the item, trade stamp and free sample of the item or any product, drugs etc also provided to advertise the commodity."
+    "explanation": "Sales promotion employs varied schemes to capture consumer interest, including distributing advance purchase coupons, trading stamps, and supplying free product or drug samples."
   },
   {
     "id": "kpsc_ph_824",
@@ -285,7 +285,7 @@ window.quizPart17 = [
       "D": "Manufacturing unit"
     },
     "answer": "A",
-    "explanation": "Chemists and Druggists represents the place where the licensee employs the services of a qualified person but who do not maintain a pharmacy for compounding against prescriptions."
+    "explanation": "A 'Chemist and Druggist' shop refers to a licensed facility that employs a qualified professional to dispense medicines but does not run a full compounding pharmacy counter for mixing prescriptions."
   },
   {
     "id": "kpsc_ph_825",
@@ -294,10 +294,10 @@ window.quizPart17 = [
       "A": "Socially clean area free from particulate",
       "B": "Socially clean area",
       "C": "Aseptic area",
-      "D": "Area with high standards of cleanliness and"
+      "D": "Area with high standards of cleanliness and hygiene"
     },
     "answer": "A",
-    "explanation": "free from particulate matter. Basically clean- room is an area in which the quantity & size of air - borne particles are controlled in order to limit contamination."
+    "explanation": "A cleanroom area limits contamination by controlling environmental conditions, ensuring it is a socially clean area structurally free from airborne particulate matter."
   },
   {
     "id": "kpsc_ph_826",
@@ -309,11 +309,11 @@ window.quizPart17 = [
       "D": "Drug utilization review"
     },
     "answer": "C",
-    "explanation": "role except medical record services. The pharmacy & Therapeutic committee is responsible for all matter related to the use of medications in the institution, including the development and maintenance of the formulary (the continually revised compilation of drug products available the medical staff.)"
+    "explanation": "The Pharmacy and Therapeutics (P&T) Committee oversees all clinical medication policies, including ADR tracking, formularies, and usage reviews, but does not manage standard medical record filing services."
   },
   {
     "id": "kpsc_ph_827",
-    "question": "MEDLINE is a drug information resource categorised under ================================================================================ PAGE : 678 ================================================================================ Drug Storage & Business Management 678 YCT",
+    "question": "MEDLINE is a drug information resource categorised under",
     "options": {
       "A": "Primary resource",
       "B": "Secondary resource",
@@ -321,7 +321,7 @@ window.quizPart17 = [
       "D": "Primary literature"
     },
     "answer": "B",
-    "explanation": "cotegorised under secondary resource. A secondary source is one that was created later by some one that did not experience first hand or participate in the events in which the author is writing about Secondary sources often summarize interpret analyze or comment on information found in primary sources. Common examples of secondary sources include → Books → Biographies → Essays → Literacy criticism → Journal articles that do not present new research."
+    "explanation": "MEDLINE serves as an indexing database, classifying it as a secondary resource. Secondary sources abstract, reference, or evaluate data sourced directly from primary experimental publications."
   },
   {
     "id": "kpsc_ph_828",
@@ -333,7 +333,7 @@ window.quizPart17 = [
       "D": "None of the above"
     },
     "answer": "A",
-    "explanation": "principle which basically says that the majority of any effect comes from a very small portion of the causes. Applied to ABC analysis, this means the bulk of our inventory's total consumption value gets allocated to A items while B and C items make up less of that value. • A items: 10% - 2% of our inventory, accounting for 60 - 80% of our annul consumption value. • B items : 20% - 30% of our inventory, accounting for 20% - 30% of our annual consumption value. • C items : 50% - 70% of our inventory, accounting for 5% - 15% of our annual consumption value."
+    "explanation": "Under the Pareto Principle in ABC analysis, 'A items' comprise a tiny physical footprint (approx. 10% of stock units) yet generate the bulk of expenditures, consuming roughly 70% of the annual inventory budget."
   },
   {
     "id": "kpsc_ph_829",
@@ -345,7 +345,7 @@ window.quizPart17 = [
       "D": "Scrap items"
     },
     "answer": "C",
-    "explanation": "sleeping inventory, and refers to the item which are now stored in a ware house or another place, but have not be used for a long time."
+    "explanation": "Dormant items (also called sleeping inventory) refer to stock materials kept inside warehouses that have experienced little to no operational turnover over an extended seasonal cycle."
   },
   {
     "id": "kpsc_ph_830",
@@ -357,7 +357,7 @@ window.quizPart17 = [
       "D": "Alphanumeric method"
     },
     "answer": "C",
-    "explanation": "stored items for easy identification is called combination method. Note- The commission has been accepted the correct option is © in given question."
+    "explanation": "Assigning hybrid codes combining text and numbers to facilitate structural material location mapping is officially called a combination method of inventory coding."
   },
   {
     "id": "kpsc_ph_831",
@@ -369,7 +369,7 @@ window.quizPart17 = [
       "D": "(ii) and (iv)"
     },
     "answer": "B",
-    "explanation": "add up the expenses outlined above capital storage, labor transportation insurance, taxes, administrative, depreciation, obsolescence, shrinkage - over one year. Then divide those carrying costs by total inventory value and multiply the number by 100 for a percentage."
+    "explanation": "Inventory carrying costs encapsulate operational overhead linked directly to holding inventory over time, primarily reflecting costs like insurance (i) and storage property taxes (iii)."
   },
   {
     "id": "kpsc_ph_832",
@@ -381,7 +381,7 @@ window.quizPart17 = [
       "D": "Permanent working capital"
     },
     "answer": "D",
-    "explanation": "which is required to conduct the business smoothly during the year is called permanents working capital. For example, investments required to maintain the minimum stock of raw materials or to cash balance."
+    "explanation": "Permanent working capital is the baseline funding mandatory to keep a business operating smoothly, covering structural needs such as minimum safety stock and fixed recurrent ledger balances."
   },
   {
     "id": "kpsc_ph_833",
@@ -393,7 +393,7 @@ window.quizPart17 = [
       "D": "Exim Bank"
     },
     "answer": "D",
-    "explanation": "popularly known as the EXIM Bank was set up in 1982. It is the principle financial institution in India for foreign and international trade. It was previously a branch of the IDBI, but as the foreign trade sector grew, it was made in to an independent body."
+    "explanation": "Established in 1982, the Export-Import Bank of India (EXIM Bank) coordinates international trade financial streams, transitioning from its origins as an internal branch of the IDBI."
   },
   {
     "id": "kpsc_ph_834",
@@ -405,7 +405,7 @@ window.quizPart17 = [
       "D": "Reorder stock"
     },
     "answer": "C",
-    "explanation": "that indicates the level below which actual material stock items should not normally be allowed to fall. In other words, a minimum stock level is a minimum quantity of a particular item of material that must be kept at all times. The fixing of this level acts as a safety measure. for this reason, the minimum stock level is commonly known as safety stock or buffer stock."
+    "explanation": "A minimum stock threshold acting as a protective baseline to circumvent inventory stockouts is widely known as safety stock or buffer stock."
   },
   {
     "id": "kpsc_ph_835",
@@ -417,7 +417,7 @@ window.quizPart17 = [
       "D": "Ordering quantity"
     },
     "answer": "A",
-    "explanation": "obtain additional inventories, whereas carrying costs are the costs incurred to hold inventory cost the ordering cost plus the carrying cost"
+    "explanation": "Economic Order Quantity (EOQ) determines the optimal purchase order volume where total variable costs—the sum of procurement ordering costs and inventory carrying costs—are minimized."
   },
   {
     "id": "kpsc_ph_836",
@@ -429,7 +429,7 @@ window.quizPart17 = [
       "D": "Store arrangements"
     },
     "answer": "A",
-    "explanation": "opening a drug store. To open a medical store an individual must abtain a partnership LLP or company registration once the store is registered the individual must mondatrily abtain other licenses and registration to run the business smoothly such as the drug licence shop and establishment licence and pharmacy licnce."
+    "explanation": "While commercial location dictates profitability, it is a business choice rather than a mandatory regulatory baseline. Strict compliance dictates space minimums, drug licensing, and pharmacy registrations."
   },
   {
     "id": "kpsc_ph_837",
@@ -441,11 +441,11 @@ window.quizPart17 = [
       "D": "Debentures"
     },
     "answer": "B",
-    "explanation": "organization is balance sheet. Liabilities are debts or other obligations is which your business owes money, now in the future. Assets are items of value that your business owns, such as real estate and equipment. Assets and of liabilities are part of a business's balance sheet and are used to judge the business's financial health."
+    "explanation": "A balance sheet highlights the cumulative financial status of an enterprise, contrasting owned assets alongside external debt obligations and liabilities."
   },
   {
     "id": "kpsc_ph_838",
-    "question": "Which of the following is a book of secondary entry? ================================================================================ PAGE : 683 ================================================================================ Drug Storage & Business Management 683 YCT",
+    "question": "Which of the following is a book of secondary entry?",
     "options": {
       "A": "Cash book",
       "B": "Two column cash book",
@@ -453,7 +453,7 @@ window.quizPart17 = [
       "D": "Journal"
     },
     "answer": "C",
-    "explanation": "entry. All the journal entries recorded are posted to respective ledger accounts"
+    "explanation": "A ledger functions as a book of secondary entry. Initial daily financial events compile chronologically inside primary journals before group postings migrate to categorized ledger accounts."
   },
   {
     "id": "kpsc_ph_839",
@@ -465,7 +465,7 @@ window.quizPart17 = [
       "D": "Alprazolam"
     },
     "answer": "C",
-    "explanation": "following types based on their vitality. Airtight containers, light resistant containers , multi dose containers, single - dose containers, well closed container Aerosol, containers, child- proof containers. Deferent types of containers are made up from the plastic, glass , and metal types of masteries . A transparent light resistant container is widely used to store the medicinal agents includes capsules, table etc."
+    "explanation": "Adrenaline (Epinephrine) degrades via chemical oxidation when subjected to ambient light radiation, demanding storage inside distinct amber-colored light-resistant containers."
   },
   {
     "id": "kpsc_ph_840",
@@ -477,7 +477,7 @@ window.quizPart17 = [
       "D": "Hypotension"
     },
     "answer": "A",
-    "explanation": "blockers affect the heart and circulation (blood flow through arteries and veins) Propranalol is used to treat tremors, again (chest pain) hypertinsion (high blood pressure) heat rhythm disorders, and to treat or prevent heart attack. Lactic acidosis refers to lactic acid build up in the blood stream. Lactic acid is provide when oxygen level become low in cells within the areas of the body where metabolism takes place."
+    "explanation": "Propranolol is a non-selective beta-blocker that treats tremors and hypertension. It can precipitate hypotension, bronchospasm, and depression, but it does not cause lactic acidosis."
   },
   {
     "id": "kpsc_ph_841",
@@ -489,19 +489,19 @@ window.quizPart17 = [
       "D": "1919"
     },
     "answer": "D",
-    "explanation": "• An act to provides for the regulation of the possession and sale of all poisons in certain local areas, and the importation, possession and sale of white arsenic generally."
+    "explanation": "The Poison Act was formally enacted in India in the year 1919 to structurally control and regulate the importation, possession, and retail trade parameters of all toxic poisons."
   },
   {
     "id": "kpsc_ph_842",
-    "question": "Name the Hospital, in which the first Hospital Formulary for a Government teaching Hospital in India is published in 1997? Medical College, Manipal, Karnataka",
+    "question": "Name the Hospital, in which the first Hospital Formulary for a Government teaching Hospital in India is published in 1997?",
     "options": {
-      "A": "CME Vellore",
+      "A": "CMC Vellore",
       "B": "Govt. Medical College, Thiruvananthapuram",
-      "C": "Kasturba",
-      "D": "Govt. Medical College. Chennai"
+      "C": "Kasturba Medical College, Manipal",
+      "D": "Govt. Medical College, Chennai"
     },
     "answer": "B",
-    "explanation": "Government teaching hospital in India was published in 1997 at Government medical college and hospital, Trivandrum (Thiruvananthapuram)."
+    "explanation": "The first institutional hospital formulary for a public government teaching college hospital track in India emerged in 1997 from Government Medical College, Thiruvananthapuram."
   },
   {
     "id": "kpsc_ph_843",
@@ -513,7 +513,7 @@ window.quizPart17 = [
       "D": "Banking"
     },
     "answer": "C",
-    "explanation": "accuracy of the recorded transactions is called accountancy. Accountancy is the practice of recording, classifying and reporting on business transactions for a business it provides feedback to management regarding the financial results and status of an organization."
+    "explanation": "Accountancy goes beyond ledger maintenance to structurally analyze, audit, classify, and verify the procedural precision of complex recorded financial statements."
   },
   {
     "id": "kpsc_ph_844",
@@ -525,19 +525,19 @@ window.quizPart17 = [
       "D": "Recruitment"
     },
     "answer": "D",
-    "explanation": "of the recruitment process , and a job offer should never be extended without checking the finalislists references. conducting reference checking will help you make better hiring decisions as it give you a general understanding of how the candidate performed in past jobs."
+    "explanation": "Background reference checking represents a core step inside the personnel recruitment and selection architecture to validate the candidate's professional capabilities."
   },
   {
     "id": "kpsc_ph_845",
-    "question": "What are adverse drug reactions (ADRs) ? which occurs at normal doses. some drugs are administered concurrently. drugs that are used to treat the same clinical symptoms. achieve the same physiological outcome.",
+    "question": "What are adverse drug reactions (ADRs)?",
     "options": {
-      "A": "The noxious and unintended effect of drugs",
-      "B": "The synergistic effects that are seen when",
-      "C": "Harmful chemical interactions between two",
-      "D": "Responses to increased drug doses required to"
+      "A": "The noxious and unintended effect of drugs which occurs at normal doses",
+      "B": "The synergistic effects that are seen when some drugs are administered concurrently",
+      "C": "Harmful chemical interactions between two drugs that are used to treat the same clinical symptoms",
+      "D": "Responses to increased drug doses required to achieve the same physiological outcome"
     },
     "answer": "A",
-    "explanation": "effect is the condition developed in the body of person, even when taking the normal dose of the medicine, which is unwanted, uncomfortable or dangerous."
+    "explanation": "An adverse drug reaction (ADR) is a noxious, unwanted, and unintended response to a medication that develops during normal standard preventative or therapeutic clinical dosing."
   },
   {
     "id": "kpsc_ph_846",
@@ -549,7 +549,7 @@ window.quizPart17 = [
       "D": "Both (A) and (B)"
     },
     "answer": "D",
-    "explanation": "diagnosis and getting patients home safely on the same day, without the need for an overnight stay. Therefore it involves both emergency care as well as outpatient care."
+    "explanation": "Ambulatory care covers standard outpatient clinical medical services that do not require formal overnight stays, which encompasses basic emergency room evaluation and outpatient care clinic runs."
   },
   {
     "id": "kpsc_ph_847",
@@ -557,11 +557,11 @@ window.quizPart17 = [
     "options": {
       "A": "Thiamine",
       "B": "Ascorbic acid",
-      "C": "Sodium bicarbonate (d) Ammonia",
-      "D": ""
+      "C": "Sodium bicarbonate",
+      "D": "Ammonia"
     },
     "answer": "B",
-    "explanation": "amphetamine, which may the medication less effective in treating our condition. High dose of vitamin C (1000mg) will completely remove amphetamine based medication even once absorbed into the body. High dose of vitamin C act as an \"off switch\" with amphetamine medications."
+    "explanation": "High therapeutic administration doses of Ascorbic Acid (Vitamin C) acidify urine parameters, accelerating the biological clearance and renal elimination tracking of basic amphetamine molecules."
   },
   {
     "id": "kpsc_ph_848",
@@ -573,7 +573,7 @@ window.quizPart17 = [
       "D": "None of these"
     },
     "answer": "B",
-    "explanation": "contain same labelled quantities of the drugs, they are chemical equivalent. Chemical equivalence indicates that drug products contain the same active compound in the same amount and meet current official standards however, inactive ingredients in drug product may differ."
+    "explanation": "Chemical equivalents are distinct medical dosage units containing identical active chemical compounds in identical volumes, although secondary binders and excipients may vary."
   },
   {
     "id": "kpsc_ph_849",
@@ -585,11 +585,11 @@ window.quizPart17 = [
       "D": "Type D Adverse Drug Reaction"
     },
     "answer": "A",
-    "explanation": "under Type A adverse drug reaction. The vast majority of diabetic patients are classified in to one of two broad categories: Type 1diabetes mellitus, which is caused by an absolute or near absolute deficiency of insulin or type - 2 diabetes mellitus, which is characterized by the presence of insulin resistance with an inadequate compensatory increase in insulin secretion."
+    "explanation": "Type A adverse drug reactions stem directly from predictable, dose-dependent augmentations of primary pharmaceutical actions—such as insulin triggering hypoglycemia."
   },
   {
     "id": "kpsc_ph_850",
-    "question": "Satellite pharmacy a mode of drug distribution system under ================================================================================ PAGE : 691 ================================================================================ Hospital & Clinical Pharmacy 691 YCT",
+    "question": "Satellite pharmacy a mode of drug distribution system under",
     "options": {
       "A": "Charge floor stock system",
       "B": "Centralised unit dose dispensing system",
@@ -597,6 +597,6 @@ window.quizPart17 = [
       "D": "Individual prescription system"
     },
     "answer": "C",
-    "explanation": "operating unit which as similar function with the central inpatient pharmacy. Both provides specialised medication distribution services for hospitalilsed patients. The operation of the satellite pharmacy relies on administration staffing, and drug procurement from the main Patient Pharmacy, department and it usually do not offer direct services to the public. A decentralized pharmacy model, in which the pharmacist providing direct patient care divides his or her shift between distribution and clinical activity."
+    "explanation": "A satellite pharmacy branches off a centralized pharmacy space to distribute meds locally within sub-wards, operating as a decentralized unit dose dispensing format."
   }
 ];
