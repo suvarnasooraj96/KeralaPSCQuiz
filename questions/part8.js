@@ -1,31 +1,31 @@
 window.quizPart8 = [
   {
     "id": "kpsc_ph_351",
-    "question": "Carboxylic acid having alpha hydrogen atom replaced by chlorine in presence of phosphorus is known as:",
+    "question": "A carboxylic acid having an alpha-hydrogen atom replaced by chlorine in the presence of phosphorus is an example of the:",
     "options": {
-      "A": "Hell-Volhard Zelinsky reaction",
+      "A": "Hell-Volhard-Zelinsky reaction",
       "B": "Etard's reaction",
       "C": "Perkin reaction",
       "D": "Wurtz reaction"
     },
     "answer": "A",
-    "explanation": "acid having at least one α-hydrogen react with X2 (Cl2 or Br2) in the presence of phosphorus (or hosphorus halide) to give α–halo acids. This reaction is known as Hell-Volhard Zelinsky reaction (HVZ reaction)."
+    "explanation": "Carboxylic acids having at least one α-hydrogen react with halogens (${\\text{Cl}}_2$ or ${\\text{Br}}_2$) in the presence of a small amount of red phosphorus to give α-halo carboxylic acids. This transformation is universally known as the Hell-Volhard-Zelinsky (HVZ) reaction."
   },
   {
     "id": "kpsc_ph_352",
-    "question": "Drugs having pKa value greater than 8.0:",
+    "question": "Weakly acidic drugs having a pKa value greater than 8.0 (such as phenytoin) are:",
     "options": {
-      "A": "Unionized at all pH",
+      "A": "Unionized at virtually all physiological pH values",
       "B": "Unionized in stomach pH only",
-      "C": "Ionized at all pH",
+      "C": "Ionized at all physiological pH values",
       "D": "Ionized in stomach pH only"
     },
     "answer": "A",
-    "explanation": "phenytoin and many barbiturates, whose pka values are greater than 8, are essentially unionized at all pH values. There fore for these weak acidic drugs transport si more rapid and independent of pH."
+    "explanation": "Weakly acidic drugs with a $pK_a > 8.0$, such as phenytoin and various barbiturates, remain predominantly unionized across the physiological pH range (stomach to intestine). Consequently, their passive membrane transport is rapid and mostly independent of ambient pH fluctuations."
   },
   {
     "id": "kpsc_ph_353",
-    "question": "Locally applied protein precipitants are called",
+    "question": "Locally applied protein precipitants with low cell permeability are called:",
     "options": {
       "A": "Astringents",
       "B": "Antiseptics",
@@ -33,11 +33,11 @@ window.quizPart8 = [
       "D": "Protectives"
     },
     "answer": "A",
-    "explanation": "astringents. → An astringent such as tannic acid is a compound that precipitates protein."
+    "explanation": "Astringents are locally applied chemical agents (like tannic acid or aluminum salts) that precipitate surface proteins. This action constricts tissues, reduces secretions, and forms a protective layer over damaged skin or mucous membranes."
   },
   {
     "id": "kpsc_ph_354",
-    "question": "Which among the following is used as a filtering aid ================================================================================ PAGE : 303 ================================================================================ Pharmaceutical Chemistry 303 YCT",
+    "question": "Which among the following is widely used as a pharmaceutical filtering aid?",
     "options": {
       "A": "Calcium carbonate",
       "B": "Hydroxy methyl cellulose",
@@ -45,71 +45,71 @@ window.quizPart8 = [
       "D": "Kaolin"
     },
     "answer": "D",
-    "explanation": "→ Efficent filtration of fine kaolin particles plays a crucial role in processing of raw kaolin to a marketable product."
+    "explanation": "Kaolin is a naturally occurring hydrated aluminum silicate that, alongside purified talc and diatomaceous earth, serves effectively as a filter aid to clarify cloudy solutions by trapping fine particulates without adsorbing active constituents."
   },
   {
     "id": "kpsc_ph_355",
-    "question": "Radiopaque contrast media used for the X-ray examination of Gastro intestinal tract",
+    "question": "Which radiopaque contrast medium is utilized for the X-ray examination of the gastrointestinal tract?",
     "options": {
       "A": "Barium chloride",
       "B": "Barium sulphite",
       "C": "Barium sulphide",
-      "D": "Barium Sulphate"
+      "D": "Barium sulphate"
     },
     "answer": "D",
-    "explanation": "inside walls of the upper GI tract organs so that the swallowing motion wall lining, function, size, and shape, of these organs are visible on X-ray, Barium sulphate is ratio plaque contrast media."
+    "explanation": "Barium sulphate (${\\text{BaSO}}_4$) is a highly insoluble radiopaque contrast medium administered orally or rectally. It coats the mucosal lining of the gastrointestinal tract, allowing anatomical structures and swallowing dynamics to appear clearly under fluoroscopy or X-ray."
   },
   {
     "id": "kpsc_ph_356",
-    "question": "Which among the following is used to prepare Anti-Rust tablet",
+    "question": "Which of the following compounds is used as an additive to prepare anti-rust tablets for surgical instruments?",
     "options": {
       "A": "Sodium chloride",
       "B": "Sodium sulphate",
       "C": "Sodium nitrite",
-      "D": "Sodium metabisulphate"
+      "D": "Sodium metabisulphite"
     },
     "answer": "C",
-    "explanation": "formed had prevented rust formation during the warehousing of the product."
+    "explanation": "Sodium nitrite (${\\text{NaNO}}_2$) acts as an effective anodic corrosion inhibitor. It is frequently incorporated into anti-rust tablets or chemical sterilizing solutions to prevent the oxidative rusting of steel surgical tools immersed in water."
   },
   {
     "id": "kpsc_ph_357",
-    "question": "Which among the following is used as a systemic acidifier",
+    "question": "Which among the following compounds is used clinically as a systemic acidifier?",
     "options": {
       "A": "Potassium iodide",
       "B": "Potassium citrate",
-      "C": "Ammonium chloride (d) Sodium acetate",
-      "D": ""
+      "C": "Ammonium chloride",
+      "D": "Sodium acetate"
     },
     "answer": "C",
-    "explanation": "acidifier in the treatment of severe metabolic alkalosis, in the oral acid. :- It is used in the treatment of cough with mucus."
+    "explanation": "Ammonium chloride (${\\text{NH}}_4{\\text{Cl}}$) is metabolized by the liver into urea and hydrochloric acid, releasing free hydrogen ions into the circulation. This makes it highly useful as a systemic acidifying agent to correct severe metabolic alkalosis."
   },
   {
     "id": "kpsc_ph_358",
-    "question": "Radioisotope P-32 used for the treatment of",
+    "question": "The therapeutic radioisotope Phosphorus-32 (P-32) is primarily indicated for the treatment of:",
     "options": {
       "A": "Hyperthyroidism",
-      "B": "Carcinoma of bone",
+      "B": "Carcinoma of the bone",
       "C": "Thyroid cancer",
       "D": "Polycythemia vera"
     },
     "answer": "D",
-    "explanation": "polycythemia vera :- AL radioactive form of the element phosphorus. It is used in the laboratory to label DNA and proteins. It has also been used to treat a blood disorder called polycythemia vera."
+    "explanation": "Phosphorus-32 ($^{32}{\\text{P}}$) is a pure beta-emitting radioisotope that accumulates preferentially in bone marrow and rapidly dividing cells. It has traditionally been utilized to suppress overactive bone marrow production in patients with polycythemia vera."
   },
   {
     "id": "kpsc_ph_359",
-    "question": "Which one of the following is an ingredient of Compound effervescent powder",
+    "question": "What is the primary pharmacological purpose of adding Potassium Iodide to iodine solutions?",
     "options": {
-      "A": "Increase the solubility of lodine",
-      "B": "Decrease the solubility of lodine",
-      "C": "Reduce the toxicity of lodine",
-      "D": "Improve the appearance of lodine solution"
+      "A": "To increase the solubility of elemental Iodine",
+      "B": "To decrease the volatility of Iodine",
+      "C": "To reduce the systemic toxicity of Iodine",
+      "D": "To improve the stability and cosmetic appearance"
     },
     "answer": "A",
-    "explanation": "is sodium potassium Tartarte. → Effervescent salts are granules, or coarse to very coarse powders, containing the medical agent in a dry mixture. 1001 Use of Potassium lodide in lodine solution increase the solubility of Iodine. → The increase in the solubility of iodine in an aqueous solution of potassium iodide is due to the formation of K I3. KI + I2 → KI3 Potassium tri iodide"
+    "explanation": "Elemental iodine (${\\text{I}}_2$) possesses very poor solubility in pure water. The addition of potassium iodide (${\\text{KI}}$) achieves high solubility by reacting with iodine to form a highly water-soluble polyiodide complex: ${\\text{KI}} + {\\text{I}}_2 \\rightarrow {\\text{KI}}_3$ (Potassium triiodide)."
   },
   {
     "id": "kpsc_ph_360",
-    "question": "Valproic acid is used as an",
+    "question": "Valproic acid is primarily classified and therapeutic utilized as an:",
     "options": {
       "A": "Analgesic",
       "B": "Antiepileptic",
@@ -117,71 +117,71 @@ window.quizPart8 = [
       "D": "Diuretic"
     },
     "answer": "B",
-    "explanation": "epileptic) medicine. It's not fully understood how this medicine works for treating bipolar disorder. However valproic acid is thought to reduce or prevent manic episodes by increasing the amount of chemical called gamma amino butyric acid (GABA) in the brain."
+    "explanation": "Valproic acid is a broad-spectrum antiepileptic drug used to treat various seizure types and bipolar disorder. It operates by blocking voltage-gated sodium channels, attenuating T-type calcium currents, and elevating gamma-aminobutyric acid (GABA) levels in synaptic clefts."
   },
   {
     "id": "kpsc_ph_361",
-    "question": "Clavulanic acid is given along with amoxycillin to",
+    "question": "Clavulanic acid is co-administered alongside amoxicillin primarily to:",
     "options": {
-      "A": "Decrease excretion",
-      "B": "Avoid first pass metabolism",
-      "C": "Prevent drug resistance",
-      "D": "Enhance oral absorption"
+      "A": "Decrease the renal excretion of amoxicillin",
+      "B": "Avoid hepatic first-pass metabolism",
+      "C": "Prevent drug resistance caused by beta-lactamases",
+      "D": "Enhance oral bioavailability and absorption"
     },
     "answer": "C",
-    "explanation": "that is frequently combined with amoxicillin or Ticar cillin to fight antibiotic resistance by preventing their degradation by beta- lactamase enzymes, broadening their spectrum fo susceptible bacterial infections."
+    "explanation": "Clavulanic acid is a suicide beta-lactamase inhibitor. When combined with beta-lactam antibiotics like amoxicillin, it binds irreversibly to beta-lactamase enzymes produced by resistant bacteria, preventing antibiotic degradation and restoring potency."
   },
   {
     "id": "kpsc_ph_362",
-    "question": "Antimalarial drug used in Rheumatoid arrthritis",
+    "question": "Which antimalarial drug is also widely used as a disease-modifying antirheumatic drug (DMARD) in Rheumatoid Arthritis?",
     "options": {
       "A": "Mepacrine",
       "B": "Chloroquine",
-      "C": "Artemisine",
+      "C": "Artemisinin",
       "D": "Pamaquine"
     },
     "answer": "B",
-    "explanation": "(HCQ) are aminoquinoline derivatives. They are structurally similar, differing only by replacement of an ethyl group in chloroquine with a hydroxyethyl group in HCQ. HCQs comprises 95 percent of all rheumatic disease antimalarial prescriptions"
+    "explanation": "Chloroquine and its analog hydroxychloroquine are 4-aminoquinoline antimalarials that exhibit potent immunomodulatory features. They accumulate within lysosomal compartments, interfering with antigen presentation and cytokine release, making them key agents in managing rheumatoid arthritis."
   },
   {
     "id": "kpsc_ph_363",
-    "question": "Selenium Sulfide is used as",
+    "question": "Selenium Sulphide is clinically integrated into shampoos and topical lotions as an:",
     "options": {
-      "A": "Antimalarial",
-      "B": "Antileprotic",
-      "C": "Antifungal",
-      "D": "Antidandruff"
+      "A": "Antimalarial agent",
+      "B": "Antileprotic agent",
+      "C": "Antibacterial agent",
+      "D": "Antidandruff agent"
     },
     "answer": "D",
-    "explanation": "dandruff, seborrheic dermatitis of the scalp and tineacapitis. Selenium sulfide is an antifungal agent as well as a cytostatic agent, slowing the growth of hyperproliferative cells in seborrhea. ================================================================================ PAGE : 304 ================================================================================ Pharmaceutical Chemistry 304 YCT"
+    "explanation": "Selenium sulphide (${\\text{SeS}}_2$) is a topical cytostatic and antifungal agent. It suppresses the hyperproliferation of epidermal cells on the scalp and shows activity against *Malassezia* species, making it highly useful for treating dandruff and seborrheic dermatitis."
   },
   {
     "id": "kpsc_ph_364",
-    "question": "The process of loosing water of crystallisation from a substance is",
+    "question": "The spontaneous loss of water of crystallization from a hydrated crystalline substance when exposed to air is known as:",
     "options": {
       "A": "Exudation",
       "B": "Efflorescence",
-      "C": "Delequescence",
-      "D": "Diaphoretic"
+      "C": "Deliquescence",
+      "D": "Diaphoresis"
     },
     "answer": "B",
-    "explanation": "removed is called Efflorescence. It can also be defined as the process of losing water or hydration from anydrate. Like in this case sodium carbonate decahydrate loses nine molecules of water to form sodium carbonate monohydrate."
+    "explanation": "Efflorescence is the property of certain hydrated crystals to lose some or all of their water molecules of crystallization when exposed to dry air, often transforming into a powdery surface layer (e.g., sodium carbonate decahydrate losing water to form the monohydrate)."
   },
   {
     "id": "kpsc_ph_365",
-    "question": "An ingredient of anticoagulant solution used for storage of whole blood",
+    "question": "Which of the following compounds serves as an essential anticoagulant ingredient in blood storage solutions?",
     "options": {
       "A": "Anhydrous citric acid",
       "B": "Anhydrous benzoic acid",
-      "C": "Anhydrous Tartaric acid",
+      "C": "Anhydrous tartaric acid",
       "D": "Ascorbic acid"
     },
     "answer": "A",
-    "explanation": "for storage of whole blood is anhydrous citric acid. Citric acid anhydrous is a white crystalline powder. This product acts as a preservative and antioxidant. It is also used as an acidulant, flavoring agent and antistaling agent in soft drinks, candy, jams, and jellies. → Benzoic anhydride is the organic compound with the formula (C6H5CO)2O."
+    "explanation": "Anhydrous citric acid (or sodium citrate) is mixed into blood preservation solutions (like ACD or CPD formulations). It binds free calcium ions (${\\text{Ca}}^{2+}$) in the plasma to form soluble calcium citrate complexes, blocking the calcium-dependent coagulation cascade during storage."
   },
   {
     "id": "kpsc_ph_366",
-    "question": "2 Acetoxy benzoic acid is:",
+    "question": "The chemical name 2-acetoxybenzoic acid corresponds to which drug?",
     "options": {
       "A": "Paraben",
       "B": "Aspirin",
@@ -189,35 +189,35 @@ window.quizPart8 = [
       "D": "Benzocaine"
     },
     "answer": "B",
-    "explanation": "Aspirin's chemical name is 2 - Acetoxybenzoic acid. Aspirin's a chemical called acetylsalicylic acid (ASA). Aspirin is widely used worldwide as an anti - inflammatory and antipyretic drug formula and structure. The molecular formula of acetylsalicylic acid is C9H8O4 and the and the expanded formula is CH3COOC6H4 COOH."
+    "explanation": "Aspirin, or acetylsalicylic acid (${\\text{C}}_9{\\text{H}}_8{\\text{O}}_4$), is chemically known as 2-acetoxybenzoic acid. It exerts its analgesic, antipyretic, and anti-inflammatory activities by irreversibly acetylating cyclooxygenase (COX) enzymes."
   },
   {
     "id": "kpsc_ph_367",
-    "question": "Epsom Salt is",
+    "question": "Epsom Salt is the common name designated for:",
     "options": {
-      "A": "Copper Sulphate",
-      "B": "Magnesium Sulphate",
-      "C": "Ferrous Sulphate",
-      "D": "Calcium Sulphate"
+      "A": "Copper sulphate",
+      "B": "Magnesium sulphate heptahydrate",
+      "C": "Ferrous sulphate",
+      "D": "Calcium sulphate"
     },
     "answer": "B",
-    "explanation": "sulfate. It is a chemical compound made up of magnesium, sulfur, and oxygen. Despite its name Epsom salt is a completely different compound than table salt. It was most likely termed \"salt\" because of its chemical structure. →copper sulfate is used as a fungicide, algaecide, root killer, and herbicide in both agriculture and non- agricultural settings. Calcium sulphate → Calcium sulphate is used in agricultural and horticultural fertilisers, dressings and pesticides. It provides a natural source of calcium and sulphur, which can be directly assmilated by plants and are vital to fertilisation and healthy plant growth."
+    "explanation": "Epsom salt is the traditional moniker for magnesium sulphate heptahydrate (${\\text{MgSO}}_4 \\cdot 7{\\text{H}}_2{\\text{O}}$). It is used clinically as an osmotic laxative, anticonvulsant in pre-eclampsia, and a source of magnesium ions."
   },
   {
     "id": "kpsc_ph_368",
-    "question": "In combination antacids, Magnesium salts are added:",
+    "question": "In combination antacid preparations, magnesium salts are purposefully paired with aluminum antacids to:",
     "options": {
-      "A": "For immediate onset of action",
-      "B": "To decrease the production of acid in GIT",
-      "C": "To enhance taste and appearance",
-      "D": "For laxative action"
+      "A": "Provide an immediate systemic onset of action",
+      "B": "Decrease total acid production inside parietal cells",
+      "C": "Enhance taste profile and shelf-life stability",
+      "D": "Counteract aluminum-induced constipation with a laxative effect"
     },
     "answer": "D",
-    "explanation": "and increases water in the intestines which many induce bowel movements. Magnesium hydroxide is used as a laxative to relieve occasional constipation. Magnesium hydroxide is also used as an antacid that relieve indigestion, sour stomach, and heartburn."
+    "explanation": "Aluminum antacids cause constipation by slowing bowel motility, while magnesium antacids retain water osmotically inside the colon, producing a laxative effect. Combining them balances these actions, minimizing adverse gastrointestinal motility symptoms."
   },
   {
     "id": "kpsc_ph_369",
-    "question": "Benzodiazepine receptor antagonist:",
+    "question": "Which of the following agents acts as a competitive antagonist at benzodiazepine receptors?",
     "options": {
       "A": "Flumazenil",
       "B": "Atropine",
@@ -225,59 +225,59 @@ window.quizPart8 = [
       "D": "Phentolamine"
     },
     "answer": "A",
-    "explanation": "competitively inhibits the activity of benzodiazepine and non-benzodiazepine substances that interact with benzodiazepine receptor site on the GABA/benzodiazepine receptor complex. It can also reverse the binding of benzodiazepines to benzodiazepine receptors. → Atropine is a competitive. reversible antagonist of muscarinic receptors that blocks the effects of acetylcholine and other choline esters."
+    "explanation": "Flumazenil is an imidazobenzodiazepine derivative that binds competitively to the central benzodiazepine receptor site on the ${\\text{GABA}}_A$ receptor complex, reversing the sedative and respiratory effects of benzodiazepine overdoses."
   },
   {
     "id": "kpsc_ph_370",
-    "question": "Diethyl carbamazine is the drug of choice in the treatment of:",
+    "question": "Diethylcarbamazine (DEC) is widely regarded as the drug of choice for treating:",
     "options": {
       "A": "Epilepsy",
-      "B": "Filarial infection",
-      "C": "Hookworm infestation",
+      "B": "Filarial infections",
+      "C": "Hookworm infestations",
       "D": "Malaria"
     },
     "answer": "B",
-    "explanation": "to treat filarial infections like wuchereria Bancrofti and loa loa. → Anti - epileptic drugs (AEDs) are the most commonly used treatment of epilepsy. They help control seizures in around 7 out 10 of people. AEDs work by changing the levels of chemicals is our brain."
+    "explanation": "Diethylcarbamazine (DEC) is a synthetic piperazine derivative highly active against microfilariae and adult worms. It is the first-line treatment for lymphatic filariasis caused by *Wuchereria bancrofti* and *Brugia malayi*."
   },
   {
     "id": "kpsc_ph_371",
-    "question": "Ammonium Chloride is used as:",
+    "question": "When evaluated for respiratory conditions, Ammonium Chloride is utilized as an:",
     "options": {
       "A": "Alkalising agent",
       "B": "Astringent",
       "C": "Expectorant",
-      "D": "All the above"
+      "D": "Antitussive"
     },
     "answer": "C",
-    "explanation": "expectorant due to its irritative action on the bronchial mucosa. This effect causes the production of respiratory tract fluid which in order facility the effective cough. → Alkalinizing agents are used to manage disorders associated with low pH. for example - they may be used to treat acidosis due to kindney failure."
+    "explanation": "Ammonium chloride acts as a reflex expectorant. It irritates the gastric mucosa, which reflexively stimulates bronchial secretions, increasing respiratory tract fluid volume and making it easier to expectorate thick mucus."
   },
   {
     "id": "kpsc_ph_372",
-    "question": "An antidote which can be used in cyanide poisoning: ================================================================================ PAGE : 305 ================================================================================ Pharmaceutical Chemistry 305 YCT",
+    "question": "Which among the following is utilized as a chemical antidote in the treatment protocol for cyanide poisoning?",
     "options": {
-      "A": "Sodium bicarbonate (b) Sodium nitrite",
-      "B": "",
+      "A": "Sodium bicarbonate",
+      "B": "Sodium nitrite",
       "C": "Dimercaprol",
-      "D": "Sodium bi sulphite"
+      "D": "Sodium bisulphite"
     },
     "answer": "B",
-    "explanation": "injection are used together to treat cyanide poisoning. Cyanide poisoning is a life- threatening condition that requires immediate medical attention. → sodium bicarbonate is an antacid used to relieve heartburn and acid indigestion → Dimercaprol is a medication used to treat toxic exposure to arsenic, mercury, gold and lead."
+    "explanation": "Sodium nitrite is an established antidote for cyanide poisoning. It oxidizes hemoglobin to methemoglobin, which binds free cyanide ions to form cyanmethemoglobin, protecting vital tissue cytochrome oxidase systems."
   },
   {
     "id": "kpsc_ph_373",
-    "question": "Colloidal dispersion of liquids or solids in gases are:",
+    "question": "Colloidal dispersions consisting of fine liquid droplets or solid particles suspended within a gaseous medium are termed:",
     "options": {
       "A": "Aerosols",
-      "B": "Emulsion",
+      "B": "Emulsions",
       "C": "Creams",
       "D": "Suspensions"
     },
     "answer": "A",
-    "explanation": "liquid particles in a gas. Example – smoks or fog. A colloidal structure in which the distributed phase is made up of solid or liquid particles and the dispersion medium is a gas, most often an aerosol. * In an emulsion, one liquid is dispersed in the other."
+    "explanation": "An aerosol is a colloidal system where liquid droplets or finely divided solid particles are dispersed uniformly throughout a continuous gas phase (e.g., fog, smoke, or pharmaceutical metered-dose inhalers)."
   },
   {
     "id": "kpsc_ph_374",
-    "question": "Potassium permanganate is an example for:",
+    "question": "Potassium permanganate (KMnO4) is a classical agent classified as a strong:",
     "options": {
       "A": "Acidifying agent",
       "B": "Alkalising agent",
@@ -285,23 +285,23 @@ window.quizPart8 = [
       "D": "Oxidising agent"
     },
     "answer": "D",
-    "explanation": "example for oxidising agent. Acidifying agent :  Hydrochloric acid is widely used as an acidifying agent. Alkalizing agent :  sodium bicarbonate is the commonly preferred alkalinizing agent . Reducing agent :  LiH used as reducing agent"
+    "explanation": "Potassium permanganate (${\\text{KMnO}}_4$) is a powerful oxidizing agent. It reacts with organic matter to release nascent oxygen, giving it valuable topical antiseptic, astringent, and anti-infective properties."
   },
   {
     "id": "kpsc_ph_375",
-    "question": "Lugol's Solution is: potassium iodide in water potassium iodide in water potassium iodide in water iodide in water",
+    "question": "Aqueous Iodine Solution I.P. (commonly known as Lugol's Solution) contains:",
     "options": {
-      "A": "Contains 0.9% w/v sterile solution of Sodium",
-      "B": "pH of the solution is between 4.5 & 7.0",
-      "C": "Contains added antimicrobial agents or",
-      "D": "Contains approximately 150 mmol of Sodium"
+      "A": "5% w/v Iodine and 10% w/v Potassium Iodide in water",
+      "B": "2% w/v Iodine and 2.5% w/v Potassium Iodide in alcohol",
+      "C": "7% w/v Iodine and 5% w/v Potassium Iodide in water",
+      "D": "10% w/v Iodine and 10% w/v Potassium Iodide in alcohol"
     },
-    "answer": "C",
-    "explanation": "lodine 5% w/v and potassium iodide 10% w/v (Lugol's solution). Lugol's is transparent liquid with a deep brown color and the odour of iodine. Lugol's is supplied in 8 ml glass single - use bottles 1019 Which among the following statement is false with respect to NaCl Injection I P Chloride preservatives ions preservatives is false with respect to Nacl injection IP sodium chloride Intravenous infusion BP 0.9% w/v is value as a source of water and electrolytes and is indicated for replenishing fluid and for restoring and maintaining the concentrations of sodium and chloride ions. It is also of value in the treatment of poisoning, by aiding excretion."
+    "answer": "A",
+    "explanation": "Aqueous Iodine Solution I.P. (Lugol's Solution) is prepared by dissolving 5g of iodine and 10g of potassium iodide in water to make a total volume of 100mL. It is entirely aqueous and contains no alcohol."
   },
   {
     "id": "kpsc_ph_376",
-    "question": "Which among the following is a blood coagulation factor:",
+    "question": "Which of the following inorganic ions functions directly as a vital blood coagulation factor?",
     "options": {
       "A": "Sodium",
       "B": "Calcium",
@@ -309,47 +309,47 @@ window.quizPart8 = [
       "D": "Manganese"
     },
     "answer": "B",
-    "explanation": "Platelets or thrombocytes are responsible for blood coagulation. Calciumions are involved in the process of blood coagulation by converting thromboplastin and platelet factors into prothrombinase and prothrombin into thrombin"
+    "explanation": "Calcium ions (${\\text{Ca}}^{2+}$, officially known as Factor IV) are required at multiple stages of the blood coagulation cascade, including the activation of Factor X and the subsequent conversion of prothrombin to thrombin."
   },
   {
     "id": "kpsc_ph_377",
-    "question": "Sodium lauryl Sulphate is",
+    "question": "Sodium Lauryl Sulphate (SLS) belongs to which class of surface-active agents?",
     "options": {
-      "A": "Cationic surface active agents",
-      "B": "Ampholytic surface active agents",
-      "C": "Nonionic surface active agents",
-      "D": "Anionic surface active agents"
+      "A": "Cationic surface-active agents",
+      "B": "Ampholytic surface-active agents",
+      "C": "Non-ionic surface-active agents",
+      "D": "Anionic surface-active agents"
     },
     "answer": "D",
-    "explanation": "active agents. Sodium laureth sulfate, an accepted contraction of sodium lauryl ether sulfate, also called sodium alkylethersulfate is an anionic` detergent and surfactant found in many personal care products and for industrial uses. SLES is an inexpensive and very effective foaming agent."
+    "explanation": "Sodium lauryl sulphate (SLS) is an anionic surfactant containing a hydrophilic sulphate head group attached to a lipophilic hydrocarbon chain. It is widely used as an emulsifier, wetting agent, and detergent."
   },
   {
     "id": "kpsc_ph_378",
-    "question": "The agent used as a radio-opaque contrast medium:",
+    "question": "Which of the following is an insoluble chemical compound used as a diagnostic radiopaque contrast medium?",
     "options": {
       "A": "Radioactive Sodium Iodide",
       "B": "Colloidal Gold Injection",
       "C": "Barium Sulphate",
-      "D": "Sodium Iodo hippurate"
+      "D": "Sodium Iodohippurate"
     },
     "answer": "C",
-    "explanation": "called radiopaque contrast media. It works by coating the esophagus, stomach , or intestine with a material that is not absorbed into the body so that diseased or damaged area can be clearly seen by x-ray examination or CT - scan."
+    "explanation": "Barium sulphate is an insoluble, radiopaque compound that does not undergo systemic absorption. This allows it to safely outline the lumen of the gastrointestinal tract during diagnostic imaging."
   },
   {
     "id": "kpsc_ph_379",
-    "question": "Hydrogen Peroxide IP used as antiseptic contains",
+    "question": "Hydrogen Peroxide Topical Solution I.P., used commonly as a mild skin antiseptic, contains approximately:",
     "options": {
-      "A": "100% w/v of Hydrogen peroxide",
-      "B": "25% w/v of Hydrogen Peroxide",
-      "C": "6% w/v of Hydrogen Peroxide",
-      "D": "27% w/v of Hydrogen Peroxide"
+      "A": "30% w/v of Hydrogen peroxide",
+      "B": "20% w/v of Hydrogen peroxide",
+      "C": "6% w/v of Hydrogen peroxide",
+      "D": "3% w/v of Hydrogen peroxide"
     },
     "answer": "D",
-    "explanation": "antiseptic that is use for the treatment and prevention of wound infection. Hydrogen peroxide 6% solution kills and prevents the growth of infection causing microbes thereby preventing abrasions cuts or any branch in the skin from getting infection. ================================================================================ PAGE : 310 ================================================================================ Pharmaceutical Chemistry 310 YCT and deferasirox are the three united states food and Drug Administration-opproved iron chelatcers. Each of these iron chelotons is well known for the treatment of iron overload in various clinical conditions"
+    "explanation": "Hydrogen Peroxide Topical Solution I.P. (commonly known as 10-volume hydrogen peroxide) contains roughly 3% w/v of ${\\text{H}}_2{\\text{O}}_2$. It provides mechanical cleansing and minor antiseptic action via its bubbling effervescence."
   },
   {
     "id": "kpsc_ph_380",
-    "question": "Among the following which one is milk of Magnesia ?",
+    "question": "The aqueous suspension commonly referred to as 'Milk of Magnesia' is chemically:",
     "options": {
       "A": "Magnesium carbonate",
       "B": "Magnesium hydroxide",
@@ -357,35 +357,35 @@ window.quizPart8 = [
       "D": "Magnesium sulphate"
     },
     "answer": "B",
-    "explanation": "as an antacid as well as a laxative or relieve occasional constipation. Magnesium hydroxide suspension is also known as milk of magnesia."
+    "explanation": "Milk of Magnesia is a thick aqueous suspension of magnesium hydroxide [${\\text{Mg(OH)}}_2$]. It is used at lower doses as an antacid to neutralize gastric secretions and at higher doses as an osmotic laxative."
   },
   {
     "id": "kpsc_ph_381",
-    "question": "What is the use of dilute nitric acid in chloride limit test",
+    "question": "What is the primary role of adding dilute nitric acid during the analytical limit test for chlorides?",
     "options": {
-      "A": "To give turbidity",
-      "B": "To prevent precipitation of other acid radicals",
-      "C": "To Precipitale chlorides",
-      "D": "To give yellow colour"
+      "A": "To accelerate the precipitation of silver ions",
+      "B": "To prevent the precipitation of other acid radicals by silver nitrate",
+      "C": "To provide color stabilization for the final suspension",
+      "D": "To oxidize confounding reducing substances"
     },
     "answer": "B",
-    "explanation": "precipitation of other acid radicals in the chloride limit test, This test is based on the reaction of soluble chloride with silver nitrate in presence of dilute nitric acid to form silver chloride."
+    "explanation": "Dilute nitric acid (${\\text{HNO}}_3$) is added to the chloride limit test to maintain an acidic environment. This ensures only silver chloride precipitates, preventing other acid radicals (like carbonate or phosphate) from forming silver precipitates that could interfere with the turbidity reading."
   },
   {
     "id": "kpsc_ph_382",
-    "question": "Desferrioxamine is used against which metal poisoning ?",
+    "question": "Desferrioxamine (Deferoxamine) is a specific chelating antidote deployed against poisoning from which metal?",
     "options": {
-      "A": "Copper poisoning",
-      "B": "Cyanide poisoning",
-      "C": "Mercury poisoning (d) Iron poisoning",
-      "D": ""
+      "A": "Copper",
+      "B": "Lead",
+      "C": "Mercury",
+      "D": "Iron"
     },
     "answer": "D",
-    "explanation": "in removing to toxicity caused by iron and aluminum,. It is specifically used in iron overdose."
+    "explanation": "Desferrioxamine is a specific iron-chelating agent obtained from *Streptomyces pilosus*. It binds ferric (${\\text{Fe}}^{3+}$) ions to form stable, water-soluble ferrioxamine complexes that are safely cleared through the kidneys."
   },
   {
     "id": "kpsc_ph_383",
-    "question": "Which one of the following is an expectorant in cough mixture?",
+    "question": "Which of the following compounds is commonly incorporated into cough mixtures to serve as an expectorant?",
     "options": {
       "A": "Sodium chloride",
       "B": "Calcium chloride",
@@ -393,11 +393,11 @@ window.quizPart8 = [
       "D": "Ammonium chloride"
     },
     "answer": "D",
-    "explanation": "medication ingredient used as expectorant in cough mixtures. Ammonium chloride has the tendency to irritate bronchial mucosa and therefore caused the production of respiratory tract fluid, which facilitates the ejection of cough. ================================================================================ PAGE : 311 ================================================================================ Pharmaceutical Chemistry 311 YCT"
+    "explanation": "Ammonium chloride is a classic ingredient in expectorant mixtures. It works by irritating the gastric mucosa, which reflexively stimulates bronchial secretions to thin out and liquefy stubborn mucus."
   },
   {
     "id": "kpsc_ph_384",
-    "question": "Which one of the following is a systemic antacid?",
+    "question": "Which of the following is classified as a systemic antacid due to its high water solubility and rapid systemic absorption?",
     "options": {
       "A": "Calcium carbonate",
       "B": "Magnesium carbonate",
@@ -405,11 +405,11 @@ window.quizPart8 = [
       "D": "Aluminium hydroxide"
     },
     "answer": "C",
-    "explanation": "gastric acidity which occurs due to excessive secretion of HCl in stomach. Systemic antacids are antacids which get systemically absorbed e,g sodium- bicarbonate or sodium carbonate readily soluble in water and it easily neutralises HCl in stomach"
+    "explanation": "Sodium bicarbonate (${\\text{NaHCO}}_3$) is highly water-soluble and easily absorbed from the gastrointestinal tract. Unlike nonsystemic antacids (like aluminum hydroxide), excessive intake can alter systemic acid-base balances and lead to metabolic alkalosis."
   },
   {
     "id": "kpsc_ph_385",
-    "question": "Which antibacterial agent act by preventing the synthesis of bacterial folic acid?",
+    "question": "Which antibacterial agent acts by competitively inhibiting the synthesis of bacterial folic acid?",
     "options": {
       "A": "Ampicillin",
       "B": "Sulphamethoxazole",
@@ -417,23 +417,23 @@ window.quizPart8 = [
       "D": "Vancomycin"
     },
     "answer": "B",
-    "explanation": "act to deprive folic acid to the bacteria, essential for the growth of infections such as pneumonia, skin, bronchitis and traveler's diarrhoea."
+    "explanation": "Sulphamethoxazole is a sulfonamide antibiotic that structurally mimics para-aminobenzoic acid (PABA). It competitively inhibits the enzyme dihydropteroate synthase, blocking the synthesis of bacterial folic acid required for nucleic acid production."
   },
   {
     "id": "kpsc_ph_386",
-    "question": "Which drugs is used in treating malaria?",
+    "question": "Which of the following classic cinchona alkaloid drugs is used to treat malaria?",
     "options": {
       "A": "Emetine",
-      "B": "Rantitidine",
+      "B": "Ranitidine",
       "C": "Quinine",
       "D": "Cimetidine"
     },
     "answer": "C",
-    "explanation": "parasite plasmodium falciparum which gets into the red blood cells in the body, quinine works as a toxicant for such parasites."
+    "explanation": "Quinine is a natural cinchona alkaloid that acts as a fast schizonticide against *Plasmodium* malaria parasites. It interferes with the parasite's ability to detoxify hemoglobin breakdown products, leading to toxic intracellular accumulation."
   },
   {
     "id": "kpsc_ph_387",
-    "question": "Which one of the following drugs is an antifungal agent?",
+    "question": "Which of the following therapeutic compounds belongs to the imidazole class of antifungal agents?",
     "options": {
       "A": "Clofazimine",
       "B": "Cotrimazole",
@@ -441,83 +441,83 @@ window.quizPart8 = [
       "D": "Clotrimazole"
     },
     "answer": "D",
-    "explanation": "used to treat skin infections causes by a fungus (yeast) . It is used to treat infections upon skin due to tinea corporis (ring worm), tinea cruris (jock -itch) and tinea pedis athlete' foot, (a fungal infection of the skin` on the feat)."
+    "explanation": "Clotrimazole is a topical imidazole antifungal drug. It works by inhibiting the fungal enzyme lanosterol 14-alpha-demethylase, which blocks ergosterol synthesis and impairs the integrity of the fungal cell membrane."
   },
   {
     "id": "kpsc_ph_388",
-    "question": "\"MEDIPHOR\" is the computerised service offered by a Drug information system to Monitor?",
+    "question": "\"MEDIPHOR\" is a computerized monitoring service operated within hospital drug information systems primarily to cross-reference and track:",
     "options": {
-      "A": "Drug abuse",
-      "B": "TDM",
-      "C": "Drug interactions",
-      "D": "Cumulative toxicity"
+      "A": "Patterns of drug abuse",
+      "B": "Therapeutic Drug Monitoring (TDM) profiles",
+      "C": "Potential drug-drug interactions",
+      "D": "Cumulative heavy metal toxicities"
     },
     "answer": "C",
-    "explanation": "offered by a drug information system to monitor is drug interaction. A drug interaction is a reaction between two (or more) drugs or between a drug and a food, beverage, or supplement. Taking a drug while, having certain medical conditions can also cause a drug interaction."
+    "explanation": "MEDIPHOR (Monitoring and Evaluation of Drug Interactions by a Pharmacy Oriented Reporting system) was developed as an early computerized health informatics standard designed to flag potential drug-drug interactions in inpatient settings."
   },
   {
     "id": "kpsc_ph_389",
-    "question": "Example for inpatient Drug distribution system?",
+    "question": "Which of the following serves as a classic example of an inpatient drug distribution model focused on patient safety?",
     "options": {
-      "A": "UDDS",
-      "B": "PTC",
-      "C": "DIB",
-      "D": "CSSD"
+      "A": "UDDS (Unit Dose Drug Distribution System)",
+      "B": "PTC (Pharmacy and Therapeutics Committee)",
+      "C": "DIB (Drug Information Bulletin)",
+      "D": "CSSD (Central Sterile Supply Department)"
     },
     "answer": "A",
-    "explanation": "long been established as the safest form of drug distribution. A UDDS system applies to oral medications. The equivalent for intravenous medications is a CIVA (Central intravenous Admixture) system."
+    "explanation": "The Unit Dose Drug Distribution System (UDDS) involves dispensing medications in single, pre-packaged, ready-to-administer doses tailored to specific patient timelines. This approach helps reduce clinical transcription and medication administration errors."
   },
   {
     "id": "kpsc_ph_390",
-    "question": "British Anti Lewisite is otherwise known as?",
+    "question": "British Anti-Lewisite (BAL) is alternative chemical nomenclature for which metal chelating agent?",
     "options": {
       "A": "EDTA",
       "B": "Dimercaprol",
       "C": "Oximes",
-      "D": "Pencillammine"
+      "D": "Penicillamine"
     },
     "answer": "B",
-    "explanation": "is a parenterally administered heavy metal chelating agent that is used to treat Arsenic Gold, copper and Mercury poisoning."
+    "explanation": "Dimercaprol was developed during World War II as an antidote to the arsenic-based chemical weapon Lewisite, earning it the designation British Anti-Lewisite (BAL). It uses its vicinal dithiols (-SH groups) to chelate heavy metals like arsenic, mercury, and gold."
   },
   {
     "id": "kpsc_ph_391",
-    "question": "What do you monitor when a patient is on Furosemide and Digoxin?",
+    "question": "When a patient is concurrently prescribed furosemide and digoxin, which electrolyte disturbance must be carefully monitored to prevent clinical toxicity?",
     "options": {
-      "A": "Heart Failure",
-      "B": "Hyperkalaemia",
+      "A": "Hypernatremia",
+      "B": "Hyperkalemia",
       "C": "Hypothermia",
-      "D": "Hypokalaemia"
+      "D": "Hypokalemia"
     },
     "answer": "D",
-    "explanation": "if furosemide is used concomitanty with digoxin. Hypokalaemia may increase the risk of digoxin toxicity- Adverse effects include dehydration hypotension, and electrolyte imbalances such as hypokalaemis."
+    "explanation": "Furosemide is a loop diuretic that increases the excretion of potassium ions, leading to hypokalemia. Low extracellular potassium levels enhance the binding of digoxin to the ${\\text{Na}}^+/{\\text{K}}^+$-ATPase pump, significantly increasing the risk of digoxin toxicity and life-threatening arrhythmias."
   },
   {
     "id": "kpsc_ph_392",
-    "question": "\"It is the usual drug reaction that cannot be explained by the inherent properties of the drug themselves but instead by some altered characteristics within the patient taking the drug\" that is called as?",
+    "question": "An abnormal, unexpected drug reaction unique to an individual that cannot be explained by the drug's primary pharmacology is termed a(n):",
     "options": {
       "A": "Drug dependence",
-      "B": "Therapeutic Index",
+      "B": "Therapeutic Index mismatch",
       "C": "Idiosyncrasy",
       "D": "Teratogenicity"
     },
     "answer": "C",
-    "explanation": "explained by the inherent properties of the drug themselves but instead by some altered characteristics with in the patient taking the drug\" that is called as Idiosyncrasy. Idio seems like it means stupid but really it is Latin for \"one's own\" as an idiosyncrasy is one's own particular, usually odd behavior ."
+    "explanation": "An idiosyncratic drug reaction is an uncharacteristic, unpredictable response to a medication that is independent of dosage and not explained by its known pharmacology. These reactions are typically driven by underlying genetic variations or metabolic differences unique to the patient."
   },
   {
     "id": "kpsc_ph_393",
-    "question": "When a drug is abruptly discontinued, it produces an intense physiological disturbance known as?",
+    "question": "When a drug causing physical dependence is abruptly discontinued, it produces a distinct physiological disturbance known as a(n):",
     "options": {
-      "A": "Tachyphylaxis",
-      "B": "Drug abuse",
-      "C": "Latrogenicity",
+      "A": "Tachyphylaxis response",
+      "B": "Drug abuse pattern",
+      "C": "Iatrogenic cascade",
       "D": "Abstinence syndrome"
     },
     "answer": "D",
-    "explanation": "produces an intense physiological disturbance known as Abstinence syndrome. Abstinence syndrome:- Neonatal Abstinence syndrome (NAS) is a group of conditions caused when a body with is draws from certain drugs he is exposed to in the womb before birth. NAS is most often caused when a woman takes drugs called opioids during pregnancy."
+    "explanation": "Abstinence syndrome (or withdrawal syndrome) is the combination of physiological and psychological disturbances that occurs when a drug on which an individual has developed physical dependence is abruptly stopped or cut back."
   },
   {
     "id": "kpsc_ph_394",
-    "question": "Drug causing marked extra pyramidal side effects",
+    "question": "Which of the following antipsychotic drugs is associated with a high incidence of extrapyramidal side effects (EPS) due to potent D2 receptor antagonism?",
     "options": {
       "A": "Olanzapine",
       "B": "Risperidone",
@@ -525,11 +525,11 @@ window.quizPart8 = [
       "D": "Quetiapine"
     },
     "answer": "C",
-    "explanation": "commonly caused by typical antipsychotic drugs that antagonize dopamine D2 receptors. The most common typical antipsychotics associated with extrapyramidal side effects are haloperidol and Fluphenazine. ================================================================================ PAGE : 341 ================================================================================ Pharmacology and Toxicology 341 YCT"
+    "explanation": "Fluphenazine is a high-potency typical phenothiazine antipsychotic. It binds strongly to central dopamine $D_2$ receptors, which can disrupt nigrostriatal pathways and lead to a higher incidence of extrapyramidal side effects (EPS) compared to atypical agents like quetiapine or olanzapine."
   },
   {
     "id": "kpsc_ph_395",
-    "question": "Select short acting drug is used in the diagnosis of myasthenia gravis",
+    "question": "Select the short-acting acetylcholinesterase inhibitor used as a diagnostic tool for Myasthenia Gravis:",
     "options": {
       "A": "Tacrine",
       "B": "Edrophonium",
@@ -537,66 +537,66 @@ window.quizPart8 = [
       "D": "Neostigmine"
     },
     "answer": "B",
-    "explanation": "(Endrophonium) to help our doctor diagnose myasthenia gravis. Tensilon prevents the breakdown of the chemical acetylcholine, a neurotransmitter that nerve cells release to stimulate our muscles."
+    "explanation": "Edrophonium is a rapid, short-acting acetylcholinesterase inhibitor. In the Tensilon test, it temporarily increases acetylcholine levels at the neuromuscular junction, causing a brief improvement in muscle strength that helps confirm a myasthenia gravis diagnosis."
   },
   {
     "id": "kpsc_ph_396",
-    "question": "Ketamine is",
+    "question": "Ketamine is chemically and pharmacologically classified as a(n):",
     "options": {
       "A": "Opioid analgesic",
-      "B": "Inhalation anaesthetic",
-      "C": "Dissociative anaesthetic",
-      "D": "Inducing agent"
+      "B": "Inhalation anesthetic",
+      "C": "Dissociative anesthetic",
+      "D": "Neuroleptic agent"
     },
     "answer": "C",
-    "explanation": "medically for induction and maintenance of anesthesia. It is also used as a treatment for depression, a pain management tool, and as a recreational drug."
+    "explanation": "Ketamine acts as a non-competitive NMDA receptor antagonist. It induces dissociative anesthesia, a state where the patient appears awake but is disconnected from their environment, accompanied by profound analgesia and amnesia."
   },
   {
     "id": "kpsc_ph_397",
-    "question": "Choose selective serotonin reuptake inhibitor used as antidepressant",
+    "question": "Which of the following antidepressants belongs to the Selective Serotonin Reuptake Inhibitor (SSRI) class?",
     "options": {
       "A": "Escitalopram",
       "B": "Doxepin",
       "C": "Venlafaxine",
-      "D": "Duloxetin"
+      "D": "Duloxetine"
     },
     "answer": "A",
-    "explanation": "type of drug that is used to treat depression and some other conditions. Selective serotonin reuptake inhibitors stop or delay to body from reabsorbing a substance called serotonin , which leaves more if it available for the body to use. Raising serotonin levels can help regulate mood, appetite, digestion, sleep and many other bodily functions. Selective serotonin reuptake inhibitors include drugs such as Citalopram, Escitalopram, fluoxetine, Paroxetine and Sertraline."
+    "explanation": "Escitalopram is a selective serotonin reuptake inhibitor (SSRI). It works by selectively inhibiting the presynaptic serotonin transporter (SERT), increasing serotonin levels in the synaptic cleft without significantly affecting norepinephrine or dopamine reuptake."
   },
   {
     "id": "kpsc_ph_398",
-    "question": "Calcium channel blockers are used for, except",
+    "question": "Calcium channel blockers are indicated for all of the following clinical conditions, EXCEPT:",
     "options": {
       "A": "Hypertension",
       "B": "Raynaud's disease",
-      "C": "Migraine",
-      "D": "Bradycardia"
+      "C": "Migraine prophylaxis",
+      "D": "Severe bradycardia"
     },
     "answer": "D",
-    "explanation": "hypertension, Raynaud's disease and migraine. But not used in bradycardia. Bradycardia is a condition where our heart beats fewer than 60 times per minute, which is unusually slow. This condition may be dangerous if it keeps our heart from pumping enough blood to meet our body needs. However, bradycarida can also happen without causing any harmful effects, especially in very physically active people."
+    "explanation": "Calcium channel blockers (especially non-dihydropyrodines like verapamil and diltiazem) depress sinoatrial node activity and slow AV conduction. This can worsen severe bradycardia, making the condition a contraindication rather than an indication."
   },
   {
     "id": "kpsc_ph_399",
-    "question": "Which of the following statement is incorrect about Atenolol",
+    "question": "Which of the following statements is INCORRECT regarding the beta-blocker Atenolol?",
     "options": {
-      "A": "It is selective beta blocker",
-      "B": "It has no membrane stabilizing effects",
-      "C": "It has short duration of action",
-      "D": "Central side effects are rare"
+      "A": "It is a cardioselective beta-1 blocker",
+      "B": "It possesses no membrane stabilizing activity",
+      "C": "It features a very short duration of action requiring frequent dosing",
+      "D": "Central side effects are rare due to low lipid solubility"
     },
     "answer": "C",
-    "explanation": "treat high blood pressure (Hypertension) and irregular heart beats (arrhythmia) . If we have high blood pressure, taking atenolol help prevent future heart disease, heart attack and stroke. Atenolol works by slowing down your heart rate, making it easier for our heart to pump blood around our body. It is also used in angina (chest pain), migraine anxiety etc. Atenolol is generally safe to take for a long time."
+    "explanation": "Atenolol is a hydrophilic, polar beta-blocker with a relatively long half-life ($6\\text{ to }7\\text{ hours}$), allowing for convenient once-daily dosing. Statements A, B, and D correctly describe its cardioselectivity, lack of local anesthetic effect, and low blood-brain barrier penetration."
   },
   {
     "id": "kpsc_ph_400",
-    "question": "Gynecomastia and menstrual irregularities are the side effects of",
+    "question": "Gynecomastia and menstrual irregularities can occur as side effects of which antifungal drug due to its inhibition of steroidogenesis?",
     "options": {
-      "A": "ketoconazole",
-      "B": "Amphotericine B",
+      "A": "Ketoconazole",
+      "B": "Amphotericin B",
       "C": "Flucytosine",
       "D": "Miconazole"
     },
     "answer": "A",
-    "explanation": "are the side effect of ketoconazole. Ketoconazole is an antifungal medicine. It's used to treat skin infections caused by a fungus (yeast). It can also treats different types of fungal infections, such as- athlete's foot, jock itch, sweat rash etc. Ketoconazole is available in a cream or shampoo."
+    "explanation": "Ketoconazole inhibits fungal cytochrome P450 enzymes, but at systemic doses, it can also cross-react with human CYP450 enzymes involved in steroidogenesis. This suppresses testosterone synthesis and displaces estradiol, which can lead to gynecomastia and menstrual irregularities."
   }
 ];
