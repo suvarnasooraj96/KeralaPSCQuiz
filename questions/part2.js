@@ -9,7 +9,7 @@ window.quizPart2 = [
       "D": "Rate of Sedimentation is high"
     },
     "answer": "D",
-    "explanation": "suspension is rate of sedimentation is high. A flocculated suspension is a suspension in which particles of the suspension has undergo flocculation the process in which colloids in a suspension can be obtained in an aggregated form. In flocculated suspension, formed flocs (loose aggregates) will cause increase in sedimentation rate due to increase in size of sedimenting particles. Hence, flocculated suspensions sediments more rapidly. The sedimentation depends not only on the size of the flocs but also on the porosity of flocs."
+    "explanation": "In a flocculated suspension, particles form loose aggregates called flocs. This increase in the effective size of the sedimenting particles leads to a rapid sedimentation rate. The resulting sediment is loose, highly porous, and easily redispersible."
   },
   {
     "id": "kpsc_ph_52",
@@ -21,7 +21,7 @@ window.quizPart2 = [
       "D": "Lactose"
     },
     "answer": "B",
-    "explanation": "suspension. Tragacanth, a water soluble gum, has been used since ancient times as an emulsifier, thickening agent and suspending agent. ================================================================================ PAGE : 80 ================================================================================ Pharmaceutics 80 YCT Today it is used extensively in foods and dressings and to thicken ice cream. Tragancanth has also been used as a demulcent (relieves irritation of the mucous membrane in the mouth by forming a protective film) in cough and cold preparations and to manage diarrhea. It also has been shown to moderate blood sugar level, but this has not been demonstrated consistently."
+    "explanation": "Tragacanth is a water-soluble natural gum that exhibits much higher viscosity and structural efficiency at lower concentrations compared to acacia, making it an excellent thickening and suspending agent."
   },
   {
     "id": "kpsc_ph_53",
@@ -33,19 +33,19 @@ window.quizPart2 = [
       "D": "Pectin"
     },
     "answer": "D",
-    "explanation": "source. Natural emulsifying agent are substances derived from either vegetable sources such as, pectin, acacia, tragacanth , alginates, chondrus, xanthan. An animal sources such as Gelatin, eggyolk, casein, wool fat, cholesterol, wax, and lecithin. These materials form hydrophilic colloids when added to water and generally produce o/w emulsions."
+    "explanation": "Pectin is a structural heteropolysaccharide obtained from plant cell walls (such as citrus fruits). In contrast, egg yolk and lanolin are animal-derived, and lecithin can be sourced from either animal or plant tissues."
   },
   {
     "id": "kpsc_ph_54",
     "question": "The amount of castor oil in commercial emulsion ranges from.",
     "options": {
-      "A": "-1-10%",
-      "B": "-35-65%",
-      "C": "-70-74%",
-      "D": "-80-85%"
+      "A": "1-10%",
+      "B": "35-65%",
+      "C": "70-74%",
+      "D": "80-85%"
     },
     "answer": "B",
-    "explanation": "emulsion range from 35-67%. Castor oil is the fixed oil obtained by cold expression of the seeds of Ricinus communis Linn., belonging to family Euphorbiaceae. It is found mainly in India, America, Brazil, China etc. It is obtained from castor seeds. It is soluble in absolute alcohol in all proportions. Castor oil is mild purgative, fungi static, used as ointment base as plasticizer, wetting agents as a lubricating agent. • The main use of castor oil is the industrial production of coatings also employed to make pharmaceuticals and cosmetics in the textile and leather industries and for the manufacturing plastic and fibers."
+    "explanation": "Commercial laxative castor oil emulsions typically contain a high concentration of active fixed oil, normally ranging between 35% and 65% by volume, to deliver a therapeutically effective dose."
   },
   {
     "id": "kpsc_ph_55",
@@ -57,7 +57,7 @@ window.quizPart2 = [
       "D": "Methyl cellulose"
     },
     "answer": "B",
-    "explanation": "abrasive in toothpaste. some abrasive compound are also used in the tooth paste, such as- Aluminum hydroxide, Calcium hydrogen phosphate, Silica and hydroxy apatite, Sodium fluoride, Stannous fluoride and Sodium mono-phosphate have also been used."
+    "explanation": "Calcium carbonate is widely used as a polishing agent and mechanical abrasive in dentifrice formulations to remove plaque, stains, and debris from tooth surfaces."
   },
   {
     "id": "kpsc_ph_56",
@@ -69,7 +69,7 @@ window.quizPart2 = [
       "D": "Lipstick"
     },
     "answer": "B",
-    "explanation": "role of a drug. Antiperspirant is a skincare product that helps reduce underarm sweating. This is not to be confused with deodorant, which is only there to combat the bad odour. Antiperspirants work by blocking the pores on the outer layer of our skin, reducing the amount of sweet allowed to the surface. Deodorants help eliminate or mask odors. Antiperspirant help prevent sweating. The FDA (Food & Drug Administration) Classifies deodorants as cosmetics but consider antiperspirants drugs because they contain active ingredient that alter the function of the body."
+    "explanation": "Deodorants only mask or reduce odors (cosmetics), but antiperspirants contain aluminum salts that temporarily block sweat pores and alter physiological functions, classifying them legally as drugs under regulatory frameworks like the FDA."
   },
   {
     "id": "kpsc_ph_57",
@@ -81,35 +81,35 @@ window.quizPart2 = [
       "D": "Cottonseed oil"
     },
     "answer": "A",
-    "explanation": "originto be metabolized in the body, be a liquid at room temperature, and not become rancid easily. The popular oils for parenteral use are corn oil, cottonseed oil, peanut oil, and sesame oil. But coconut oil is not used for parenteral preparation. It is widely used as cooking oil are different product formation."
+    "explanation": "Fixed oils used as parenteral vehicles must remain entirely liquid at room temperature and be readily metabolized by the body without causing tissue irritation. Sesame, peanut, and cottonseed oils are frequently used, whereas coconut oil is not."
   },
   {
     "id": "kpsc_ph_58",
-    "question": "Hypodermic injections are administered into immediately beneath the dermal skin layer",
+    "question": "Hypodermic injections are administered into",
     "options": {
       "A": "The skin between epidermal and dermal layer",
       "B": "Into the tissue of relaxed muscle",
-      "C": "Into loose connective and adipose tissue",
+      "C": "Into loose connective and adipose tissue immediately beneath the dermal skin layer",
       "D": "Into the cardiac muscle"
     },
     "answer": "C",
-    "explanation": "loose connective and adipose tissue immediately beneath the dermal skin layer. Intradermal injections are administered into the dermis just below the epidermis. Intraderal injection have the longest absorption time of all parenteral routes because there are fewer blood vessels and no muscles tissue. These types of injection are used for sensitivity testing because the patient reaction is easy to visualize and the degree of reaction can be assessed. Eg. - Tuberculosis (TB) and allergy testing"
+    "explanation": "Hypodermic (subcutaneous) injections deliver medication directly into the loose connective and fatty adipose tissue layer located safely beneath the vascular dermis."
   },
   {
     "id": "kpsc_ph_59",
     "question": "The volume of eye drops administered from commercial eye dropper bottles is coming in the range of",
     "options": {
-      "A": "25 to 56 micro liter (b) 1 to 2 ml",
-      "B": "",
-      "C": "1 to 5 micro liter",
-      "D": "200 to 500 macro liter"
+      "A": "25 to 56 microliter",
+      "B": "1 to 2 ml",
+      "C": "1 to 5 microliter",
+      "D": "200 to 500 macroliter"
     },
     "answer": "A",
-    "explanation": "commercial eye dropper bottles is coming in the range of 25 - 56 µL. Ophthalmic solution are available for multi-dose or single-dose administration in wide variety of glass and plastic dropper bottles which deliver drops with a volume between 25 and 70 µL from a biopharmaceutical and economic point of view, however, small volumes of 5 to 15 µL should be installed. In this review, the technical pharmaceutical and therapeutic aspects of eye drop formation and delivery are presented. ================================================================================ PAGE : 81 ================================================================================ Pharmaceutics 81 YCT"
+    "explanation": "Standard commercial eye dropper tips deliver a liquid droplet volume within the range of 25 to 56 microliters, despite optimal physiological acceptance being significantly smaller."
   },
   {
     "id": "kpsc_ph_60",
-    "question": "Phenyl ethyl alcohol (0.25 - 0.50% u/v) is ophthalmic products as",
+    "question": "Phenyl ethyl alcohol (0.25 - 0.50% v/v) is used in ophthalmic products as",
     "options": {
       "A": "Antioxidant",
       "B": "Buffering agent",
@@ -117,11 +117,11 @@ window.quizPart2 = [
       "D": "Viscosity modifier"
     },
     "answer": "C",
-    "explanation": "antimicrobial, preservative in nasal, ophthalmic and otic formulations at 0.25-0.50% v/v concentration in combination with other preservatives. We offer product complying with IP, USP.2-phenyl ethanol is a primacy alcohol that is ethanol substituted by a phenyl group at position 2. It has a role as a fragrance, a saccharomyces cerevisiae metabolite, a plant metabolite an aspergillus metabolite and a plant growth retardant."
+    "explanation": "Phenyl ethyl alcohol provides robust antimicrobial coverage and is regularly added at concentrations of 0.25% to 0.50% v/v to act as a preservative in ophthalmic, nasal, and otic solutions."
   },
   {
     "id": "kpsc_ph_61",
-    "question": "Sealed ampoules containing a thermos-table drug solution are commonly sterilized by.",
+    "question": "Sealed ampoules containing a thermo-stable drug solution are commonly sterilized by.",
     "options": {
       "A": "Hot air oven",
       "B": "Autoclave",
@@ -129,7 +129,7 @@ window.quizPart2 = [
       "D": "UV Chamber"
     },
     "answer": "B",
-    "explanation": "drug solution are commonly sterilized by Autoclave. The autoclave is a equipment used to remove micro organisms (virus, Bacteria, fungus etc.) and spores using high pressure and high temperature steam sterilization. Autoclave is a pressurized device designed to heat aqueous solutions above their boiling point at normal atmospheric pressure to achieve sterilization."
+    "explanation": "Because the drug solution is aqueous and heat-tolerant (thermostable), high-pressure steam sterilization via an autoclave is the preferred terminal sterilization pathway."
   },
   {
     "id": "kpsc_ph_62",
@@ -141,19 +141,19 @@ window.quizPart2 = [
       "D": "Both Dry and Moist heat"
     },
     "answer": "C",
-    "explanation": "sterilization of vaccines among is radiation method. Sterilization by ionizing radiation, primarily by cobalt- 60 gamma rays or electron accelerators is a low temperature sterilization method that has been used for a number of medical products (e.g.- tissue for trans- plantation, pharmaceuticals medical devices. This method has been used to develop a variety of vaccine type, because it can eradicate chemical contaminants and penetrate pathogens to destroy nucleic acids without damaging the pathogen surface antigen."
+    "explanation": "lonizing radiation (gamma rays or electron beams) destroys viral or bacterial nucleic acids cleanly at low temperatures without modifying or denaturing crucial protective protective surface antigens."
   },
   {
     "id": "kpsc_ph_63",
     "question": "Which among the following tablets is used in Oral cavity?",
     "options": {
-      "A": "Hypodermic tablets (b) Troches",
-      "B": "",
+      "A": "Hypodermic tablets",
+      "B": "Troches",
       "C": "Film coated tablet",
       "D": "Dispensing tablet"
     },
     "answer": "B",
-    "explanation": "are flavored, medicated lozenges that easily dissolve in the mouth. Troches are placed in the mouth between the gum and the cheek, (buccal) or under the tongue (Sublingual). The route of administration allows medication to enter the blood stream directly from mouth E.g.- Clotrimazole Troches and nystatin rinse and pastilles, etc."
+    "explanation": "Troches, or medicated lozenges, are specifically engineered to dissolve slowly inside the oral cavity for localized topical effects or direct absorption through the mucosal lining."
   },
   {
     "id": "kpsc_ph_64",
@@ -165,11 +165,11 @@ window.quizPart2 = [
       "D": "Polyvinyl Acetate phthalate"
     },
     "answer": "D",
-    "explanation": "commonly used polymer phthalate in the formulation of pharmaceuticals, such as the enteric coating of tablets or capsules. It is a vinyl acetate polymer that is partially hydrolyzed and then esterifies with phthalic acid."
+    "explanation": "Polyvinyl Acetate Phthalate (PVAP) is an enteric coating polymer that remains intact in acidic gastric fluid but hydrolyzes and dissolves efficiently in the higher pH environment of the small intestine."
   },
   {
     "id": "kpsc_ph_65",
-    "question": "Which test is performed to assess the ability of the tablet to withstand abrasion in packaging. handling and transportation?",
+    "question": "Which test is performed to assess the ability of the tablet to withstand abrasion in packaging, handling and transportation?",
     "options": {
       "A": "Hardness test",
       "B": "Friability test",
@@ -177,7 +177,7 @@ window.quizPart2 = [
       "D": "Dissolution test"
     },
     "answer": "B",
-    "explanation": "of the tablet to with stand abrasion in packaging, handling and transportation. Friability is when a tablet has the tendency to chip, crumble or break during transportation. This can happen when the tablet is being handled, packaged or transported and may mean the patient receives an incorrect dose. Friability test formula- 1 2 1 W – W Friability (%) 100 W = × Where, W1 = Weight of tablet (Before tumbling), W2 = Weight of tablet (After tumbling) Limit :- Friability (%) = Not more than 1.0%"
+    "explanation": "Friability testing measures the mechanical resistance of tablets to friction and surface abrasion during shipping and handling. The official pharmacopeial limit is typically set to not more than 1.0% mass loss."
   },
   {
     "id": "kpsc_ph_66",
@@ -189,7 +189,7 @@ window.quizPart2 = [
       "D": "Mexico city, Mexico"
     },
     "answer": "A",
-    "explanation": "Uppsala Sweden is Uppsala monitoring center (UMC) located in Uppsala. Sweden, is the field name for the world Health organization collaborating centre for internation Drug monitoring."
+    "explanation": "The Uppsala Monitoring Centre (UMC), located in Uppsala, Sweden, manages the international pharmacovigilance program for the World Health Organization (WHO)."
   },
   {
     "id": "kpsc_ph_67",
@@ -201,7 +201,7 @@ window.quizPart2 = [
       "D": "0.75 micrometer"
     },
     "answer": "B",
-    "explanation": "sterility is not greater than 0.45 micrometer. The standard 0.45 µm pore size is the most appropriate for general microbiological purposes, The 0.45µm filters gave the most consistent recoveries across a variety of test systems."
+    "explanation": "A membrane filter with a pore size not greater than 0.45 micrometers is specified globally to efficiently entrap bacteria and fungi without impeding rapid fluid movement."
   },
   {
     "id": "kpsc_ph_68",
@@ -213,19 +213,19 @@ window.quizPart2 = [
       "D": "Infection control committee"
     },
     "answer": "A",
-    "explanation": "of drugs in the hospital formulary are framed by pharmacy and therapeutic committee. The hospital formulary system is a method, where by the medical of hospital with the help of pharmacy and therapeutic committee selects and evaluate medical agents and their dosage form which are considered to be most useful in the patient care."
+    "explanation": "The Pharmacy and Therapeutics (P&T) Committee is a collaborative administrative medical group responsible for objectively electing, maintaining, and evaluating active drug entries within the hospital formulary."
   },
   {
     "id": "kpsc_ph_69",
     "question": "Computer based system of the U.S., National Library of Medicine (NLM) that allows rapid access to store biomedical information",
     "options": {
       "A": "BIOSIS",
-      "B": "MEDLAR",
+      "B": "MEDLARS",
       "C": "MEDIPHOR",
       "D": "NONLIN"
     },
     "answer": "B",
-    "explanation": "medical literature analysis and retrieval system. It is a computer based system. The U.S. National Library of medicine (NLM) that allows rapid access to NLM's store of biomedical information."
+    "explanation": "MEDLARS (Medical Literature Analysis and Retrieval System) is a comprehensive computerized bibliographic repository developed by the US National Library of Medicine to handle global biomedical literature searches."
   },
   {
     "id": "kpsc_ph_70",
@@ -237,7 +237,7 @@ window.quizPart2 = [
       "D": "UV radiation"
     },
     "answer": "C",
-    "explanation": "materials can also be done by radioactive radiation or by exposure to ethylene oxide gas. Irradiation has the disadvantage that the chemical composition of the material can be affected and a potentially dangerous radiation sauce is required. • Dry heat sterilization is generally used for powders oils and other substances that are sensitive to moist heat. ================================================================================ PAGE : 89 ================================================================================ Pharmaceutics 89 YCT"
+    "explanation": "Heat-sensitive (thermolabile) formulations cannot survive autoclaving or high-temperature baking. Alkylating gas chemical systems like Ethylene Oxide (EtO) are standard alternatives."
   },
   {
     "id": "kpsc_ph_71",
@@ -249,7 +249,7 @@ window.quizPart2 = [
       "D": "All of the above"
     },
     "answer": "D",
-    "explanation": "packaged handled, administered and charged in multiples of single dose units containing a predetermined amount of drugs or supply sufficient for one regular dose application or use\". Advantage of unit dose system-"
+    "explanation": "Unit dose distribution methods enhance systemic control across hospitals by optimizing nursing workflows, lowering prescription error frequencies, preventing product shrinkage, and strictly tying billing to actual consumed quantities."
   },
   {
     "id": "kpsc_ph_72",
@@ -260,8 +260,8 @@ window.quizPart2 = [
       "C": "Only (i) and (iii)",
       "D": "All of the above"
     },
-    "answer": "C",
-    "explanation": "containing one or more active ingredients intended for administration by injection, infusion or implantation into the body. Parental products are based on volume and the state of product according to USP."
+    "answer": "A",
+    "explanation": "Ampules are hermetically sealed glass items built strictly for one-time use; once snapped open, they cannot be stored securely. Additionally, fluid extraction from wide, open-necked ampules is physically easier than pulling fluid out against a needle vacuum in closed vials. Therefore, statements i and ii are false."
   },
   {
     "id": "kpsc_ph_73",
@@ -273,7 +273,7 @@ window.quizPart2 = [
       "D": "70% and 3%"
     },
     "answer": "A",
-    "explanation": "define an inventory categorization technique often used in materials management. It is also known as selective inventory control. ABC analysis is similar to the pareto principle in that the 'A' items will typically account for a large proportion of the overall value but a small percentage of number of items. • 'A' items - 20% of the items accounts for 70% of the annual consumption value of the items. • 'B' items - 30% of the items accounts for 25% of the annual consumption value of the items. • 'C' items - 50% of the items accounts for 5% of the annual consumption value of the items. So, \"A class\" Inventory will typically contain items that account for 80-85% of the total value or 5-10% of the total items."
+    "explanation": "Following the economic Pareto principle, 'A class' items are scarce high-value commodities where a small physical percentage (around 15% of count) commands the vast majority (roughly 80%) of entire budgetary expenditures."
   },
   {
     "id": "kpsc_ph_74",
@@ -285,7 +285,7 @@ window.quizPart2 = [
       "D": "To hold tissues"
     },
     "answer": "C",
-    "explanation": "nasogastric tract for introduction nutrition and aspiration of intestinal secretion, main use of a Nasogastric tube is for feeding and for administering drugs and other oral agents."
+    "explanation": "A Ryle's tube is a flexible nasogastric tube introduced via the nasal cavity down into the stomach to provide primary nutritional support or safely sample/aspirate internal gastric secretions."
   },
   {
     "id": "kpsc_ph_75",
@@ -297,7 +297,7 @@ window.quizPart2 = [
       "D": "Assist dealers"
     },
     "answer": "A",
-    "explanation": "purchasing and sales and the objectives are to increase sales inform potential customers about new products, and create a positive business or corporate image. Examples - coupons, product samples, point of purchase display."
+    "explanation": "Launching new products, establishing brand equity, and building partner relations represent high-level organizational *objectives* of sales programs. A prize contest is not an objective itself; it is a tactical *tool* used to fulfill those objectives."
   },
   {
     "id": "kpsc_ph_76",
@@ -309,7 +309,7 @@ window.quizPart2 = [
       "D": "Oxypertine"
     },
     "answer": "B",
-    "explanation": "antiemetic properties but without the FDA restrictions, this article reviews the literature regarding haloperidol and supports its used as a safe substitute for droperidol in the prevention and treatment of postoperative nausea and vomiting. ================================================================================ PAGE : 90 ================================================================================ Pharmaceutics 90 YCT • Prochlorperazine is an anti - sickness medicine. It can help stop us feeding or being sick (Nausea or vomiting), we can take prochlorperazine to treat."
+    "explanation": "Haloperidol belongs to the butyrophenone structural class of traditional antipsychotics. It is used clinically to treat schizophrenia, acute psychosis, and post-operative nausea."
   },
   {
     "id": "kpsc_ph_77",
@@ -321,7 +321,7 @@ window.quizPart2 = [
       "D": "Chlorobutanol"
     },
     "answer": "A",
-    "explanation": "formulation, is carboxy methyl cellulose. Methylcellulose is used as a tablet and capsule disintegrant, a tablet binder, and as viscosity increasing agent, it exists as a free flowing white powder and dissolves in cold water to yield a clear gel, it is used in the food, cosmetic and pharmaceutical industries."
+    "explanation": "Carboxymethyl cellulose (CMC) is an inert, water-soluble semi-synthetic polymer used in ophthalmic products to increase viscosity, prolonging retention time on the ocular surface."
   },
   {
     "id": "kpsc_ph_78",
@@ -333,7 +333,7 @@ window.quizPart2 = [
       "D": "Hydroxy benzoate ester"
     },
     "answer": "C",
-    "explanation": "addition of carboxy vinyl polymer carbomer is primarily a thickening agent that makes the products more viscous and maintains their texture flow, and consistency, it is used in numerous products such as lotions shampoos, lipsticks nail polishes etc."
+    "explanation": "Carboxy vinyl polymers (commonly termed carbomers) form thick, highly structured translucent matrices when crosslinked or neutralized in aqueous fluids, making them highly efficient thickeners for shampoos and gels."
   },
   {
     "id": "kpsc_ph_79",
@@ -345,7 +345,7 @@ window.quizPart2 = [
       "D": "None of these"
     },
     "answer": "A",
-    "explanation": "hydrocarbons and is suitable for ophthalmic ointment preparation due to the following properties : (1) Its melting point ranges from 36-60ºC and therefore, the ointment viscosity will decrease following application to the eye. (2) It does not cause irritation of the human eye."
+    "explanation": "Ophthalmic hydrocarbon ointment bases must feature a melting point range adjusted close to core human body temperature (typically around 36-37ºC) to liquefy smoothly in the eye without causing physical discomfort or visual irritation."
   },
   {
     "id": "kpsc_ph_80",
@@ -357,19 +357,19 @@ window.quizPart2 = [
       "D": "0.3-2.0 micron"
     },
     "answer": "B",
-    "explanation": "heterogeneous system consisting of two phases in which internal phase is dispersed uniformly throughout the external phase. • The internal phase consists of particulate matter that is essentially insoluble (having a range of size 0.5 to 5 microns) but dispersed uniformly throughout the continuous phase/dispersion medium with aid of single or combination of suspending agent. • The external phase (dispersion medium ) is generally aqueous in some instance, may be an organic or only liquid for non-oral use."
+    "explanation": "Standard coarse pharmaceutical suspensions maintain particle size ranges spanning 0.5 to 5.0 micrometers to restrict sudden rapid settling while avoiding intense Brownian motion aggregation."
   },
   {
     "id": "kpsc_ph_81",
     "question": "Example for semi-synthetic thickening agents in suspension",
     "options": {
       "A": "Polysorbate",
-      "B": "Tragacath",
+      "B": "Tragacanth",
       "C": "Carbowaxes",
       "D": "Microcrystalline cellulose"
     },
     "answer": "D",
-    "explanation": "acacia gum, tragacanth, guar gum, bean gum, carrageenan, xanthan gum, microcrystalline polymers Methylcelluose, sodium corboxymethyl cellulose, carboxymethyl, cellulose of synthetic polymers."
+    "explanation": "Microcrystalline cellulose is manufactured through controlled acid hydrolysis of natural plant alpha-cellulose, which classifies it as a semi-synthetic polymeric excipient."
   },
   {
     "id": "kpsc_ph_82",
@@ -381,7 +381,7 @@ window.quizPart2 = [
       "D": "Calcium chloride"
     },
     "answer": "B",
-    "explanation": "solutions in Hemodialysis units as it provides a ready source of fixed base. Sodium acetate is mostly used in dialysis solutions and enables the liver to produce sodium bicarbonate, which is needed to prevent the blood from acidifying."
+    "explanation": "Sodium acetate functions as a systematic blood buffering compound in dialysate fluids. Once absorbed into the bloodstream, the liver metabolizes it into bicarbonate ions to treat acidosis."
   },
   {
     "id": "kpsc_ph_83",
@@ -393,55 +393,55 @@ window.quizPart2 = [
       "D": "0.5% of sodium pyrophosphate in water"
     },
     "answer": "D",
-    "explanation": "solution of 0.5% sodium pyrophosphate in water, then washed with water fallowed by rinsing with water for injection."
+    "explanation": "To strip surface sulfur blooms, zinc residues, and processing release agents from elastomer moldings, standard protocols prescribe a hot wash with 0.5% sodium pyrophosphate followed by a water for injection (WFI) rinse."
   },
   {
     "id": "kpsc_ph_84",
-    "question": "Which of the following statements is not true for dry heat method of sterilization? temperature of 160o C for two hours oxidation of essential cell constituents oily materials dressings",
+    "question": "Which of the following statements is not true for dry heat method of sterilization?",
     "options": {
-      "A": "Usually sterilization is done by heating at a",
-      "B": "Destruction of microorganism is effected by",
-      "C": "This method is not suitable for powders and",
-      "D": "This method is not suitable for surgical"
+      "A": "Usually sterilization is done by heating at a temperature of 160o C for two hours",
+      "B": "Destruction of microorganism is effected by oxidation of essential cell constituents",
+      "C": "This method is not suitable for powders and oily materials",
+      "D": "This method is not suitable for surgical dressings"
     },
     "answer": "C",
-    "explanation": "instruments : thus it is well suited for the sterilization of metal integuments but cannot be used for Sterilization of fabrics, plastics or rubber-ware. This method is not suitable for powders and oily materials."
+    "explanation": "Because high-pressure hot steam cannot penetrate non-aqueous oils or dry powders, dry heat baking inside hot air ovens is the *ideal choice* for these matrices. The statement in Option C is therefore false."
   },
   {
     "id": "kpsc_ph_85",
-    "question": "Enteric coating is given to tablets in order to effects intestine ingredients the duration of action of medicaments ================================================================================ PAGE : 91 ================================================================================ Pharmaceutics 91 YCT",
+    "question": "Enteric coating is given to tablets in order to",
     "options": {
-      "A": "Protect the medicament from atmospheric",
-      "B": "Ensure highest concentration of drug in the",
-      "C": "Separate chemical or physical incompatible",
-      "D": "Prolong"
+      "A": "Protect the medicament from atmospheric effects",
+      "B": "Ensure highest concentration of drug in the intestine",
+      "C": "Separate chemical or physical incompatible ingredients",
+      "D": "Prolong the duration of action of medicaments"
     },
     "answer": "B",
-    "explanation": "like insulin which rapidity degrade in stomach as it prevents the drug being released in the acidic conditions of the stomach before reaching the intestine • These containers protect the medicaments are used to store those medicaments which are photo sensitive • Physical incompatibilities result in visible Precipitate color change, gas production and invisible (sub visible. Particles variations in pH reaction."
+    "explanation": "Enteric polymers are designed to resist acidic stomach environments, protecting acid-labile molecules so they can pass intact into the small intestine and release their full drug payload there."
   },
   {
     "id": "kpsc_ph_86",
-    "question": "If a capsule is numbered as 000 which means of 100 mg only purpose only",
+    "question": "If a capsule is numbered as 000 which means",
     "options": {
-      "A": "It is the smallest sized capsule with a capacity",
-      "B": "It is for the inclusion of ophthalmic ointments",
+      "A": "It is the smallest sized capsule with a capacity of 100 mg only",
+      "B": "It is for the inclusion of ophthalmic ointments purpose only",
       "C": "The shape of the capsule is oval",
-      "D": "It is the largest sized and for veterinary"
+      "D": "It is the largest sized and for veterinary purpose only"
     },
     "answer": "D",
-    "explanation": "it is the largest sized and for veterinary purpose only. A \"000\" (triple zero) capsule is the largest size available in cases where capsule sizes are indicated with \"0\" names 000 are the largest while 0 are smaller."
+    "explanation": "In hard gelatin capsule manufacturing standards, the numeric size scale runs inversely from size 5 (smallest human size) up to size 000, which is the largest standard capsule volume and is primarily used for large-animal veterinary dosing."
   },
   {
     "id": "kpsc_ph_87",
-    "question": "Which one of the following is a correct statement regarding soft gelatin capsule? propyl parabens as preservative manufacturing and filling of medicaments are done in separate operations",
+    "question": "Which one of the following is a correct statement regarding soft gelatin capsule?",
     "options": {
-      "A": "Soft gelatin shells may contain methyl and",
+      "A": "Soft gelatin shells may contain methyl and propyl parabens as preservative",
       "B": "Not suitable for use as suppositories",
       "C": "Not suitable for opthalmic ointments",
-      "D": "The"
+      "D": "The manufacturing and filling of medicaments are done in separate operations"
     },
     "answer": "A",
-    "explanation": "The gelatin paste consists of plasticisers Glycerine (20%w/w) and sorbital (1% w/w) methylparaben (0.2% w/w) and propylparaben (o.02%. w/w) are added as preservatives."
+    "explanation": "Because soft gelatin capsules retain substantial moisture within their outer structural shell matrices, small amounts of preservatives like methylparaben (0.2%) and propylparaben (0.02%) are added to prevent mold and microbial growth."
   },
   {
     "id": "kpsc_ph_88",
@@ -453,7 +453,7 @@ window.quizPart2 = [
       "D": "Weight variation test"
     },
     "answer": "A",
-    "explanation": "testing measures the extent and rate of solution formation from a dosage form (the amount of percentage of the drug substance in a dosage form such as tablets, capsules to go into solution) within a Specific time under a specified set of conditions. • Disintegration testing measures the ability of a tablet to break down into smaller particles or granules to allow the active drug to be absorbed into the body."
+    "explanation": "The dissolution test measures the rate and extent of active drug molecules transitioning from the solid dosage form into a liquid solution phase over time. Disintegration, by contrast, only monitors physical fragment breakdown."
   },
   {
     "id": "kpsc_ph_89",
@@ -465,7 +465,7 @@ window.quizPart2 = [
       "D": "Picking"
     },
     "answer": "C",
-    "explanation": "unequal distribution of color on a tablet, with light or dark spots standing out in an otherwise uniform surface. • Capping is the partial or complete removal of the crown of a tablet from the main body, while lamination is the separation tablet into two or more distinct layers. Picking is the term used when a small amount of material from a tablet is sticking to and being removed off from the tablet surface by a punch."
+    "explanation": "Mottling is a visual compression defect characterized by an unequal, blotchy, or speckled distribution of color across the face of a tablet."
   },
   {
     "id": "kpsc_ph_90",
@@ -477,7 +477,7 @@ window.quizPart2 = [
       "D": "Nuclear destruction"
     },
     "answer": "B",
-    "explanation": "gaseous sterilization is alkylation of proteins Ethylene oxide is used for sterilization of critical items such as plastics which cannot withstand high temperatures owing to its natures a gas, ethylene oxide penetrates a well into the cell, reaching the DNA of the microorganism and killing it by alkylation."
+    "explanation": "Ethylene oxide (EtO) kills microorganisms by alkylating functional groups (such as sulfhydryl, amino, hydroxyl, and carboxyl groups) on reactive proteins and nucleic acids, halting microbial cellular replication."
   },
   {
     "id": "kpsc_ph_91",
@@ -489,19 +489,19 @@ window.quizPart2 = [
       "D": "Plasticizer"
     },
     "answer": "D",
-    "explanation": "for oil filled soft gelation. Soft gelatin capsules are capsules in which the mechanical properties of gelatin have been manipulated by addition of a plasticizer (glycerol, polyhydric alcohols as sorbitol resulting in more flexible capsule)."
+    "explanation": "Glycerin, sorbitol, and related polyhydric alcohols are added to hard or soft gelatin matrices as plasticizers to keep the final capsule shells flexible, elastic, and free from brittleness."
   },
   {
     "id": "kpsc_ph_92",
-    "question": "Sterilization by heating with a bactericide single dose exceeds 15 ml transferred into the final container",
+    "question": "Sterilization by heating with a bactericide",
     "options": {
       "A": "Can be used safely for intrathecal injections",
-      "B": "Not suitable for intravenous injection when",
-      "C": "Is performed before the preparation is",
+      "B": "Not suitable for intravenous injection when single dose exceeds 15 ml",
+      "C": "Is performed before the preparation is transferred into the final container",
       "D": "Not suitable for eye drops"
     },
     "answer": "B",
-    "explanation": "suitable for intravenous injection when single dose exceeds 15 ml. This method may be used for sterilizing aqueous preparations which are unstable at higher temperatures attained in the moist heat sterilization processes. The method has lower margin of safety and should be used only when moist heat sterilization is not applicable. Temperature: 98 to 100ºc boiling water Time: 30 minutes Bactericides: Bactericide that is compatible with the product container and closure. Capsules, while sorbitol sorbitan solutions are the plasticizers of choice for soft gelatin capsules with PEG fills because they do not migrate into as glycerin does • Preservation of food with its humectants property but not a preservative, which can inhibit the microbial growth such as sodium benzoate and potassium sorbate. ================================================================================ PAGE : 92 ================================================================================ Pharmaceutics 92 YCT"
+    "explanation": "Formulations sterilized by heating with a bactericide cannot be used for high-volume intravenous infusions (exceeding 15 ml) or any intrathecal injections, as the total volume administered could introduce a toxic amount of the preservative."
   },
   {
     "id": "kpsc_ph_93",
@@ -513,7 +513,7 @@ window.quizPart2 = [
       "D": "Disintegrating agent"
     },
     "answer": "A",
-    "explanation": "lubricant is probably the most commonly used lubricant for pharmaceutical tableting it is relatively inexpensive, provides high lubrication, has a high melting point, and is chemically stable • A material or substance that holds other materials together mechanically, chemically, or as adhesive, to form a cohesive whole."
+    "explanation": "Magnesium stearate is the most common hydrophobic lubricant used in tableting. It reduces mechanical friction between the internal tablet granule mass and the tool die walls during compression and subsequent ejection."
   },
   {
     "id": "kpsc_ph_94",
@@ -525,7 +525,7 @@ window.quizPart2 = [
       "D": "Iodine tincture"
     },
     "answer": "B",
-    "explanation": "solution, first made in 1829, is a solution of elemental iodine and potassium iodide in water, named after the French physician J.G.A. Lugol. Lugol's Iodine solution is often used as an antiseptic and disinfection, for emergency disinfection of drinking water and as a reagent for starch detection in routine laboratory and medical tests. Lugol's was often used in the treatment of gout."
+    "explanation": "Lugol's solution is historically classified as Aqueous Iodine Solution, consisting of elemental iodine ($5\%\,\text{w/v}$) dissolved in an aqueous system with the assistance of potassium iodide ($10\%\,\text{w/v}$)."
   },
   {
     "id": "kpsc_ph_95",
@@ -537,66 +537,6 @@ window.quizPart2 = [
       "D": "Zinc peroxide"
     },
     "answer": "C",
-    "explanation": "otc ear drops, it is a cerumenolytic solution that softens and dissolves earwax, however, Hydrogen peroxide can irritate the skin inside the ear canal if a person uses it too frequently."
-  },
-  {
-    "id": "kpsc_ph_96",
-    "question": "Which route of drug administration is most likely to undergo first-pass effect?",
-    "options": {
-      "A": "Intramuscular",
-      "B": "Intravenous",
-      "C": "Oral",
-      "D": "Sublingual"
-    },
-    "answer": "C",
-    "explanation": "to undergo first - pass effect. It happens when the drug is absorbed through gastro - intestinal- tract (GIT) and the via the entero hepatic circulation as the drug is absorbed directly into the liver, where it undergoes metabolism before being released into the systemic circulation."
-  },
-  {
-    "id": "kpsc_ph_97",
-    "question": "The appropriate pH range for ophthalmic preparations is",
-    "options": {
-      "A": "8.5 – 10.5",
-      "B": "6.5 – 8.5",
-      "C": "4.5 – 6.5",
-      "D": "2.5 – 3.5"
-    },
-    "answer": "B",
-    "explanation": "dosage forms used for the treatment of eye diseases and are applied to eternal surface of the eye. The optimum pH of these preparations equals that of tear fluid of the age and ranges in pH around 7.4. So, the appropriate pH range for ophthalmic preparation is 6.5 to 8.5."
-  },
-  {
-    "id": "kpsc_ph_98",
-    "question": "The process that eliminates many or all pathogenic micro-organisms, except bacterial spores, on inanimate objects is known as",
-    "options": {
-      "A": "Sterilization",
-      "B": "Cleaning",
-      "C": "Disinfection",
-      "D": "Tyndallization"
-    },
-    "answer": "C",
-    "explanation": "many or all pathogenic micro-organisms, except bacterial spores unpon the non-biological surfaces."
-  },
-  {
-    "id": "kpsc_ph_99",
-    "question": "The time taken between placing of an order and receipt of items is known as",
-    "options": {
-      "A": "Lag time",
-      "B": "Carrying time",
-      "C": "Lead time",
-      "D": "Delivery time"
-    },
-    "answer": "C",
-    "explanation": "placing of order and receipt of drug to the department. The longer the lead time the larger is the safety stock, resulting in excess of investment in inventories. It is two types such as internal lead time & external lead time Lead time = order time + delivery time + receiving time ∴"
-  },
-  {
-    "id": "kpsc_ph_100",
-    "question": "Which of the following criteria should be taken into consideration for entry or deletion of drugs in Hospital formulary? license under Drug and Cosmetic Rules. drug must be recognized by Pharmacopoeia.",
-    "options": {
-      "A": "The manufacturer of drug should have the",
-      "B": "The",
-      "C": "The drug should not have secret composition.",
-      "D": "All of the above"
-    },
-    "answer": "D",
-    "explanation": "physicians and pharmacists, evaluate and select mediations for uses in a hospital. All the given options of the question are included for the criteria fallowed in this purpose."
+    "explanation": "Hydrogen peroxide is widely incorporated into otic formulations as a dewaxing agent. Upon contact with tissue, its effervescent release of oxygen mechanically breaks down and softens stubborn impacted cerumen (earwax)."
   }
 ];
