@@ -9,7 +9,7 @@ window.quizPart19 = [
       "D": "1972"
     },
     "answer": "C",
-    "explanation": "provides for the termination of creation pregnancies by registered Medical Practitioners and for matters connected therewith or incidental thereto."
+    "explanation": "Provides for the termination of certain pregnancies by registered Medical Practitioners and for matters connected therewith or incidental thereto."
   },
   {
     "id": "kpsc_ph_902",
@@ -21,11 +21,11 @@ window.quizPart19 = [
       "D": "Section 20"
     },
     "answer": "A",
-    "explanation": "21 of the drugs & cosmetic Act. Drug Inspectors, also known as quality control inspectors who ensure that medicines are suitable for human consumption."
+    "explanation": "Section 21 of the Drugs & Cosmetics Act. Drug Inspectors are quality control inspectors who ensure that medicines are suitable for human consumption."
   },
   {
     "id": "kpsc_ph_903",
-    "question": "If a drugs is imported under a name which belongs to another drug, such drugs are known as (as per D and C Act and Rules)",
+    "question": "If a drug is imported under a name which belongs to another drug, such drugs are known as (as per D and C Act and Rules)",
     "options": {
       "A": "Impure Drug",
       "B": "Adulterated Drug",
@@ -33,23 +33,23 @@ window.quizPart19 = [
       "D": "Spurious Drug"
     },
     "answer": "D",
-    "explanation": "be spurious if it is manufactured under a name which beings to another drug, if it is an limitation of another drug or has been substituted. • Misbranded drug– If its labeling proves false or misleading in any particular."
+    "explanation": "A drug is deemed to be spurious if it is manufactured under a name which belongs to another drug, if it is an imitation of another drug, or has been substituted. A misbranded drug is one whose labeling proves false or misleading in any particular."
   },
   {
     "id": "kpsc_ph_904",
-    "question": "What is Form-12 as per Drugs and Cosmetics Act? specified in Sch. X purpose of examination, test or analysis quantities of drugs by a Govt. hospital application for an import licence",
+    "question": "What is Form-12 as per Drugs and Cosmetics Act?",
     "options": {
       "A": "Application for licence to import drugs",
-      "B": "Application for licence to import drugs for the",
-      "C": "Application for licence to import small",
-      "D": "Form of undertaking to accompany an"
+      "B": "Application for licence to import drugs for the purpose of examination, test or analysis",
+      "C": "Application for licence to import small quantities of drugs by a Govt. hospital",
+      "D": "Form of undertaking to accompany an application for an import licence"
     },
     "answer": "B",
-    "explanation": "application for license to import drugs for the purpose of examination, test or analysis."
+    "explanation": "Form-12 is the application for a license to import drugs for the purpose of examination, test, or analysis."
   },
   {
     "id": "kpsc_ph_905",
-    "question": "How many ex-officio members are there in pharmacy Council of India?",
+    "question": "How many ex-officio members are there in Pharmacy Council of India?",
     "options": {
       "A": "5",
       "B": "4",
@@ -57,7 +57,7 @@ window.quizPart19 = [
       "D": "2"
     },
     "answer": "C",
-    "explanation": "Council of India. Three members that is the Director General Health services, The Drug controller India, The Director of the central drugs laboratory."
+    "explanation": "There are three ex-officio members: the Director General of Health Services, the Drugs Controller General of India, and the Director of the Central Drugs Laboratory."
   },
   {
     "id": "kpsc_ph_906",
@@ -69,11 +69,11 @@ window.quizPart19 = [
       "D": "Good manufacturing practices"
     },
     "answer": "B",
-    "explanation": "proprietary medicines containing vitamins. Schedule V drugs are generally used for anti diarrheal, antitussive and analyses purposes."
+    "explanation": "Schedule V outlines the standards for patent or proprietary medicines containing vitamins. These drugs are generally used for anti-diarrheal, antitussive, and analgesic purposes."
   },
   {
     "id": "kpsc_ph_907",
-    "question": "The Schedule which describes the guidelines on clinical trials ================================================================================ PAGE : 716 ================================================================================ Pharmaceutical Jurisprudence 716 YCT",
+    "question": "The Schedule which describes the guidelines on clinical trials is",
     "options": {
       "A": "Schedule Y",
       "B": "Schedule W",
@@ -81,23 +81,23 @@ window.quizPart19 = [
       "D": "Schedule S"
     },
     "answer": "A",
-    "explanation": "requirements and guidelines for important and manufacture of new drugs for sale or for clinical trials. It described the details of application process for conducting, clinical trials."
+    "explanation": "Schedule Y details the requirements and guidelines for the import and manufacture of new drugs for sale or for conducting clinical trials."
   },
   {
     "id": "kpsc_ph_908",
-    "question": "The ex-officio member of pharmacy Council of India is:",
+    "question": "The ex-officio member of Pharmacy Council of India is:",
     "options": {
-      "A": "Teacher is pharmacology",
+      "A": "Teacher in pharmacology",
       "B": "A member from MCI",
       "C": "A representative of UGC",
       "D": "Director of CDL"
     },
     "answer": "D",
-    "explanation": "statutory body under ministry of Health and family welfare, Government of India. It is constituted under the pharmacy Act 1948. The pharmacy council of India is constituted by central government every five years. There are three types of members collectively forms a frame of PCI. ⇒ Elected member ⇒ Nominated member ⇒ Ex- offico member"
+    "explanation": "The PCI is a statutory body constituted under the Pharmacy Act 1948. It is composed of elected, nominated, and ex-officio members, with the Director of the Central Drugs Laboratory (CDL) serving as an ex-officio member."
   },
   {
     "id": "kpsc_ph_909",
-    "question": "Who is the Secretary of pharmacy and Therapeutic Committee",
+    "question": "Who is the Secretary of the Pharmacy and Therapeutic Committee?",
     "options": {
       "A": "Administrator",
       "B": "Pharmacist",
@@ -105,11 +105,11 @@ window.quizPart19 = [
       "D": "Chief physician"
     },
     "answer": "B",
-    "explanation": "committee is Pharmacist. → The Pharmacy and Therapeutic committee is generally the medical staff committee responsible for managing the formularly system."
+    "explanation": "The Secretary of the Pharmacy and Therapeutic Committee is typically a Pharmacist. This committee is responsible for managing the hospital formulary system."
   },
   {
     "id": "kpsc_ph_910",
-    "question": "Schedule R of Drugs and Cosmetic Act deals with",
+    "question": "Schedule R of Drugs and Cosmetics Act deals with",
     "options": {
       "A": "Disinfectants",
       "B": "Antiseptics",
@@ -117,7 +117,7 @@ window.quizPart19 = [
       "D": "Dyes, colours & Pigments"
     },
     "answer": "C",
-    "explanation": "requirements for condoms and other mechanical contraceptives. ================================================================================ PAGE : 721 ================================================================================ Pharmaceutical Jurisprudence 721 YCT"
+    "explanation": "Schedule R prescribes the standards and requirements for condoms and other mechanical contraceptives."
   },
   {
     "id": "kpsc_ph_911",
@@ -129,11 +129,11 @@ window.quizPart19 = [
       "D": "Cosmetics"
     },
     "answer": "B",
-    "explanation": "the provisions of drugs and cosmetic Act, 1940 and the Rules made there under. Homeopathic medicines are defined under Rule of drugs and cosmetics Rules, 1945, and schedule M1 of drugs and cosmetics Act 1940."
+    "explanation": "Schedule M1 outlines the requirements for manufacturing premises and hygienic conditions for Homeopathic medicines."
   },
   {
     "id": "kpsc_ph_912",
-    "question": "Repacking license are granted in drugs specified in following schedules except",
+    "question": "Repacking licenses are granted for drugs specified in the following schedules except",
     "options": {
       "A": "Schedule X",
       "B": "Schedule C & C1",
@@ -141,35 +141,35 @@ window.quizPart19 = [
       "D": "Schedule O"
     },
     "answer": "B",
-    "explanation": "and special products schedule C and C1 under drug and cosmetic act and rules. - Repacking license are granted in drugs specified in schedule X, H and O, except schedule C & C1."
+    "explanation": "Repacking licenses can be granted for drugs specified in schedules X, H, and O, but they are explicitly not granted for biological and special products listed under Schedule C and C1."
   },
   {
     "id": "kpsc_ph_913",
-    "question": "As per Drugs and Cosmetics Act 1945, the term \"Drugstore\" refers to pharmacist is employed but do not maintain a pharmacy who employ the service of registered pharmacist and maintain a pharmacy for compounding against prescription is not required",
+    "question": "As per Drugs and Cosmetics Act 1945, the term \"Drugstore\" refers to",
     "options": {
-      "A": "Licenses where the service of registered",
-      "B": "Licenses",
+      "A": "Licenses where the service of a registered pharmacist is employed but do not maintain a pharmacy",
+      "B": "Licenses who employ the service of a registered pharmacist and maintain a pharmacy for compounding against prescription",
       "C": "Licenses where drugs are temporarily stored",
-      "D": "Licenses where service of a qualified person"
+      "D": "Licenses where the service of a qualified person is not required"
     },
     "answer": "D",
-    "explanation": "term \"Drugstore\" refers to licenses where service of a qualified person is not required. the Drugs and cosmetics rules, 1945 has provisions for classification of drugs under given schedules and there guidelines for the storage sale, display and prescription of each schedule."
+    "explanation": "The term \"Drugstore\" traditionally refers to retail licenses where the continuous hands-on service of a qualified person/registered pharmacist is not strictly mandatory for selling specific over-the-counter or household drugs under specialized rules."
   },
   {
     "id": "kpsc_ph_914",
-    "question": "Restricted licenses in Forms 20A and 21A are issued for: require the supervision of a registered pharmacist",
+    "question": "Restricted licenses in Forms 20A and 21A are issued for:",
     "options": {
       "A": "Narcotic and Psychotropic substances",
       "B": "Pethidine and related drugs",
-      "C": "Wholesale dealing of drugs which does not",
+      "C": "Retail dealing of drugs which does not require the supervision of a registered pharmacist",
       "D": "Drugs specified in Schedule X"
     },
     "answer": "C",
-    "explanation": "→ Restricted licenses in forms 20A and 21A shall be issued subject to the discretion of the licensing Authority, to dealers or persons in respect of drug whose sale does not require the supervision of a qualified person, → Licenses to itinerant vendors shall be issued only in exceptional circumstances for bonafide travelling agent of firms dealing in drugs or for a vendor who purchases drugs from a licensed dealer for distribution in sparsely populated rural crease where other channels of distribution of drugs are available. → The licensing authority may issue a license in form 21A to a travelling agent of a firm but to no other class of itinerant vendors."
+    "explanation": "Restricted licenses in forms 20A and 21A are issued at the discretion of the Licensing Authority to dealers for retail sales of drugs that do not require the supervision of a qualified person."
   },
   {
     "id": "kpsc_ph_915",
-    "question": "The Schedule in Drugs and Cosmetics Act which specifies that drugs shall not be sold by retail except on and in accordance with the prescription of a Registered Medical Practitioner:",
+    "question": "The Schedule in Drugs and Cosmetics Act which specifies that drugs shall not be sold by retail except on and in accordance with the prescription of a Registered Medical Practitioner is:",
     "options": {
       "A": "Schedule K",
       "B": "Schedule G",
@@ -177,19 +177,19 @@ window.quizPart19 = [
       "D": "Schedule H"
     },
     "answer": "D",
-    "explanation": "be sold by retail except on and in accordance with the prescription of a registered medical practitioners and in the case of substances specified in schedule X, the prescriptions shall be in duplicate one copy of which shall be retained by the licensee."
+    "explanation": "Schedule H drugs cannot be sold by retail without a valid prescription from a Registered Medical Practitioner. For Schedule X substances, prescriptions must be in duplicate, with one copy retained by the licensee."
   },
   {
     "id": "kpsc_ph_916",
-    "question": "Drugs Inspector is appointed as per the provisions of 1985",
+    "question": "Drugs Inspectors are appointed as per the provisions of which Act?",
     "options": {
       "A": "Pharmacy Act 1948",
-      "B": "Drugs and Cosmetics Act 1945",
+      "B": "Drugs and Cosmetics Act 1940",
       "C": "Drugs Inspector Act 1940",
-      "D": "Narcotic and Psychotropic Substances Act"
+      "D": "Narcotic and Psychotropic Substances Act 1985"
     },
     "answer": "B",
-    "explanation": "provisions of Drugs and cosmetics Act 1945. The Drugs and cosmetics rules 1945provisions for classification of drugs under given schedule and there are guidelines of the storage sale, display and prescription of each schedule."
+    "explanation": "Drug Inspectors are appointed under the structural provisions of the central Drugs and Cosmetics Act, 1940."
   },
   {
     "id": "kpsc_ph_917",
@@ -201,67 +201,67 @@ window.quizPart19 = [
       "D": "Mercuric Chloride"
     },
     "answer": "C",
-    "explanation": "iron in ammonical solution with thioglycollic acid in presence of citric acid to form iron thioglycalate which is pale pink to deep reddish purple in color. Earlier ammonium thiocyanate reagent was used for the limit test of iron."
+    "explanation": "The limit test of iron relies on the reaction of iron in an ammoniacal solution with thioglycollic acid in the presence of citric acid to form iron thioglycolate, which produces a pale pink to deep reddish-purple color."
   },
   {
     "id": "kpsc_ph_918",
-    "question": "\"Good manufacturing practices\" laid down in which schedule?",
+    "question": "\"Good manufacturing practices\" are laid down in which schedule?",
     "options": {
-      "A": "R",
-      "B": "X",
-      "C": "F",
-      "D": "M"
+      "A": "Schedule R",
+      "B": "Schedule X",
+      "C": "Schedule F",
+      "D": "Schedule M"
     },
     "answer": "D",
-    "explanation": "is related to good manufacturing practices (GMP) for premises and materials and requirements of GMP in plant and equipment ."
+    "explanation": "Schedule M details the requirements for Good Manufacturing Practices (GMP) regarding factory premises, materials, plant infrastructure, and equipment."
   },
   {
     "id": "kpsc_ph_919",
-    "question": "Which schedule specifies list of prescription drugs?",
+    "question": "Which schedule specifies the list of prescription drugs?",
     "options": {
-      "A": "G",
-      "B": "D",
-      "C": "H",
-      "D": "K"
+      "A": "Schedule G",
+      "B": "Schedule D",
+      "C": "Schedule H",
+      "D": "Schedule K"
     },
     "answer": "C",
-    "explanation": "in India appeared as an appendix to the drugs and cosmetics act 1945. These kind of drugs cannot be purchased over the counter without the prescription of a qualified doctor."
+    "explanation": "Schedule H contains the primary list of prescription-only drugs in India, which cannot be purchased over the counter without a doctor's order."
   },
   {
     "id": "kpsc_ph_920",
-    "question": "Schedule N specifies :",
+    "question": "Schedule N specifies:",
     "options": {
       "A": "Premises for manufacture of bulk drugs",
-      "B": "Premises for manufacture of nereotic drugs",
+      "B": "Premises for manufacture of narcotic drugs",
       "C": "Premises for manufacture of ayurvedic drugs",
-      "D": "Equipments and premises for pharmacy"
+      "D": "Minimum equipments and premises for running a pharmacy"
     },
     "answer": "D",
-    "explanation": "describes the Equipment for efficient running of a pharmacy."
+    "explanation": "Schedule N details the minimal operational requirements, workspace, and list of essential equipment needed to efficiently run a retail pharmacy."
   },
   {
     "id": "kpsc_ph_921",
-    "question": "Which one of the following is the objective of Pharmacy act? pharmacy training to persons entering in the pharmacy",
+    "question": "Which one of the following is a primary objective of the Pharmacy Act?",
     "options": {
-      "A": "To give permission for sale of drug through",
+      "A": "To give permission for sale of drug through online channels",
       "B": "To give licence for manufacture of drugs",
-      "C": "To frame education regulation and practical",
+      "C": "To frame education regulations and practical training guidelines for persons entering the pharmacy profession",
       "D": "To give licence for sale of drugs"
     },
     "answer": "C",
-    "explanation": "frame education regulation and practical training to persons entering the pharmacy."
+    "explanation": "The primary objective of the Pharmacy Act 1948 is to regulate the profession and education of pharmacy in India by framing uniform education standards and training regulations."
   },
   {
     "id": "kpsc_ph_922",
-    "question": "In which condition, the level of urinary diastase activity increases?",
+    "question": "In which condition does the level of urinary diastase activity increase significantly?",
     "options": {
-      "A": "meningitis",
+      "A": "Meningitis",
       "B": "Cellulitis",
       "C": "Pancreatitis",
       "D": "Schistosomiasis"
     },
     "answer": "C",
-    "explanation": "diastase activity increases. Urine diastase is useful in diagnosing uncertain abdominal cases (especially when pancreatitis is suspected) , stones in the common bile duct (choledocholithiasis), Jaundice and in ruling out post- operative injury to the pancreas, provided that the diastase level is correlated with clinical features of the patient."
+    "explanation": "Urinary diastase (amylase) levels elevate markedly during acute pancreatitis, making it a valuable test in diagnosing sudden, uncertain abdominal conditions or post-operative pancreatic injuries."
   },
   {
     "id": "kpsc_ph_923",
@@ -273,11 +273,11 @@ window.quizPart19 = [
       "D": "Giardia lamblia"
     },
     "answer": "C",
-    "explanation": "bacterium that live in the stomach of human. This bacteria causes ulcers in the cells of the stomach and intestinal tract the ulcers formed in the stomach are called peptic ulcers. Staphylococcus aureus is bacterium that causes staphylococcal food poisoning , a form of gastroenteritis with rapid onset of symptoms ."
+    "explanation": "Helicobacter pylori is a spiral bacterium that colonizes the stomach lining. It induces chronic inflammation, leading to peptic ulcers in the stomach and duodenum."
   },
   {
     "id": "kpsc_ph_924",
-    "question": "The following food stuffs can cause hypertensive crisis during non-selective Mono Amino Oxidase (MAO) inhibitor therapy :",
+    "question": "The following foodstuffs can cause hypertensive crisis during non-selective Monoamine Oxidase (MAO) inhibitor therapy:",
     "options": {
       "A": "Aged cheese",
       "B": "Red wine",
@@ -285,23 +285,23 @@ window.quizPart19 = [
       "D": "All of the above"
     },
     "answer": "D",
-    "explanation": "and chocolate can cause hypertensive crisis during non- selective mono amino oxidase (MAO) inhibitor therapy."
+    "explanation": "Tyramine-rich foods like aged cheese, red wine, and chocolate interact severely with non-selective MAOIs, stopping tyramine breakdown and triggering dangerous hypertensive crises."
   },
   {
     "id": "kpsc_ph_925",
-    "question": "The following are the signs and symptoms of tuberculosis excepts :",
+    "question": "The following are standard signs and symptoms of active tuberculosis except:",
     "options": {
-      "A": "Yellow sputum with blood spot",
+      "A": "Yellow sputum with blood spots",
       "B": "Fatigue and weight loss",
       "C": "Morning stiffness",
       "D": "Night sweats"
     },
     "answer": "C",
-    "explanation": "called mycobacterium tuberculosis, most often affect the lungs. It is a contagious infection, signs of active TB disease include- Coughing up blood, feeling tired all the time, night sweats and weight loss. Therefore, except option (C) all others are TB symptoms."
+    "explanation": "Active pulmonary TB presents with persistent cough, hemoptysis (blood in sputum), fatigue, unexplained weight loss, and night sweats. Morning stiffness is classic for rheumatoid arthritis, not TB."
   },
   {
     "id": "kpsc_ph_926",
-    "question": "The World Health Organization (WHO) programme for International Adverse Drug Reaction Monitoring is a worldwide collaboration of more than 150 countries whose aims are the safer use of medicines for patients everywhere and building a global culture of patient safety. The monitoring centre is situated at",
+    "question": "The World Health Organization (WHO) programme for International Adverse Drug Reaction Monitoring centre is situated at",
     "options": {
       "A": "Geneva",
       "B": "Uppsala",
@@ -309,11 +309,11 @@ window.quizPart19 = [
       "D": "London"
     },
     "answer": "B",
-    "explanation": "established in Uppsala, Sweden in 1978 as the World Health Organization (WHO), Collaborating Centre for International Drug Monitoring."
+    "explanation": "The global hub for pharmacovigilance, known as the Uppsala Monitoring Centre (UMC), was established in Uppsala, Sweden in 1978."
   },
   {
     "id": "kpsc_ph_927",
-    "question": "Drug-induced fatal malformations are more if the drugs given in which of the following weeks of pregnancy ?",
+    "question": "Drug-induced fetal malformations are most likely to happen if teratogenic drugs are given during which weeks of pregnancy?",
     "options": {
       "A": "Before the 3rd week",
       "B": "Between the 3rd and the 11th week",
@@ -321,11 +321,11 @@ window.quizPart19 = [
       "D": "After the 34th week"
     },
     "answer": "B",
-    "explanation": "avoided during pregnancy may induce fatal malformations with greater chances during 3rd and 11th weak of pregnancy. ================================================================================ PAGE : 735 ================================================================================ Health Education & Community Pharmacy 735 YCT"
+    "explanation": "The period of organogenesis occurs primarily between the 3rd and 11th weeks of gestation. Exposure to harmful drugs during this window causes the highest risk of structural malformations."
   },
   {
     "id": "kpsc_ph_928",
-    "question": "What is the principle of Limulus Amoebocyte Lysate (LAL) test for pyrogen ?",
+    "question": "What is the principle of the Limulus Amoebocyte Lysate (LAL) test for pyrogens?",
     "options": {
       "A": "Oxidation",
       "B": "Coagulation",
@@ -333,19 +333,19 @@ window.quizPart19 = [
       "D": "Reduction"
     },
     "answer": "B",
-    "explanation": "is a bacterial endotoxin testing. Endtoxins, which are a type of pyrogen, are lipopolysaccharides present in the cell walls of gram-negative bacteria. Pyrogens as a class are fever inducing substances that can be harmful or even fatal if administered to humans. Above certain concentration. Testing invented by Levin and Bang based on finding a trace amount of endotoxin coagulates."
+    "explanation": "The LAL test is a bacterial endotoxin test. Endotoxins from gram-negative bacteria interact with proteins from the blood cells (amoebocytes) of the horseshoe crab, causing a detectable gel clot or coagulation."
   },
   {
     "id": "kpsc_ph_929",
-    "question": "Which is the pyrogen test for parenteral product ?",
+    "question": "Which is the standard pyrogen test used rapidly for parenteral products?",
     "options": {
-      "A": "Limulus amoebocyte lyaste test",
+      "A": "Limulus amoebocyte lysate test",
       "B": "Legal test",
-      "C": "Keak test",
+      "C": "Leak test",
       "D": "Baljet test"
     },
     "answer": "A",
-    "explanation": "absence of pyrogens in parenteral pharmaceutical products. Litmulus amoebocyte lyaste test is used for this purpose as it ensures that sterile pharmaceutical products are safe for human use."
+    "explanation": "The Limulus Amoebocyte Lysate (LAL) test is widely utilized in quality control to confirm the absence of dangerous bacterial endotoxins (pyrogens) in injectable solutions."
   },
   {
     "id": "kpsc_ph_930",
@@ -357,11 +357,11 @@ window.quizPart19 = [
       "D": "Hepatitis C virus"
     },
     "answer": "C",
-    "explanation": "infected with Hepatitis B. This test can detect the actual presence of the Hepatitis B virus (called the surface antigen) in our blood."
+    "explanation": "HBsAg stands for Hepatitis B Surface Antigen. Its presence in the blood demonstrates an active infection with the Hepatitis B virus."
   },
   {
     "id": "kpsc_ph_931",
-    "question": "Nutritional deficiency of calcium leads to",
+    "question": "Nutritional deficiency of calcium directly leads to",
     "options": {
       "A": "Hypercalcaemia",
       "B": "Hypokalemia",
@@ -369,11 +369,11 @@ window.quizPart19 = [
       "D": "Hyponatremia"
     },
     "answer": "C",
-    "explanation": "hypocalcaemia. Hypocalcaemia is the condition used to describe a calcium deficiency. A calcium deficiency often occurs in babies who are barely a few days old as a result of the often high level of phosphate present in formula products then can reduce calcium levels in the blood. Chronic calcium deficiency can result in rickets osteoporosis and osteopenia as well as disruptions in the metabolic rate and normal function of other bodily processes. Causes of calcium deficiency : A lack of vitamin - D which is required for the absorption of calcium can arise when people stay indoors for extended periods of time."
+    "explanation": "Hypocalcaemia is the clinical term for abnormally low calcium concentrations in the blood, which can stem from dietary deficiency or lack of vitamin D."
   },
   {
     "id": "kpsc_ph_932",
-    "question": "A toxoid vaccine is",
+    "question": "A toxoid vaccine is a",
     "options": {
       "A": "Detoxicated endotoxin",
       "B": "Detoxicated cellular fraction",
@@ -381,11 +381,11 @@ window.quizPart19 = [
       "D": "Antitoxin"
     },
     "answer": "C",
-    "explanation": "made by the germ that causes disease. They create immunity to the parts of the germ that cause a disease instead of the germ it self. That means the immune response is targeted to the toxin instead of the whole germ."
+    "explanation": "Toxoids are prepared by harvesting exotoxins secreted by pathogenic bacteria and rendering them non-toxic (detoxified) using heat or chemical treatments, while maintaining their immunogenic properties."
   },
   {
     "id": "kpsc_ph_933",
-    "question": "Inadequate blood flow to a part of the body secondary to constriction or blockage of the supplying artery",
+    "question": "Inadequate blood flow to a part of the body secondary to constriction or blockage of the supplying artery is called",
     "options": {
       "A": "Infarction",
       "B": "Ischemia",
@@ -393,11 +393,11 @@ window.quizPart19 = [
       "D": "Eclampsia"
     },
     "answer": "B",
-    "explanation": "to blockage of an artery. An inquest was told that he had acute ,myocardial ischemia - a narrowing of the leading authority on mesenteric ischemia the deduction in blood supply to the intestines."
+    "explanation": "Ischemia is the medical term for a local restriction in blood supply due to structural narrowing or complete mechanical blockage of an artery."
   },
   {
     "id": "kpsc_ph_934",
-    "question": "Causative organism of plague",
+    "question": "What is the causative organism of plague?",
     "options": {
       "A": "Arbovirus",
       "B": "Rat flea",
@@ -405,23 +405,23 @@ window.quizPart19 = [
       "D": "Yersinia pestis"
     },
     "answer": "D",
-    "explanation": "plague is an infection disease that affects animals and human. It is caused by the bacterium Yersinia pestis. This bactrium is found is rodents and their fleas and occurs in many areas of the world, including the united states."
+    "explanation": "Plague is a severe zoonotic infectious disease caused by the Gram-negative coccobacillus bacterium Yersinia pestis. Rat fleas function as the primary vector."
   },
   {
     "id": "kpsc_ph_935",
     "question": "Macrocytic anemia developed due to the deficiency of intrinsic factor is known as",
     "options": {
       "A": "Pernicious anemia",
-      "B": "Magaloblastic anemia",
+      "B": "Megaloblastic anemia",
       "C": "Hypochromic anemia",
       "D": "Sideroblastic anemia"
     },
     "answer": "A",
-    "explanation": "autoimmune disorder that couses diminishment in dietary vitamin B12 absorption resulting in B12 deficiency and subsequent megaloblastic anemia. It affects people of all ages worldwide particularly those over to. Despites the advances in understanding making the diagnosis can be challenging for cliniclons due to its complexity, broad spectrum of clinical presentation."
+    "explanation": "Pernicious anemia is an autoimmune disorder where lack of gastric intrinsic factor stops the body from absorbing dietary vitamin B12, causing macrocytic/megaloblastic cell changes."
   },
   {
     "id": "kpsc_ph_936",
-    "question": "Permanent contraceptive method",
+    "question": "Which of the following is a permanent contraceptive method?",
     "options": {
       "A": "Intrauterine devices",
       "B": "Depot formulations",
@@ -429,11 +429,11 @@ window.quizPart19 = [
       "D": "Menstrual induction"
     },
     "answer": "C",
-    "explanation": "vasectomy. Vasectomy and tubal sterilization are safe effective and provide permanent protection from pregnancy, talk with our clinician and make sure all of our question have been answered. There are two kinds of birth control reversible and permanent. Permanent birth control men is called vasectomy. ================================================================================ PAGE : 754 ================================================================================ Health Education & Community Pharmacy 754 YCT"
+    "explanation": "A non-scalpel vasectomy is a highly reliable surgical procedure for male sterilization that offers permanent protection against pregnancy."
   },
   {
     "id": "kpsc_ph_937",
-    "question": "Which of the following is nutritional deficiency disorder?",
+    "question": "Which of the following is a classic nutritional deficiency disorder?",
     "options": {
       "A": "Mumps",
       "B": "Marasmus",
@@ -441,19 +441,19 @@ window.quizPart19 = [
       "D": "Myelitis"
     },
     "answer": "B",
-    "explanation": "protein - energy malnutrition. It occurs as a result of total calorie insufficiency. This leads to overt loss of adipose tissue and muscle The child may have a weight for height value that is more than standard deviations below the average for age are sex."
+    "explanation": "Marasmus is a severe form of protein-energy malnutrition caused by an overall deficit of daily calories, leading to significant muscle wasting and fat loss."
   },
   {
     "id": "kpsc_ph_938",
-    "question": "Zoonotic diseases are",
+    "question": "Zoonotic diseases are defined as",
     "options": {
-      "A": "Disease transmitted by rodents",
-      "B": "Disease transmitted by arthropods",
-      "C": "Disease transmitted from man to animals",
-      "D": "Disease transmitted from animals to man"
+      "A": "Diseases transmitted exclusively by rodents",
+      "B": "Diseases transmitted exclusively by arthropods",
+      "C": "Diseases transmitted from humans to animals",
+      "D": "Diseases transmitted naturally from vertebrate animals to humans"
     },
     "answer": "D",
-    "explanation": "transmitted from animals to man examples of zoonotic diseases that can be transmitted to humans from domestic animals include anthrax, rabies etc. ================================================================================ PAGE : 756 ================================================================================ Health Education & Community Pharmacy 756 YCT"
+    "explanation": "Zoonoses are infections or diseases that spread naturally from animals to humans, such as rabies, anthrax, or brucellosis."
   },
   {
     "id": "kpsc_ph_939",
@@ -465,11 +465,11 @@ window.quizPart19 = [
       "D": "Bacillus thuringiensis"
     },
     "answer": "B",
-    "explanation": "respiratory illness caused by a type of bacteria called as Bordetella pertussis."
+    "explanation": "Whooping cough, or pertussis, is a highly contagious respiratory infection caused specifically by the bacterium Bordetella pertussis."
   },
   {
     "id": "kpsc_ph_940",
-    "question": "The test used for the detection of Typhoid fever",
+    "question": "The serological test used for the detection of Typhoid fever is the",
     "options": {
       "A": "Dick test",
       "B": "Widal test",
@@ -477,11 +477,11 @@ window.quizPart19 = [
       "D": "Schick test"
     },
     "answer": "B",
-    "explanation": "fever is called Widal test. This test is named after it's inventor Georges - Fernand Widal. He invented this testing for the detection of typhoid fever."
+    "explanation": "The Widal test, developed by Georges-Fernand Widal, detects agglutinating antibodies against H and O antigens of Salmonella enterica serovar Typhi."
   },
   {
     "id": "kpsc_ph_941",
-    "question": "Steven Johnson syndrome is exhibited by",
+    "question": "Stevens-Johnson syndrome is an adverse reaction classically exhibited by",
     "options": {
       "A": "Gentamicin",
       "B": "Sulfadimidine",
@@ -489,23 +489,23 @@ window.quizPart19 = [
       "D": "Doxycycline"
     },
     "answer": "B",
-    "explanation": "sulfadimidine. • Steven Johnson syndrome is often caused by our body reacting to certain medicines. • Steven Johnson syndrome is a rare but serious skin reaction that is usually caused by taking certain medicines."
+    "explanation": "Stevens-Johnson syndrome (SJS) is a rare, severe mucocutaneous skin reaction often triggered by medications like sulfonamides (e.g., sulfadimidine)."
   },
   {
     "id": "kpsc_ph_942",
-    "question": "Severe form of anaemia",
+    "question": "Which of the following describes a structural classification where red blood cells are abnormally large, often causing severe forms of anemia?",
     "options": {
       "A": "Hemolytic anaemia",
       "B": "Regenerative anaemia",
-      "C": "Non regenerative anaemia",
+      "C": "Non-regenerative anaemia",
       "D": "Megalocytic anaemia"
     },
     "answer": "D",
-    "explanation": "anemia. • Hemolytic anemia is a blood condition that occurs when our RBCs are destroyed faster than they can be replaced. Type of hemolytic anemia is sickle cell disease."
+    "explanation": "Megalocytic (or macrocytic) anemia is characterized by abnormally enlarged red blood cells, commonly resulting from severe nutritional deficiencies in B12 or folate."
   },
   {
     "id": "kpsc_ph_943",
-    "question": "Gray baby syndrome is produced by",
+    "question": "Gray baby syndrome is produced as a toxic effect of",
     "options": {
       "A": "Tetracycline",
       "B": "Benzyl Penicillin",
@@ -513,11 +513,11 @@ window.quizPart19 = [
       "D": "Chloramphenicol"
     },
     "answer": "D",
-    "explanation": "a new born with abdominal distension, progressive pallid cyanosis, irregular respirations, and refusal to breastfeed. The cause of gray baby syndrome can come form the direct use of intravenous or oral chloramphenicol in neonates."
+    "explanation": "Gray baby syndrome is a dangerous toxicity seen in neonates due to an inability to metabolize and excrete chloramphenicol, leading to cyanosis, abdominal distension, and circulatory collapse."
   },
   {
     "id": "kpsc_ph_944",
-    "question": "Vitamin K deficiency results in the disorder",
+    "question": "Vitamin K deficiency results in which functional disorder?",
     "options": {
       "A": "Retarded growth",
       "B": "Color blindness",
@@ -525,23 +525,23 @@ window.quizPart19 = [
       "D": "Pernicious anaemia"
     },
     "answer": "C",
-    "explanation": "defect in blood clotting. • Clotting is a process that helps prevent excessive bleeding both inside and outside the body. Our body needs vitamin K in order to produce the proteins that go to work during the clotting process. If we are vitamin K deficient, our body does not have enough of these proteins."
+    "explanation": "Vitamin K is a mandatory cofactor needed for the hepatic synthesis of clotting factors II, VII, IX, and X. Deficiencies lead to prolonged bleeding times and impaired clotting."
   },
   {
     "id": "kpsc_ph_945",
-    "question": "Scurvy is the deficiency symptom of vitamin:",
+    "question": "Scurvy is the classic deficiency symptom of which vitamin?",
     "options": {
-      "A": "A",
-      "B": "K",
-      "C": "D",
-      "D": "C"
+      "A": "Vitamin A",
+      "B": "Vitamin K",
+      "C": "Vitamin D",
+      "D": "Vitamin C"
     },
     "answer": "D",
-    "explanation": "C. ⇒ Vitamin C also known as ascorbic acid. vitamin C is a water soluble vitamin ⇒ Scurvy is a disease that results from a vitamin C deficiency. It can lead to anemia, exhaustion, spontaneous bleeding, limb pain, swelling and sometimes ulceration of the gums and loss of teeth. ⇒ Foods that contain vitamin C include fruits such as oranges, lemons, Amla and guava."
+    "explanation": "Scurvy results directly from a lack of Vitamin C (ascorbic acid), which is required for stable collagen synthesis. Symptoms include bleeding gums, bruising, and poor wound healing."
   },
   {
     "id": "kpsc_ph_946",
-    "question": "Shick test is performed to test the degree of immunity against :",
+    "question": "The Schick test is performed to test the degree of immunity against:",
     "options": {
       "A": "Tuberculosis",
       "B": "Tetanus",
@@ -549,23 +549,23 @@ window.quizPart19 = [
       "D": "Diphtheria"
     },
     "answer": "D",
-    "explanation": "immunity against Diphtheria. Shick test method for determining susceptibility to diphtheria, it laid the basis for inoculation against the disease. A minute amount of diphtheria toxin is injected in to the skin of the forearm. Redness at the site of injection after there days indicates a positive reaction or a false positive reaction."
+    "explanation": "The Schick test measures immunity or susceptibility to diphtheria by injecting a tiny amount of diluted diphtheria toxin intradermally into the skin."
   },
   {
     "id": "kpsc_ph_947",
-    "question": "Diatomaceous earth is the other name of :",
+    "question": "Diatomaceous earth is another name for:",
     "options": {
       "A": "Talc",
       "B": "Kaolin",
       "C": "Bentonite",
-      "D": "Kieslghur"
+      "D": "Kieselguhr"
     },
     "answer": "D",
-    "explanation": "Kieslghur, light- coloured, porous and friable sedimentary rock that is composed of the siliceous shells of diatoms , unicellular aquatic plants of microscopic size."
+    "explanation": "Kieselguhr is a porous, light-colored sedimentary rock composed mostly of the ancient, fossilized silica shells of microscopic diatoms."
   },
   {
     "id": "kpsc_ph_948",
-    "question": "High count of WBC's is an indication of :",
+    "question": "An abnormally high count of immature or mature white blood cells is a classic indication of:",
     "options": {
       "A": "Influenza",
       "B": "Measles",
@@ -573,11 +573,11 @@ window.quizPart19 = [
       "D": "Typhoid"
     },
     "answer": "C",
-    "explanation": "Leukemia. White blood cells that help protect your body against illness and infection. Leukemia is a term of cancers of the blood cells. Leukemia starts in blood- forming tissue such as the bone marrow. When large numbers of cells. This problem most often happens with white blood cells. These abnormal cells build up in patients bone marrow and blood. They crowd out the healthy blood cells and make it hard for patients cells and blood to do their work."
+    "explanation": "Leukemia is a group of blood cancers originating in the bone marrow, characterized by rapid, out-of-control production of abnormal white blood cells."
   },
   {
     "id": "kpsc_ph_949",
-    "question": "Immunoglobulin found on lymphocyte surface of new born:",
+    "question": "Which immunoglobulin class is predominantly found co-expressed on the surface of mature, naive B-lymphocytes in newborns?",
     "options": {
       "A": "IgD",
       "B": "IgA",
@@ -585,18 +585,18 @@ window.quizPart19 = [
       "D": "IgG"
     },
     "answer": "C",
-    "explanation": "surface of new born. IgM found mainly in blood and lymph fluid. This is the first antibody the body makes when it fights a new infection. IgM can neutralize pathogens, through not as effectively as IgG or IgA isotypes, most likely due to the increased flexibility of these isotypes provided by a hinge region."
+    "explanation": "IgM is the first class of antibody generated by B cells during development and during an initial immune response. It serves alongside IgD as a membrane-bound receptor on naive B cells."
   },
   {
     "id": "kpsc_ph_950",
-    "question": "Chancroid is caused by:",
+    "question": "Chancroid is a sexually transmitted infection caused by:",
     "options": {
-      "A": "H. ducrei",
-      "B": "H. pylori",
-      "C": "S. aureus",
-      "D": "E. coli"
+      "A": "Haemophilus ducreyi",
+      "B": "Helicobacter pylori",
+      "C": "Staphylococcus aureus",
+      "D": "Escherichia coli"
     },
     "answer": "A",
-    "explanation": "chancroid is a highly contagious yet curable sexually transmitted disease (STD) caused by the bacteria Haemophilus ducrei. chancroid cause ulcers, usually of the genital. Swollen, painful lymph gland or inguinal buboes, in the groin area are often associated with chancroid."
+    "explanation": "Chancroid is characterized by painful genital ulcers and local lymph node inflammation (buboes). It is caused by the fastidious Gram-negative coccobacillus Haemophilus ducreyi."
   }
 ];
