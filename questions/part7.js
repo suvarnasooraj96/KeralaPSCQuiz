@@ -1,7 +1,7 @@
 window.quizPart7 = [
   {
     "id": "kpsc_ph_301",
-    "question": "The assay of Calcium Gluconate is conducted by which titration method ?",
+    "question": "The assay of Calcium Gluconate is conducted by which titration method?",
     "options": {
       "A": "Acid-base titration",
       "B": "Redox titration",
@@ -9,11 +9,11 @@ window.quizPart7 = [
       "D": "Precipitation method"
     },
     "answer": "C",
-    "explanation": "complexometric titrations of Ca2+ ions using EDTA as sequestering (Chelating) agent when all the calcium has been consumed, the drop of EDTA breaks the magnesium-indicator complex, allowing the free indicator to form a complex with the magnesium."
+    "explanation": "Calcium gluconate is assayed using a direct complexometric titration with disodium EDTA as the titrant. At a high alkaline pH (around 12–13), calcium ions form a stable chelate complex with EDTA, which can be visualized using a metal ion indicator like Mordant Black II or calconcarboxylic acid."
   },
   {
     "id": "kpsc_ph_302",
-    "question": "Which of the following is a polyene antifungal antibiotic ?",
+    "question": "Which of the following is a polyene antifungal antibiotic?",
     "options": {
       "A": "Amphotericin",
       "B": "Tolnaftate",
@@ -21,11 +21,11 @@ window.quizPart7 = [
       "D": "Cephalothin"
     },
     "answer": "A",
-    "explanation": "amphotericin. The polyene antifungal agents include nystatin, amphotericin B and pimaricin. Nystatin and amphotericin B bind to the ergosterol in the fungal cell membrane and form pores in the fungal cell membrane which allows leakage of the cell contents and eventual cell death. Nystatin is considered a poor antifungal in activity. Amphotericin B has a broad spectrum of action, is fungicidal, and was the mainstay for N treatment of systemic fungal infection prior to the development of the echinocandins and broad spectrum azoles, called \"ampho terrible\" the drug was noted for nephrotoxicity and fusion - related reactions."
+    "explanation": "Amphotericin B is a classic polyene macrolide antifungal antibiotic. It works by binding selectively to ergosterol in the fungal cell membrane, creating transmembrane pores that cause the leakage of essential intracellular ions and molecules, leading to cell death."
   },
   {
     "id": "kpsc_ph_303",
-    "question": "The stabilising agent used in making formaldehyde solution",
+    "question": "The stabilising agent used in making formaldehyde solution is:",
     "options": {
       "A": "Methanol",
       "B": "Ethanol",
@@ -33,35 +33,35 @@ window.quizPart7 = [
       "D": "Ascorbic acid"
     },
     "answer": "A",
-    "explanation": "methanal, an organic compound, the simplest of the aldehydes, used in large amount in a variety of chemical manufacturing processes. It is produced principally by the vapour - phase oxidation of methanol and is commonly sold a formalin, a 37 - 40% aqueous solution."
+    "explanation": "Formalin (37–40% aqueous formaldehyde solution) is prone to polymerization into paraformaldehyde over time. Methanol (typically 10–15%) is added as a stabilizing agent to prevent this polymerization and keep the aldehyde in its monomeric form."
   },
   {
     "id": "kpsc_ph_304",
-    "question": "Water attack test is used for the detection of",
+    "question": "Water attack test is used for the detection of the hydrolytic resistance of:",
     "options": {
-      "A": "Light Kaolin",
-      "B": "Phenolphthalein",
-      "C": "Aromatic chalk powder",
-      "D": "Light magnesium carbonate"
+      "A": "Type I glass containers",
+      "B": "Type II glass containers",
+      "C": "Type III glass containers",
+      "D": "Type IV glass containers"
     },
-    "answer": "C",
-    "explanation": "qualify Type II glass. Rinse throughly 3 or more containers selected at random, twice with high purity water. Type II glass is a form of soda lime glass also called soda - lime silica glass by far the most common kind produced industrially. Give an example of indiffusible solid. those solids which are not soluble in water and do not remain uniformly distributed in the vehicle for sufficiently long time. Therefore to suspend the drug, suspending agents are added. Example of indiffusible substances include Aspirin, Chalk, Phenobarbitone, Succinylsulphathiazole, Sulphadimidine (for oral use), and calamine, Zinc oxide, Precipitated sulphur, Hydrocortisone, Triamcinolone acetonide (for external use). ================================================================================ PAGE : 228 ================================================================================ Pharmaceutical Chemistry 228 YCT"
+    "answer": "B",
+    "explanation": "The water attack test is specifically used to evaluate Type II glass containers (treated soda-lime glass). It measures the amount of alkali released from the inner surface of the glass container when exposed to high-purity water under autoclaving conditions."
   },
   {
     "id": "kpsc_ph_305",
-    "question": "In radiation sterilization, the gamma rays were obtained from",
+    "question": "In radiation sterilization, the gamma rays are obtained from:",
     "options": {
-      "A": "Cobalt – 60",
-      "B": "Iodine – 131",
-      "C": "Gold – 198",
-      "D": "Selenium – 80"
+      "A": "Cobalt-60",
+      "B": "Iodine-131",
+      "C": "Gold-198",
+      "D": "Selenium-80"
     },
     "answer": "A",
-    "explanation": "were obtained from cobalt - 60. Either gamma rays from a cobalt- 60 (60Co) isotope source or machine generated accelerated electrons are used. Gamma irradiation is the most popular form of radiation sterilization and is used when materials are sensitive to be high temperature of autoclaving but compatible with ionising radiation."
+    "explanation": "Cobalt-60 ($^{60}\\text{Co}$) is the standard radioactive isotope source used in industrial gamma radiation sterilization plants. It emits high-energy gamma rays capable of penetrating packaged medical and pharmaceutical products to disrupt microbial DNA."
   },
   {
     "id": "kpsc_ph_306",
-    "question": "Caustic soda is",
+    "question": "Caustic soda is the common name for:",
     "options": {
       "A": "Sodium hydroxide",
       "B": "Sodium chloride",
@@ -69,11 +69,11 @@ window.quizPart7 = [
       "D": "Sodium bicarbonate"
     },
     "answer": "A",
-    "explanation": "sodium hydroxide (NaOH). This compound is an alkali type of base that can neutralize acids and is soluble in water. Today caustic soda can be manufactured in the form of pellets, flakes, powders, solution and more."
+    "explanation": "Sodium hydroxide (NaOH) is commonly known as caustic soda because of its strong alkaline and corrosive (caustic) action on organic tissues and materials."
   },
   {
     "id": "kpsc_ph_307",
-    "question": "Which among the following preparation is used as a source of iodine in iodine deficiency ?",
+    "question": "Which among the following preparations is used as a source of iodine in iodine deficiency?",
     "options": {
       "A": "Weak iodine solution",
       "B": "Strong iodine solution",
@@ -81,23 +81,23 @@ window.quizPart7 = [
       "D": "Iodine tincture"
     },
     "answer": "C",
-    "explanation": "iodine solution. These solution is often used as an antiseptic and disinfectant, a starch indicator, to replenish iodine deficiency to protect the thyroid gland from the radioactive materials and for emergency disinfection of drinking water."
+    "explanation": "Aqueous Iodine Solution (also known as Lugol's Solution) contains iodine dissolved in an aqueous solution of potassium iodide without alcohol. It is administered orally to replenish iodine stores, manage severe thyroid conditions, or block radioactive iodine uptake."
   },
   {
     "id": "kpsc_ph_308",
-    "question": "In the assay of boric acid, glycerin is added to boric acid to",
+    "question": "In the assay of boric acid, glycerin is added to boric acid to:",
     "options": {
-      "A": "Dissolve boric acid (b) Increase basicity",
-      "B": "",
+      "A": "Dissolve boric acid",
+      "B": "Increase basicity",
       "C": "Increase acidity",
       "D": "Decrease acidity"
     },
     "answer": "C",
-    "explanation": "makes the Boric acid more acidic and form a Boron chelate complex, therefore it can easily behave as monobasic acid. It helps for the titration of Boric acid with base in the presence of certain acid- base indicators such as phenolphthalein."
+    "explanation": "Boric acid is too weak a monobasic acid to be titrated directly with sodium hydroxide using visual indicators. Adding polyols like glycerin reacts with boric acid to form a stable, complex glyceroboric acid, which behaves as a strong monobasic acid and yields a sharp phenolphthalein end-point."
   },
   {
     "id": "kpsc_ph_309",
-    "question": "In cyanide poisoning, sodium nitrite is used as an antidote along with which compound ?",
+    "question": "In cyanide poisoning, sodium nitrite is used as an antidote along with which compound?",
     "options": {
       "A": "Sodium metabisulphite",
       "B": "Sodium thiocyanate",
@@ -105,11 +105,11 @@ window.quizPart7 = [
       "D": "Sodium thiosulphate"
     },
     "answer": "D",
-    "explanation": "sodium thiosulphate has been shown repeatedly to be synergistic against cyanide poisoning. In suspected cyanide-poisoned patients, we recommend the use of hydroxocobalamin as first line antidote , owing to its safety. In massive cyanide poisoning, due to the limited potency of hydroxocobalamin, continuous in fusion of sodium thiosulbhate should be associated."
+    "explanation": "The clinical antidote regimen for cyanide poisoning utilizes sodium nitrite followed by sodium thiosulphate. Sodium nitrite creates methemoglobin to bind cyanide, while sodium thiosulphate acts as a sulfur donor for the enzyme rhodanese to convert cyanide into non-toxic thiocyanate for renal clearance."
   },
   {
     "id": "kpsc_ph_310",
-    "question": "An antiseptic solution generally used for cleaning wounds and ears is",
+    "question": "An antiseptic solution generally used for cleaning wounds and ears is:",
     "options": {
       "A": "Hydrogen peroxide solution",
       "B": "Lugol’s solution",
@@ -117,11 +117,11 @@ window.quizPart7 = [
       "D": "Potassium permanganate solution"
     },
     "answer": "A",
-    "explanation": "practice today include povidone - iodine, chlorhexidine, alcohal, acetate, Hydrogen peroxide (H2O2), boric acid, silver nitrate, silver sulfadiazine and sodium hypochlorite."
+    "explanation": "Hydrogen peroxide ($\\text{H}_2\\text{O}_2$) solution is a topical antiseptic that releases oxygen bubbles upon contacting tissue catalase. This effervescence helps mechanically debride and cleanse wounds, ears, and small canals by lifting away dead tissue and wax."
   },
   {
     "id": "kpsc_ph_311",
-    "question": "Drugs which help in eliminating exudations from bronchi are known as",
+    "question": "Drugs which help in eliminating exudations from bronchi are known as:",
     "options": {
       "A": "Emetics",
       "B": "Expectorants",
@@ -129,23 +129,23 @@ window.quizPart7 = [
       "D": "Cathartics"
     },
     "answer": "B",
-    "explanation": "from bronchi are known as expectorants. An expectorant is a type of cough medicine used to help clear mucus (phlegm) from our airway. You may take an expectorants to help relieve congestion if you have a cold or the flu. Expectorants are available as standalone drugs or as ingredient in an all in - one cold or flu medication Expectorants are used to treat the symptoms of restiratory tract infection. These types of infections include the common cold branchitis and pneumonia."
+    "explanation": "Expectorants are medications that assist in removing mucus and exudates from the respiratory tract by increasing the volume or reducing the viscosity of bronchial secretions, making them easier to cough out."
   },
   {
     "id": "kpsc_ph_312",
-    "question": "Calcium gluconate is assayed by",
+    "question": "Calcium gluconate is assayed by:",
     "options": {
-      "A": "Acid – base titration",
+      "A": "Acid–base titration",
       "B": "Redox titration",
       "C": "Complexometric titration",
       "D": "Non-aqueous titration"
     },
     "answer": "C",
-    "explanation": "complexometric titrations of Ca2+ ions using EDTA(ethylene diamine tetra acetic acid) as a sequestering (chelating) agent, which results in the formation of a relatively stable complex. However mordant - Black II which is used as an indicator does not give distinct colour change."
+    "explanation": "Calcium gluconate is assayed by complexometric titration using disodium edetate (EDTA) at a high alkaline pH, utilizing indicators like calcon or hydroxy naphthol blue to identify the endpoint."
   },
   {
     "id": "kpsc_ph_313",
-    "question": "Chlorinated lime and boric acid solution is known as",
+    "question": "Chlorinated lime and boric acid solution is known as:",
     "options": {
       "A": "Eusol",
       "B": "Lysol",
@@ -153,59 +153,59 @@ window.quizPart7 = [
       "D": "Dakin’s solution"
     },
     "answer": "A",
-    "explanation": "known as eusal. It is antiseptic solution and used in treating wounds. EUSOL is acronym. It stand for Edinburgh university solution of line. ================================================================================ PAGE : 229 ================================================================================ Pharmaceutical Chemistry 229 YCT"
+    "explanation": "Eusol stands for 'Edinburgh University Solution of Lime' and is an antiseptic solution containing chlorinated lime and boric acid, traditionally prepared to yield free hypochlorous acid for treating infected wounds."
   },
   {
     "id": "kpsc_ph_314",
-    "question": "Bleaching powder is",
+    "question": "Bleaching powder is:",
     "options": {
       "A": "Chlorinated lime",
       "B": "Soda lime",
-      "C": "Sodium bicarbonate (d) Calcium carbonate",
-      "D": ""
+      "C": "Sodium bicarbonate",
+      "D": "Calcium carbonate"
     },
     "answer": "A",
-    "explanation": "made by passing chlorine gas over slaked lime [Ca(OH)2] to form a chemical with formula CaOCl2. It is used for bleaching and is commonly referred to as bleaching powder."
+    "explanation": "Bleaching powder is chemically known as chlorinated lime (primarily a mixture of calcium hypochlorite, calcium chloride, and calcium hydroxide) formed by passing chlorine gas over slaked lime."
   },
   {
     "id": "kpsc_ph_315",
-    "question": "Sodium Fluoride is used to prevent ............. RRB Pharmacist Gr.III (21.07.2019) ================================================================================ PAGE : 280 ================================================================================ Pharmaceutical Chemistry 280 YCT",
+    "question": "Sodium Fluoride is used to prevent:",
     "options": {
       "A": "Dandruff",
       "B": "Skin problems",
       "C": "Ulcer",
       "D": "Dental caries"
     },
-    "answer": "B",
-    "explanation": "result in probenecid decreases excretion of penicillin. Probenecid in also used in the combination with penicillin and penicillin derivatives (such as ampicillin and nafcillin) to prolong their plasma half-life and increase serum concentrations. Probenecid increases the levels of antibiotics. Penicillin in the blood, which helps the abtibiotic work better."
+    "answer": "D",
+    "explanation": "Sodium fluoride is a cariostatic mineral commonly added to drinking water, toothpastes, and dental rinses. It incorporates into dental enamel to form acid-resistant fluorapatite, which prevents dental caries (tooth decay)."
   },
   {
     "id": "kpsc_ph_316",
-    "question": "Which of the following compounds bring about protein precipitation and form a protective layer on the skin ? Or Locally applied protein precipitants with low cell permeability are known as ================================================================================ PAGE : 281 ================================================================================ Pharmaceutical Chemistry 281 YCT",
+    "question": "Which of the following compounds bring about protein precipitation and form a protective layer on the skin?",
     "options": {
       "A": "Epilatories",
       "B": "Astringents",
-      "C": "Humactants",
+      "C": "Humectants",
       "D": "Keratolytics"
     },
     "answer": "B",
-    "explanation": "cell permeability are known as astringents. Any of a group substance that cause the contraction or shrinkage of tissues and that dry up secretions"
+    "explanation": "Astringents are locally applied protein precipitants with low cell permeability. They constrict tissues, dry up secretions, and form a protective surface coagulum layer over damaged skin or mucous membranes."
   },
   {
     "id": "kpsc_ph_317",
-    "question": "Combination of nitrous oxide and halothane is an example for",
+    "question": "Combination of nitrous oxide and halothane is an example of:",
     "options": {
-      "A": "Antagonistic effect (b) Potentiation effect",
-      "B": "",
+      "A": "Antagonistic effect",
+      "B": "Potentiation effect",
       "C": "Additive effect",
       "D": "Neutral effect"
     },
     "answer": "C",
-    "explanation": "produces an additive effect. Halothane also depresses ventilation and when used together with high concentrations of nitrous oxide causes serious respiratory depression."
+    "explanation": "Combining inhalational anesthetics like nitrous oxide and halothane produces an additive effect, where their minimum alveolar concentrations (MAC) add up to deliver a deeper level of general anesthesia."
   },
   {
     "id": "kpsc_ph_318",
-    "question": "In the limit test for Arsenic, the gas which imparts brown stain to mercuric chloride paper is",
+    "question": "In the limit test for Arsenic, the gas which imparts a brown stain to mercuric chloride paper is:",
     "options": {
       "A": "Arsenic oxide",
       "B": "Arsenic acid",
@@ -213,31 +213,31 @@ window.quizPart7 = [
       "D": "Arsine"
     },
     "answer": "D",
-    "explanation": "imparts brown stain mercuric chloride paper is known as Arsine. Arsine is color less, flamable, toxic gas with garlic like smell and it is formed, when arsenic comes in contact with an acid."
+    "explanation": "In the Gutzeit limit test for arsenic, arsenous compounds are reduced by nascent hydrogen to form volatile arsine gas ($\\text{AsH}_3$). This gas reacts with mercuric chloride test paper to yield a distinct yellow-to-brown stain."
   },
   {
     "id": "kpsc_ph_319",
-    "question": "Nitrous oxide is stored in cylinders painted by",
+    "question": "Nitrous oxide is stored in cylinders painted:",
     "options": {
       "A": "Green colour",
       "B": "Grey colour",
       "C": "Blue colour",
-      "D": "None of the above"
+      "D": "Black with white shoulder"
     },
     "answer": "C",
-    "explanation": "laughing gas and it is directly used as a safe anesthetic. Nitrous oxide is generally stored in blue cylinders."
+    "explanation": "Nitrous oxide ($\\text{N}_2\\text{O}$) medical gas cylinders are universally color-coded blue to distinguish them clearly from oxygen (black/white or green) and other medical gases."
   },
   {
     "id": "kpsc_ph_320",
     "question": "Which of the following is NOT a use of Ammonium chloride?",
     "options": {
-      "A": "Anti histaminic",
+      "A": "Antihistaminic",
       "B": "Diuretic",
       "C": "Expectorant",
       "D": "Systemic acidifying agent"
     },
     "answer": "A",
-    "explanation": "histaminic substance but it is used as expectorant in cough syrups. Ammonium chloride is also a diuretic as it impose chloride load upon the kidney, which is excreted with sodium, in the first instance."
+    "explanation": "Ammonium chloride functions clinically as an expectorant, systemic acidifying agent, and mild osmotic diuretic. It has no pharmacological mechanism as an antihistaminic."
   },
   {
     "id": "kpsc_ph_321",
@@ -249,23 +249,23 @@ window.quizPart7 = [
       "D": "Redox"
     },
     "answer": "B",
-    "explanation": "a replacement complexometric titration. It is assayed using in this kind of titrations of Ca2+ ions using EDTA as a sequestering (chelating) agent which in turn forms a relatively stable. complex."
+    "explanation": "Calcium gluconate is determined quantitatively through complexometric titration using disodium ethylenediaminetetraacetate (EDTA), which binds stoichiometric quantities of $\\text{Ca}^{2+}$ ions."
   },
   {
     "id": "kpsc_ph_322",
-    "question": "Number of milligrams of potassium hydroxide required to neutralise the free fatty acid present 1 gram of fat is",
+    "question": "Number of milligrams of potassium hydroxide required to neutralise the free fatty acids present in 1 gram of fat is:",
     "options": {
-      "A": "lodine number",
+      "A": "Iodine number",
       "B": "Saponification number",
       "C": "Acid number",
       "D": "Acetyl number"
     },
     "answer": "C",
-    "explanation": "acidity and defined as the number of milligrams of potassium hydroxide required to neutralize the free fatty acids present in one gram of fat."
+    "explanation": "The Acid Number (or Acid Value) is defined as the mass of potassium hydroxide (KOH) in milligrams required to neutralize the free fatty acids present in 1 gram of a fat or oil sample."
   },
   {
     "id": "kpsc_ph_323",
-    "question": "Antidote for mercury Poisoning",
+    "question": "Antidote for mercury Poisoning:",
     "options": {
       "A": "EDTA",
       "B": "Naloxone",
@@ -273,11 +273,11 @@ window.quizPart7 = [
       "D": "Deferoxamine"
     },
     "answer": "C",
-    "explanation": "Dimercaprol. Dimercaprol is the chelating class of drugs and is used to treat toxic exposure to arsenic, mercury, gold and lead."
+    "explanation": "Dimercaprol (British Anti-Lewisite or BAL) is a heavy metal chelating agent with sulfhydryl (-SH) groups that bind mercury ions, preventing them from interacting with systemic enzymes and promoting their excretion."
   },
   {
     "id": "kpsc_ph_324",
-    "question": "Calamine I.P. is",
+    "question": "Calamine I.P. is:",
     "options": {
       "A": "Zinc oxide with ferric oxide",
       "B": "Basic zinc carbonate",
@@ -285,23 +285,23 @@ window.quizPart7 = [
       "D": "Calcium oxide with ferric oxide"
     },
     "answer": "A",
-    "explanation": "Zine oxide and ferric oxide. It i used for skin itching and pain releasing."
+    "explanation": "Calamine I.P. consists of zinc oxide ($\\text{ZnO}$) combined with a small percentage (usually around 0.5%) of ferric oxide ($\\text{Fe}_2\\text{O}_3$), which imparts its characteristic pink color."
   },
   {
     "id": "kpsc_ph_325",
-    "question": "Molecules Whose mirror images are non superimposable are called",
+    "question": "Molecules whose mirror images are non-superimposable are called:",
     "options": {
       "A": "Stereoisomers",
       "B": "Geometric isomers",
-      "C": "Conformation",
-      "D": "Enantionmers"
+      "C": "Conformers",
+      "D": "Enantiomers"
     },
     "answer": "D",
-    "explanation": "superimposable are called enantionmers. Actually there are a pair of molecules that exist in two forms that are mirror images of one another but cannot be superimposed one upon the other. Enantionmers are in every other respect identical."
+    "explanation": "Enantiomers are a subclass of stereoisomers that exist as pairs of molecules related as non-superimposable mirror images of one another, often because of a chiral center."
   },
   {
     "id": "kpsc_ph_326",
-    "question": "Quantities of electrolytes administered to patients are expressed by? ================================================================================ PAGE : 289 ================================================================================ Pharmaceutical Chemistry 289 YCT",
+    "question": "Quantities of electrolytes administered to patients are expressed by:",
     "options": {
       "A": "Milliequivalent",
       "B": "Equivalent",
@@ -309,23 +309,23 @@ window.quizPart7 = [
       "D": "Millilitre"
     },
     "answer": "A",
-    "explanation": "patients are expressed by Millequivalent. Milliequivalent (mEg) is the unit of measure often used for electrolytes. It indicates the chemical activity or combining power of an element relative to the activity of 1 mg of hydrogen. Thus 1 mEg is represented by 1 mg of hydrogen (1 mole) or 23 mg of Na+, 39mg of k+ etc."
+    "explanation": "Electrolyte concentrations in intravenous and physiological fluids are expressed in milliequivalents per liter (mEq/L), which reflects the total chemical combining power or electrical charge of the ions present."
   },
   {
     "id": "kpsc_ph_327",
     "question": "Which one is a ketone body?",
     "options": {
       "A": "Sodium taurocholate",
-      "B": "Beta hydroxy butyrate",
+      "B": "Beta-hydroxybutyrate",
       "C": "Chylomicrons",
       "D": "Cholesterol"
     },
     "answer": "B",
-    "explanation": "a chemical that is made by the body. It provides energy when not enough carbohydrates of sugars have been eaten."
+    "explanation": "The three classical physiological ketone bodies produced by the liver during fatty acid metabolism are acetoacetate, acetone, and beta-hydroxybutyrate."
   },
   {
     "id": "kpsc_ph_328",
-    "question": "A ketogenic amino acid ================================================================================ PAGE : 290 ================================================================================ Pharmaceutical Chemistry 290 YCT",
+    "question": "A purely ketogenic amino acid is:",
     "options": {
       "A": "Alanine",
       "B": "Lysine",
@@ -333,7 +333,7 @@ window.quizPart7 = [
       "D": "Valine"
     },
     "answer": "C",
-    "explanation": "• Amino acids that converted to acetoaetyl – Co A, Which can be used for the synthesis of ketone bodies but not glucose are called ketogenic acid."
+    "explanation": "Leucine and Lysine are the only two purely ketogenic amino acids. They are catabolized entirely into acetyl-CoA or acetoacetyl-CoA, serving as precursors for ketone bodies rather than glucose."
   },
   {
     "id": "kpsc_ph_329",
@@ -345,11 +345,11 @@ window.quizPart7 = [
       "D": "Ibuprofen"
     },
     "answer": "A",
-    "explanation": "elemental composition. Benzyl Penicillin–"
+    "explanation": "Benzylpenicillin (Penicillin G) contains a thiazolidine ring as part of its core beta-lactam nucleus, which includes a sulfur atom in its elemental structure."
   },
   {
     "id": "kpsc_ph_330",
-    "question": "In paracetamol poisoning N acetyl cysteine act as a",
+    "question": "In paracetamol poisoning, N-acetylcysteine acts as a:",
     "options": {
       "A": "Coating agent of gastric mucosa",
       "B": "Urinary alkalaniser",
@@ -357,11 +357,11 @@ window.quizPart7 = [
       "D": "Urinary acidifier"
     },
     "answer": "C",
-    "explanation": "act as a glutathione substitute. N- acetyl cysteine (NAC) is an antidote for paracetamol poisoning. NAC restore the pool of hepatic glutathione, which is depleted by oxidative pathway for paracetamol in which the electrophilic metabolite is formed."
+    "explanation": "In paracetamol overdose, toxic NAPQI metabolite depletes liver glutathione reserves. N-acetylcysteine (NAC) works by replenishing hepatic glutathione stores and acting as a glutathione substitute to safely conjugate and detoxify NAPQI."
   },
   {
     "id": "kpsc_ph_331",
-    "question": "Madrell's salt is used as",
+    "question": "Madrell's salt is used as a/an:",
     "options": {
       "A": "Astringent",
       "B": "Dentifrice",
@@ -369,23 +369,23 @@ window.quizPart7 = [
       "D": "Emetic"
     },
     "answer": "B",
-    "explanation": "• Dentifrices serve multiple functions in oral hygiene through the inclusion of a variety of agents. They act as plaque and stain removing agents through the use of abrasives and surfactants."
+    "explanation": "Madrell's salt is an insoluble sodium metaphosphate compound that serves as an effective abrasive agent in dentifrice formulations to remove plaque and clean teeth surfaces."
   },
   {
     "id": "kpsc_ph_332",
-    "question": "A respiratory stimulant",
+    "question": "A respiratory stimulant compound is:",
     "options": {
-      "A": "Ammonium Chloride (b) Ammonium Nitrate",
-      "B": "",
+      "A": "Ammonium Chloride",
+      "B": "Ammonium Nitrate",
       "C": "Ammonium Carbonate",
       "D": "Ammonium Sulphate"
     },
     "answer": "C",
-    "explanation": "carbonate. A respiratory stimulants are medications used to stimulate respiration post anesthesia or to treat respiratory conditions such as chronic obstractive pulmonary disease, respiratory depression & neonatal apnea. • Ammonium carbonate is an expectorant indicated to treat a cough and phlegm."
+    "explanation": "Ammonium carbonate acts as a reflex respiratory stimulant. When inhaled, its liberated ammonia fumes irritate the sensory endings of the upper respiratory tract, reflexively triggering a deep breath."
   },
   {
     "id": "kpsc_ph_333",
-    "question": "Haloperidol is classified as a",
+    "question": "Haloperidol is classified as a:",
     "options": {
       "A": "Benzodiazepine",
       "B": "Phenothiazine",
@@ -393,11 +393,11 @@ window.quizPart7 = [
       "D": "Dibutylpiperidine"
     },
     "answer": "C",
-    "explanation": "• Haloperidol is another butyrophenone with antiemetic properties but without the FDA restrictions. • Butyrophenone used as postoperative nausea and vomiting."
+    "explanation": "Haloperidol is a high-potency typical antipsychotic medication belonging to the butyrophenone chemical class, widely used to manage schizophrenia and acute psychosis."
   },
   {
     "id": "kpsc_ph_334",
-    "question": "Which of the following metal has no therapeutic use?",
+    "question": "Which of the following metals has no therapeutic use?",
     "options": {
       "A": "Lead",
       "B": "Lithium",
@@ -405,23 +405,23 @@ window.quizPart7 = [
       "D": "Platinum"
     },
     "answer": "A",
-    "explanation": "• Lead also causes long-term harm in adults, including increased risk of high blood pressure and kidney damage."
+    "explanation": "Lithium (for bipolar disorder), Iron (for anemia), and Platinum (in cisplatin chemotherapy) all have defined therapeutic uses. Lead is a systemic cumulative poison with zero therapeutic application."
   },
   {
     "id": "kpsc_ph_335",
-    "question": "Wafer capsule is known as",
+    "question": "A wafer capsule is also known as a:",
     "options": {
-      "A": "Cachets",
-      "B": "Pills",
+      "A": "Cachet",
+      "B": "Pill",
       "C": "Jelly",
       "D": "Poultice"
     },
     "answer": "A",
-    "explanation": "• Cachets are oral preparation consisting of dry powder enclosed in a shell of rice paper (wafer capsule) formerly used by pharmacists for presenting unpalatable drugs. • Jellies can be defined as semisolid. Preparations that are transparent, translucent or nongreasy, intended for internal or external application."
+    "explanation": "Cachets, historically termed wafer capsules, are solid dosage structures made of rice paper designed to enclose unpalatable or bitter medicinal powders."
   },
   {
     "id": "kpsc_ph_336",
-    "question": "Chemical name of plaster of paris:",
+    "question": "The chemical name of Plaster of Paris is:",
     "options": {
       "A": "Magnesium sulphate",
       "B": "Calcium carbonate",
@@ -429,11 +429,11 @@ window.quizPart7 = [
       "D": "Calcium sulphate"
     },
     "answer": "D",
-    "explanation": "sulphate. Calcium sulphate is the inorganic compound with the formula CaSO4 and related hydrates. In the form of y - anhydrite it is used as a desiccant. One particular hydrate is better known as plaster of Peris and another occurs naturally as the mineral gypsum. It has many use in industry."
+    "explanation": "Plaster of Paris is chemically calcium sulphate hemihydrate ($\\text{CaSO}_4 \\cdot \\frac{1}{2}\\text{H}_2\\text{O}$), which forms a rigid crystalline matrix when mixed with water."
   },
   {
     "id": "kpsc_ph_337",
-    "question": "An example of rapidly acting anticoagulant:",
+    "question": "An example of a rapidly acting anticoagulant is:",
     "options": {
       "A": "Warfarin",
       "B": "Phenindione",
@@ -441,11 +441,11 @@ window.quizPart7 = [
       "D": "Heparin"
     },
     "answer": "D",
-    "explanation": "decreases the clotting ability of the blood and help prevent harm full clots forming in blood vessels. This medicine is sometimes called a blood thinner, although it does not actually thin the blood."
+    "explanation": "Heparin is a rapidly acting parenteral anticoagulant that works immediately upon intravenous injection by accelerating antithrombin III activity to neutralize thrombin and clotting factor Xa."
   },
   {
     "id": "kpsc_ph_338",
-    "question": "Abrasive agent used in dentifrices :",
+    "question": "An abrasive agent commonly used in dentifrices is:",
     "options": {
       "A": "Sodium fluoride",
       "B": "Selenium sulphide",
@@ -453,19 +453,19 @@ window.quizPart7 = [
       "D": "Calcium carbonate"
     },
     "answer": "D",
-    "explanation": "and calcium carbonate. A high quality dentifrice contains silica but its use increases the cost and hence low quality calcium carbonate, iron oxide etc, bring down the cost."
+    "explanation": "Calcium carbonate is widely used as an inexpensive abrasive agent in toothpastes and tooth powders to polish teeth surfaces and mechanically detach dental plaque."
   },
   {
     "id": "kpsc_ph_339",
-    "question": "Gynaecomastia may be the possible side effects of one of the following drug:",
+    "question": "Gynaecomastia may be a side effect of which of the following drugs?",
     "options": {
       "A": "Ketoconazole",
       "B": "Bromocriptine",
       "C": "Clotrimazole",
-      "D": "Sulphionamide"
+      "D": "Sulphonamide"
     },
     "answer": "A",
-    "explanation": "cause an imbalance of estrogenic and androgenic effects on the breasts, resulting in an increased or unopposed estrogen action on breast tissue. Approximately 4 to 10% cases of gynaecomastia are due to side effect of drug."
+    "explanation": "Ketoconazole inhibits steroid synthesis pathways, blocking androgen production while increasing androgen clearance. This mechanism disrupts the androgen-to-estrogen balance, which can lead to gynecomastia in male patients."
   },
   {
     "id": "kpsc_ph_340",
@@ -477,35 +477,35 @@ window.quizPart7 = [
       "D": "Sulfur dioxide"
     },
     "answer": "C",
-    "explanation": "tested on several oil and fat varying in FA composition and tocopheral content. Standard lecithin's, when added at a level of 1% w/w exhibited a good protective effect against oxidation."
+    "explanation": "Lecithin is a lipophilic, oil-soluble compound that functions effectively as an antioxidant and synergist to preserve fat and oil systems from rancidity."
   },
   {
     "id": "kpsc_ph_341",
-    "question": "An example of pM indicator:",
+    "question": "An example of a pM indicator is:",
     "options": {
       "A": "Methyl orange",
       "B": "Phenolphthalein",
-      "C": "Phenyl red",
+      "C": "Phenol red",
       "D": "Murexide"
     },
     "answer": "D",
-    "explanation": "complexometric indicator. These indicators are organic molecules that are soluble in water . Murexide is a example of pM indication."
+    "explanation": "A pM indicator (or metallochromic indicator) changes color in response to changes in free metal ion concentration. Murexide (ammonium purpurate) is a classic pM indicator used in complexometric titrations for calcium and copper."
   },
   {
     "id": "kpsc_ph_342",
-    "question": "Solvents have both protogenic & protophilic properties:",
+    "question": "Solvents that have both protogenic and protophilic properties are called:",
     "options": {
-      "A": "Levelling solvent",
-      "B": "Amphiprotic solvent",
-      "C": "Differenciating solvent",
-      "D": "Aprotic solvent"
+      "A": "Levelling solvents",
+      "B": "Amphiprotic solvents",
+      "C": "Differentiating solvents",
+      "D": "Aprotic solvents"
     },
     "answer": "B",
-    "explanation": "and protophilic properties water, amino acid, proteins and many metal oxide and hydroxides are common examples of amphiprotic solvents ."
+    "explanation": "Amphiprotic solvents display both protogenic (proton-donating) and protophilic (proton-accepting) characteristics. Water, alcohols, and acetic acid are primary examples of amphiprotic media."
   },
   {
     "id": "kpsc_ph_343",
-    "question": "Agent used as a contrast medium in the X-ray examination of gall bladder:",
+    "question": "An agent used as a contrast medium in the X-ray examination of the gall bladder is:",
     "options": {
       "A": "Cinnamic acid",
       "B": "Iothalamic acid",
@@ -513,11 +513,11 @@ window.quizPart7 = [
       "D": "Mandelic acid"
     },
     "answer": "C",
-    "explanation": "the X - ray examination of gall bladder."
+    "explanation": "Iopanoic acid is an iodine-containing radiopaque contrast medium historically utilized in oral cholecystography for the diagnostic visualization and X-ray evaluation of the gallbladder."
   },
   {
     "id": "kpsc_ph_344",
-    "question": "Presence or absence of functional group can be identified by the spectra:",
+    "question": "The presence or absence of a functional group can be identified by which spectra?",
     "options": {
       "A": "Mass",
       "B": "NMR",
@@ -525,11 +525,11 @@ window.quizPart7 = [
       "D": "Infrared"
     },
     "answer": "D",
-    "explanation": "information about the presence or absence of specific functional groups. Infrared can provide a molecular fingerprint that can be used when comparing sample."
+    "explanation": "Infrared (IR) spectroscopy identifies functional groups based on the unique absorption bands generated by the vibrational frequencies of chemical bonds at specific wavelengths."
   },
   {
     "id": "kpsc_ph_345",
-    "question": "Number of milligrams of potassium hydroxide required to neutralize free acids & saponify esters in 1 gram of fat is:",
+    "question": "The number of milligrams of potassium hydroxide required to neutralize free acids and saponify esters in 1 gram of fat is the:",
     "options": {
       "A": "Iodine value",
       "B": "Water number",
@@ -537,11 +537,11 @@ window.quizPart7 = [
       "D": "Saponification value"
     },
     "answer": "D",
-    "explanation": "number of milligram of potassium hydroxide needed to neutralize the fatty acids obtained by complete hydrolysis of 1 gram of an oil sample\"."
+    "explanation": "Saponification value measures both the free fatty acids and the combined fatty acids present as esters in one gram of fat or oil, calculated as the total milligrams of KOH consumed during complete saponification."
   },
   {
     "id": "kpsc_ph_346",
-    "question": "pKa of sulphacetamide:",
+    "question": "The pKa of sulphacetamide is approximately:",
     "options": {
       "A": "8.2",
       "B": "4.8",
@@ -549,54 +549,54 @@ window.quizPart7 = [
       "D": "7.8"
     },
     "answer": "C",
-    "explanation": "Sulphacetamide is an anti - infective agent that is used topically to treat skin infection and orally for urinary tract infections."
+    "explanation": "Sulphacetamide has a $pK_a$ value of roughly 5.4. This lower, more acidic $pK_a$ compared to other sulfonamides makes its sodium salt highly soluble and non-irritating at physiological pH, rendering it ideal for ophthalmic configurations."
   },
   {
     "id": "kpsc_ph_347",
-    "question": "Drugs acting directly on the skeletal muscle: ================================================================================ PAGE : 301 ================================================================================ Pharmaceutical Chemistry 301 YCT",
+    "question": "Which of the following muscle relaxants acts directly on the skeletal muscle?",
     "options": {
-      "A": "Succinyl choline",
+      "A": "Succinylcholine",
       "B": "Tubocurarine",
       "C": "Gallamine",
       "D": "Dantrolene"
     },
     "answer": "D",
-    "explanation": "relaxant blocking calcium release from intracellular storage in the sarcoplamic reticulum. Muscle contraction is decreased without an effect on the action potential pattern of the neuromuscular junction."
+    "explanation": "Dantrolene is a direct-acting skeletal muscle relaxant. It works intracellularly by targeting the ryanodine receptor (RyR1) to block calcium ion release from the sarcoplasmic reticulum, uncoupling muscle excitation from contraction."
   },
   {
     "id": "kpsc_ph_348",
-    "question": "Agent used to measure active tubular secretion is :",
+    "question": "An agent used clinically to measure active tubular secretion is:",
     "options": {
       "A": "Creatinine",
-      "B": "Para amino hippuric acid",
+      "B": "Para-aminohippuric acid",
       "C": "Inulin",
       "D": "Mannitol"
     },
     "answer": "B",
-    "explanation": "secretion is para amino hippuric acid. ⇒ Para - aminohippuric acid is a substance that is freely filtered by the glomeruli in the kidneys and secreted by the tubular cells into the tubular fluid. ⇒ Para - aminohippuric acid used a diagnostic agent in the measurement of renal plasma flow."
+    "explanation": "Para-aminohippuric acid (PAH) is filtered at the glomerulus and actively secreted by the proximal tubules. Because it is almost entirely cleared from renal plasma in a single pass, it is used to determine renal plasma flow and assess active tubular secretion."
   },
   {
     "id": "kpsc_ph_349",
-    "question": "The antidote for opioid poisoning:",
+    "question": "The antidote for opioid poisoning is:",
     "options": {
-      "A": "Bal",
+      "A": "BAL",
       "B": "Naloxone",
       "C": "Atropine",
       "D": "Physostigmine"
     },
     "answer": "B",
-    "explanation": "Food and Drug administration designed to rapidly reverse and opioid overdose. It is an opioid antagonist - meaning that it binds to opioid receptors and can reverse and blocks the effects of other pioids, such as heroin, morphine and oxycodone."
+    "explanation": "Naloxone is a competitive opioid receptor antagonist that rapidly displaces opioids from their receptors, reversing life-threatening central nervous system and respiratory depression induced by opioid poisoning."
   },
   {
     "id": "kpsc_ph_350",
-    "question": "Mixture exhibit negative deviation from Rault's law:",
+    "question": "Which mixture exhibits a negative deviation from Raoult's law?",
     "options": {
-      "A": "Carbon tetra chloride & cyclohexane",
+      "A": "Carbon tetrachloride & cyclohexane",
       "B": "Ethanol & water",
       "C": "Benzene & ethanol",
       "D": "Chloroform & acetone"
     },
     "answer": "D",
-    "explanation": "exhibited by a mixture of chloroform (CHCl3) and acetone (CH3)2CO because of the formation of hydrogen bonding between the two molecular species."
+    "explanation": "A mixture of chloroform and acetone shows a negative deviation from Raoult's law. Hydrogen bonding forms between the hydrogen atom of chloroform and the carbonyl oxygen of acetone, creating stronger intermolecular attractions than the pure components have on their own."
   }
 ];
