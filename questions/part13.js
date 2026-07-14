@@ -1,7 +1,7 @@
 window.quizPart13 = [
   {
     "id": "kpsc_ph_601",
-    "question": "The enzyme which is known as spreading factor?",
+    "question": "The enzyme which is known as the spreading factor is:",
     "options": {
       "A": "Collagenase",
       "B": "Hyaluronidase",
@@ -9,11 +9,11 @@ window.quizPart13 = [
       "D": "Haemolysins"
     },
     "answer": "B",
-    "explanation": "useful in facilitating the management of injectable medication. This is also called the spreading factor because it catalyzes the breakdown of hyaluronic acid, the substance that cements the human cells together. This allows the bacterial cells to spread through tissue causing a condition known as cellulites."
+    "explanation": "Hyaluronidase is known as the spreading factor because it catalyzes the breakdown of hyaluronic acid, the ground substance that cements human cells together. This allows pathogens or injected medications to spread easily through tissues."
   },
   {
     "id": "kpsc_ph_602",
-    "question": "The mechanism of absorprtion of sabin poliovacine:",
+    "question": "The mechanism of absorption of the Sabin polio vaccine is:",
     "options": {
       "A": "Active transport",
       "B": "Passive diffusion",
@@ -21,59 +21,59 @@ window.quizPart13 = [
       "D": "Ion pair transport"
     },
     "answer": "C",
-    "explanation": "subtraction in which substances are brought into the cell. The material to be internalized is surrounded by an area of cell membrane, which then buds of inside the cell to form a vesicle constaining the ingested material. Endocytosis includes pinocytosis and phagocytsis."
+    "explanation": "Sabin vaccine particles are absorbed via endocytosis, a cellular process where substances are brought into the cell by being surrounded and engulfed by an area of the cell membrane, which buds off internally to form a vesicle."
   },
   {
     "id": "kpsc_ph_603",
-    "question": "Chemically Paraldehyde is orthophosphate",
+    "question": "Chemically, Paraldehyde is:",
     "options": {
-      "A": "Sodium –2, 2, 2 -trichloroethyl hydrogen",
-      "B": "-2, 4, 6 Trimethyl -1, 3, 5 trioxane",
-      "C": "-3,3-Diethy-5-methyl pipridine-2, 4,-dione",
-      "D": "-3-Ethyl-3 phenyl piperidine -2,4-dione"
+      "A": "Sodium 2,2,2-trichloroethyl hydrogen orthophosphate",
+      "B": "2,4,6-Trimethyl-1,3,5-trioxane",
+      "C": "3,3-Diethyl-5-methylpiperidine-2,4-dione",
+      "D": "3-Ethyl-3-phenylpiperidine-2,4-dione"
     },
     "answer": "B",
-    "explanation": "Trioxane substituted by methyl group at positions 2,4 and 6."
+    "explanation": "Paraldehyde is a cyclic trimer of acetaldehyde molecules, chemically designated as 2,4,6-trimethyl-1,3,5-trioxane."
   },
   {
     "id": "kpsc_ph_604",
-    "question": "Clofibrate is used as a",
+    "question": "Clofibrate is clinically used as a:",
     "options": {
-      "A": "Lipid lowering agent",
+      "A": "Lipid-lowering agent",
       "B": "Antiarrhythmic drug",
-      "C": "Antiinflammtory drug",
+      "C": "Anti-inflammatory drug",
       "D": "Antianginal drug"
     },
     "answer": "A",
-    "explanation": "→ The lipid lowering activities of clofibrate is probably mediated by its interactions with the peroxisome proliferator activated receptor alpha. ================================================================================ PAGE : 572 ================================================================================ Biochemistry and Clinical Pathology 572 YCT"
+    "explanation": "Clofibrate is a fibric acid derivative used as a lipid-lowering agent. Its mechanism is primarily mediated by activating the peroxisome proliferator-activated receptor alpha (PPAR-alpha)."
   },
   {
     "id": "kpsc_ph_605",
-    "question": "Biotin acts as a coenzyme in which type of reactions",
+    "question": "Biotin acts as a coenzyme in which type of biochemical reactions?",
     "options": {
       "A": "Carboxylation",
-      "B": "Acetlation",
+      "B": "Acetylation",
       "C": "Dehydrogenation",
       "D": "Transamination"
     },
     "answer": "A",
-    "explanation": "cofactor of enzymes involved in carboxylation reaction. • Biotin is a coenzymes for carboxylase enzymes."
+    "explanation": "Biotin (Vitamin B7) serves as an essential cofactor/coenzyme for carboxylase enzymes involved in carboxylation reactions (e.g., pyruvate carboxylase)."
   },
   {
     "id": "kpsc_ph_606",
-    "question": "Diphenhydramine is a derivative of",
+    "question": "Diphenhydramine is structurally a derivative of:",
     "options": {
       "A": "Ethylene diamine",
-      "B": "Phenothiazimes",
+      "B": "Phenothiazines",
       "C": "Aminoalkyl ethers",
       "D": "Alkyl amines"
     },
     "answer": "C",
-    "explanation": "alkyl ethers. • Diphenhydramie is synthesized by a simple reaction of benzhydryl-bromide and 2- dimethylamino ethano."
+    "explanation": "Diphenhydramine is a first-generation H1-antihistamine belonging to the aminoalkyl ether (ethanolamine) structural class."
   },
   {
     "id": "kpsc_ph_607",
-    "question": "Heterocyclic ring present in Indomethacin",
+    "question": "Which heterocyclic ring system is present in Indomethacin?",
     "options": {
       "A": "Imidazole",
       "B": "Indole",
@@ -81,11 +81,11 @@ window.quizPart13 = [
       "D": "Quinoline"
     },
     "answer": "B",
-    "explanation": "• Indole, also called Benzopyrrole, a heterocyclic organic compound occurring in some flower oils, such as jasmine and orange blossom, etc."
+    "explanation": "Indomethacin is a non-steroidal anti-inflammatory drug (NSAID) that chemically contains an indole core ring system (specifically, it is an indole-3-acetic acid derivative)."
   },
   {
     "id": "kpsc_ph_608",
-    "question": "Which among the following vitamin have a Nphthaquinone ring",
+    "question": "Which of the following vitamins contains a Naphthoquinone ring structure?",
     "options": {
       "A": "Vitamin E",
       "B": "Vitamin K",
@@ -93,47 +93,47 @@ window.quizPart13 = [
       "D": "Vitamin B12"
     },
     "answer": "B",
-    "explanation": "They have antibacterial and antitumour effects. → Nphthaquinone are not widespreads but are found in Bignoniaceae."
+    "explanation": "Vitamin K compounds (like phylloquinone and menaquinone) are structurally built around a methylated naphthoquinone ring core."
   },
   {
     "id": "kpsc_ph_609",
-    "question": "Alcohol present in the sphingolipid",
+    "question": "Which amino alcohol forms the structural backbone of sphingolipids?",
     "options": {
       "A": "Sphingosine",
       "B": "Sphinganine",
-      "C": "Sphingomyleine",
+      "C": "Sphingomyelin",
       "D": "Ceramide"
     },
     "answer": "A",
-    "explanation": "containing the organic aliphatic amino alcohal sphingosine. → Sphingosine is formed by an amino alcohal head group."
+    "explanation": "Sphingosine is the primary 18-carbon amino alcohol base that serves as the backbone backbone for complex sphingolipids."
   },
   {
     "id": "kpsc_ph_610",
-    "question": "Synthetic analogue of Vitamin K",
+    "question": "Which of the following is a synthetic analogue of Vitamin K?",
     "options": {
       "A": "Menadione",
-      "B": "Coumarins",
-      "C": "Warfain sodium",
+      "B": "Coumarin",
+      "C": "Warfarin sodium",
       "D": "Heparin"
     },
     "answer": "A",
-    "explanation": "Menadione. Menadione, vitamin K3, is a synthetic compound that belongs to the class of lilpid-soluble vitamins ."
+    "explanation": "Menadione (Vitamin K3) is a synthetic, fat-soluble analog of vitamin K that can act as a nutritional supplement precursor."
   },
   {
     "id": "kpsc_ph_611",
-    "question": "An agent used for gaseous sterilization",
+    "question": "Which of the following agents is widely used for gaseous sterilization?",
     "options": {
-      "A": "Hydrogen sulphide (b) Nitrous oxide",
-      "B": "",
+      "A": "Hydrogen sulphide",
+      "B": "Nitrous oxide",
       "C": "Methane",
       "D": "Ethylene oxide"
     },
     "answer": "D",
-    "explanation": "Ethylene oxide :- Ethylene oxide \"Gas\" sterilization - It is a colorless gas that is flammable and explosive."
+    "explanation": "Ethylene oxide (EtO) is a highly effective, colorless, flammable gas widely used to sterilize heat-and-moisture-sensitive medical devices."
   },
   {
     "id": "kpsc_ph_612",
-    "question": "Antidote used for the treatment of organo phosphorous poisoning",
+    "question": "Which antidote is specifically used to reactivate acetylcholinesterase in organophosphorus poisoning?",
     "options": {
       "A": "Physostigmine",
       "B": "Pyridostigmine",
@@ -141,11 +141,11 @@ window.quizPart13 = [
       "D": "Pilocarpine"
     },
     "answer": "C",
-    "explanation": "nerve agent poisoning. → If given within 24 hours after organophosphate exposure, pralidoxime reactives the phosphate - ester bond formed between the organophosphate and acetylcholinesterase."
+    "explanation": "Pralidoxime (2-PAM) is a cholinesterase reactivator used as an antidote in organophosphate poisoning to break the enzyme-inhibitor bond, provided it is administered before aging occurs."
   },
   {
     "id": "kpsc_ph_613",
-    "question": "Vitamin present in Coenzyme A",
+    "question": "Which vitamin is an essential structural component of Coenzyme A (CoA)?",
     "options": {
       "A": "Riboflavin",
       "B": "Pyridoxine",
@@ -153,23 +153,23 @@ window.quizPart13 = [
       "D": "Pantothenic acid"
     },
     "answer": "D",
-    "explanation": "component of coenzyme A. coenzyme A is naturally synthesised from pantothenate (Vitamin B5) which is found in food such as meat, vegetables, cereal grains etc. Riboflavin:- Vitamin B2, is known as riboflavin, is naturally present in foods, added to foods, and available as a supplement."
+    "explanation": "Pantothenic acid (Vitamin B5) is the biochemical precursor required to synthesize Coenzyme A, which is essential for acyl group transfer in metabolism."
   },
   {
     "id": "kpsc_ph_614",
-    "question": "Non sugar parts of the glycosides are called",
+    "question": "The non-sugar component resulting from the hydrolysis of a glycoside is called the:",
     "options": {
       "A": "Aglycone",
-      "B": "Glycon",
-      "C": "Glkycol",
-      "D": "Glycol"
+      "B": "Glycone",
+      "C": "Glycol",
+      "D": "Glycerol"
     },
     "answer": "A",
-    "explanation": "aglycone. Glycon:- The sugar parts of the glycosides are called Glycosides."
+    "explanation": "Glycosides are split into two portions: the sugar part is known as the glycone, and the non-sugar organic framework is called the aglycone (or genin)."
   },
   {
     "id": "kpsc_ph_615",
-    "question": "Proton pump inhibitor used in the treatment of peptic ulcer",
+    "question": "Which of the following is a proton pump inhibitor (PPI) used to treat peptic ulcers?",
     "options": {
       "A": "Rabeprazole",
       "B": "Ranitidine",
@@ -177,11 +177,11 @@ window.quizPart13 = [
       "D": "Sucralfate"
     },
     "answer": "A",
-    "explanation": "the lining of the stomach or intestine) and is used in combination with other medications to eliminate H, pylori (a bacteria that causes ulcers) in adults, Rabeprazole is in a class of medications called proton pump inhibitors."
+    "explanation": "Rabeprazole belongs to the proton pump inhibitor (PPI) class, which suppresses gastric acid secretion by blocking the H+/K+-ATPase enzyme system."
   },
   {
     "id": "kpsc_ph_616",
-    "question": "An example for a drug that induces cytochrome P450:",
+    "question": "Which of the following drugs acts as a potent inducer of hepatic cytochrome P450 enzymes?",
     "options": {
       "A": "Phenytoin",
       "B": "Omeprazole",
@@ -189,59 +189,59 @@ window.quizPart13 = [
       "D": "Chloramphenicol"
     },
     "answer": "A",
-    "explanation": "because, like Phenobarbital, it is an AED commonly used to treat neonatal seizures and a patent inducer of drug metabolizing P45os ================================================================================ PAGE : 573 ================================================================================ Biochemistry and Clinical Pathology 573 YCT"
+    "explanation": "Phenytoin is a classic, potent inducer of the hepatic cytochrome P450 enzyme system, accelerating the clearance of co-administered drugs."
   },
   {
     "id": "kpsc_ph_617",
-    "question": "Physostigmine is an example for",
+    "question": "Physostigmine is pharmacologically classified as a/an:",
     "options": {
-      "A": "Adrenergic durg",
+      "A": "Adrenergic drug",
       "B": "Anticholinergic drug",
       "C": "Adrenergic blocking drug",
-      "D": ""
+      "D": "Anticholinesterase / Parasympathomimetic"
     },
-    "answer": "A",
-    "explanation": ":Physostigmine (Antililrum) is an anticholinesterase administered in the management of emergence delirium occurring following the administration of scopolamine or the benzodiazepines ."
+    "answer": "D",
+    "explanation": "Physostigmine is a reversible acetylcholinesterase inhibitor (anticholinesterase), meaning it increases acetylcholine levels, making it a parasympathomimetic."
   },
   {
     "id": "kpsc_ph_618",
-    "question": "Which one of the following is referred to as Good Cholesterol:",
+    "question": "Which lipoprotein profile is commonly referred to as 'Good Cholesterol'?",
     "options": {
       "A": "Triglycerides",
-      "B": "High density Lipoproteins",
-      "C": "Low density Lipoproteins",
+      "B": "High-Density Lipoproteins (HDL)",
+      "C": "Low-Density Lipoproteins (LDL)",
       "D": "Chylomicrons"
     },
     "answer": "B",
-    "explanation": "sometimes called \"good\" cholesterol, absorbs cholesterol in the blood and carries it back to the liver, the liver then flushes it from the body, high levels of HDL cholesterol can lower risk for heart disease and stroke."
+    "explanation": "High-Density Lipoprotein (HDL) is called 'good cholesterol' because it carries cholesterol away from peripheral tissues back to the liver for excretion."
   },
   {
     "id": "kpsc_ph_619",
-    "question": "Sucrose is a",
+    "question": "Sucrose is structurally classified as a:",
     "options": {
-      "A": "Hexose",
-      "B": "Monosaccharides",
-      "C": "Disaccharides",
-      "D": "Polysaccharides"
+      "A": "Hexose monose",
+      "B": "Monosaccharide",
+      "C": "Disaccharide",
+      "D": "Polysaccharide"
     },
     "answer": "C",
-    "explanation": "hydrolysis in to the two monosaccharide's (hexosis) glucose and fructose it has the molecular formula C12H22O. → The most common hexoses are glucose, galactose mannose, and fructose the first three whereas aldoses where as fructose is ketose."
+    "explanation": "Sucrose is a disaccharide carbohydrate ($C_{12}H_{22}O_{11}$) composed of one glucose unit and one fructose unit linked together."
   },
   {
     "id": "kpsc_ph_620",
-    "question": "Pyridoxine is",
+    "question": "Pyridoxine is the chemical name for:",
     "options": {
-      "A": "Vitamin B 1",
-      "B": "Vitamin B 2",
-      "C": "Vitamin B 6",
+      "A": "Vitamin B1",
+      "B": "Vitamin B2",
+      "C": "Vitamin B6",
       "D": "Folic acid"
     },
     "answer": "C",
-    "explanation": "vitamin found naturally in many foods., as well as added to food and supplements, pyridoxals phosphate (PLP) is the active coenzyme form and most common measure of B6 blood levels in the body. ∗ Vitamin B1, also called thiamine or thiamin All B vitamins help the body convert food (carbohydrates) into fuel º(glucose) with the body uses to produce energy."
+    "explanation": "Pyridoxine, along with pyridoxal and pyridoxamine, collectively comprise Vitamin B6, which is crucial for amino acid metabolism."
   },
   {
     "id": "kpsc_ph_621",
-    "question": "Antixerophthalmic vitamin is",
+    "question": "Which vitamin is characterized as the anti-xerophthalmic factor?",
     "options": {
       "A": "Vitamin E",
       "B": "Vitamin D",
@@ -249,11 +249,11 @@ window.quizPart13 = [
       "D": "Vitamin A"
     },
     "answer": "D",
-    "explanation": "vitamin. It is essential for synthesis of retinal pigments normal vision, it is also essential for maintenance of epithelia and prevention of keratinization ∗ vitamin E is a nutrient that’s important to vision, reproduction, and the health of your blood brain and skin, vitamin also has antioxidant properties."
+    "explanation": "Vitamin A is known as the anti-xerophthalmic vitamin because its deficiency leads to dry eyes (xerophthalmia) and night blindness."
   },
   {
     "id": "kpsc_ph_622",
-    "question": "Which Vitamin involved in the biosynthesis of blood clotting factors?",
+    "question": "Which vitamin plays a vital role in the hepatic biosynthesis of blood clotting factors II, VII, IX, and X?",
     "options": {
       "A": "Vitamin A",
       "B": "Vitamin B12",
@@ -261,11 +261,11 @@ window.quizPart13 = [
       "D": "Vitamin E"
     },
     "answer": "C",
-    "explanation": "blood clotting factors. Vitamin K helps to make various proteins that are needed for blood clotting and building of bones, prothrombin is a vitamin K- dependent protein directly involved with blood clotting."
+    "explanation": "Vitamin K serves as an essential cofactor for the gamma-glutamyl carboxylase enzyme required to synthesize functional clotting factors II, VII, IX, and X."
   },
   {
     "id": "kpsc_ph_623",
-    "question": "Sale of opium to state Govt. on manufacturing chemists can be made only form Govt. Opium factory located at",
+    "question": "Under Indian regulations, the sale of opium to State Governments or manufacturing chemists can only be made from the Government Opium Factory located at:",
     "options": {
       "A": "Lucknow",
       "B": "New Delhi",
@@ -273,11 +273,11 @@ window.quizPart13 = [
       "D": "Ghazipur"
     },
     "answer": "D",
-    "explanation": "or, as the case may be manufacturing Chemists shall be only from the Government opium factory, Ghazipur. → The sale of opium from the Government opium factory at Ghazipur to manufacturing chemists shall be only under a permit granted by or under the orders of the state Government within whose jurisdiction the chemist resides or has his place of business in the form prescribed by that Government"
+    "explanation": "Official distribution of opium to authorized state entities and manufacturing units is legally coordinated through the Government Opium and Alkaloid Works factory in Ghazipur, Uttar Pradesh."
   },
   {
     "id": "kpsc_ph_624",
-    "question": "The gripping action of Laxatives reduced by",
+    "question": "The abdominal griping action caused by anthraquinone laxatives can be reduced by co-administering:",
     "options": {
       "A": "Diuretics",
       "B": "Carbohydrates",
@@ -285,11 +285,11 @@ window.quizPart13 = [
       "D": "Antiseptics"
     },
     "answer": "C",
-    "explanation": "carminatives. Carminatives :- These are soothing medicaments, that act by relieving pain in the stomach and, intestine and expel flatulence and gas, from the GIT by increasing peristalsis. Eg:- Fennel, Coriander . Cardamom. Ajowan, Asafoetida , Nutmeg, Clove etc."
+    "explanation": "Carminatives (such as fennel or cardamom oils) smooth intestinal spasms, relieve flatulence, and help eliminate the painful 'griping' side-effect caused by irritant purgatives."
   },
   {
     "id": "kpsc_ph_625",
-    "question": "Hog weed is the synonym of",
+    "question": "'Hog weed' is a common vernacular synonym for which traditional crude drug?",
     "options": {
       "A": "Nutmeg",
       "B": "Shatavari",
@@ -297,23 +297,23 @@ window.quizPart13 = [
       "D": "Punarnava"
     },
     "answer": "D",
-    "explanation": "Punarnava, a potent ayurvedic has immense health benefits and has been in use since ancient times in treating a host of health anomalies. Commonly known as Hogweed. Botanical name of Punarnava is Boerhavia diffusa. Hogweed is also use in the treatment of liver problem & jaundice."
+    "explanation": "Punarnava (Boerhavia diffusa) belongs to the Nyctaginaceae family and is commonly known as Hogweed in English. It is heavily utilized for its diuretic and hepatoprotective actions."
   },
   {
     "id": "kpsc_ph_626",
-    "question": "Ephedrine is",
+    "question": "Pharmacologically, Ephedrine acts as a/an:",
     "options": {
-      "A": "Adrenergic",
-      "B": "Cholinergic",
-      "C": "Anti adrenergic",
-      "D": "Anti cholinergics"
+      "A": "Adrenergic agonist",
+      "B": "Cholinergic agonist",
+      "C": "Anti-adrenergic drug",
+      "D": "Anticholinergic drug"
     },
     "answer": "A",
-    "explanation": "agonist indicted to treat hypotension under anesthesia, allergic conditions, bronchial asthma and nasal congestion. It is a naturally occurring component of the ephedra plant, along with the pseudo ephedrine. ================================================================================ PAGE : 591 ================================================================================ Pharmacognosy 591 YCT"
+    "explanation": "Ephedrine is a sympathomimetic alkaloid obtained from Ephedra species that directly and indirectly stimulates both alpha and beta-adrenergic receptors."
   },
   {
     "id": "kpsc_ph_627",
-    "question": "Family of Ipecac",
+    "question": "Ipecacuanha (Ipecac) belongs to which botanical family?",
     "options": {
       "A": "Apocynaceae",
       "B": "Rubiaceae",
@@ -321,11 +321,11 @@ window.quizPart13 = [
       "D": "Acanthaceae"
     },
     "answer": "B",
-    "explanation": "roots of the tropical new world plant Carapichea ipecacuanha of the madder family (Rubiaceae). It has been used since ancient times especially as a source of a drug to treat poinsoning by inducing nausea and vomiting."
+    "explanation": "Ipecac consists of the dried roots or rhizomes of Carapichea ipecacuanha, which belongs to the Rubiaceae (Madder) family."
   },
   {
     "id": "kpsc_ph_628",
-    "question": "Oxytocic effect of Ergot is due to",
+    "question": "The potent oxytocic (uterine contraction-inducing) effect of Ergot is primarily due to which alkaloid?",
     "options": {
       "A": "Ergometrine",
       "B": "Ergotamine",
@@ -333,23 +333,23 @@ window.quizPart13 = [
       "D": "Ergocryptine"
     },
     "answer": "A",
-    "explanation": "oxytocic effects are relatively more marked than its vascular effects. Nausea and vomiting can occur if it is given orally."
+    "explanation": "Ergometrine (also known as ergonovine) features dominant oxytocic activity with lesser vasoconstrictive properties compared to ergotamine, making it clinically useful to prevent postpartum hemorrhage."
   },
   {
     "id": "kpsc_ph_629",
-    "question": "Soil nature for Cinchona cultivation is",
+    "question": "What is the preferred soil pH nature required for successful Cinchona cultivation?",
     "options": {
       "A": "Neutral",
       "B": "Basic",
       "C": "Acidic",
-      "D": "None of the above"
+      "D": "Alkaline"
     },
     "answer": "C",
-    "explanation": "forest soil, rich in organic matter with no possibility of subsoil water- logging and with a high moisture holding capacity. It prefers acidic soil (pH 4.6 to 6.5) The calcium requirement of this crop is high"
+    "explanation": "Cinchona plants require highly organic, well-drained forest soils that are distinctly acidic, ideally tracking within a pH range of 4.6 to 6.5."
   },
   {
     "id": "kpsc_ph_630",
-    "question": "Primrose leaves is an adulterant of",
+    "question": "Primrose leaves are commonly encountered as an adulterant of:",
     "options": {
       "A": "Hyoscyamus",
       "B": "Vinca",
@@ -357,35 +357,35 @@ window.quizPart13 = [
       "D": "Digitalis"
     },
     "answer": "D",
-    "explanation": "comfrey leaves and primrose leaves. Digitalis (Digitalis purpurea) is belongs to the scrophulariacae plant family. The biological source of digitalis is its dried leaves. It is used to treat congestive heart failure, it is help in more powerful contractions of heart and increase excitability of cardiac muscles. It is also used to treat peroxymal a trial tachycardia"
+    "explanation": "Dried leaves of Primrose (Primula vulgaris) and Comfrey are typical morphological adulterants substituted into batches of genuine Digitalis purpurea leaves."
   },
   {
     "id": "kpsc_ph_631",
-    "question": "Which type diuretics cause ototoxicity when used in conjunction with aminoglycoside",
+    "question": "Which class of diuretics can cause enhanced ototoxicity when administered alongside aminoglycoside antibiotics?",
     "options": {
-      "A": "High ceiling diuretics",
-      "B": "Potassium sparing diuretics",
+      "A": "High-ceiling (Loop) diuretics",
+      "B": "Potassium-sparing diuretics",
       "C": "Thiazide diuretics",
       "D": "Carbonic anhydrase inhibitors"
     },
     "answer": "A",
-    "explanation": "used in conjunction with aminoglycoside. High ceiling diuretics which are also known as loop diuretics or organic acid diuretic are the most effective type of diuretics. Now loop diuretics act at the ascending thick limb. The ascending thick limb has the greatest capacity to reabsorb NaCl . Maximum response is called ceiling effect. As loop diuretics have highest ceiling so called high ceiling diuretics."
+    "explanation": "High-ceiling loop diuretics (like furosemide) share an additive toxic potential with aminoglycosides, increasing the risk of structural inner-ear damage (ototoxicity)."
   },
   {
     "id": "kpsc_ph_632",
-    "question": "Modified Borntragers test positive for",
+    "question": "The Modified Borntrager's test is specifically used to detect the presence of C-glycosides in:",
     "options": {
       "A": "Senna",
       "B": "Aloe",
       "C": "Vinca",
-      "D": "None of the above"
+      "D": "Digitalis"
     },
     "answer": "B",
-    "explanation": "that aloin (or barbaloin) belongs to the class of C glycoside which does not undergo hydrolysis either by heating with dilute acid or alkali, but it may be decomposed with ferric chloride due to oxidative hydrolysis. Hence the modified Borntrarger's test employing FeCl3 and HCl is used as stated below:- First of all heat together 0.1 g powdered of aloe with about 2ml of FeCl3 solution (5%-w/v) and 2ml of dilute HCl (6N) in a test tube over a bre-heated water bath for 5 minutes. Coll the contents and extract the liberated anthraquinone with CCl4. Now carefully separate the lower layer of CCl4 and add to NH3 solution. The appearance of a rose-pink to cherry red colours its presence."
+    "explanation": "Aloe contains Barbaloin, which is a C-glycoside. Unlike O-glycosides (found in Senna), C-glycosides require oxidative cleavage via Ferric Chloride ($FeCl_3$) and HCl in the Modified Borntrager's test to release free anthraquinones."
   },
   {
     "id": "kpsc_ph_633",
-    "question": "Parquetry arrangement of cells found in",
+    "question": "A characteristic 'parquetry arrangement' of endocarp epidermal cells is microscopic evidence for:",
     "options": {
       "A": "Ginger",
       "B": "Cinnamon",
@@ -393,35 +393,35 @@ window.quizPart13 = [
       "D": "Nutmeg"
     },
     "answer": "C",
-    "explanation": "Coriander. Coriandrum sativum belonging to family umbelliferae. In the coriander the vascular bundles present below the primary ridges. The inner layer has polygonal, irregularly arranged parenchyma cells. The endocarp has the parquetry arrangement. In this arrangement a group of 4 to 5 cells arranged parallely at acute angle with groups of similar cells in different direction."
+    "explanation": "In Coriander fruit (Coriandrum sativum), the inner endocarp layer shows a distinct parquetry cell arrangement where groups of elongated sclerenchymatous cells run parallel at sharp angles to adjacent cell blocks."
   },
   {
     "id": "kpsc_ph_634",
-    "question": "Cephalosporins have thizolidine ring dihydrothiazine ring group",
+    "question": "Structurally, Cephalosporins possess a nucleus consisting of a:",
     "options": {
-      "A": "Beta lactam ring fused with 5 membered",
-      "B": "Beta lactam ring fused with 6 membered",
-      "C": "Beta lactam ring fused with peptide linkages",
-      "D": "Betalactam ring linked with acetoxy methyl"
+      "A": "Beta-lactam ring fused to a 6-membered dihydrothiazine ring",
+      "B": "Beta-lactam ring fused to a 5-membered thiazolidine ring",
+      "C": "Beta-lactam ring fused to a peptide linkage group",
+      "D": "Beta-lactam ring linked to an acetoxy methyl system"
     },
     "answer": "A",
-    "explanation": "dihydrothiazine ring fused to the β- lactam portion. The substituents at C3, C4 and C7 are important factors for their biological activity. Structure of Cephalosporin ================================================================================ PAGE : 594 ================================================================================ Pharmacognosy 594 YCT coniine are typically volatile, colorless, oily liquids. Nicotine is one of the few liquid alkaloids. In its pure odourless liquid with an oily consistency but when exposed to light or air it acquires a brown color and gives off a strong odor of tobacco. Nicotine's chemical formula is C10H14N2."
+    "explanation": "Cephalosporins possess a 7-aminocephalosporanic acid (7-ACA) core, structurally defined by a beta-lactam ring fused to a 6-membered dihydrothiazine ring (whereas Penicillins feature a 5-membered thiazolidine ring)."
   },
   {
     "id": "kpsc_ph_635",
-    "question": "Good manufacturing practices for Ayurvedic, Siddha and Unani medicines is specified in",
+    "question": "Good Manufacturing Practices (GMP) requirements for Ayurvedic, Siddha, and Unani medicines are specified under which Schedule of the Drugs and Cosmetics Rules?",
     "options": {
-      "A": "Schedule-S",
-      "B": "Schedule-T",
-      "C": "Schedule-B",
-      "D": "Schedule-U"
+      "A": "Schedule S",
+      "B": "Schedule T",
+      "C": "Schedule B",
+      "D": "Schedule U"
     },
     "answer": "B",
-    "explanation": "are prescribed as follows in part I and part II to ensure that Raw materials used in the manufacture of drugs our authentic, of prescribed quality and are free from contamination. The manufacturing process is has been prescribed to maintain the standards."
+    "explanation": "Schedule T details the exact Good Manufacturing Practices (GMP) factory premises standards, sanitation, and quality management protocols required for Indian traditional medicines (ASU)."
   },
   {
     "id": "kpsc_ph_636",
-    "question": "Which of the following drug is a non- catecholamine?",
+    "question": "Which of the following sympathomimetic drugs is structurally classified as a non-catecholamine?",
     "options": {
       "A": "Terbutaline",
       "B": "Phenylephrine",
@@ -429,11 +429,11 @@ window.quizPart13 = [
       "D": "All of these"
     },
     "answer": "D",
-    "explanation": "Position 3 and 4 on the benzene ring. Lack one or both hydroxyl groups on benzene ring mainly have direct action. Few compounds may have mixed action (like do pamine) mainly have indirect of mixed actions and few may have direct action (Like Phnylephrine). Noncatecholamines can be direct acting, indirect - acting, or dul acting. Ephedrine, Amphetamine methyl - amphetamine and methyl phenidate."
+    "explanation": "Non-catecholamines lack the classic 3,4-dihydroxybenzene (catechol) ring structure. Terbutaline, Phenylephrine, and Ephedrine all fall under this broad structural classification."
   },
   {
     "id": "kpsc_ph_637",
-    "question": "A synthetic anticholinergic drug which is an ester carrying xanthene heterocycle",
+    "question": "Which synthetic anticholinergic drug features an ester structure containing a xanthene heterocycle?",
     "options": {
       "A": "Homatropine",
       "B": "Benztropine",
@@ -441,11 +441,11 @@ window.quizPart13 = [
       "D": "Biperiden"
     },
     "answer": "C",
-    "explanation": "medication that reduces the effect of acetylcholine a chemical, by released from nerves that stimulates muscles, by blocking the receptors for acetylcholine on smooth muscle it also has a direct relaxing effect on smooth muscle . → It is widely known that benztropine is potent in hibitor of presynaptic carrier - mediated, dopamine transport."
+    "explanation": "Propantheline bromide is a synthetic quaternary ammonium antimuscarinic agent that structurally contains a xanthene-9-carboxylate ester group."
   },
   {
     "id": "kpsc_ph_638",
-    "question": "Vasaka contains _________ % w/w of vasicine calculated on the dried basis",
+    "question": "According to official pharmacopoeial standards, dried Vasaka leaves must contain not less than ________ % w/w of vasicine alkaloid?",
     "options": {
       "A": "0.1",
       "B": "0.5",
@@ -453,11 +453,11 @@ window.quizPart13 = [
       "D": "0.6"
     },
     "answer": "D",
-    "explanation": "commerce as vasaka, consists of the dried leaves of Justicia adhatoda L., also known as Adhatoda vasica Nees. It contains NLT 0.6% of vasicine, calculated on the dried basis."
+    "explanation": "Vasaka (Adhatoda vasica) leaves must contain a minimum limit of 0.6% w/w of the quinazoline alkaloid 'vasicine' when calculated on an air-dried basis."
   },
   {
     "id": "kpsc_ph_639",
-    "question": "Tulsi comes under category",
+    "question": "Holy Basil (Tulsi) falls primary under which therapeutic herbal category?",
     "options": {
       "A": "Antimalarial",
       "B": "Immunomodulator",
@@ -465,11 +465,11 @@ window.quizPart13 = [
       "D": "Antitumour"
     },
     "answer": "B",
-    "explanation": "can stimulate immune responses, and these are best described greater immune system flexibility Marciano explained that immune modulation denotes any effect and herb has on immune system response veness."
+    "explanation": "Tulsi (Ocimum sanctum) acts as a powerful adaptogen and immunomodulator, enhancing the body's natural defense mechanism and cellular resistance to stress factors."
   },
   {
     "id": "kpsc_ph_640",
-    "question": "Peppermint oil is obtained by",
+    "question": "Peppermint oil is industrially extracted from fresh leaves using:",
     "options": {
       "A": "Simple distillation",
       "B": "Fractional distillation",
@@ -477,11 +477,11 @@ window.quizPart13 = [
       "D": "Destructive distillation"
     },
     "answer": "C",
-    "explanation": "plant, leaves through the steam distillation process which is a hydriod of spearmint ant water mint, people have used peppermint oil for, → simple distillation enables a liquid to be separated from a solution the solution is heated until the solution with the lowest boiling point starts to evaporate, → Fractional distillation is the separation of a mixture into its component parts, or fractions."
+    "explanation": "Peppermint volatile essential oil (Mentha piperita) is traditionally extracted via steam distillation to isolate volatile elements without degrading thermally vulnerable compounds."
   },
   {
     "id": "kpsc_ph_641",
-    "question": "Powdered ergot when treated with ________ solution develops strong odour of trimethylamine",
+    "question": "Powdered Ergot releases a sharp, highly pungent odor resembling trimethylamine when gently warmed with a solution of:",
     "options": {
       "A": "Magnesium hydroxide",
       "B": "Potassium hydroxide",
@@ -489,23 +489,23 @@ window.quizPart13 = [
       "D": "Sodium hydroxide"
     },
     "answer": "D",
-    "explanation": "hydroxide solution develops strong odour of trimethylamine. ================================================================================ PAGE : 597 ================================================================================ Pharmacognosy 597 YCT"
+    "explanation": "Treating powdered ergot with strong aqueous Sodium Hydroxide ($NaOH$) causes chemical degradation that liberates volatile trimethylamine gas, which gives off a characteristic disagreeable fishy smell."
   },
   {
     "id": "kpsc_ph_642",
-    "question": "Terminalia Arjuna is used as",
+    "question": "Terminalia arjuna bark preparations are traditionally indicated for use as a/an:",
     "options": {
-      "A": "Antidiabetic",
-      "B": "Treatment of jaundice",
-      "C": "Bronchitis",
-      "D": "Diuretic in cirrhosis"
+      "A": "Antidiabetic agent",
+      "B": "Treatment for obstructive jaundice",
+      "C": "Bronchitis therapy",
+      "D": "Cardiotonic and diuretic in cirrhosis"
     },
     "answer": "D",
-    "explanation": "cirrhosis of liver and gives relief in symptomatic hypertension in studies in mice its leaves have been shown to have analgesic and anti-inflammatory properties. → Antidiabetic drug, any drug that works to lower abnormally high glucose (sugar) levels in the blood."
+    "explanation": "Arjuna bark serves as a prominent cardiotonic and mild diuretic, widely implemented to manage chronic heart failure, symptomatic hypertension, and secondary edema."
   },
   {
     "id": "kpsc_ph_643",
-    "question": "Active constituent of Rhubarb",
+    "question": "The principal therapeutic anthraquinone active constituent isolated from Rhubarb is:",
     "options": {
       "A": "Rhein",
       "B": "Barbaloin",
@@ -513,11 +513,11 @@ window.quizPart13 = [
       "D": "Ferulic acid"
     },
     "answer": "A",
-    "explanation": "Rhein,also known as cassic acid, is a substance in the anthraquinone group obtained from rhubarb. like all such substances Rhein is a cathartic. Rhein is commonly found as glycoside such as Rheinb 8 - glucoside or glucorhein. → Barbaloin have variety of pharmacological activity such as strong inhibitory off act on histamine release."
+    "explanation": "Rhein (cassic acid) is the signature anthraquinone chromophore found free or as glycosides in Rhubarb rhizomes, providing its characteristic stimulant cathartic properties."
   },
   {
     "id": "kpsc_ph_644",
-    "question": "Anti-sweetening agent in Gymnema sylvestre",
+    "question": "Which active chemical constituent in Gymnema sylvestre leaves suppresses the ability to taste sweetness?",
     "options": {
       "A": "Gymnemic acid",
       "B": "Hentriacontane",
@@ -525,11 +525,11 @@ window.quizPart13 = [
       "D": "Kinolin"
     },
     "answer": "A",
-    "explanation": "of Gymnema Sylvestre (Asclepiadaceae), which is native to India and southern China Gymnemic acids are glycosides of triterpene that suppress sweetness in humans."
+    "explanation": "Gymnemic acids are complex triterpene saponins that temporarily bind sweet taste receptors on the tongue, neutralizing the perception of sweetness."
   },
   {
     "id": "kpsc_ph_645",
-    "question": "Ergotoxine test gives __________ colour",
+    "question": "Ergot alkaloids react in the Van Urk's chemical color test to yield a distinct ________ coloration:",
     "options": {
       "A": "Deep purple",
       "B": "Deep red",
@@ -537,59 +537,59 @@ window.quizPart13 = [
       "D": "Deep green"
     },
     "answer": "C",
-    "explanation": "been reposted in more or less pure form - These are Erogotoxine, Ergotinine, Ergotamine, Erogotaminine, Ergoclauin, Sensibamine. of these six , the first, third and sixth are claimed to posses oxytocic activity. The second and fourth possess little or no oxytocic activity. Alkaloid Test Procedure Obseru ation Indole Alkaloid Eg → Ergot, Rauwolfice Van Urk's test Indole Alkaloid + P- dimethylamin obenzal- dehyde. • Blue colore (ergot) • Voilet to red colour (Rauwol fia) Purine alkaloid Eg→ Tea, coffee Murexi de test Purine alkaloid + KClO3 and HCl heated to dryness, residue exposed to ammonia vapor Purple colour murexid e cammon ium purpurat e. Color is lost on addition of fixed alkali"
+    "explanation": "The Van Urk's reagent chemical test involves adding para-dimethylaminobenzaldehyde to an indole framework (like Ergot alkaloids), yielding a diagnostic deep blue color."
   },
   {
     "id": "kpsc_ph_646",
-    "question": "Triphala and chyavanprash contain",
+    "question": "Which key ingredient forms the nutritional fruit pulp base for classical Triphala and Chyawanprash formulations?",
     "options": {
-      "A": "Amla",
+      "A": "Amla (Indian Gooseberry)",
       "B": "Gokhru",
       "C": "Ajowan",
       "D": "Myrrh"
     },
     "answer": "A",
-    "explanation": "(Phyllanthus emblica/Indian gooseberry) pulp as a base, and this is considered to be the most effective Rasayana for sustaining homeostasis. Chyawanprash that contains Amla has a mixed taste, combining sweet sour, bitter pungent, and astringent qualities."
+    "explanation": "Amla (Emblica officinalis) is incredibly rich in Vitamin C and serves as the core base component for traditional Ayurvedic Rasayana recipes like Chyawanprash."
   },
   {
     "id": "kpsc_ph_647",
-    "question": "Main triglycerides in castor oil",
+    "question": "The primary component triglyceride constituent making up nearly 80-90% of Castor oil is:",
     "options": {
-      "A": "Tricinolein",
+      "A": "Triricinolein",
       "B": "Oleic acid",
       "C": "Ricin",
       "D": "Stearic acid"
     },
     "answer": "A",
-    "explanation": "the oil is triricinolein Minot biological compounds including carotenoid to capherol, tocotrienol phytosterol, phospholipid, phytochemical and phenolic compounds are present in castor oil."
+    "explanation": "Castor oil consists largely of the triglyceride triricinolein, which upon digestion yields ricinoleic acid—the active molecule responsible for its notable laxative action."
   },
   {
     "id": "kpsc_ph_648",
-    "question": "For preparation of emulsions using fixed oil the ratio of oil: water : Gum",
+    "question": "When preparing a primary emulsion using a classical fixed oil, the standard baseline calculation ratio of Oil : Water : Gum is:",
     "options": {
-      "A": "04:02:01",
-      "B": "02:02:01",
-      "C": "03:02:01",
-      "D": "01:02:01"
+      "A": "4 : 2 : 1",
+      "B": "2 : 2 : 1",
+      "C": "3 : 2 : 1",
+      "D": "1 : 2 : 1"
     },
     "answer": "A",
-    "explanation": "the ration of oil: water : Gum is 4:2 :1. The continental method is used to prepare the initial or primary emulsion from oil, water, and a hydrocolloid or \"gum\" type emulsifier (usually acacia) the primary emulsion of emulsion nucleus is formed from 4 : 21 emulsifier."
+    "explanation": "Under the dry/wet gum Continental pharmacy method, preparing a primary emulsion nucleus with a fixed oil requires a strict volumetric ratio of 4 parts oil, 2 parts water, and 1 part gum acacia."
   },
   {
     "id": "kpsc_ph_649",
-    "question": "Prolonged use of silver preparation may lead to a condition known as",
+    "question": "Prolonged systemic ingestion or occupational exposure to silver-based preparations can induce a permanent skin disfigurement known as:",
     "options": {
       "A": "Euphoria",
       "B": "Gangrene",
-      "C": "Hydragyrum",
+      "C": "Hydrargyria",
       "D": "Argyria"
     },
-    "answer": "B",
-    "explanation": "to a condition known as Argyria. The most common cause of clrgyrie is mechanical impregnation of the skin by small silver particles in workers invaded in silver refining, silverware and metal alloy manufacturing, metallic films on glass and china electroplating solutions, and photographic processing ================================================================================ PAGE : 601 ================================================================================ Pharmacognosy 601 YCT pharmacologically most important, opium poppy alkaloid (popover somniferous). A poppy plant consister of a lot of alkaloids. Most of them are morphine. popaverine the baine, narcotine, popavuerine, thebaine, narcine and narcotoline. Most the alkaloid is in the poppy milk."
+    "answer": "D",
+    "explanation": "Argyria is a clinical condition caused by the chronic accumulation of silver dust or silver salts in deep tissue layers, changing skin color to a striking blue-gray hue."
   },
   {
     "id": "kpsc_ph_650",
-    "question": "Which of the following agents is an opioid antagonist ?",
+    "question": "Which of the following pharmaceutical agents acts as a pure competitive opioid receptor antagonist?",
     "options": {
       "A": "Morphine",
       "B": "Naloxone",
@@ -597,6 +597,6 @@ window.quizPart13 = [
       "D": "Disulfiram"
     },
     "answer": "B",
-    "explanation": "and opioid overdose. It is an opioid antagonist. Naloxone is an FDA approved medicine. It is used to block or reverse the effects of opioid drugs."
+    "explanation": "Naloxone is an intravenous opioid antagonist used to reverse central nervous system and respiratory depression during acute opioid overdoses."
   }
 ];
