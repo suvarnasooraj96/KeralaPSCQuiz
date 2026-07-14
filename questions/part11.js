@@ -9,19 +9,19 @@ window.quizPart11 = [
       "D": "Diclofenac"
     },
     "answer": "C",
-    "explanation": "inflammatory drug which belongs to aryl-propionic acid derivatives. • It acts mainly as nonselective inhibitor of both cyclooxygenase (cox) enzymes (cox – & cox – 2). ================================================================================ PAGE : 461 ================================================================================ Pharmacology and Toxicology 461 YCT"
+    "explanation": "Ibuprofen is a non-steroidal anti-inflammatory drug (NSAID) which belongs to the aryl-propionic acid derivatives. It acts mainly as a nonselective inhibitor of both cyclooxygenase (COX-1 and COX-2) enzymes."
   },
   {
     "id": "kpsc_ph_502",
     "question": "A second generation H1 antagonist",
     "options": {
-      "A": "Cyporheptadine",
+      "A": "Cyproheptadine",
       "B": "Meclizine",
-      "C": "Astemisole",
+      "C": "Astemizole",
       "D": "Promethazine"
     },
     "answer": "C",
-    "explanation": "antagonist. • Astemizole used as to treat allergy symptoms. • Astemizole is a long-acting, non, sedating second generation antihistamine."
+    "explanation": "Astemizole is a long-acting, non-sedating second-generation H1 antihistamine used to treat allergy symptoms."
   },
   {
     "id": "kpsc_ph_503",
@@ -33,7 +33,7 @@ window.quizPart11 = [
       "D": "Salbutamol"
     },
     "answer": "A",
-    "explanation": "Anorectic agent defined as substances that to suppress appetite or hunger sensation or both."
+    "explanation": "Anorectic agents are defined as substances that act on the central nervous system to suppress appetite or hunger sensations."
   },
   {
     "id": "kpsc_ph_504",
@@ -41,15 +41,15 @@ window.quizPart11 = [
     "options": {
       "A": "Adrenaline",
       "B": "Isoprenaline",
-      "C": "Amphitamine",
+      "C": "Amphetamine",
       "D": "Salbutamol"
     },
     "answer": "C",
-    "explanation": "amphitamine. • Sympathomimetic drugs that either act directly to constrict blood vessels or that have an indirect action, preventing the destruction of norepinephrine at sympathetic nerve terminals."
+    "explanation": "Amphetamine is an indirectly acting sympathomimetic drug that stimulates the release of norepinephrine from sympathetic nerve terminals rather than activating receptors directly."
   },
   {
     "id": "kpsc_ph_505",
-    "question": "Which of the following drug is used to treat nausea and vomiting associated with cancer chemotherapy ?",
+    "question": "Which of the following drug is used to treat nausea and vomiting associated with cancer chemotherapy?",
     "options": {
       "A": "Chlorpheniramine",
       "B": "Promethazine",
@@ -57,7 +57,7 @@ window.quizPart11 = [
       "D": "Ondansetron"
     },
     "answer": "D",
-    "explanation": "vomiting caused by cancer chemotherapy, radiation therapy and surgery. • Ondansetron is in a class of medications called serotonin 5-HT3 receptor antagonists. It works by blocking the action of serotonin, a natural substance that may cause nausea and vomiting."
+    "explanation": "Ondansetron is a selective serotonin 5-HT3 receptor antagonist widely used to prevent and treat nausea and vomiting caused by cancer chemotherapy, radiation therapy, and surgery."
   },
   {
     "id": "kpsc_ph_506",
@@ -69,7 +69,7 @@ window.quizPart11 = [
       "D": "Clofazimine"
     },
     "answer": "D",
-    "explanation": "coloration of the skin after administration. • Upon prolonged treatment, clofazimine extensively bioaccumulates and precipitates through out the organism, forming crystal like drug inclusions, due to the drug's red color. It is widely believed that clofazamine bioaccumulation results in skin pigment. Its most common side effect."
+    "explanation": "Upon prolonged treatment, clofazimine bioaccumulates and precipitates throughout tissues as crystal-like drug inclusions. Due to the drug's red color, this causes a characteristic reddish-brown skin pigmentation, which is its most common side effect."
   },
   {
     "id": "kpsc_ph_507",
@@ -81,35 +81,35 @@ window.quizPart11 = [
       "D": "Nadolol"
     },
     "answer": "B",
-    "explanation": "• Atenolol is a second generation beta 1 - selective adrenergic antagonist that reduces heart rate and blood pressure and decreases myocardial contractility."
+    "explanation": "Atenolol is a second-generation cardioselective beta 1-adrenergic antagonist that reduces heart rate and blood pressure while decreasing myocardial contractility."
   },
   {
     "id": "kpsc_ph_508",
-    "question": "Which one of the following is a beta - lactamase inhibitor?",
+    "question": "Which one of the following is a beta-lactamase inhibitor?",
     "options": {
       "A": "Sulfonamide",
       "B": "Chloroquine",
       "C": "Primaquine",
-      "D": "Sulbactum"
+      "D": "Sulbactam"
     },
     "answer": "D",
-    "explanation": "beta- lactamase inhibitors. It works by preventing bacteria form destroying ampicillin . Antibiotics such as ampicilin and sulbactam injection will not work for colds, flu, or other viral infractions."
+    "explanation": "Sulbactam is a beta-lactamase inhibitor. It prevents beta-lactamase producing bacteria from destroying co-administered beta-lactam antibiotics like ampicillin."
   },
   {
     "id": "kpsc_ph_509",
     "question": "Example of ultra short acting barbiturates:",
     "options": {
-      "A": "Enflurance",
+      "A": "Enflurane",
       "B": "Ketamine",
       "C": "Thiopental sodium",
       "D": "Propofol"
     },
     "answer": "C",
-    "explanation": "pentothal, thiopentone is a rapid- onset short acting barbiturate general anesthetic. It is the thiobarbiturate analog of pentobarbital and an analog of thiobarbital."
+    "explanation": "Thiopental sodium (Pentothal) is a rapid-onset, ultra-short-acting thiobarbiturate general anesthetic used for intravenous induction."
   },
   {
     "id": "kpsc_ph_510",
-    "question": "Drug used to test gastric acid secreation:",
+    "question": "Drug used to test gastric acid secretion:",
     "options": {
       "A": "Dexamethasone",
       "B": "Tyramine",
@@ -117,11 +117,11 @@ window.quizPart11 = [
       "D": "Histamine"
     },
     "answer": "D",
-    "explanation": "proton pump inhibitors are the main classes of drug used to inhibit gastric acid secretion. The former act by reversibly blocking the action of histamine, which is released from other mucosal cells in anticipation of a meal or when food enter the stomach."
+    "explanation": "Histamine can be used diagnostically to stimulate and test maximum gastric acid secretory capacity by binding to H2 receptors on parietal cells."
   },
   {
     "id": "kpsc_ph_511",
-    "question": "Drug used in ulcerative colitis :",
+    "question": "Drug used in ulcerative colitis:",
     "options": {
       "A": "Gefarnate",
       "B": "Sucralfate",
@@ -129,7 +129,7 @@ window.quizPart11 = [
       "D": "Metoclopramide"
     },
     "answer": "C",
-    "explanation": "colitis and other type of inflammatory bowel disease. It can also be used to treat rheumatoid arthritis. It to a group of medicines called aminsoalicylates ."
+    "explanation": "Sulfasalazine belongs to the aminosalicylate class and is broken down in the colon to release 5-ASA, making it useful for treating active ulcerative colitis and maintaining remission."
   },
   {
     "id": "kpsc_ph_512",
@@ -141,7 +141,7 @@ window.quizPart11 = [
       "D": "Cycloserine"
     },
     "answer": "B",
-    "explanation": "isoniazid. Tuberculosis (TB) is a serious illness that mainly effects the lungs. The germ that cause tuberculosis are a type of bacteria. Tuberculosis can spread when a person with the illness cough, sneezes or sings. This can put tiny droplets with the germ in to the air. Another person can then breathe in the droplets and the germ enter the lungs."
+    "explanation": "Isoniazid is a core first-line bactericidal antibiotic used in the standard treatment regimen for Tuberculosis."
   },
   {
     "id": "kpsc_ph_513",
@@ -153,7 +153,7 @@ window.quizPart11 = [
       "D": "Miconazole"
     },
     "answer": "C",
-    "explanation": "to treat uterine inertia, after fetal monitoring are oxytocin Oxytocin is the most widely used uterotonic drug. All low doses it produces rhythmic uterine contractions that are indistinguishable in frequency, force and duration from those observed during spontaneous labour. However at higher dosages it causes sustained tetanic uterine contractions."
+    "explanation": "Oxytocin is the primary uterotonic drug used to correct uterine inertia. At physiological doses, it induces rhythmic uterine contractions identical to spontaneous labor."
   },
   {
     "id": "kpsc_ph_514",
@@ -161,11 +161,11 @@ window.quizPart11 = [
     "options": {
       "A": "Mannitol",
       "B": "Acetazolamide",
-      "C": "Triameterene",
+      "C": "Triamterene",
       "D": "Chlorthalidone"
     },
     "answer": "C",
-    "explanation": "often used in combination with thiazide diuretics for the treatment of high blood pressure or swelling."
+    "explanation": "Triamterene is an epithelial sodium channel blocker that acts in the distal tubule as a potassium-sparing diuretic."
   },
   {
     "id": "kpsc_ph_515",
@@ -177,19 +177,19 @@ window.quizPart11 = [
       "D": "Esmolol"
     },
     "answer": "A",
-    "explanation": "blocker used to treat high blood pressure, irregular heartbeats, and other conditions. It is used after heart attack to improve the chance of survival. It is also used to prevent migraine headaches and chest pain. Lowering high blood pressure helps prevent strokes, heart attacks and kidney problems."
+    "explanation": "Propranolol is a non-selective beta-blocker that possesses significant membrane stabilizing activity (quinidine-like effect) due to its interaction with cardiac sodium channels."
   },
   {
     "id": "kpsc_ph_516",
-    "question": "Which among the following is classified as folate antagonist: ================================================================================ PAGE : 480 ================================================================================ Pharmacology and Toxicology 480 YCT",
+    "question": "Which among the following is classified as folate antagonist:",
     "options": {
       "A": "Methotrexate",
       "B": "Quinine",
       "C": "Primaquine",
       "D": "Chloroquine"
     },
-    "answer": "D",
-    "explanation": "dopamine, norepinephrine and epinephrine. Epinephrine is also known as adrenaline. Catecholamine tests measure the amount of these hormones in our urine or blood. Higher than normal levels of dopamine, norepinephrine and epinephrine can be a sign of a serious health condition."
+    "answer": "A",
+    "explanation": "Methotrexate is a classic folate antagonist that acts by competitively inhibiting the enzyme dihydrofolate reductase (DHFR), blocking purine and thymidylate synthesis."
   },
   {
     "id": "kpsc_ph_517",
@@ -201,35 +201,35 @@ window.quizPart11 = [
       "D": "Antazoline"
     },
     "answer": "D",
-    "explanation": "with anticholinergic properties used to relieve nasal congetion and in eye drop, usually in combination with naphazoline, to relieve the symptoms of allergic conjunctivitis. To treat conjunctivitis, antazoline can be combined in a solution with tetryzoline ."
+    "explanation": "Antazoline is a first-generation ethylenediamine derivative antihistamine with moderate sedative effects, often used in ophthalmic preparations."
   },
   {
     "id": "kpsc_ph_518",
-    "question": "Warfarin displaced form site one of human serum albumin by:",
+    "question": "Warfarin displaced from site one of human serum albumin by:",
     "options": {
-      "A": "Furesamide",
-      "B": "Phenyl butazone",
+      "A": "Furosemide",
+      "B": "Phenylbutazone",
       "C": "Disulfiram",
       "D": "Cimetidine"
     },
     "answer": "B",
-    "explanation": "transport protein found in plasma that bound s a wide variety of drugs in two primary binding sites (I and II) and can have a significant impact on their pharmacokinetics. We have determined the crystal structure at 2.5 Ǻ solution of HAS - myristate complexes with the R - (+) S - (–) enantiometers of warfarin, a widely used anticoagulant that binds to the protein with high affinity."
+    "explanation": "Phenylbutazone has high affinity for Site I on human serum albumin and competitively displaces Warfarin, rapidly increasing the free fraction of active anticoagulant in plasma."
   },
   {
     "id": "kpsc_ph_519",
-    "question": "Novocaine is the other name of :",
+    "question": "Novocaine is the other name of:",
     "options": {
-      "A": "Chlorprocaine",
+      "A": "Chloroprocaine",
       "B": "Lignocaine",
       "C": "Proparacaine",
       "D": "Procaine"
     },
     "answer": "D",
-    "explanation": "Novacaine, a brand f procaine is a local anesthetic drug. A local anesthetic is a medication or technique used to numb a specific part of the body. Unlike general anesthesia, local anesthetics don't make you lose consciousness."
+    "explanation": "Novocaine is the widely recognized trade name for Procaine, an ester-type local anesthetic."
   },
   {
     "id": "kpsc_ph_520",
-    "question": "An immunosuppressnat which is specific t- cell inhibitors?",
+    "question": "An immunosuppressant which is specific t-cell inhibitor?",
     "options": {
       "A": "Cyclosporine",
       "B": "Chlorambucil",
@@ -237,23 +237,23 @@ window.quizPart11 = [
       "D": "Azathioprine"
     },
     "answer": "A",
-    "explanation": "used to treat organ rejection past - transplant . It also has use in certain other autoimmune disease, treatment of organ , rejection in kidney, liver and heart allergenic transplants rheumatoid arthritis when the condition has not adequately responded to methotrexate ."
+    "explanation": "Cyclosporine is a calcineurin inhibitor that specifically suppresses T-cell activation and proliferation by blocking interleukin-2 production."
   },
   {
     "id": "kpsc_ph_521",
-    "question": "An oral hypoglyceamic sulphonyl urea drug:",
+    "question": "An oral hypoglycemic sulfonylurea drug:",
     "options": {
-      "A": "Phenoformin",
+      "A": "Phenformin",
       "B": "Acarbose",
-      "C": "Guargum",
-      "D": "Tolutamide"
+      "C": "Guar gum",
+      "D": "Tolbutamide"
     },
     "answer": "D",
-    "explanation": "exercise and sometime with other medication to treat type two diabetes. Tolutamide is in a class of medications called sulphonyl urea."
+    "explanation": "Tolbutamide is a first-generation sulfonylurea oral hypoglycemic agent used to stimulate insulin secretion from pancreatic beta cells."
   },
   {
     "id": "kpsc_ph_522",
-    "question": "Drug used for ulcerative colitis: ================================================================================ PAGE : 481 ================================================================================ Pharmacology and Toxicology 481 YCT",
+    "question": "Drug used for ulcerative colitis:",
     "options": {
       "A": "Kanamycin",
       "B": "Sucralfate",
@@ -261,19 +261,19 @@ window.quizPart11 = [
       "D": "Cycloserine"
     },
     "answer": "C",
-    "explanation": "swelling and sore in the lining of the colon and rectum. ⇒ Sulfasalazine is used to treat ulcerative colitis and also to maintain improvement of ulcerative colitis symptom."
+    "explanation": "Sulfasalazine is indicated for the reduction of inflammation in the colon lining during active flare-ups of ulcerative colitis."
   },
   {
     "id": "kpsc_ph_523",
     "question": "Supplement given for cancer patient who is under methotrexate therapy?",
     "options": {
-      "A": "Forlic acid",
+      "A": "Folic acid",
       "B": "Folinic acid",
       "C": "Pyridoxine",
       "D": "Ascorbic acid"
     },
     "answer": "B",
-    "explanation": "treatment of various cancers in combination with 5 - FU. It is also commonly used a an antidote to folic acid antagonists such as methotrexate. Folinc acid is an antidote, chemotherapy modulating agent and rescue agent for the chemotherapy class of medications."
+    "explanation": "Folinic acid (leucovorin) bypasses the dihydrofolate reductase block caused by methotrexate, acting as a rescue agent to protect normal cells from severe bone marrow toxicity."
   },
   {
     "id": "kpsc_ph_524",
@@ -285,31 +285,31 @@ window.quizPart11 = [
       "D": "Pectin"
     },
     "answer": "A",
-    "explanation": "digest proteins found in ingested food. Gastric chief cell secrete pepsin as an inactive zymogen called pepsinogen. Parietal cells within the stomach lining secrete hydrochloric acid that lowers the pH of the stomach A low pH (1.5 – 2) activates pepsin."
+    "explanation": "Pepsin is a proteolytic digestive enzyme administered as a replacement therapy to aid the breakdown of dietary proteins in exocrine pancreatic insufficiency or gastric disorders."
   },
   {
     "id": "kpsc_ph_525",
-    "question": "Administration of expired tetracyclin results :",
+    "question": "Administration of expired tetracycline results in:",
     "options": {
       "A": "Fanconi syndrome",
       "B": "Gray baby syndrome",
-      "C": "Stevan-Johnson's syndrome",
+      "C": "Stevens-Johnson syndrome",
       "D": "Down's syndrome"
     },
     "answer": "A",
-    "explanation": "expired. In several reported cases, expired tetracycline has caused fanconi syndrome. This is a rare form of kidney damage that prevent electrolyte from being absorbed by the body. For this reason, we should never take expired tetracycline."
+    "explanation": "Degradation products of expired tetracycline (like anhydro-4-epitetracycline) are toxic to the renal proximal tubules, resulting in a reversible form of Fanconi syndrome."
   },
   {
     "id": "kpsc_ph_526",
-    "question": "Metabolite of drug causes methemoglobinaemia:",
+    "question": "Metabolite of drug causes methemoglobinemia:",
     "options": {
       "A": "Imipramine",
-      "B": "",
+      "B": "Dapsone",
       "C": "Paracetamol",
       "D": "Nicotine"
     },
-    "answer": "A",
-    "explanation": ": metabolite of drug causes methemoglobinemia is Dapsone CYP2C iso enzyme convert Dapsont in the liver to hydroxyl-amine metabolites are response blefor methoglobinmia and hemolysis methemoglobinaemia is a rare blood disorder that affects how red blood cells deliver oxygen throughout our body. Some people inherit the disorder but most people develop, it after using certain medications, being exposed to certain toxic substace or using recreational drug."
+    "answer": "B",
+    "explanation": "Dapsone is metabolized by CYP enzymes to hydroxylamine derivatives. These highly reactive metabolites oxidize hemoglobin to methemoglobin, leading to methemoglobinemia and hemolysis."
   },
   {
     "id": "kpsc_ph_527",
@@ -318,26 +318,26 @@ window.quizPart11 = [
       "A": "Norgestrel",
       "B": "Norethynodrel",
       "C": "Norethisterone",
-      "D": "Ethinodiol diacetate"
+      "D": "Ethynodiol diacetate"
     },
     "answer": "C",
-    "explanation": "sold under many brand names, is a progestin medication used in birth control pills, menopausal hormone therapy, and for the treatment of gynecological disorder."
+    "explanation": "Norethisterone is a first-generation 19-nortestosterone derivative progestin that retains structural features allowing it to exert prominent residual androgenic side effects."
   },
   {
     "id": "kpsc_ph_528",
-    "question": "A potassium channel activator is :",
+    "question": "A potassium channel activator is:",
     "options": {
       "A": "Veratrum",
       "B": "Prazosin",
       "C": "Minoxidil",
-      "D": ""
+      "D": "Amlodipine"
     },
     "answer": "C",
-    "explanation": "that hyperpolarizes cell membranes, causing vascular muscle dilation and a consequent increase in blood flow. It is approved for both men and women for the treatment of andragenetic alopecia as a topical solution and topical foam."
+    "explanation": "Minoxidil sulfate is an ATP-sensitive potassium channel ($K_{ATP}$) opener. By activating these channels, it hyperpolarizes vascular smooth muscle cells, causing profound vasodilation."
   },
   {
     "id": "kpsc_ph_529",
-    "question": "The drug Which cause ototoxicity",
+    "question": "The drug which causes ototoxicity:",
     "options": {
       "A": "Azithromycin",
       "B": "Doxycycline",
@@ -345,11 +345,11 @@ window.quizPart11 = [
       "D": "Erythromycin"
     },
     "answer": "C",
-    "explanation": "nervous system, only sporadic cases of ototoxicity have been reported, and they generally been reversible."
+    "explanation": "Neomycin is a highly ototoxic and nephrotoxic aminoglycoside antibiotic, which limits its systemic administration mostly to topical or oral intestinal use."
   },
   {
     "id": "kpsc_ph_530",
-    "question": "A State of decreased responsiveness to the pharmacologic effect of a drug resulting from prior exposure to that drug or to a related drug is called",
+    "question": "A state of decreased responsiveness to the pharmacologic effect of a drug resulting from prior exposure to that drug or to a related drug is called",
     "options": {
       "A": "Drug Tolerance",
       "B": "Drug Habituation",
@@ -357,19 +357,19 @@ window.quizPart11 = [
       "D": "Drug Dependence"
     },
     "answer": "A",
-    "explanation": "describing subjects reduced reaction to a drug following its repeated use. Increasing its dosage may reamplify the drug the drug's effects , however, this may accelerate tolerance, further reducing the drug's effects."
+    "explanation": "Drug tolerance describes a progressive reduction in receptor response or metabolic acceleration following chronic dosing, necessitating higher amounts to recreate the original effect."
   },
   {
     "id": "kpsc_ph_531",
-    "question": "Which among the following drug induce hepatic Microsomal enzymes",
+    "question": "Which among the following drug induces hepatic microsomal enzymes",
     "options": {
       "A": "Isoniazid",
-      "B": "Phenylbutzone",
-      "C": "Climetidine",
+      "B": "Phenylbutazone",
+      "C": "Cimetidine",
       "D": "Phenytoin"
     },
     "answer": "D",
-    "explanation": "such as pheytoin. → Phenytoin is administrations to patients commonly causes a rise in γ- glutamyltransferase."
+    "explanation": "Phenytoin is a potent inducer of hepatic cytochrome P450 enzymes (such as CYP3A4), which accelerates the clearance of co-administered medications."
   },
   {
     "id": "kpsc_ph_532",
@@ -377,27 +377,27 @@ window.quizPart11 = [
     "options": {
       "A": "Rifampicin",
       "B": "Ethionamide",
-      "C": "Isoniazide",
+      "C": "Isoniazid",
       "D": "Ethambutol"
     },
     "answer": "B",
-    "explanation": "treatment of tuberculosis . - Rifampicin, Isoniazide, Ethambutol are first line drug for the treatment of tuberculosis. ================================================================================ PAGE : 491 ================================================================================ Pharmacology and Toxicology 491 YCT"
+    "explanation": "Ethionamide is a second-line antitubercular agent utilized primarily in drug-resistant TB regimens. Rifampicin, Isoniazid, and Ethambutol are standard first-line options."
   },
   {
     "id": "kpsc_ph_533",
     "question": "Which among the following is a first generation Cephalosporin",
     "options": {
       "A": "Cefepime",
-      "B": "Cefurozime",
+      "B": "Cefuroxime",
       "C": "Cefixime",
-      "D": ""
+      "D": "Cephalexin"
     },
-    "answer": "A",
-    "explanation": ": Cephalexin is a first generation cephalosporin and utilized in the treatment of urinary tract infections respiratory infections and other bacterial infections."
+    "answer": "D",
+    "explanation": "Cephalexin is a classic oral first-generation cephalosporin. Cefuroxime is second-generation, Cefixime is third-generation, and Cefepime is fourth-generation."
   },
   {
     "id": "kpsc_ph_534",
-    "question": "Which of the following is NOT the use of Propranolo",
+    "question": "Which of the following is NOT the use of Propranolol",
     "options": {
       "A": "Glaucoma",
       "B": "Cataract",
@@ -405,19 +405,19 @@ window.quizPart11 = [
       "D": "Hypertension"
     },
     "answer": "B",
-    "explanation": "• Most cataracts happen because of normal changes in our eyes as we get older. • The only effective treatment for cataracts is surgery. • Age - related cataracts may develop between 40 and 50 years old."
+    "explanation": "Propranolol has no therapeutic application in cataracts, which result from mechanical and structural protein crystallization changes treated exclusively via surgery."
   },
   {
     "id": "kpsc_ph_535",
     "question": "Which among the following is not an anti thyroid drug",
     "options": {
-      "A": "Carbimazol",
+      "A": "Carbimazole",
       "B": "Levothyroxine sodium",
       "C": "Propylthiouracil",
-      "D": "lodine"
+      "D": "Iodine"
     },
     "answer": "B",
-    "explanation": "drug. → Levothyroxine is used to treat an under active thyroid gland. - It replaces or provides more thyroid hormone."
+    "explanation": "Levothyroxine sodium is synthetic T4 thyroid hormone used as replacement therapy for hypothyroidism, not an anti-thyroid treatment."
   },
   {
     "id": "kpsc_ph_536",
@@ -429,19 +429,19 @@ window.quizPart11 = [
       "D": "Clomiphene"
     },
     "answer": "D",
-    "explanation": "production) in women who do not produce ova but wish to become pregnant It is in a class of medications called ovulatory stimulants. Ibuprofen:- It is a painkiller Naproxen:- It iso non-steroidal anti-inflammatory drug. It reduces swelling and pain in joints and muscles."
+    "explanation": "Clomiphene citrate blocks estrogen receptors at the hypothalamus, eliminating negative feedback to induce gonadotropin release (FSH and LH) and stimulate ovulation."
   },
   {
     "id": "kpsc_ph_537",
     "question": "Drugs which contain Catechol nucleus",
     "options": {
-      "A": "Nor adrenaline",
+      "A": "Noradrenaline",
       "B": "Ephedrine",
       "C": "Phenylephrine",
-      "D": "Pseudo ephedrn"
+      "D": "Pseudoephedrine"
     },
     "answer": "A",
-    "explanation": "Ephedrine:- It is a sympathomimetic amine and substituted amphetamine."
+    "explanation": "Noradrenaline contains an aromatic ortho-dihydroxybenzene ring (catechol nucleus), classifying it structurally as a true catecholamine."
   },
   {
     "id": "kpsc_ph_538",
@@ -450,22 +450,22 @@ window.quizPart11 = [
       "A": "Alcohol dehydrogenase",
       "B": "Aldehyde dehydrogenase",
       "C": "Carbonic anhydrase",
-      "D": "pyruvate dehydrogenase"
+      "D": "Pyruvate dehydrogenase"
     },
     "answer": "C",
-    "explanation": "inhibitor. That means this drug works to cause on accumulation of carbonic acid by preventing its breakdown."
+    "explanation": "Acetazolamide is a classic sulfonamide derivative that noncompetitively inhibits carbonic anhydrase in the renal proximal convoluted tubules."
   },
   {
     "id": "kpsc_ph_539",
     "question": "Drug of choice for filariasis",
     "options": {
       "A": "Carbamazepine",
-      "B": "Diethyl succimide",
-      "C": "Diethyl carbmazine (d) Carbimazole",
-      "D": ""
+      "B": "Diethylsuccinimide",
+      "C": "Diethylcarbamazine",
+      "D": "Carbimazole"
     },
     "answer": "C",
-    "explanation": "filariasis. → Diethyl corbamazine is used in the treatment of certain worm infections. This medicine works by killing the warms."
+    "explanation": "Diethylcarbamazine (DEC) is the primary microfilaricidal drug of choice used globally to eliminate lymphatic filariasis."
   },
   {
     "id": "kpsc_ph_540",
@@ -477,7 +477,7 @@ window.quizPart11 = [
       "D": "Nicorandil"
     },
     "answer": "B",
-    "explanation": "inhibits the renin - angiotensin system by selectively blocking the interaction of angiotesin with its receptor"
+    "explanation": "Losartan belongs to the Angiotensin Receptor Blocker (ARB) family, selectively blocking the binding of Angiotensin II to the $AT_1$ receptor."
   },
   {
     "id": "kpsc_ph_541",
@@ -489,19 +489,19 @@ window.quizPart11 = [
       "D": "Lipoprotein lipase activator"
     },
     "answer": "C",
-    "explanation": "- 3- hydroxy -3- methylglutaryl coenzyme A reductase, the rate - limiting enzyme step in cholesterol synthesis in the body. The pharmacology of this novel agent is discussed in this article."
+    "explanation": "Lovastatin is a statin that competitively inhibits 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase, the rate-limiting step in cholesterol biosynthesis."
   },
   {
     "id": "kpsc_ph_542",
     "question": "A Non Steroidal Anti Inflammatory Drug derived from anthranilic acid:",
     "options": {
-      "A": "Mephenemic acid",
+      "A": "Mefenamic acid",
       "B": "Ibuprofen",
       "C": "Indomethacin",
       "D": "Diclofenac Sodium"
     },
     "answer": "A",
-    "explanation": "anthranilic acid detivatives (or fenamate) class of nonsteroidal anti-in-inflammatory drugs. of nonsteroidal anti-inflammatory drugs, (NSAIDS), and is used to treat mild to moderate pain."
+    "explanation": "Mefenamic acid belongs to the fenamate chemical subclass, directly derived from anthranilic acid structures."
   },
   {
     "id": "kpsc_ph_543",
@@ -513,7 +513,7 @@ window.quizPart11 = [
       "D": "Thiopentone Sodium"
     },
     "answer": "C",
-    "explanation": "intravenous, Halothane is general in halation anesthetic used for induction and maintenance of general anesthesia. It reduces the blood pressure and frequently decreases the pulse rate and depresses respiration . • Ketamine is a dissociative anesthetic used medically for induction and maintenance of anesthesia. ================================================================================ PAGE : 492 ================================================================================ Pharmacology and Toxicology 492 YCT"
+    "explanation": "Halothane is a volatile, halogenated hydrocarbon liquid administered exclusively via inhalation systems for general anesthesia maintenance."
   },
   {
     "id": "kpsc_ph_544",
@@ -521,11 +521,11 @@ window.quizPart11 = [
     "options": {
       "A": "Crosses blood brain barrier",
       "B": "Decrease monoamine oxidase",
-      "C": "Inhibits L aminoacid decarboxylase",
+      "C": "Inhibits L-amino acid decarboxylase",
       "D": "A COMT inhibitor"
     },
     "answer": "C",
-    "explanation": "inhibitors (AAADIS), including carbidopa and benserazide, are competitive inhibitors of aromatic amino acid decarboxylase, (AAAD) that do not penetrate brain they have become a mainstay for anti parkinsonian therapy with levodopa."
+    "explanation": "Carbidopa is a peripheral aromatic L-amino acid decarboxylase inhibitor. Because it does not cross the blood-brain barrier, it prevents peripheral conversion of Levodopa to dopamine."
   },
   {
     "id": "kpsc_ph_545",
@@ -537,19 +537,19 @@ window.quizPart11 = [
       "D": "Acetazolamide"
     },
     "answer": "A",
-    "explanation": "receptor antagonist that is metabolized extensively in the liver to its active metabolites (the tablet. The plasma half - life of the drug is 1.4 hours although in patients with hepatic congestion, increase,"
+    "explanation": "Spironolactone acts as a competitive antagonist at mineralocorticoid receptors in the distal renal tubules, directly blocking the physiological transport actions of aldosterone."
   },
   {
     "id": "kpsc_ph_546",
     "question": "An agent used to delay the renal excretion of penicillins",
     "options": {
-      "A": "Protamine sulphate (b) Procaine",
-      "B": "",
+      "A": "Protamine sulphate",
+      "B": "Procaine",
       "C": "Propylene glycol",
       "D": "Probenecid"
     },
     "answer": "D",
-    "explanation": "penicillins is probenecid. Probenecid is a uricosuric and renal tubular blocking agent, It inhibits the tubular reabsorption of urate thus increasing the urinary excretion of uric acid and decreasing serum urate levels. → Protamine suphate is medication that is used to reverse the effects of heparin → procaine is a local anesthetic drug of the amino ester group. It is most commonly used in dental procedures."
+    "explanation": "Probenecid acts as a competitive organic anion transporter (OAT) inhibitor in renal proximal tubules, delaying the active excretion of penicillin molecules."
   },
   {
     "id": "kpsc_ph_547",
@@ -561,7 +561,7 @@ window.quizPart11 = [
       "D": "Vitamin K"
     },
     "answer": "D",
-    "explanation": "effective in reducing raised INRS with out omission of warfarin . Vitamin K has also been shown to be a safe and effective method of warfarin reversal. → Protamine is an FDA - approved drug for used in neutralizing the effect of unfractionated haparin."
+    "explanation": "Vitamin K1 (Phytonadione) is the physiologic antagonist antidote for warfarin toxicities, restoring functional clotting factors II, VII, IX, and X."
   },
   {
     "id": "kpsc_ph_548",
@@ -573,7 +573,7 @@ window.quizPart11 = [
       "D": "Diphenhydramine"
     },
     "answer": "A",
-    "explanation": "dopamine by DOPA decardoxylose and can cross the blood brain barrier, when the brain levodopa is decarboxylated to dopamine and stimulated the dopaminergic receptores, there by compensating for the depleted supply of endogenous dopamine seen in parkinson's disease."
+    "explanation": "Levodopa acts as an inactive prodrug that must cross the blood-brain barrier before decarboxylation into functional dopamine within central dopaminergic neurons."
   },
   {
     "id": "kpsc_ph_549",
@@ -585,18 +585,18 @@ window.quizPart11 = [
       "D": "Chlorambucil"
     },
     "answer": "A",
-    "explanation": "treatment of methotrexate toxicity and chemotherapy regimens. Leucovorin is a folate analog. this activity reviews the indication action and contraindications for leucovorin as a valuable agent in the reversal of methotrexate toxicity and as a part of chemotherapy regimens, → Cyclophosphamide is used to treat cancer of the ovaries, breast, blood and lymph system, and nerves (mainly in children): → Melphalan is an antineoplastic agent that acts as a bifunctional alkylating agent."
+    "explanation": "Leucovorin (folinic acid) rescue programs are mandatory following high-dose Methotrexate chemotherapy routines to save healthy dividing host somatic tissues."
   },
   {
     "id": "kpsc_ph_550",
     "question": "The antibiotic that acts by inhibiting bacterial protein synthesis by binding to the 30s ribosomal subunits:",
     "options": {
       "A": "Chloramphenicol",
-      "B": "Doxycyclin",
+      "B": "Doxycycline",
       "C": "Azithromycin",
       "D": "Vancomycin"
     },
     "answer": "B",
-    "explanation": "305 ribosomal subunit, blocking the binding to aminoacyl tRNA to the mRNA and inhibiting bacterial protein synthesis."
+    "explanation": "Doxycycline belongs to the tetracycline group, exerting its antibiotic effect by binding to the bacterial 30S ribosomal subunit to block aminoacyl-tRNA assembly lines."
   }
 ];
