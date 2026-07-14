@@ -1,19 +1,19 @@
 window.quizPart6 = [
   {
     "id": "kpsc_ph_251",
-    "question": "What is the use of the sodium bicarbonate in sodium bicarbonate Glycerine Ear drops?",
+    "question": "What is the use of sodium bicarbonate in sodium bicarbonate Glycerine Ear drops?",
     "options": {
       "A": "Antacid",
       "B": "Antiseptic",
-      "C": "Softening the earwax (d) Cleansing agent",
-      "D": ""
+      "C": "Softening the earwax",
+      "D": "Cleansing agent"
     },
     "answer": "C",
-    "explanation": "glycerin ear drops, is used as it dilutes and softens the earwax"
+    "explanation": "Sodium bicarbonate in ear drops acts as a mild cerumenolytic agent. It reacts with the earwax, generating a slight effervescence that dilutes and softens hard or impacted earwax for easy removal."
   },
   {
     "id": "kpsc_ph_252",
-    "question": "Which part of Prescription gives direction to pharmacist?",
+    "question": "Which part of a Prescription gives directions to the pharmacist?",
     "options": {
       "A": "Superscription",
       "B": "Subscription",
@@ -21,35 +21,35 @@ window.quizPart6 = [
       "D": "All parts of prescription"
     },
     "answer": "B",
-    "explanation": "pharmacist on how to produce a dose subscription is the part of the prescription, contain the direction to the dosage form."
+    "explanation": "The subscription is the section of a medical prescription that contains instructions to the pharmacist regarding the compounding or dispensing of the dosage form."
   },
   {
     "id": "kpsc_ph_253",
-    "question": "Antidote for Iron poisoning ================================================================================ PAGE : 200 ================================================================================ Pharmaceutical Chemistry 200 YCT",
+    "question": "Antidote for Iron poisoning:",
     "options": {
       "A": "EDTA",
       "B": "BAL",
-      "C": "Pencillamine",
+      "C": "Penicillamine",
       "D": "Desferrioxamine"
     },
     "answer": "D",
-    "explanation": "oxamine. Desferrioxamine (Deferoxamine), a chelating agent that can remove iron from tissues and free iron from plasma, is indicated in patients with systemic toxicity, metabolic acidosis, worsening symptoms, or a serum iron level predictive of moderate or severe toxicity."
+    "explanation": "Desferrioxamine (Deferoxamine) is a high-affinity iron-chelating agent used to treat acute iron poisoning by binding free ferric iron in the plasma and tissues, forming ferrioxamine, which is excreted by the kidneys."
   },
   {
     "id": "kpsc_ph_254",
-    "question": "The proportion of Universal Antidote?",
+    "question": "The proportion of Universal Antidote is:",
     "options": {
-      "A": "2 Part powdered charcoal, 1 part MgO & 1 part Tannic acid. Universal Antidote",
-      "B": "2 Part powdered charcoal, 2 part MgO & 2 part Tannic acid. Universal Antidote",
-      "C": "1 Part powdered charcoal, 2 part MgO & 1 part Tannic acid. Universal Antidote",
-      "D": "1 Part powdered charcoal, 3 part MgO & 1 part Tannic acid. Universal Antidote"
+      "A": "2 parts powdered charcoal, 1 part MgO & 1 part Tannic acid",
+      "B": "2 parts powdered charcoal, 2 parts MgO & 2 parts Tannic acid",
+      "C": "1 part powdered charcoal, 2 parts MgO & 1 part Tannic acid",
+      "D": "1 part powdered charcoal, 3 parts MgO & 1 part Tannic acid"
     },
     "answer": "A",
-    "explanation": "( 2 Part powdered charcoal, 1 part MgO & 1 part Tannic acid. Universal Antidote :- A mixture of 7 g of activated charcoal, 3.5 g of Magnesium oxide and 3.5 g of Tannic acid in half a glass of warm water, may be used to absorb or neutralize poisons. This mixture is useful in poisoning by acids, liquid glycosides and heavy metal."
+    "explanation": "The traditional universal antidote consists of 2 parts activated charcoal (adsorbent), 1 part magnesium oxide (antacid/neutralizer for acids), and 1 part tannic acid (precipitant for alkaloids and heavy metals)."
   },
   {
     "id": "kpsc_ph_255",
-    "question": "A seizure episode can be measured by using",
+    "question": "A seizure episode can be measured or monitored by using:",
     "options": {
       "A": "X-Ray",
       "B": "EEG",
@@ -57,11 +57,11 @@ window.quizPart6 = [
       "D": "Anthropometry"
     },
     "answer": "B",
-    "explanation": "EEG. The electroencephalogram (EEG) is a medical test used to measure the electrical activity of the brain. A number of electrodes are applied to our scalp. EEG can help diagnose a number of conditions including epilepsy, sleep disorders and brain tumors."
+    "explanation": "An electroencephalogram (EEG) records the electrical activity of the brain via electrodes placed on the scalp and is the primary diagnostic tool to confirm, classify, and track seizure activity."
   },
   {
     "id": "kpsc_ph_256",
-    "question": "Systematic acidifier",
+    "question": "Systemic acidifier:",
     "options": {
       "A": "Potassium iodide",
       "B": "Ammonium Chloride",
@@ -69,11 +69,11 @@ window.quizPart6 = [
       "D": "Antimony trichloride"
     },
     "answer": "B",
-    "explanation": "acidifying agent in treatment of severe metabolic alkalosis. The main application of Ammonium chloride is as a nitrogen source in fertilizer.. Fluxes such as Ammonium chloride are used to prepare metal for tin coating, galvanizing, or soldering."
+    "explanation": "Ammonium chloride is a systemic acidifying agent metabolized by the liver into urea and hydrochloric acid, releasing hydrogen ions that help treat severe metabolic alkalosis."
   },
   {
     "id": "kpsc_ph_257",
-    "question": "Which is the buffering agent in Dakin Solution?",
+    "question": "Which is the buffering agent in Dakin's Solution?",
     "options": {
       "A": "Boric acid",
       "B": "Chlorinated lime",
@@ -81,11 +81,11 @@ window.quizPart6 = [
       "D": "Ammonium Chloride"
     },
     "answer": "A",
-    "explanation": "hypochlorite (0.4% to 0.5%) and boric acid (4%) diluted in water. The boric acid (H3BO3) acts as a buffering agent to maintain a pH of between 9 and 10, as alkalinity outside this range is found to be much more irritating. Boric acid is also a mildly effective antiseptic."
+    "explanation": "Dakin's solution contains diluted sodium hypochlorite. Boric acid is added as a buffering agent to maintain the alkaline pH between 9 and 10, preventing irritation to delicate tissues while preserving antimicrobial effectiveness."
   },
   {
     "id": "kpsc_ph_258",
-    "question": "Which of the following element is needed for the formation of thyroid hormones?",
+    "question": "Which of the following elements is needed for the formation of thyroid hormones?",
     "options": {
       "A": "Iodine",
       "B": "Iron",
@@ -93,11 +93,11 @@ window.quizPart6 = [
       "D": "Sulphur"
     },
     "answer": "A",
-    "explanation": "thyroid hormones, comprising 65% of T4 's weight, and 58% of T3 's. The thyroid hormones are the only iodine containing compounds with established physiologic significance in vertebrates."
+    "explanation": "Iodine is an essential constituent required for the biosynthesis of the thyroid hormones thyroxine (T4) and triiodothyronine (T3), accounting for a significant percentage of their molecular weight."
   },
   {
     "id": "kpsc_ph_259",
-    "question": "Which is used in burns?",
+    "question": "Which is used in the first-aid treatment of hydrofluoric acid burns?",
     "options": {
       "A": "Ammonium Chloride",
       "B": "Calcium gluconate",
@@ -105,11 +105,11 @@ window.quizPart6 = [
       "D": "Silver nitrate"
     },
     "answer": "B",
-    "explanation": "USP calcium gluconate in a surgical water soluble lubricant, is widely used for first aid or primary treatment of Hydrofluoric acid burns of skin. Silver nitrate ointment is an effective and safe medicament for the clinical management of partial thickness burn wounds."
+    "explanation": "Calcium gluconate gel is the drug of choice for treating hydrofluoric acid burns. The calcium ions bind up the destructive fluoride ions to form insoluble calcium fluoride, preventing deep tissue damage."
   },
   {
     "id": "kpsc_ph_260",
-    "question": "According to Lowry bronsted theory Acid is",
+    "question": "According to the Brønsted-Lowry theory, an Acid is a:",
     "options": {
       "A": "Electron pair donor",
       "B": "Electron pair acceptor",
@@ -117,35 +117,35 @@ window.quizPart6 = [
       "D": "Proton donor"
     },
     "answer": "D",
-    "explanation": "proton (H+) donor, and a base is a proton (H+) acceptor. When a bransted-Lowey acid loses a proton, a conjugate base is formed. Similarly when a Bronsted- Lowry base gains a proton, a conjugate acid is formed,"
+    "explanation": "Under the Brønsted-Lowry concept, an acid is defined as a proton (H+) donor, whereas a base acts as a proton acceptor."
   },
   {
     "id": "kpsc_ph_261",
-    "question": "Antidote for cyanide poisoning",
+    "question": "Antidote component for cyanide poisoning:",
     "options": {
-      "A": "Potassium chloride (b) Sodium Chloride",
-      "B": "",
+      "A": "Potassium chloride",
+      "B": "Sodium Chloride",
       "C": "Sodium Nitrite",
       "D": "Ferrous Sulphate"
     },
     "answer": "C",
-    "explanation": "Hydroxocobalamin, Sodium nitrite and Sodium thiosulfate."
+    "explanation": "Sodium nitrite is an essential component of the standard cyanide antidote kit. It induces methemoglobinemia, which safely binds cyanide ions to form cyanmethemoglobin, diverting them away from cytochrome oxidase."
   },
   {
     "id": "kpsc_ph_262",
-    "question": "Select an antitubercular agent from the following",
+    "question": "Select an antitubercular agent from the following:",
     "options": {
-      "A": "Calcium Amino salicylate",
-      "B": "Calcium panto thenate",
+      "A": "Calcium Aminosalicylate",
+      "B": "Calcium Pantothenate",
       "C": "Calcium Lactate",
       "D": "Calcium Gluconate"
     },
     "answer": "A",
-    "explanation": "durgs used to treat tuberculosis. Tuberculosis (TB) is a disease caused by mycobacterium tuberculosis (M–TB). Aminosalicylate calcium is a calcium salt form of aminosalicyclic acid, an analog of Para- amino benzoic acid (PABA) with antitubercular activity."
+    "explanation": "Calcium aminosalicylate is the salt form of para-aminosalicylic acid (PAS), which functions as an structural analog of PABA and acts as an effective secondary antitubercular agent."
   },
   {
     "id": "kpsc_ph_263",
-    "question": "What is the concetration of Iodine in Lugol's solution ================================================================================ PAGE : 201 ================================================================================ Pharmaceutical Chemistry 201 YCT",
+    "question": "What is the concentration of Iodine in Lugol's solution?",
     "options": {
       "A": "10% w/v",
       "B": "15% w/v",
@@ -153,11 +153,11 @@ window.quizPart6 = [
       "D": "5% w/v"
     },
     "answer": "D",
-    "explanation": "french physician Jean Guillaume August Lugol, initially as a cure for tuberculosis. It is a solution of elemental iodine (5% or 5% w/v) and potassium iodide (KI,10%) together with distilled water. It has been used as a disinfectant, a reagent for starch detection in organic compound, in histologic preparations, in dental procedures and in diagnosis of cervical cell alternation, the Schiller,'s test."
+    "explanation": "Lugol's solution (Strong Iodine Solution) contains 5% w/v of elemental iodine and 10% w/v of potassium iodide in purified water."
   },
   {
     "id": "kpsc_ph_264",
-    "question": "A biguanide derivative which is used as an Antimalarial drug",
+    "question": "A biguanide derivative which is used as an Antimalarial drug:",
     "options": {
       "A": "Guanethidine",
       "B": "Proguanil",
@@ -165,35 +165,35 @@ window.quizPart6 = [
       "D": "Pyrimethamine"
     },
     "answer": "B",
-    "explanation": "anti hyperglycemic and anti malarial drugs eg-1,1 demethyl biguanide (metformin), phenyl ethyl, biguanide (phenformin), N-(4-chlorophenyl) -N- (isopropyl)-imidodicarbonimidic diamide (Proguanil)."
+    "explanation": "Proguanil is a biguanide derivative that functions as a prophylactic and therapeutic antimalarial drug, working as a prodrug converted into cycloguanil to inhibit dihydrofolate reductase."
   },
   {
     "id": "kpsc_ph_265",
     "question": "Which one of the following is used as an antifungal drug?",
     "options": {
       "A": "Hamycin",
-      "B": "Mytomycin",
+      "B": "Mitomycin",
       "C": "Neomycin",
       "D": "Cycloserine"
     },
     "answer": "A",
-    "explanation": "produced by Streptomyces pimprina thirum. It has potent in vitro antifungal activity against wide range of pathogenic fungi and has therapeutic efficiency in mice infected with a variety of yeast and yeast like and filamentous fungi, such as- Candida albicans, Cryptococcus neoformans, Histoplasma capsulatum, Blastomyces dermatitidis and Aspergillus niger ."
+    "explanation": "Hamycin is a polyene macrolide antifungal antibiotic isolated from Streptomyces pimprina, used in treating cutaneous and systemic mycotic infections."
   },
   {
     "id": "kpsc_ph_266",
     "question": "Which one of the following is an alkylating agent?",
     "options": {
-      "A": "Busulphan",
+      "A": "Busulfan",
       "B": "Azathioprine",
       "C": "Fluorouracil",
       "D": "Actinomycin"
     },
     "answer": "A",
-    "explanation": "or anticancer drugs which act by inhibiting the transcription of DNA into RNA & thereby stopping the protein synthesis. Some examples of alkylating agents, Alkylsulfonates (Busulfan), Ethylene imines (thiotepa), and triazine (dacarbazine), Cisplatin, Nitrosoureas (Carmustine, lomustine semustine) etc."
+    "explanation": "Busulfan is a bifunctional alkylsulfonate alkylating agent used as a chemotherapeutic drug that interferes with DNA replication by cross-linking DNA strands."
   },
   {
     "id": "kpsc_ph_267",
-    "question": "The Chemical used for fumigation of rooms is",
+    "question": "The chemical used for gaseous fumigation of rooms is:",
     "options": {
       "A": "Formaldehyde",
       "B": "Acetaldehyde",
@@ -201,11 +201,11 @@ window.quizPart6 = [
       "D": "Nitrogen"
     },
     "answer": "A",
-    "explanation": "formaldehyde. Fumigation is a method of using a lethal gas to exter minate pests with in inclosed space. The other examples of fumigants are ethylene oxide, methylbromide, Hydrogen peroxide vapour and Chlorine dioxide."
+    "explanation": "Formaldehyde gas (often generated by heating paraformaldehyde or reacting formalin with potassium permanganate) is standardly used for room fumigation and disinfection in clean rooms and laboratories."
   },
   {
     "id": "kpsc_ph_268",
-    "question": "The role of talc used in tablet is",
+    "question": "The role of talc used in tablets is:",
     "options": {
       "A": "Lubricant",
       "B": "Disintegrant",
@@ -213,11 +213,11 @@ window.quizPart6 = [
       "D": "Both lubricant and glidant"
     },
     "answer": "D",
-    "explanation": "is most commonly known as 'talc' Talc is commonly used in tablet formulations as a lubricant and diluent, which helps to improve the flow properties of the powder mixture and ensure that the tablets are easily swallowed. Talc is also used as a glidant in capsule formulations to improve the flow of the powder in to the capsule."
+    "explanation": "Purified talc acts as both a lubricant (reducing friction between the tablet surface and the die wall) and a glidant (improving the flowability of powder granules prior to compression)."
   },
   {
     "id": "kpsc_ph_269",
-    "question": "Burton's line is a clinical sign found in patients with chronic poisoning of",
+    "question": "Burton's line is a clinical sign found in patients with chronic poisoning of:",
     "options": {
       "A": "Mercury",
       "B": "Lead",
@@ -225,11 +225,11 @@ window.quizPart6 = [
       "D": "Arsenic"
     },
     "answer": "B",
-    "explanation": "gums seen in lead poisoning. It is caused by a reaction between circulating lead with sulphur ions released by oral bacterial activity, which deposits lead sulphide at the junction of the teeth and gums."
+    "explanation": "Burton's line is a distinct blue-purplish line along the margin of the gums seen in chronic lead poisoning, caused by lead sulfide deposition following reactions with oral bacterial sulfides."
   },
   {
     "id": "kpsc_ph_270",
-    "question": "An industry manfacturing a chemical by a standardized chemical reaction is called",
+    "question": "An industry manufacturing a chemical by a standardized chemical reaction is called a:",
     "options": {
       "A": "Processing industry",
       "B": "Analytical industry",
@@ -237,11 +237,11 @@ window.quizPart6 = [
       "D": "Synthetic industry"
     },
     "answer": "D",
-    "explanation": "standardized chemical reaction is called synthetic industry. A chemically synthesis usually involves the breaking of existing bonds and the formation of new ones. synthesis of a complex molecule may involve considerable number of individual reactions in sequence from available starting materials to the desired and product."
+    "explanation": "A synthetic industry combines raw components or chemical intermediates through specific chemical reactions to build and manufacture entirely new, complex chemical products."
   },
   {
     "id": "kpsc_ph_271",
-    "question": "The antiseptic which is an acridine derivative",
+    "question": "The antiseptic which is an acridine derivative:",
     "options": {
       "A": "Cetrimide",
       "B": "Proflavine",
@@ -249,23 +249,23 @@ window.quizPart6 = [
       "D": "Hexachlorophene"
     },
     "answer": "B",
-    "explanation": "proflavine, proflavine also called proflavin and diaminoacridine is an acriflavine derivative a disinfeatant bacteriostatic against many gram positive bacteria. Proflavine is an acriflavine derivative."
+    "explanation": "Proflavine (diaminoacridine) is a topical antiseptic and disinfectant belonging to the acridine dye family, working effectively as a bacteriostatic agent."
   },
   {
     "id": "kpsc_ph_272",
-    "question": "Co-trimoxazole contains sulphamethoxazole and trimethoprim in the ratio",
+    "question": "Co-trimoxazole contains sulphamethoxazole and trimethoprim in the ratio of:",
     "options": {
-      "A": "5 SMX :1 TMP)",
-      "B": "1 SMX :5 TMP",
-      "C": "5 SMX :5  TMP",
-      "D": "1 SMX :1  TMP"
+      "A": "5 SMX : 1 TMP",
+      "B": "1 SMX : 5 TMP",
+      "C": "5 SMX : 5 TMP",
+      "D": "1 SMX : 1 TMP"
     },
     "answer": "A",
-    "explanation": "their frequent use in association co-trimoxazole in a 5:1 ratio (SMX : TMP) for medication, purposes, generating a unique opportunity to globally a evaluate the validity of this ratio based on concentration values."
+    "explanation": "Co-trimoxazole formulations maintain a fixed 5:1 dose ratio of Sulphamethoxazole (SMX) to Trimethoprim (TMP) to provide synergistic sequential blockade of bacterial folate synthesis."
   },
   {
     "id": "kpsc_ph_273",
-    "question": "The heterocyclic system present in isoniazid",
+    "question": "The heterocyclic ring system present in isoniazid is:",
     "options": {
       "A": "Pyrazole",
       "B": "Pyrrole",
@@ -273,11 +273,11 @@ window.quizPart6 = [
       "D": "Pyrazine"
     },
     "answer": "C",
-    "explanation": "is pyridine. Pyridine is a heterocyclic compound which is a colourless to yellow liquid with a chemical formula C5H5N. It is basic heterocyclic organic compound. It is also known as Azine → Pyrazole is an organic compound with the formula C3H3N2H."
+    "explanation": "Isoniazid (isonicotinic acid hydrazide) contains a six-membered pyridine ring system substituted at the 4-position with a hydrazide group."
   },
   {
     "id": "kpsc_ph_274",
-    "question": "Examples of liquid Antiperspirants",
+    "question": "Examples of liquid antiperspirants include:",
     "options": {
       "A": "Zinc stearate",
       "B": "Talc",
@@ -285,23 +285,23 @@ window.quizPart6 = [
       "D": "Aluminium chlorohydrate"
     },
     "answer": "D",
-    "explanation": "common active ingredients in commercial commonly used in deodorants and antiperspirants is Al2 Cl (OH)5 ================================================================================ PAGE : 209 ================================================================================ Pharmaceutical Chemistry 209 YCT"
+    "explanation": "Aluminium chlorohydrate is an active astringent salt commonly incorporated into liquid and roll-on antiperspirants to block sweat gland ducts temporarily."
   },
   {
     "id": "kpsc_ph_275",
-    "question": "Hair remover is otherwise called",
+    "question": "Chemical hair removers are otherwise called:",
     "options": {
-      "A": "Epilation",
-      "B": "Electrolysis",
+      "A": "Epilators",
+      "B": "Electrolysis agents",
       "C": "Depilatories",
       "D": "All of the above"
     },
     "answer": "C",
-    "explanation": "common methods used to remove superfluous and other unwanted hair they function by disintegrating hair into an amorphous mass which is then scraped , wiped or 'rinsed off the skin. Their primary effect is on the keratin protein that makes up the hair shaft."
+    "explanation": "Depilatories are chemical formulations designed to remove unwanted hair by systematically breaking down the disulfide bonds within the hair shaft's keratin structure, allowing it to be easily wiped away."
   },
   {
     "id": "kpsc_ph_276",
-    "question": "An organic mercury compound which is commonly used as antiseptic/antifungal agent is",
+    "question": "An organic mercury compound which is commonly used as an antiseptic/preservative agent is:",
     "options": {
       "A": "Mersalyl acid",
       "B": "Mercaptomerin",
@@ -309,11 +309,11 @@ window.quizPart6 = [
       "D": "Chlormerodrin"
     },
     "answer": "C",
-    "explanation": "known for its antiseptic and antifungal properties and used an antibacterial agent, in pharmaceutical products, including vaccines and other injectable biological products."
+    "explanation": "Thiomersal (Thimerosal) is an organomercurial compound widely relied upon for its antiseptic and antifungal profile, serving as a preservative in multi-dose vaccines and ophthalmic preparations."
   },
   {
     "id": "kpsc_ph_277",
-    "question": "Penicillamine is an antidote used in the poisoning of",
+    "question": "Penicillamine is an antidote used in the poisoning of:",
     "options": {
       "A": "Iron",
       "B": "Cyanide",
@@ -321,11 +321,11 @@ window.quizPart6 = [
       "D": "Copper and lead"
     },
     "answer": "D",
-    "explanation": "poisoning of copper and lead. Penicillamine has been widely used in copper or lead, although 2, 3 dimercaptosuccinic acid or tetrathiomolybdate may be more suitable alternatives today."
+    "explanation": "Penicillamine is an effective chelating agent containing sulfhydryl groups that bind divalent metal cations, making it a valuable antidote for copper (as in Wilson's disease) and heavy metal poisoning like lead."
   },
   {
     "id": "kpsc_ph_278",
-    "question": "An oxidative antimicrobial agent is",
+    "question": "An oxidative antimicrobial agent is:",
     "options": {
       "A": "Yellow mercuric oxide",
       "B": "Povidone-Iodine",
@@ -333,23 +333,23 @@ window.quizPart6 = [
       "D": "Sulphur Dioxide"
     },
     "answer": "C",
-    "explanation": "common irrigant, is excellent nonspecific proteolytic and antimicrobial agent, the purpose of this paper is to review the antimicrobial activity of sodium hypochlorite."
+    "explanation": "Sodium hypochlorite acts as an oxidative antimicrobial agent by releasing hypochlorous acid, which destroys cells through lipid peroxidation and oxidative protein denaturation."
   },
   {
     "id": "kpsc_ph_279",
-    "question": "Which of the following is an incorrect statement regarding ammonium chloride? ingredient in cough mixtures poisoning",
+    "question": "Which of the following is an incorrect statement regarding ammonium chloride?",
     "options": {
-      "A": "It is an irritating expectorant and used as an",
-      "B": "Given to aid easy elimination in lead",
-      "C": "In the liver it is metabolised into urea",
+      "A": "It is an irritating expectorant used in cough mixtures",
+      "B": "It is given to aid easy elimination in lead poisoning",
+      "C": "In the liver it is metabolized into urea",
       "D": "It is used as a systemic alkaliniser"
     },
     "answer": "D",
-    "explanation": "incorrect statement regarding ammonium chloride, sodium citrate is absorbed and metabolized to sodium bicarbonate thus acting as a systemic alkalizer the effects are essentially those of chlorides before absorption and those of bicarbonates sodium citrate is absorbed and metabolized to sodium bicarbonate thus acting as a system alkalizer."
+    "explanation": "Ammonium chloride is a systemic acidifier, not an alkaliniser. The statement in option D is therefore incorrect."
   },
   {
     "id": "kpsc_ph_280",
-    "question": "Which one of the following is used for the treatment of schistosomiasis (Kala-azar) and administered intravenously?",
+    "question": "Which one of the following is used for the treatment of leishmaniasis (Kala-azar) and schistosomiasis?",
     "options": {
       "A": "Antimony potassium tartrate",
       "B": "Potassium iodide",
@@ -357,11 +357,11 @@ window.quizPart6 = [
       "D": "Strontium chloride"
     },
     "answer": "A",
-    "explanation": "potassium antimony tartrate, potassium antimontarterate, or torrar emetic has the formula K2Sb2 (C4H4O6)2. The compound has long been known as a powerful emetic, and was used in the treatment of schistosomiasis and leishmaniasis."
+    "explanation": "Antimony potassium tartrate (Tartar emetic) is a classical trivalent antimonial compound historically administered intravenously to treat schistosomiasis and visceral leishmaniasis (Kala-azar)."
   },
   {
     "id": "kpsc_ph_281",
-    "question": "A sulphur compound which is a common ingredient in shampoos and lotions for the treatment of dandruff and seborrhoeic dermatitis",
+    "question": "A sulphur compound which is a common ingredient in shampoos and lotions for the treatment of dandruff and seborrhoeic dermatitis:",
     "options": {
       "A": "Selenium sulphide",
       "B": "Sodium bisulphite",
@@ -369,23 +369,23 @@ window.quizPart6 = [
       "D": "Strontium sulphide"
     },
     "answer": "A",
-    "explanation": "sulfide. It is a chemical compound and medication used to treat seborrheic dermatitis dandruff and pityriasis vesicolor. It is applied to the affected area as a lotion or shampoo."
+    "explanation": "Selenium sulfide is an effective antifungal and antiseborrheic agent commonly incorporated into medicated shampoos to control dandruff and seborrheic dermatitis."
   },
   {
     "id": "kpsc_ph_282",
-    "question": "Green vitriol is RUSH Pharmacist (16.06.2012)",
+    "question": "Green vitriol is the common name for:",
     "options": {
       "A": "Ferrous fumarate",
       "B": "Ferrous sulphate",
-      "C": "Magnesium sulphate (d) Zinc sulphate",
-      "D": ""
+      "C": "Magnesium sulphate",
+      "D": "Zinc sulphate"
     },
     "answer": "B",
-    "explanation": "The crystals of ferrous sulphate are light green in colour. Vitriol is a chemical name for the chemical substances containing sulphates of metals like iron or copper or Zinc. Thus, ferrous sulphate is called green vitriol. → Iron (II) fumarate, also known as ferrous fumarate. It is the iron (II) salt of fumaric acid occurring as a reddish- orange powder used to supplement iron intake. It has the chemical formula C4H2FeO4."
+    "explanation": "Heptahydrate ferrous sulphate crystals possess a distinct light green appearance, earning it the historical chemical synonym 'green vitriol'."
   },
   {
     "id": "kpsc_ph_283",
-    "question": "Which one of the following drugs is used as an antidote in organophosphorus poisoning ?",
+    "question": "Which one of the following drugs is used as an antidote in organophosphorus poisoning?",
     "options": {
       "A": "Acetylcholine",
       "B": "Atropine",
@@ -393,11 +393,11 @@ window.quizPart6 = [
       "D": "Dimercaprol"
     },
     "answer": "B",
-    "explanation": "insecticides and which can also harm people and animals when exposed to them. Its poisoning can occur after short or long term exposure. Atropine is used by doctors to treat the poisoning caused by this substance. Atropine is a tropane alkaloid and anticholinergic medication used to treat certain types of agents."
+    "explanation": "Atropine is a competitive muscarinic acetylcholine receptor antagonist used as an immediate antidote to reverse severe life-threatening muscarinic symptoms of organophosphorus poisoning."
   },
   {
     "id": "kpsc_ph_284",
-    "question": "The following is not an antifungal drug :",
+    "question": "The following is NOT an antifungal drug:",
     "options": {
       "A": "Amphotericin-B",
       "B": "Neomycin",
@@ -405,11 +405,11 @@ window.quizPart6 = [
       "D": "Terbinafine"
     },
     "answer": "B",
-    "explanation": "an antibiotic and is used to prevent or treat skin infections caused by bacteria. Neomycin is not effective against fungal or viral infections."
+    "explanation": "Neomycin is an aminoglycoside antibiotic profile targeting bacterial protein synthesis. It possesses no therapeutic activity against fungal microorganisms."
   },
   {
     "id": "kpsc_ph_285",
-    "question": "These compounds inhibit the reuptake of norepinephrine and serotonin into adrenergic neurons. What are they ?",
+    "question": "These compounds inhibit the reuptake of norepinephrine and serotonin into adrenergic neurons. What are they?",
     "options": {
       "A": "Barbiturates",
       "B": "Tricyclic antidepressants",
@@ -417,11 +417,11 @@ window.quizPart6 = [
       "D": "Benzodiazepines"
     },
     "answer": "B",
-    "explanation": "used in inhibiting reuptake of norepinephrine and serotonin into adrenergic neurons. Use of tricyclic antidepressants leads to increased concentration of these neurotransmitters (norpinephrine & serotonin) in the synaptic cleft."
+    "explanation": "Tricyclic Antidepressants (TCAs) primarily target and block the monoamine reuptake transporters, raising synaptic levels of both norepinephrine and serotonin."
   },
   {
     "id": "kpsc_ph_286",
-    "question": "The antibiotic obtained from Streptomyces venezuelae",
+    "question": "The antibiotic obtained from Streptomyces venezuelae is:",
     "options": {
       "A": "Chloramphenicol",
       "B": "Novobiocin",
@@ -429,11 +429,11 @@ window.quizPart6 = [
       "D": "Erythromycin"
     },
     "answer": "A",
-    "explanation": "by streptomyces venezuelae. Chloramphenicol is a antibiotic useful for the treatment of a number of bacterial infections ."
+    "explanation": "Chloramphenicol was originally discovered and isolated from fermentation cultures of the soil bacterium Streptomyces venezuelae."
   },
   {
     "id": "kpsc_ph_287",
-    "question": "Co-trimoxazole contains two antibiotics. What are they ? ================================================================================ PAGE : 216 ================================================================================ Pharmaceutical Chemistry 216 YCT",
+    "question": "Co-trimoxazole contains two antibiotics. What are they?",
     "options": {
       "A": "Sulphadiazine and trimethoprim",
       "B": "Sulphaguanidine and trimethoprim",
@@ -441,11 +441,11 @@ window.quizPart6 = [
       "D": "Sulphamethoxazole and trimethoprim"
     },
     "answer": "D",
-    "explanation": "different antibiotic called sulfamethoxazole and trimethoprim. Co-trimoxazole is used to treat certain bacterial infections, such as pneumonia (a lung infection), bronchitis and infections of the urinary tract, ears and intestines."
+    "explanation": "Co-trimoxazole is a combined antibacterial preparation consisting of the sulfonamide agent sulphamethoxazole paired with trimethoprim."
   },
   {
     "id": "kpsc_ph_288",
-    "question": "Percentage w/v of Benzalkonium chloride in eye drop used as preservative",
+    "question": "Percentage w/v of Benzalkonium chloride typically used as a preservative in eye drops is:",
     "options": {
       "A": "0.02",
       "B": "0.01",
@@ -453,11 +453,11 @@ window.quizPart6 = [
       "D": "0.1"
     },
     "answer": "B",
-    "explanation": "preservative in eye drops at concentration range from"
+    "explanation": "Benzalkonium chloride is standardly used as an antimicrobial preservative in multi-dose ophthalmic drops at a typical concentration of 0.01% w/v."
   },
   {
     "id": "kpsc_ph_289",
-    "question": "Abrasive agent used in dentifrices",
+    "question": "An abrasive agent commonly used in dentifrices is:",
     "options": {
       "A": "Sodium Alginate",
       "B": "Calcium Carbonate",
@@ -465,11 +465,11 @@ window.quizPart6 = [
       "D": "Sodium Benzoate"
     },
     "answer": "B",
-    "explanation": "dentifrices are phosphates, carbonates and silicas. Among these calcium carbonate is most common. A high - quality dentifrice contains silica- but it is a costly substance and therefore to a maintain the cost at limit, low graded substances as- calcium carbonate, iron- oxide etc, are used as abrasives."
+    "explanation": "Calcium carbonate is a standard, cost-effective abrasive powder utilized in toothpastes and dentifrices to mechanically strip plaque and debris from teeth surfaces."
   },
   {
     "id": "kpsc_ph_290",
-    "question": "Antioxidant used in lipsticks",
+    "question": "Antioxidant used in lipsticks:",
     "options": {
       "A": "Eosin",
       "B": "Coconut oil",
@@ -477,11 +477,11 @@ window.quizPart6 = [
       "D": "Titanium dioxide"
     },
     "answer": "C",
-    "explanation": "stabiliser that can be found in cosmetic products e,g lipsticks etc. It acts as an antioxidant that help in maintaining the properties and performance of a product."
+    "explanation": "Butylated Hydroxytoluene (BHT) is an oil-soluble antioxidant frequently added to cosmetic lipid bases like lipsticks to prevent the oxidative rancidity of natural waxes and oils."
   },
   {
     "id": "kpsc_ph_291",
-    "question": "All the gases given below are used for gaseous sterilization except",
+    "question": "All the gases given below are used for gaseous sterilization except:",
     "options": {
       "A": "Formaldehyde",
       "B": "Ethylene Oxide",
@@ -489,59 +489,59 @@ window.quizPart6 = [
       "D": "Beta-Propiolactone"
     },
     "answer": "C",
-    "explanation": "is the method where the object is exposed to gas in a closed, heated and pressurized chamber. Types of gases used for sterilization – i.e., ethylene oxide, formaldehyde gas & Beta propiolactone (BPL). So nitrous oxide is not used for gaseous sterilization."
+    "explanation": "Ethylene oxide, formaldehyde, and beta-propiolactone are well-recognized alkylating gases used for sterilization. Nitrous oxide is an anesthetic gas and lacks sterilization properties."
   },
   {
     "id": "kpsc_ph_292",
-    "question": "In which theory is the acid an electron pair acceptor and the base an electron pair donor ?",
+    "question": "In which theory is the acid defined as an electron pair acceptor and the base as an electron pair donor?",
     "options": {
-      "A": "Bronsted-Lowry concept",
+      "A": "Brønsted-Lowry concept",
       "B": "Lewis concept",
       "C": "Arrhenius concept",
       "D": "Hard and Soft acid base concept"
     },
     "answer": "B",
-    "explanation": "substance that accepts a pair of electrons, while bases donate pairs of electrons. Therefore it is observed that in the Lewis theory of acid base reaction, bases donate pairs of electrons and acids accept pairs of electrons. → Bronsted - Lowry Theory- According to this theory (or concept) acid is a substance which donate H+ ion, (or proton) on the other hand a base is an acceptor of proton (or H+ ion) → Arrhenius theory - According to this theory of Acid and Base, acid is a substance that gives H+ ion, when dissolved in water and a base on dissolving in water gives OH– ion."
+    "explanation": "The Lewis concept of acids and bases explicitly defines an acid as any chemical species capable of accepting an electron pair, and a base as a species that donates an electron pair."
   },
   {
     "id": "kpsc_ph_293",
-    "question": "Muriatic acid is the synonym of",
+    "question": "Muriatic acid is the historical synonym of:",
     "options": {
-      "A": "Hydrochloric Acid (b) Sulphuric Acid",
-      "B": "",
+      "A": "Hydrochloric Acid",
+      "B": "Sulphuric Acid",
       "C": "Nitric Acid",
       "D": "Phosphoric Acid"
     },
     "answer": "A",
-    "explanation": "acid, which is an aqueous solution of hydrogen chloride. It is a corrosive strong acid. It is also known as spirits of salt or acidum salis. → Another name of Sulfuric acid is oil of vitriol. → Nitric acid is also known by another name aqua fortis."
+    "explanation": "Muriatic acid is a traditional commercial synonym for hydrochloric acid (HCl), derived from the Latin word 'muria' meaning brine."
   },
   {
     "id": "kpsc_ph_294",
-    "question": "2% W/V iodine and 2.5% W/V Potassium Iodide",
+    "question": "A solution containing 2% w/v Iodine and 2.5% w/v Potassium Iodide in water is:",
     "options": {
-      "A": "Aqueous Iodide Solution",
+      "A": "Aqueous Iodine Solution",
       "B": "Strong Iodine Solution",
       "C": "Weak Iodine Solution",
       "D": "Povidone-Iodine Solution"
     },
     "answer": "C",
-    "explanation": "Iodine and 2.5% w/v Potassium Iodine, in purified water. It does not contain any alcohol. It is also known as tincture of iodine. → Strong Iodine solution on the other hand contains"
+    "explanation": "Weak Iodine Solution (often referred to as Tincture of Iodine, though aqueous variants exist under similar regulatory monographs) contains 2% w/v Iodine and 2.5% w/v Potassium Iodide."
   },
   {
     "id": "kpsc_ph_295",
-    "question": "Astringent compound exhibit the following properties except :",
+    "question": "Astringent compounds exhibit the following properties except:",
     "options": {
       "A": "Styptic",
       "B": "Anti-inflammatory",
-      "C": "Anti-persperant",
+      "C": "Anti-perspirant",
       "D": "Anti-tussive"
     },
     "answer": "D",
-    "explanation": "shrinks or constricts body tissues i,e it is antiinflammatory, it is anti persperant i,e it restricts the secretion of fluids and it also shows styptic property i,e capable of stoping bleeding when it s applied to a wound."
+    "explanation": "Astringents cause localized protein precipitation that constricts tissues, helping as styptics (stopping minor bleeding), local anti-inflammatories, and antiperspirants. They do not possess anti-tussive (cough-suppressant) properties."
   },
   {
     "id": "kpsc_ph_296",
-    "question": "Flower of sulphur is the synonym of Or Flower of sulphur is a- BSSC Pharmacist (2018) ================================================================================ PAGE : 217 ================================================================================ Pharmaceutical Chemistry 217 YCT",
+    "question": "'Flowers of sulphur' is the synonym of:",
     "options": {
       "A": "Sublimed sulphur",
       "B": "Precipitated sulphur",
@@ -549,11 +549,11 @@ window.quizPart6 = [
       "D": "Selenium sulphide"
     },
     "answer": "A",
-    "explanation": "powder that is produced by sublimation and deposition. Sulphur flower treats most skin complaints in pets and farm animal. It kills and repels fleas, ticks, mites and lice."
+    "explanation": "Flowers of sulphur is the classic commercial name for sublimed sulphur, a fine yellow crystalline powder obtained through the condensation of sulphur vapor."
   },
   {
     "id": "kpsc_ph_297",
-    "question": "Chlorine reacts with Calcium Hydroxide to produce",
+    "question": "Chlorine reacts with Calcium Hydroxide to produce:",
     "options": {
       "A": "Sodium Hypochlorite Solution",
       "B": "Chlorinated Lime",
@@ -561,23 +561,23 @@ window.quizPart6 = [
       "D": "Calcium Gluconate"
     },
     "answer": "B",
-    "explanation": "as chlorinated lime. It is a white powder used for bleaching or disinfecting. It is produced via the reaction of chlorine gas with calcium hydroxide [Ca(OH)2]."
+    "explanation": "Passing chlorine gas through slaked calcium hydroxide [Ca(OH)2] produces chlorinated lime, commonly known as bleaching powder, used widely as a disinfectant."
   },
   {
     "id": "kpsc_ph_298",
-    "question": "Which of the following is not used as expectorant ?",
+    "question": "Which of the following is NOT used as an expectorant?",
     "options": {
-      "A": "Ammonium Chloride (b) Potassium Iodide",
-      "B": "",
-      "C": "Guaicol",
+      "A": "Ammonium Chloride",
+      "B": "Potassium Iodide",
+      "C": "Guaifenesin",
       "D": "Sodium Nitrite"
     },
     "answer": "D",
-    "explanation": "used to help clear mucus (phelgm) form our airway. Common examples of expectorants are guaifensin, ammonium chloride combined with diphenylhydramine. Sodium Nitrite is not used as expectorant. Sodium Nitrite is used in manufacturing of diazodyes and other organic compounds used in manufacture of organic pigment for paint, dye, printing ink, industries."
+    "explanation": "Ammonium chloride, potassium iodide, and guaifenesin are all clinical expectorants that clear respiratory mucus. Sodium nitrite is an antidote component and industrial chemical, not an expectorant."
   },
   {
     "id": "kpsc_ph_299",
-    "question": "In the assay of Hydrogen Peroxide the indicator used is",
+    "question": "In the assay of Hydrogen Peroxide, the titrant/indicator used is:",
     "options": {
       "A": "Potassium Permanganate",
       "B": "Phenolphthalein",
@@ -585,18 +585,18 @@ window.quizPart6 = [
       "D": "Thymol Blue"
     },
     "answer": "A",
-    "explanation": "indicator to detect hydrogen peroxide concentration potassium permanganate is used as an oxidizing agent to determine the hydrogen peroxide amount in solution."
+    "explanation": "The assay of hydrogen peroxide involves a redox titration using potassium permanganate (KMnO4), which serves as both the powerful oxidizing titrant and its own self-indicator."
   },
   {
     "id": "kpsc_ph_300",
-    "question": "Drugs that help in removing sputum from respiratory tract either by increasing fluidity of sputum or increasing the volume of fluid that have to be expelled from respiratory tract",
+    "question": "Drugs that help in removing sputum from the respiratory tract either by increasing its fluidity or increasing its volume to be expelled are:",
     "options": {
       "A": "Emetics",
-      "B": "Expectorant",
+      "B": "Expectorants",
       "C": "Astringents",
       "D": "Respiratory Stimulants"
     },
     "answer": "B",
-    "explanation": "respiratory tract are generally called expectorant. An expectorant is a medicine which can be used to remove cough that produces mucus. Expectorant help in thining the secretions in our airway and loosen up mucus."
+    "explanation": "Expectorants are respiratory drugs designed to optimize sputum ejection by reducing dynamic mucus viscosity or expanding fluid volume within the respiratory tract."
   }
 ];
