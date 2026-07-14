@@ -9,31 +9,31 @@ window.quizPart3 = [
       "D": "All of the above"
     },
     "answer": "A",
-    "explanation": "and high thermal shock resistance. It is borosilicate glass with good chemical resistance, It is used for pharmaceuticals requiring the least reactive containers."
+    "explanation": "Type I glass is a highly resistant borosilicate glass. It possesses superior chemical durability, exceptional hydrolytic resistance, and an excellent capacity to withstand thermal shock, making it ideal for parenteral preparations."
   },
   {
     "id": "kpsc_ph_102",
-    "question": "Choose the incorrect statements about HEPA filter : product. particles of 0.3 mcm or larger. particulate air filter.",
+    "question": "Choose the incorrect statement about HEPA filter:",
     "options": {
-      "A": "It is useful for the preparation of parenteral",
-      "B": "It has the efficiency of removing 100% of",
-      "C": "It is generally described as high-efficiency",
+      "A": "It is useful for the preparation of parenteral products.",
+      "B": "It has the efficiency of removing 100% of particles of 0.3 mcm or larger.",
+      "C": "It is generally described as high-efficiency particulate air filter.",
       "D": "None of the above"
     },
     "answer": "B",
-    "explanation": "filter is used to remove the harmful particulate matter or particles, including dust, spores, mold and other irritating allergens from the air. Theoretically HEPA can remove about 99.97% of dust, pollen, mold or bacteria and any airborne particles of size 0.3 µm."
+    "explanation": "High-Efficiency Particulate Air (HEPA) filters are mathematically certified to remove at least 99.97% of airborne particles that are 0.3 micrometers in diameter, not a absolute 100%."
   },
   {
     "id": "kpsc_ph_103",
-    "question": "Lyophilisation is the another name of",
+    "question": "Lyophilisation is another name for",
     "options": {
-      "A": "Tricturation",
+      "A": "Trituration",
       "B": "Freeze drying",
       "C": "Kneading",
       "D": "Sedimentation"
     },
     "answer": "B",
-    "explanation": "lyophilization. It is a low temperature dehydration process that involves freezing the product and lowering pressure and removing the ice by sublilmation."
+    "explanation": "Lyophilization is a low-temperature dehydration process known commonly as freeze drying. It operates by freezing the material, reducing surrounding pressure, and removing water via direct sublimation of ice into vapor."
   },
   {
     "id": "kpsc_ph_104",
@@ -45,7 +45,7 @@ window.quizPart3 = [
       "D": "Conditioning"
     },
     "answer": "B",
-    "explanation": "as depilation. It is the deliberate removal of body hair or head hair by using chemical substance e.g. hair removing cream etc."
+    "explanation": "Depilation refers to the removal of hair from the surface level of the skin, typically achieved via chemical formulations (depilatories) that split the hair's disulfide bonds. Epilation involves removing the entire strand from the root."
   },
   {
     "id": "kpsc_ph_105",
@@ -57,11 +57,11 @@ window.quizPart3 = [
       "D": "Pyrogen test"
     },
     "answer": "B",
-    "explanation": "product is free from foreign particles. It is carried out to check the particulate matter in the sample. ================================================================================ PAGE : 102 ================================================================================ Pharmaceutics 102 YCT"
+    "explanation": "The clarity test is a quality control parameter used to visually or instrumentally verify that injectable liquids remain entirely free from unintended mobile foreign matter and particulate contaminants."
   },
   {
     "id": "kpsc_ph_106",
-    "question": "Coalescence of the dispersed globules and separation of the disperse as a separate layer in an emulsion is called",
+    "question": "Coalescence of the dispersed globules and separation of the disperse phase as a separate layer in an emulsion is called",
     "options": {
       "A": "Cracking",
       "B": "Creaming",
@@ -69,7 +69,7 @@ window.quizPart3 = [
       "D": "Sticking"
     },
     "answer": "A",
-    "explanation": "separation of the disperse as a separate layer in an emulsion is called cracking. It is the total and irreversible division and fusion of the dispersed stage."
+    "explanation": "Cracking (or breaking) represents an irreversible thermodynamic instability in emulsions where dispersed droplets coalesce completely, driving a permanent separation into distinct oil and water layers."
   },
   {
     "id": "kpsc_ph_107",
@@ -81,11 +81,11 @@ window.quizPart3 = [
       "D": "Strong iodine ointment"
     },
     "answer": "D",
-    "explanation": "chemical reaction method. Aqueous solutions of iodine are strong iodine solution, containing 5% iodine and 10% potassium iodide."
+    "explanation": "Strong Iodine Ointment (Non-staining) relies on a chemical reaction where iodine reacts with unsaturated fatty acids in the base (like arachis oil) to chemically incorporate the active halogen into the oily matrix."
   },
   {
     "id": "kpsc_ph_108",
-    "question": "The hygroscopic or eutectic substance that can be filled into hard gelatin capsules as adsorbent are",
+    "question": "The hygroscopic or eutectic substances that can be filled into hard gelatin capsules using adsorbents are",
     "options": {
       "A": "Oxides of magnesium",
       "B": "Carbonates of calcium",
@@ -93,7 +93,7 @@ window.quizPart3 = [
       "D": "All of the above"
     },
     "answer": "D",
-    "explanation": "and kaolin (china clay) are all used as an extra filler in gelatin film matrix of a capsule to avoid destruction of the medicine by moisture."
+    "explanation": "Hygroscopic, deliquescent, or liquid eutectic mixtures can be processed into hard gelatin capsules by blending them with inert, high-surface-area adsorbents like magnesium oxide, calcium carbonate, or kaolin to stay dry."
   },
   {
     "id": "kpsc_ph_109",
@@ -105,7 +105,7 @@ window.quizPart3 = [
       "D": "300"
     },
     "answer": "C",
-    "explanation": "capacity in mg for capsule number varies with 0's as below- Capsules Number Approximate capacity in mg 000 950 00 650 0 450 1 300 2 250 3 200 4 150 5 100"
+    "explanation": "Standard hard gelatin capsule capacities depend on powder density, but approximate weight capacities follow a classic standard: size 000 (~950 mg), size 00 (~650 mg), size 0 (~450 mg), size 1 (~300 mg), and size 2 (~250 mg)."
   },
   {
     "id": "kpsc_ph_110",
@@ -117,7 +117,7 @@ window.quizPart3 = [
       "D": "Shellac"
     },
     "answer": "B",
-    "explanation": "should resist from dissolving in acid medium. Therefore, except gelatin, all the given materials are used as enteric coating materials. Gelatin coating easily dissolves in acidic environment of stomach."
+    "explanation": "Enteric coatings require specialized polymers like Cellulose Acetate Phthalate (CAP), shellac, or methacrylic acid copolymers that resist gastric acid. Simple gelatin solutions dissolve instantly in the stomach's low pH."
   },
   {
     "id": "kpsc_ph_111",
@@ -129,7 +129,7 @@ window.quizPart3 = [
       "D": "F0-value"
     },
     "answer": "A",
-    "explanation": "for exposure to a defined temperature to reduce viable bacteria by 90%. This value is used in context of microorganisms."
+    "explanation": "The Decimal Reduction Time (D-value) is defined as the time (in minutes) required at a specific temperature and set of conditions to destroy 90% (a 1-log reduction) of a specified microbial population."
   },
   {
     "id": "kpsc_ph_112",
@@ -141,23 +141,23 @@ window.quizPart3 = [
       "D": "Soft gelatin capsule"
     },
     "answer": "B",
-    "explanation": "stomach but break up in the intestine are called enteric coated capsules. The enteric coating allows to survive intact as they pass through the acidic stomach. They then dissolve in the less acidic small intestine to be absorbed."
+    "explanation": "Enteric coated capsules leverage pH-dependent coatings that remain chemically intact through the acidic environment of the stomach, then dissolve rapidly when they reach the neutral-to-alkaline small intestine."
   },
   {
     "id": "kpsc_ph_113",
-    "question": "The sterilization technique in which the final container is heated at 80°C for one hour on each of three successive days",
+    "question": "The sterilization technique in which the final container is heated at 80°C to 100°C for one hour on each of three successive days is",
     "options": {
       "A": "Tyndallisation",
-      "B": "Pastueration",
+      "B": "Pasteurisation",
       "C": "Holder method",
       "D": "Flash method"
     },
     "answer": "A",
-    "explanation": "kills both microorganisms and their endospores. In this technique the final container is heated at 50ºC to 100ºC for 30 to 60 minutes for three successive days each. Therefore, the main principle behind tyndallilzation is the germination of the heat resistant endospores after first heating. Therefore, they are susceptible to death in the second and third rounds of heating."
+    "explanation": "Tyndallization (fractional steam sterilization) involves heating preparations on three consecutive days. The intermediate incubation periods allow heat-resistant bacterial spores to germinate into vulnerable vegetative cells that are destroyed in subsequent rounds."
   },
   {
     "id": "kpsc_ph_114",
-    "question": "Unequal distribution of colour on a coloured tablet is known",
+    "question": "Unequal distribution of colour on a coloured tablet is known as",
     "options": {
       "A": "Capping",
       "B": "Lamination",
@@ -165,19 +165,19 @@ window.quizPart3 = [
       "D": "Picking"
     },
     "answer": "C",
-    "explanation": "with light or dark spots in known by the term mottling."
+    "explanation": "Mottling is a visual compression defect characterized by an uneven distribution of color across the surface of a tablet, presenting as localized light or dark patches."
   },
   {
     "id": "kpsc_ph_115",
-    "question": "In hot air oven the heat is transferred from source to the article by",
+    "question": "In a hot air oven the heat is transferred from the source to the article primarily by",
     "options": {
       "A": "Conduction",
       "B": "Convection",
       "C": "Radiation",
       "D": "All of the above"
     },
-    "answer": "C",
-    "explanation": "devices which use dry heat to sterilize. They were originally developed by Louis Pasteur. ================================================================================ PAGE : 110 ================================================================================ Pharmaceutics 110 YCT uniform weight. Reasons"
+    "answer": "B",
+    "explanation": "Hot air ovens function via dry heat sterilization, where thermal energy is principally circulated and transferred across the internal chamber to the articles by air convection currents."
   },
   {
     "id": "kpsc_ph_116",
@@ -189,11 +189,11 @@ window.quizPart3 = [
       "D": "Defective scrap"
     },
     "answer": "C",
-    "explanation": "predetermined and arises due to the nature of operations like turning ,boring, punching etc. is called legitimate scrap."
+    "explanation": "Legitimate scrap is an expected, predetermined material waste that arises naturally out of the normal manufacturing operation (e.g., standard loss during punching, boring, or turning)."
   },
   {
     "id": "kpsc_ph_117",
-    "question": "The efficiency of HEPA filter can be tested using",
+    "question": "The efficiency of a HEPA filter can be tested using the",
     "options": {
       "A": "Sterility test",
       "B": "Clarity test",
@@ -201,11 +201,11 @@ window.quizPart3 = [
       "D": "Particle counter"
     },
     "answer": "C",
-    "explanation": "using Dioctyl phthalate smoke test. The DOP (dioctyl phthalate smoke test) is a highly sensitive and reliable technique for measuring the fine particle arresting efficiency of an air or gas cleaning system or device."
+    "explanation": "The Dioctyl Phthalate (DOP) smoke test is an industry-standard method for evaluating HEPA filter integrity by releasing standardized particulate smoke challenges to verify particle retention efficiencies."
   },
   {
     "id": "kpsc_ph_118",
-    "question": "Intravenous administration of calories, nitrogen and other nutrients in sufficient quantities to achieve tissue synthesis is called ================================================================================ PAGE : 111 ================================================================================ Pharmaceutics 111 YCT",
+    "question": "Intravenous administration of calories, nitrogen and other nutrients in sufficient quantities to achieve tissue synthesis is called",
     "options": {
       "A": "I.V. admixtures",
       "B": "I.V. fluids",
@@ -213,7 +213,7 @@ window.quizPart3 = [
       "D": "Total parenteral nutrition"
     },
     "answer": "D",
-    "explanation": "and other nutrients in sufficient quantities to achieve tissue synthesis is called total parenteral nutrition. Parenteral nutrition, often called total Parenteral nutrition is the medical term for infusing a specialized form of food through a vein (intravenously). The goal of the treatment is to correct or prevent malnutrition."
+    "explanation": "Total Parenteral Nutrition (TPN) is the complex intravenous infusion of all essential daily nutrients (amino acids, lipids, dextrose, electrolytes, and vitamins) directly into the central venous system to sustain metabolic needs."
   },
   {
     "id": "kpsc_ph_119",
@@ -225,7 +225,7 @@ window.quizPart3 = [
       "D": "Brilliantines"
     },
     "answer": "A",
-    "explanation": "can use depilatory creams to remove hair on almost every area of our body. Some creams are specially made for sensitive palaces, like our face and bikini area. Our hair will grow back quickly after we remove it with a depilatory cream. Now hair will usually appear within a few days. Depilatory creams remove the hair shaft, not the hair root."
+    "explanation": "Depilatories are cosmetic chemical products designed to temporarily remove hair from body surfaces by dissolving the main keratin structures without affecting the subcutaneous root."
   },
   {
     "id": "kpsc_ph_120",
@@ -237,7 +237,7 @@ window.quizPart3 = [
       "D": "Detergents"
     },
     "answer": "C",
-    "explanation": "surfactant properties of a molecule. A value from 3 to 6 indicates a W/O emulsifier. A value from 7 to 9 indicates a wetting agent."
+    "explanation": "On the Hydrophilic-Lipophilic Balance (HLB) scale, surfactants with low values (3-6) act as w/o emulsifiers, whereas values spanning 7-9 designate effective wetting and spreading agents."
   },
   {
     "id": "kpsc_ph_121",
@@ -249,7 +249,7 @@ window.quizPart3 = [
       "D": "Miotics"
     },
     "answer": "D",
-    "explanation": "of ophthalmic products containing Miotics. Dark green eye drop caps are used for miotics, which costrict the pupil. These eye drops were used the past to lower high eye pressure in primary angle- closure glaucoma, though other treatments are now used. Miotics can also be used to reduce issues with glare after eye surgery."
+    "explanation": "Per standard pharmaceutical manufacturer guidelines, green caps are universally reserved for ophthalmic miotic drops (such as pilocarpine) to help patients safely distinguish them from other classes."
   },
   {
     "id": "kpsc_ph_122",
@@ -261,7 +261,7 @@ window.quizPart3 = [
       "D": "Span 20"
     },
     "answer": "B",
-    "explanation": "water on dissolving in it and hence protect the cells. Ethylene glycol, dimethyl sulfoxide (DMSO), Glycerol etc, are some commonly used cryoprotectants. These are sometimes known as \"antifreeze\" when applied outside the cryobiology."
+    "explanation": "Cryoprotectants shield freeze-dried or frozen biological products from ice crystal damage. Polyethylene glycol (PEG), glycerol, and sugars function regularly as protective cryoprotectant agents."
   },
   {
     "id": "kpsc_ph_123",
@@ -273,7 +273,7 @@ window.quizPart3 = [
       "D": "All of the above"
     },
     "answer": "A",
-    "explanation": "particles possessing a scaffolding like structure is seen in flocculated suspension. A flocculated suspension is a suspension in which particles have undergone flocculation. • Particles exist as loose aggregates. • Rate of sedimentation is high , • Sediment formed rapidly. • Consist of loosely packed particles possessing a scaffolding structure a hard dense cake does not form and the sedimentation can easily be redispersed. • Elegant preparation is obtained due to the uniform distribution of loosely bonded flocs."
+    "explanation": "Flocculated suspensions form loosely bound aggregates (flocs) that settle rapidly into a highly porous, scaffolding-like matrix. This open sediment structure entirely prevents the formation of a hard, un-dispersible cake."
   },
   {
     "id": "kpsc_ph_124",
@@ -285,7 +285,7 @@ window.quizPart3 = [
       "D": "Triethanolamine"
     },
     "answer": "B",
-    "explanation": "used as an antiperspirant. Aluminium chlorohydrate is a group of water - solube aluminium complexes with the general formula Alncl (3n - m) (OH)m. It is included up to 25% in over-the counter hygiene products as an active antiperspirant agent."
+    "explanation": "Aluminium chlorohydrate is an active astringent salt regularly incorporated into topical cosmetic anti-perspirants to temporarily occlude sweat pores and limit eccrine perspiration."
   },
   {
     "id": "kpsc_ph_125",
@@ -297,7 +297,7 @@ window.quizPart3 = [
       "D": "Sodium carboxymethyl cellulose"
     },
     "answer": "C",
-    "explanation": "Cetyl trimethyl ammonium bromide. Chemical formula - [(C16 H33)N(CH3)3]Br. It is a quaternary ammonium surfactant. It is also used to form a buffer solution that is able to extract DNA. Cetyl trimethyl Ammonium bromide is also being used in the preparation of gold nanoparticles which can be made into a number of shapes such as - spheres, rods and bipyramids."
+    "explanation": "Cetyl trimethyl ammonium bromide (Cetrimide) is a quaternary ammonium salt that dissociates to provide a positively charged hydrophilic head group, classifying it as a cationic surfactant."
   },
   {
     "id": "kpsc_ph_126",
@@ -309,7 +309,7 @@ window.quizPart3 = [
       "D": "Polyethylene glycols"
     },
     "answer": "A",
-    "explanation": "tablet is cellulose acetate phthalate. Methacrylate copolymers, hydroxypropyl methyl celluloe, acetate sucinates and cellulose acetate phthalate were used as enteric polymers. ================================================================================ PAGE : 112 ================================================================================ Pharmaceutics 112 YCT"
+    "explanation": "Cellulose Acetate Phthalate (CAP) is a classic enteric polymer containing phthallate ester groups that remain insoluble at low gastric pH but dissolve readily in intestinal fluids above pH 6.0."
   },
   {
     "id": "kpsc_ph_127",
@@ -321,19 +321,19 @@ window.quizPart3 = [
       "D": "Diluents"
     },
     "answer": "C",
-    "explanation": "hopper to die of the tablet machine is improved by the addition of Glidant's. Glidant's encourage the flow of tablet granulation by diminishing friction between particles. E.g.- Talc, Sodium chloride, Magnesium stearate, boric acid, starch and Calcium stearate etc."
+    "explanation": "Glidants (e.g., colloidal silicon dioxide, talc) improve formulation flowability by reducing interparticulate friction and surface roughness within the granule bed as it travels from the hopper to the die."
   },
   {
     "id": "kpsc_ph_128",
-    "question": "Which among the following capsule number represent the maximum capacity of the capsule?",
+    "question": "Which among the following capsule numbers represents the maximum capacity among the choices?",
     "options": {
       "A": "0",
       "B": "5",
       "C": "4",
-      "D": "0"
+      "D": "3"
     },
     "answer": "A",
-    "explanation": "density of the powder that we are filling the capsules with. \"000\" (triple zero) capsule is the largest sizes available. In cases where capsule sizes are indicated with \"0\" names, '000' are the largest, while '5' are smaller."
+    "explanation": "Capsule sizing runs inversely to the volume capacity: size 0 holds the largest volume among the options provided, while size 5 is the smallest standard human capsule size."
   },
   {
     "id": "kpsc_ph_129",
@@ -345,7 +345,7 @@ window.quizPart3 = [
       "D": "Glycerol"
     },
     "answer": "D",
-    "explanation": "For these purpose polyhydric alcohols, principally glycerol or sorbitol or mixture of these are used."
+    "explanation": "Glycerol (glycerin) and sorbitol are low-molecular-weight polyols utilized as plasticizers in hard and soft gelatin capsule shells to impart essential flexibility and elasticity."
   },
   {
     "id": "kpsc_ph_130",
@@ -357,7 +357,7 @@ window.quizPart3 = [
       "D": "Radiation sterilization"
     },
     "answer": "B",
-    "explanation": "surgical dressings moist heat sterilization. The application of moist heat in an autoclave is the best method of sterilizing dressing. In order to kill the most resistant pathogenic spores they must be exposed for at least 20 minutes to saturated steam at 121ºC or 250F."
+    "explanation": "Moist heat sterilization using saturated steam under high pressure in an autoclave (typically at 121°C for 20 minutes) is the preferred method for terminal sterilization of surgical dressings due to its deep penetration capabilities."
   },
   {
     "id": "kpsc_ph_131",
@@ -369,7 +369,7 @@ window.quizPart3 = [
       "D": "Sterilization using moist heat"
     },
     "answer": "A",
-    "explanation": "sterilization method is sterilizations using gases. Medical devices are sterilized in a variety of ways including using moist heat (steam), dry heat radiation, ethylene oxide gas, vaporized hydrogen peroxide (exemplas of chemical cold sterilization), and other sterilization methods Eg-chlorine dioxide gas, vaporized paracetic acid, & Nitrogen dioxide)."
+    "explanation": "Gaseous sterilization utilizing low-temperature reactive gases like Ethylene Oxide (EtO) or vaporized hydrogen peroxide is clinically termed a chemical cold sterilization process for heat-sensitive equipment."
   },
   {
     "id": "kpsc_ph_132",
@@ -381,7 +381,7 @@ window.quizPart3 = [
       "D": "0.65 ± 0.02 µm"
     },
     "answer": "B",
-    "explanation": "has the pore size of 0.22 ± 0.02 µm. Membrane filter (pore size, 0.22–0.45µm thickness 150 micron) passing - through activity of pseudomonas aeruginosa and other bacterial species with indigenous infiltration ability."
+    "explanation": "A membrane filter with a mean pore size rating of 0.22 micrometers is the regulatory and industrial standard for sterile filtration, as it successfully retains all common vegetative bacterial cells."
   },
   {
     "id": "kpsc_ph_133",
@@ -393,23 +393,23 @@ window.quizPart3 = [
       "D": "18 – 22%"
     },
     "answer": "A",
-    "explanation": "shell is ranged between 12 - 15%. When exposed to higher of lower humidity, capsules will equilibrate to the respective equilibrium moisture level. Stored between 35 - 65 % RH and 15-25ºC the LOD of hard gelatin capsules will remain within the optimal range of the gelatin capsules of 13-16% of moisture."
+    "explanation": "Finished hard gelatin capsule shells must maintain an optimum equilibrium moisture level spanning 12% to 15% (or 13% to 16% depending on pharmacopeia definitions). Falling below this range makes shells brittle, while exceeding it makes them soft and sticky."
   },
   {
     "id": "kpsc_ph_134",
     "question": "The unequal distribution of colour on the surface of the tablet is known as",
     "options": {
-      "A": "Orange-peel effect (b) Twinning",
-      "B": "",
+      "A": "Orange-peel effect",
+      "B": "Twinning",
       "C": "Bloom",
       "D": "Mottling"
     },
     "answer": "D",
-    "explanation": "surface of the tablet is known as Mottling. Mottling :- Mottling is the term used to describe and unequal distribution of colour on a tablet, with light or dark spot standing out in an other wise uniform surface. This type of tablet defect occurs in tablet formulation with a dry colouring agent. Simply, mottling is a tablet defect where dark and light patches on the tablet surface occurs."
+    "explanation": "Mottling describes an objectionable formulation defect where light and dark patches stand out in an otherwise uniform color profile on a compressed tablet surface."
   },
   {
     "id": "kpsc_ph_135",
-    "question": "One fluid ounze volume is equal to",
+    "question": "One fluid ounce volume is equal to approximately",
     "options": {
       "A": "45 ml",
       "B": "60 ml",
@@ -417,11 +417,11 @@ window.quizPart3 = [
       "D": "30 ml"
     },
     "answer": "D",
-    "explanation": "Fluid ounce is used to measure volume of a fluid (liquid)."
+    "explanation": "In the apothecaries' and imperial systems of measurement, one fluid ounce is regularly approximated as equivalent to 30 ml (more precisely 29.57 ml in US customary volume)."
   },
   {
     "id": "kpsc_ph_136",
-    "question": "Boiling water is poured over the drug and allowing to keep in contact with the drug for 15 minutes with occasional stirring and finally filtered off without pressing the marc, This process is known as",
+    "question": "Boiling water is poured over the drug and allowing to keep in contact with the drug for 15 minutes with occasional stirring and finally filtered off without pressing the marc. This process is known as",
     "options": {
       "A": "Maceration",
       "B": "Infusion",
@@ -429,7 +429,7 @@ window.quizPart3 = [
       "D": "Decoction"
     },
     "answer": "B",
-    "explanation": "Ducoction, Digestion, maceration, Percolation, Continues, hot extraction, Super ritical, fluid extraction, countrcurrent counter current extraction. Infusion - It consists of pouring water over the drugs and than allowing it to keep in contact with water occasional stirring and finally filtering of the liquid. • The mare is not pressed. • The boiling water is commonly used as a solvent since it has a greater solvent action than cold water."
+    "explanation": "Infusion is a crude drug extraction method where boiling solvent is poured over vegetable matter, allowed to stand briefly without continuous boiling, and strained off without forcefully pressing the spent marc residue."
   },
   {
     "id": "kpsc_ph_137",
@@ -441,11 +441,11 @@ window.quizPart3 = [
       "D": "Cyclone separator"
     },
     "answer": "C",
-    "explanation": "techniques that use hot water vapors as a sterilization."
+    "explanation": "An autoclave utilizes saturated high-pressure steam as its sterilization medium, serving as the definitive primary equipment for thermal moist heat sterilization."
   },
   {
     "id": "kpsc_ph_138",
-    "question": "The most important influence of temperature on emulsion stability",
+    "question": "The most important influence of temperature on emulsion stability involves",
     "options": {
       "A": "Creaming",
       "B": "Caking",
@@ -453,11 +453,11 @@ window.quizPart3 = [
       "D": "Phase inversion"
     },
     "answer": "D",
-    "explanation": "which initially homogeneous polymer solution is transformed from a liquid state to solid state in a controlled manner. This method is the most commonly used and it helps to fabricate polymeric porous membrane with a large form of structure. ================================================================================ PAGE : 142 ================================================================================ Pharmaceutics 142 YCT"
+    "explanation": "Temperature alterations intensely influence the HLB of non-ionic surfactants. Reaching the Phase Inversion Temperature (PIT) triggers an immediate reversal from an o/w emulsion to a w/o emulsion (or vice versa)."
   },
   {
     "id": "kpsc_ph_139",
-    "question": "Which of the following uses the violent turbulence of the air and steam to reduce the particle size by inter particular attrition?",
+    "question": "Which of the following uses the violent turbulence of the air and steam to reduce the particle size by interparticulate attrition?",
     "options": {
       "A": "Cutting mill",
       "B": "Fluid energy mill",
@@ -465,11 +465,11 @@ window.quizPart3 = [
       "D": "Colloid mill"
     },
     "answer": "B",
-    "explanation": "only on collisions in a stream of particles entrained in a high - velocity fluid typically air or stream to effect breakage. In the pancake type the peripheral jets into a feat cylindrical chamber at extremely high velocity."
+    "explanation": "Fluid energy mills (jet mills) suspend solid particles in high-velocity air or steam streams, driving high-impact interparticulate attrition and collisions to mill materials into micronized ranges."
   },
   {
     "id": "kpsc_ph_140",
-    "question": "The breakdown of tablet into smaller articles or granules in known as",
+    "question": "The breakdown of a tablet into smaller particles or granules is known as",
     "options": {
       "A": "Disintegration",
       "B": "Crushing",
@@ -477,7 +477,7 @@ window.quizPart3 = [
       "D": "Granulation"
     },
     "answer": "A",
-    "explanation": "a compressed tablet into small granules upon ingestion and Therefore, it is characterized by the breakdown of the interparticulate bonds, which were forged during the compaction of the tablet."
+    "explanation": "Disintegration defines the physical mechanical breakdown of a compressed solid dosage form into small component fragments or granules when exposed to liquid media. Dissolution follows as molecules dissolve."
   },
   {
     "id": "kpsc_ph_141",
@@ -489,19 +489,19 @@ window.quizPart3 = [
       "D": "Purchasing power"
     },
     "answer": "B",
-    "explanation": "whether patients take their medication as prescribed medication, medication adherence behavior has thus, been divide into main concepts namely adherence and persistence."
+    "explanation": "Medication adherence measures the alignment between a patient's actual operational drug administration habits and the therapeutic plans formally mapped out by their medical provider."
   },
   {
     "id": "kpsc_ph_142",
     "question": "Convenient dosage form to deliver pellets or granular material orally",
     "options": {
-      "A": "Hard gelatin capsule (b) Soft gelatin capsule",
-      "B": "",
+      "A": "Hard gelatin capsule",
+      "B": "Soft gelatin capsule",
       "C": "Layered tablets",
       "D": "Compressed tablets"
     },
     "answer": "A",
-    "explanation": "is usually used to contain medicine in the form of dry powder are very small pellets. Oral medications include tablets and hard gelatin capsules that are filled with powders, granules or tiny pellets."
+    "explanation": "Hard gelatin capsules are structurally ideal for encapsulating solid particulates, dry powders, multi-particulate modified-release granules, or small pellets within a split shell matrix."
   },
   {
     "id": "kpsc_ph_143",
@@ -513,7 +513,7 @@ window.quizPart3 = [
       "D": "Lotion"
     },
     "answer": "A",
-    "explanation": "first lubricates the boweles to help stool pass quickly. The second is a retention enema, which stays in the body for longer. A retention enema is usually oil- based and it soake the stool to case its passage from the body."
+    "explanation": "Retention enemas are liquid formulations introduced rectally that are explicitly designed to be held internally for extended periods to deliver targeted local therapy or systemic drug absorption."
   },
   {
     "id": "kpsc_ph_144",
@@ -525,11 +525,11 @@ window.quizPart3 = [
       "D": "Jellies"
     },
     "answer": "B",
-    "explanation": "form contains high concentrations of insoluble powder substance dispersed in the suitable base. The paste are usually less greasy more absorptive's stiffer than ointments They have good adhesion on skin is they do not melt at ordinary temperature. • They do not interfere with the non-infected arecas of the."
+    "explanation": "Pastes are characterized by containing a high concentration (often 20% to 50% or more) of finely divided insoluble powders uniformly dispersed in a fat or hydrocarbon base, rendering them stiffer than standard ointments."
   },
   {
     "id": "kpsc_ph_145",
-    "question": "Metal cylinders filled with nitrous oxide for hospital use in painted in",
+    "question": "Metal cylinders filled with nitrous oxide for hospital use are painted in",
     "options": {
       "A": "Blue",
       "B": "Grey",
@@ -537,7 +537,7 @@ window.quizPart3 = [
       "D": "Black"
     },
     "answer": "A",
-    "explanation": "medical nitrous oxide cylinder is blue. Name of the gas cylinder Colour coding Valva threads carbon dioxide Black Right Oxygen Maroon Lift hand Coal Red/with name coal gas Left hand Hydrogen Red Left hand Air grey Right hand"
+    "explanation": "Under international medical gas standards, cylinders designated for Nitrous Oxide ($N_2O$) are universally color-coded in French Blue."
   },
   {
     "id": "kpsc_ph_146",
@@ -549,11 +549,11 @@ window.quizPart3 = [
       "D": "Mercurochrome solution"
     },
     "answer": "B",
-    "explanation": "management and in the management of different type of wound. It is used to disinfect wounds, assist in the removal of slough to promote the healing of pressure sores and leg ulcers."
+    "explanation": "EUSOL (Edinburgh University Solution of Lime) is a chlorinated antiseptic solution containing boric acid and chlorinated lime. It yields active hypochlorous acid to clean, debride, and treat pyogenic wound environments."
   },
   {
     "id": "kpsc_ph_147",
-    "question": "Water purified by distillation or reverse osmosis and meets the specifications for purity as per IP Which is free pyrogens and not intended to be sterile is",
+    "question": "Water purified by distillation or reverse osmosis and meets the specifications for purity as per IP which is free from pyrogens and not intended to be sterile is",
     "options": {
       "A": "Purified water",
       "B": "Sterile water for injection",
@@ -561,23 +561,23 @@ window.quizPart3 = [
       "D": "Water for injection"
     },
     "answer": "D",
-    "explanation": "exchange. reverse osmosis a combination of the two treatment processes. Purified water is intended for use as an ingredient in the preparation of compedial dosage forms. It contains no added substances and is not intended for use in parentaral products."
+    "explanation": "Water for Injection (WFI) is highly purified water free from pyrogen endotoxins, prepared as a bulk liquid intended for use during injection manufacture, but it is not terminally sterilized until final processing."
   },
   {
     "id": "kpsc_ph_148",
-    "question": "Irritant drugs are not given by ================================================================================ PAGE : 143 ================================================================================ Pharmaceutics 143 YCT",
+    "question": "Irritant drugs are not given",
     "options": {
       "A": "Intramuscularly",
       "B": "Topically",
       "C": "Subcutaneously",
-      "D": "Intravenously"
+      "D": "Intavenously"
     },
     "answer": "C",
-    "explanation": "As they are painful and may cause tissue necrosis. Hypodermolysis is a form of subcutaneous injection that permits the slow administration of large amounts (500-1000 ml in aduets) of fluid such as isotonic saline or glucose solution."
+    "explanation": "Highly irritant chemical agents cannot be administered via the subcutaneous (hypodermic) pathway. The restricted vascularization and tissue structure mean irritants cause severe pain, inflammation, and localized sterile abscesses or tissue necrosis."
   },
   {
     "id": "kpsc_ph_149",
-    "question": "Along with benzoic acid whitfield's ointment contains",
+    "question": "Along with benzoic acid, Whitfield's ointment contains",
     "options": {
       "A": "6% salicylic acid",
       "B": "2% salicylic acid",
@@ -585,11 +585,11 @@ window.quizPart3 = [
       "D": "3% salicylic acid"
     },
     "answer": "D",
-    "explanation": "infections of skin, Acne skin, redness skin, disasis blemishes dandruff calluses and corns another conditions. Whitfield ointment may also used for purposes not listed in this medication guide. Whitfield ointment contains Benzoic and salicylic Acid as active ingredients,"
+    "explanation": "Classic USP Whitfield's Ointment blends benzoic acid ($6\%\,\text{w/v}$) with salicylic acid ($3\%\,\text{w/v}$) in a suitable greasy base to coordinate antifungal action with localized keratolytic breakdown."
   },
   {
     "id": "kpsc_ph_150",
-    "question": "According to Indian Pharmacopoeia the statement of sparingly soluble at 20° to 30° means approximate volume of solvent in ml per gm of solute is",
+    "question": "According to the Indian Pharmacopoeia, the statement 'sparingly soluble' at 20°C to 30°C means the approximate volume of solvent in ml per gram of solute is",
     "options": {
       "A": "From 1 to 10",
       "B": "From 30 to 100",
@@ -597,6 +597,6 @@ window.quizPart3 = [
       "D": "From 100 to 1000"
     },
     "answer": "B",
-    "explanation": "statement of sparingly soluble at 20° to 30° means approximate volume of solvent in ml per gm of solvent is from 30 to 100. ⇒ Very soluble Less than 1 ⇒ Eruly soluble From 1 to 10 ⇒ Soluble From 10 to 30 ⇒ Sparingly soluble From 30 to 100 ⇒ Slightly soluble From 100 to 1000 ⇒ Very slight soluble From 1000 to 10,000"
+    "explanation": "Pharmacopeial solubility classifications are mathematically standardized by solvent parts per 1 part of solute: Very soluble (<1), Freely soluble (1-10), Soluble (10-30), Sparingly soluble (30-100), Slightly soluble (100-1000), and Very slightly soluble (1000-10,000)."
   }
 ];
